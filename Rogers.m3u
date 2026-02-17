@@ -612,14 +612,6 @@ https://b406660425ae4c31b6f3d40359f2d4eb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://lg-epg.muxip.com/channels/images/389/logo.png"group-title="SPORT"  ,Cricket Gold
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cricketgold&channel_id=newid_rt046&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ea9db019-877db0d2-dbe6aa3d-95154e1d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-name="Willow Sports" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/679e1dc3-2d4b-4a06-ad87-9c9cbaf8a53b" group-title="SPORT",Willow Sports
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8?channel_name=Willow%20TV&content_genre=Sport%2CCricket&ic=IAB17%2CIAB17-9&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-
-#EXTINF:-1 tvg-name="Cricket Gold" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba" group-title="SPORT",Cricket Gold
-https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8?ads.channel_name=Cricket%20Gold&ads.content_genre=Sport%2CCricket&ads.ic=IAB17%2CIAB17-9&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.user_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.url=watch.freelivesports.tv&ads.lmt=[LAT]&ads.did=[DEVICE_ID]
-
-
 
 #################      ADVENTURE               ###############
 
@@ -640,14 +632,6 @@ https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png",743 Red Bull TV
 https://c0d3aaa7b7cd4dcfbb34b76967e1615a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-LG_AU/680/lgtv/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/620d3c58-d579-4c82-8c51-9152804ced0e" group-title="SPORT",Red Bull TV
-https://b8bba85e8540473e97af52b05a3c9d9a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORB-US-EN-FAST-FREELIVESPORTS/644/freelivesports/hls/master/playlist.m3u8?ads.channel_name=Red%20Bull%20TV&ads.content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ads.iab_category=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
-
-#EXTINF:-1 tvg-name="Red Bull TV (UK / IE)" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/37de7fc3-174e-4113-bcda-4650d31d97de" group-title="SPORT",Red Bull TV (UK / IE)
-https://badbd0085e4940cfa48fdbb1226e7cbc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORB-UK-EN-FAST-FREELIVESPORTS/932/freelivesports/hls/master/playlist.m3u8?ads.channel_name=Red%20Bull%20TV%20UK%20IE&ads.content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ads.iab_category=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.language=en&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
-
-
 
 
 #EXTINF:-1 tvg-id="fueltv_en-au-nz" tvg-logo="" group-title="SPORT",FUEL TV
@@ -2993,6 +2977,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
