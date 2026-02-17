@@ -538,9 +538,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgau/playl
 #EXTINF:-1 tvg-id="driveplusspeed" tvg-logo="" group-title="SPORT",Drive+Speed
 https://streams2.sofast.tv/ptnr-whaletv/title-DRIVE__SPEED_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5fb01b97-b2e9-4f0b-9c4b-762ef8829014/manifest.m3u8?ads.tag_id=148549&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Drive%2BSpeed&ads.wtv_channel_id=0543&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_DrivePlusSpeed&ads.content_categories=IAB19-29%2CIAB17%2CIAB2-15&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=F%2CM&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
 
-#EXTINF:-1 tvg-id="nhratv" tvg-logo="" group-title="SPORT",NHRA TV
+#EXTINF:-1 tvg-name="NHRA" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50" group-title="SPORT",NHRA
 https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=whaletv&tag_id=106131
 
+#EXTINF:-1 tvg-name="NHRA" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50" group-title="SPORT",NHRA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010&avod=1&content_dist_name=freelivesports&content_channel=NHRA&channel_name=NHRA&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="FloRacing" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2" group-title="SPORT" ,FloRacing
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8?channel_name=FloRacing&content_genre=Motor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
@@ -562,11 +564,9 @@ https://amg00585-amg00585c17-freelivesports-emea-6712.playouts.now.amagi.tv/play
 #EXTINF:-1 tvg-name="Powersports World" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3" group-title="SPORT",Powersports World
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15480&avod=1&avod=1&content_dist_name=freelivesports&content_channel=Powersports%20World&channel_name=Powersports%20World&content_genre=Motor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="NHRA" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50" group-title="SPORT",NHRA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010&avod=1&content_dist_name=freelivesports&content_channel=NHRA&channel_name=NHRA&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-id="powersportsworld" tvg-logo="" group-title="SPORT",PowerSports World
-https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=2801&partner=whaletv&tag_id=124333
+
+
 
 
 #EXTINF:-1 tvg-name="RPM Motorsport" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/e1c40b46-8899-42be-9505-27431f558a9b" group-title="SPORT",RPM Motorsport
@@ -575,8 +575,7 @@ https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-name="Motorvision" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a" group-title="SPORT",Motorvision
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&content_dist_name=freelivesports&content_channel=Motorvision&channel_name=Motorvision&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="SPEED SPORT 1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/05964ce9-8c53-4c26-859f-24154a22f4e2" group-title="SPORT",SPEED SPORT 1
-https://b08b96aab13548d7a31454633b71231a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-599-SPEEDSPORT1-SPORTSTRIBALTV/mt/sportstribaltv/599/hls/master/playlist.m3u8?ads.channel_name=Speed%20Sport%201&ads.content_genre=Sailing%2CSport&ads.iab_category=IAB17%2CIAB17-31&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
+
 
 #######     FISHING    ##########
 
@@ -3001,6 +3000,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
