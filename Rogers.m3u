@@ -640,19 +640,9 @@ https://amg01074-fueltv-amg01074c12-rlaxx-us-6438.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-name="HorizonSports" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af78b66f-4130-413f-870f-dc98f6ed2888" group-title="SPORT",HorizonSports
 https://amg00585-amg00585c16-freelivesports-emea-6711.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horizonsports-freelivesportsemea/playlist.m3u8?channel_name=HorizonSports&content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="Extreme" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/8a748dea-6bcb-4c97-8854-c659850bad99" group-title="SPORT",Extreme
-https://d1j5f4s4o1u3r4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ExtremePlus-Dooya-SportsTribal/276.m3u8?ads.channel_name=Extreme%20Plus&ads.content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ads.ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&ads.rating=PG-13&ads.language=US&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.user_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.url=watch.freelivesports.tv&ads.lmt=[LAT]&ads.did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="Adventure Zone Sports Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="SPORT",Adventure Zone Sports Network
 https://onestudio.telos.indicue.com/stream.m3u8?m=aHR0cHM6Ly9hZHZlbnR1cmV6b25lbGl2ZS5iLWNkbi5uZXQvc3RyZWFtcy9hZHZlbnR1cmUtem9uZS1nbG9iYWwvcGxheWxpc3QubTN1OA==&aid=3827&channel_name=Adventure%20Zone%20Sports%20Network&content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&isNoSlate=true&adInterval=420&adDuration=150&preroll=0&site_full_url=https%3A%2F%2Fwatch.freelivesports.tv&ua=[UA]&uip=[IP]&device_model=[DEVICE_MODEL]&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&language=en&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-#EXTINF:-1 tvg-name="Swerve Sports" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/13f51b8a-41fe-4296-a887-e28289c90a6c" group-title="SPORT",Swerve Sports
-https://linear-1013.frequency.stream/dist/freelivesports/1013/hls/master/playlist.m3u8?ads.channel_name=Swerve%20Sports&ads.content_genre=Sport&ads.iab_category=IAB17&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.language=en&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
-
-#EXTINF:-1 tvg-name="DFB Play" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8" group-title="SPORT",DFB Play
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15795&avod=1&content_dist_name=freelivesports&content_channel=DFB%20Play&channel_name=DFB%20Play&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=PG&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-
 
 
 ############    NFL, BBL, NBL         ##################
@@ -2977,6 +2967,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
