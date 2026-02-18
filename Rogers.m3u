@@ -1425,6 +1425,29 @@ https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scrip
 ###################################
 ###################################
 
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="SITCOM",A&E 
+https://tvpass.org/live/AEEast/hd
+
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="SITCOM",TBS
+https://tvpass.org/live/TBSEast/hd
+
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="SITCOM",TV Land
+https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="SITCOM",TV One
+https://tvpass.org/live/TVOne/hd
+
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="SITCOM",VH1
+https://tvpass.org/live/VH1East/hd
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="SITCOM",Comedy Central
+https://tvpass.org/live/ComedyCentralEast/hd
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="SITCOM",Bravo USA
+https://tvpass.org/live/BravoEast/hd
+
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="SITCOM",MoreMax
+https://tvpass.org/live/MoreMaxEast/hd
 
 #EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="SITCOM" , Seinfeld
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -1442,7 +1465,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==" group-title="SITCOM",Anger Management
 https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
 
-
 #EXTINF:-1, group-title="SITCOM" , Happy Days
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d
 
@@ -1454,14 +1476,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/TheConners/LG_The_Conners_800X200.png" group-title="SITCOM" ,The Conners
 https://amg00353-amg00353c36-lg-us-6064.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-theconners-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-
-
-
-
-
-#EXTINF:-1, group-title="SITCOM" , YYYY
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
 
 #EXTINF:-1, group-title="SITCOM" ,Addams Family
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
@@ -1805,6 +1819,49 @@ https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 ######################################
 ######################################
 
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="KIDS",Nick Jr
+https://tvpass.org/live/NickJrEast/hd
+
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="KIDS",Nickelodeon USA
+https://tvpass.org/live/NickelodeonEast/hd
+
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="KIDS",Nicktoons East
+https://tvpass.org/live/NicktoonsEast/hd
+
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="KIDS",TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/hd
+
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="KIDS",Boomerang
+https://tvpass.org/live/Boomerang/hd
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="KIDS",Cartoon Network USA
+https://tvpass.org/live/CartoonNetworkEast/hd
+
+
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="KIDS",Disney
+https://tvpass.org/live/DisneyChannelEast/hd
+
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="KIDS",Disney Junior USA
+https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="KIDS",Disney XD USA
+https://tvpass.org/live/DisneyXDEast/hd
+
+
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="KIDS",MeTV Toons
+https://tvpass.org/live/metv-toons/hd
+
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="KIDS",MeTV Wjlp
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
+
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" group-title="KIDS",Universal Kids
+https://tvpass.org/live/UniversalKidsEast/hd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEAN/MrBEAN_800x200.png" group-title="KIDS",Mr.Bean
 https://amg00627-banijay-amg00627c28-lg-au-4931.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
@@ -1856,6 +1913,49 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 ##########      DOCUMENTARY     ##############
 ##############################################
 ############################################3
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="DOCO",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/hd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="DOCO",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/hd
+
+
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="DOCO",Animal Planet US East
+https://tvpass.org/live/AnimalPlanetEast/hd
+
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="DOCO",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/hd
+
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="DOCO",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/hd
+
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="DOCO",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/hd
+
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="DOCO",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/hd
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="DOCO",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/hd
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="DOCO",HLN
+https://tvpass.org/live/HLN/hd
+
+
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="DOCO",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="DOCO",Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/hd
+
+
+#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="DOCO",Science
+https://tvpass.org/live/Science/hd
+
+
 
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/blueant/nature_time_text_white_transparent_400x200.png"  group-title="DOCUMENTARY",Nature Time
@@ -2472,6 +2572,12 @@ https://amg00136-wbd-amg00136c28-lg-us-1932.playouts.now.amagi.tv/playlist/amg00
 ##################################
 ###################################
 
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="COOKING",The Cooking Channel
+https://tvpass.org/live/CookingChannel/hd
+
+
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="COOKING",Food Network USA Eastern Feed
+https://tvpass.org/live/FoodNetworkEast/hd
 
 
 
@@ -2566,7 +2672,13 @@ https://amg00497-amg00497c18-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 
+############################
+#############################
 ###      MOVIES   ############
+#############################
+#############################
+
+
 
 #EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="MOVIES",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/hd
@@ -2636,11 +2748,6 @@ https://tvpass.org/live/CinemaxEast/hd
 
 #EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="MOVIES",MovieMax
 https://tvpass.org/live/MovieMaxEast/hd
-
-
-
-
-
 
 #EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="MOVIES" , All-Star Cinema
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -2728,9 +2835,15 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1
 
 
 
-
-
+###################################
+####################################
 #######     DOCUMENTARY      ########
+####################################
+####################################
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png" group-title="DOCO" ,5 Minutes Craft
 https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
@@ -2879,6 +2992,18 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 ##############################
 ##############################
 
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="MUSIC",MTV USA
+https://tvpass.org/live/MTVEast/hd
+
+
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="MUSIC",MTV 2 East
+https://tvpass.org/live/mtv-2-east/hd
+
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="MUSIC",CMT US
+https://tvpass.org/live/CMTEast/hd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MUSIC" ,NOW70S
 https://amg01076-lightning-amg01076c1-lg-au-7320.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
@@ -2972,6 +3097,60 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 ######     NEWS      ########
 #############################
 ############################
+
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="NEWS",CNN US
+https://tvpass.org/live/CNN/hd
+
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="NEWS",CBS (KCBS) Los Angeles
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="NEWS",CBS (WCBS) New York, NY
+https://tvpass.org/live/WCBSDT1/hd
+
+#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="NEWS",Fox News
+https://tvpass.org/live/FoxNewsChannel/hd
+
+
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles" group-title="NEWS",FOX (KTTV) Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" group-title="NEWS",FOX (WNYW) New York, NY
+https://tvpass.org/live/WNYWDT1/hd
+
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" group-title="NEWS",Fox Business
+https://tvpass.org/live/FoxBusiness/hd
+
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="NEWS",CNBC USA
+https://tvpass.org/live/CNBC/hd
+
+
+
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="NEWS",NBC (KNBC) Los Angeles
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" group-title="NEWS",NBC (WNBC) New York, NY
+https://tvpass.org/live/WNBCDT1/hd
+
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="NEWS",ABC (KABC) Los Angeles
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
+
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" group-title="NEWS",ABC (WABC) New York, NY
+https://tvpass.org/live/WABCDT1/hd
+
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="NEWS",BBC America East
+https://tvpass.org/live/BBCAmericaEast/hd
+
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="NEWS",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
+
+
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" group-title="NEWS",Big Ten Network
+https://tvpass.org/live/BTN/hd
+
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="NEWS",Bloomberg TV USA
+https://tvpass.org/live/BloombergTV/hd
+
 
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/Sky_News/SNN800x200px.png" group-title=NEWS , Sky News Now
