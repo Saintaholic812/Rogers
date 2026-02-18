@@ -1925,6 +1925,30 @@ https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8?ad
 #######################################
 #######################################
 
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="REALITY",A&E US Eastern Feed
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="REALITY",TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="REALITY",Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="REALITY",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="REALITY",E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="REALITY",Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="REALITY",BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="REALITY",BET Her
+https://tvpass.org/live/BETHerEast/sd
+
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1967-LG-Logo-PNG-100x100_v6.png"group-title="REALITY" ,Storage Wars by A&E
 https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_networks_storagewarsbyae_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1967&wurl_name=StorageWars&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
@@ -3060,6 +3084,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
