@@ -621,99 +621,22 @@ https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
 #EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="SPORT",Fanduel Sports Network Florida
 https://tvpass.org/live/fanduel-sports-network-florida/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes" tvg-name="Fanduel Sports Network Great Lakes" group-title="SPORT",Fanduel Sports Network Great Lakes
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-north" tvg-name="Fanduel Sports Network North" group-title="SPORT",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland" tvg-name="Fanduel Sports Network Ohio Cleveland" group-title="SPORT",Fanduel Sports Network Ohio Cleveland
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma" tvg-name="Fanduel Sports Network Oklahoma" group-title="SPORT",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego" tvg-name="Fanduel Sports Network San Diego" group-title="SPORT",Fanduel Sports Network San Diego
-https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-socal" tvg-name="Fanduel Sports Network Socal" group-title="SPORT",Fanduel Sports Network Socal
-https://tvpass.org/live/fanduel-sports-network-socal/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas" tvg-name="Fanduel Sports Network South Carolinas" group-title="SPORT",Fanduel Sports Network South Carolinas
-https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa" tvg-name="Fanduel Sports Network South Tennessee" group-title="SPORT",Fanduel Sports Network South Tennessee
-https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
 
 #EXTINF:-1 tvg-id="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West" group-title="SPORT",Fanduel Sports Network West
 https://tvpass.org/live/fanduel-sports-network-west/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin" tvg-name="Fanduel Sports Network Wisconsin" group-title="SPORT",Fanduel Sports Network Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
 
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia" tvg-name="Fanduel Sports Southeast Georgia" group-title="SPORT",Fanduel Sports Southeast Georgia
-https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina" tvg-name="Fanduel Sports Southeast North Carolina" group-title="SPORT",Fanduel Sports Southeast North Carolina
-https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina" tvg-name="Fanduel Sports Southeast South Carolina" group-title="SPORT",Fanduel Sports Southeast South Carolina
-https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-
-#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville" tvg-name="Fanduel Sports Southeast Tennessee Nashville" group-title="SPORT",Fanduel Sports Southeast Tennessee Nashville
-https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
 
 
 
 #EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="SPORT",The Tennis Channel
-https://tvpass.org/live/TennisChannel/sd
-
-
-
-
-#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="SPORT",Motor Trend HD
-https://tvpass.org/live/Motortrend/sd
-
-
-#EXTINF:-1 tvg-id="sportsnet-360" tvg-name="Sportsnet 360" group-title="SPORT",Sportsnet 360
-https://tvpass.org/live/sportsnet-360/sd
-
-#EXTINF:-1 tvg-id="sportsnet-one" tvg-name="Sportsnet One" group-title="SPORT",Sportsnet One
-https://tvpass.org/live/sportsnet-one/sd
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORT",Motorvision.TV (Australia) Geo
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/otteraAAA-motorvision-samsungau/playlist.m3u8
-
+https://tvpass.org/live/TennisChannel/
 
 
 #EXTINF:-1 group-title="SPORT",Bein Sports Xtra (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3137,6 +3060,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
