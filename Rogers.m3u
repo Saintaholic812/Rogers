@@ -564,8 +564,6 @@ https://tvpass.org/live/MLBNetwork/hd
 https://tvpass.org/live/NBATV/hd
 
 
-#EXTINF:-1 tvg-id="golf-channel-usa" tvg-name="Golf Channel USA"  group-title="SPORT",Golf Channel USA
-https://tvpass.org/live/GolfChannel/hd
 
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network"  group-title="SPORT",Yes Network
 https://tvpass.org/live/yes-network/hd
@@ -621,9 +619,6 @@ https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
 #EXTINF:-1 tvg-id="fanduel-sports-network-florida" tvg-name="Fanduel Sports Network Florida" group-title="SPORT",Fanduel Sports Network Florida
 https://tvpass.org/live/fanduel-sports-network-florida/hd
 
-
-#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="SPORT",The Tennis Channel
-https://tvpass.org/live/TennisChannel/hd
 
 
 #EXTINF:-1 group-title="SPORT",Bein Sports Xtra (Australia)
@@ -869,6 +864,8 @@ https://i.mjh.nz/.r/livgolfreplays-fast.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993009/600x200.png?type=white_cropped" group-title="SPORT",GOLFPASS
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993009/hls/master.m3u8?ads.xumo_channelId=99993009&ads.xumo_streamId=99993009&ads.channelId=99993009&ads.asnw=535279&ads.afid=440667964&ads.sfid=23817285&ads.csid=lgchannels_us_versantgolfpass_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=TV-14&ads.xumo_contentId=4292&ads.xumo_contentName=VersantGOLFPASS&ads.xumo_providerId=4292&ads.xumo_providerName=VersantGOLFPASS&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]
 
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993009/600x200.png?type=white_cropped" group-title="SPORT",Golf Channel USA
+https://tvpass.org/live/GolfChannel/hd
 
 
 ##############    TENNIS       ###############
@@ -881,6 +878,9 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playl
 #EXTINF:-1 tvg-name="My Padel TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1a25cdbc-b1bc-4974-ab62-8a7cd4a4b505" group-title="SPORT",My Padel TV
 https://daiconnect.com/live/hls/tvup/sportsstudios-mypadeltv/.m3u8?channel_name=My%20Padel%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&language=es&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]&domain=watch.freelivesports.tv
 
+
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="SPORT",The Tennis Channel
+https://tvpass.org/live/TennisChannel/hd
 
 
 
