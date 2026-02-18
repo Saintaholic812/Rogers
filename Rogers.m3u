@@ -518,18 +518,18 @@ https://i.mjh.nz/.r/7afl-fast.m3u8
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 
 
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" group-title="SPORT",Fox Sports 1
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 1
 https://tvpass.org/live/FoxSports1/hd
 
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" group-title="SPORT",Fox Sports 2
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 
 
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="SPORT",NFL Network
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",NFL Network
 https://tvpass.org/live/NFLNetwork/hd
 
 
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="SPORT",NFL RedZone
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",NFL RedZone
 https://tvpass.org/live/NFLRedZone/hd
 
 
@@ -754,11 +754,11 @@ https://onestudio.telos.indicue.com/stream.m3u8?m=aHR0cHM6Ly9hZHZlbnR1cmV6b25lbG
 ############    NFL, BBL, NBL         ##################
 
 
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="SPORT",NFL Network
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",NFL Network
 https://tvpass.org/live/NFLNetwork/sd
 
 
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="SPORT",NFL RedZone
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",NFL RedZone
 https://tvpass.org/live/NFLRedZone/sd
 
 
