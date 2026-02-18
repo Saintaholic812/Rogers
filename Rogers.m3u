@@ -759,11 +759,11 @@ https://onestudio.telos.indicue.com/stream.m3u8?m=aHR0cHM6Ly9hZHZlbnR1cmV6b25lbG
 ############    NFL, BBL, NBL         ##################
 
 
-#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="Live",NFL Network
+#EXTINF:-1 tvg-id="nfl-network" tvg-name="NFL Network" group-title="SPORT",NFL Network
 https://tvpass.org/live/NFLNetwork/sd
 
 
-#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="Live",NFL RedZone
+#EXTINF:-1 tvg-id="nfl-redzone" tvg-name="NFL RedZone" group-title="SPORT",NFL RedZone
 https://tvpass.org/live/NFLRedZone/sd
 
 
