@@ -538,49 +538,49 @@ https://tvpass.org/live/NHLNetwork/hd
 
 
 
-#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News" group-title="SPORT",ESPN News
+#EXTINF:-1 tvg-id="espn-news""tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/espnews.png" tvg-name="ESPN News" group-title="SPORT",ESPN News
 https://tvpass.org/live/ESPNews/sd
 
 
 
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" group-title="SPORT",ESPN
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/espn.png" group-title="SPORT",ESPN
 https://tvpass.org/live/ESPN/hd
 
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" group-title="SPORT",ESPN2
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/espn2.png" group-title="SPORT",ESPN2
 https://tvpass.org/live/ESPN2/hd
 
 
 #EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" group-title="SPORT",ESPN Deportes
 https://tvpass.org/live/espn-deportes/hd
 
-#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U"  group-title="SPORT",ESPN U
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/espnu.png" group-title="SPORT",ESPN U
 https://tvpass.org/live/ESPNU/hd
 
-#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" group-title="SPORT",MLB Network
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/mlb.png" group-title="SPORT",MLB Network
 https://tvpass.org/live/MLBNetwork/hd
 
 
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA"  group-title="SPORT",NBA TV USA
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/nba.png" group-title="SPORT",NBA TV USA
 https://tvpass.org/live/NBATV/hd
 
 
 
-#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network"  group-title="SPORT",Yes Network
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/yes.png" group-title="SPORT",Yes Network
 https://tvpass.org/live/yes-network/hd
 
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" group-title="SPORT",TSN1 PPV
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/tvn.png" group-title="SPORT",TSN1 PPV
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" group-title="SPORT",TSN2 PPV
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/tvn.png" group-title="SPORT",TSN2 PPV
 https://tvpass.org/live/tsn2/hd
 
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" group-title="SPORT",TSN3 PPV
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/tvn.png" group-title="SPORT",TSN3 PPV
 https://tvpass.org/live/tsn3/hd
 
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" group-title="SPORT",TSN4 PPV
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/tvn.png" group-title="SPORT",TSN4 PPV
 https://tvpass.org/live/tsn4/hd
 
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" group-title="SPORT",TSN5 PPV
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/images/tvn.png" group-title="SPORT",TSN5 PPV
 https://tvpass.org/live/tsn5/hd
 
 #EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="SPORT",MSG Madison Square Gardens
