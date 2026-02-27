@@ -571,19 +571,19 @@ https://tvpass.org/live/NBATV/hd
 #EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/yes.png" group-title="SPORT",Yes Network
 https://tvpass.org/live/yes-network/hd
 
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn-Logo-PNG-100x100_v1.png" group-title="SPORT",TSN1 PPV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn-Logo-PNG-100x100_v1.png" group-title="SPORT",TSN2 PPV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn-Logo-PNG-100x100_v1.png" group-title="SPORT",TSN2 PPV
 https://tvpass.org/live/tsn2/hd
 
-#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn.png" group-title="SPORT",TSN3 PPV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn.png" group-title="SPORT",TSN3 PPV
 https://tvpass.org/live/tsn3/hd
 
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn.png" group-title="SPORT",TSN4 PPV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn.png" group-title="SPORT",TSN4 PPV
 https://tvpass.org/live/tsn4/hd
 
-#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn.png" group-title="SPORT",TSN5 PPV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/tvn.png" group-title="SPORT",TSN5 PPV
 https://tvpass.org/live/tsn5/hd
 
 #EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="SPORT",MSG Madison Square Gardens
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
