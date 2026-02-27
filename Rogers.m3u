@@ -1428,16 +1428,16 @@ https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scrip
 ###################################
 ###################################
 
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="SITCOM",A&E 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="SITCOM",A&E 
 https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="SITCOM",TBS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4498c0f800714498a594ac96f8f891f8~mv2.png/v1/fill/w_482,h_204,al_c,lg_1,q_85,enc_avif,quality_auto/tbs.png" group-title="SITCOM",TBS
 https://tvpass.org/live/TBSEast/hd
 
-#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="SITCOM",TV Land
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="SITCOM",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 
-#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="SITCOM",TV One
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="SITCOM",TV One
 https://tvpass.org/live/TVOne/hd
 
 #EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="SITCOM",VH1
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
