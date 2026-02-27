@@ -1880,23 +1880,23 @@ https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 ######################################
 ######################################
 
-#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="KIDS",Nick Jr
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_9e8bfaf039a84369a83ed25e6de57101~mv2.png/v1/fill/w_336,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/nickjr.png"   group-title="KIDS",Nick Jr
 https://tvpass.org/live/NickJrEast/hd
 
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="KIDS",Nickelodeon USA
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_d0239194f9f04ffdaa5873e3d3d07d7e~mv2.png/v1/fill/w_278,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/nick.png"  group-title="KIDS",Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
 
-#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="KIDS",Nicktoons East
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d0239194f9f04ffdaa5873e3d3d07d7e~mv2.png/v1/fill/w_278,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/nick.png"   group-title="KIDS",Nicktoons
 https://tvpass.org/live/NicktoonsEast/hd
 
-#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="KIDS",TeenNick Eastern
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_3cd7edb440494ea1a19cb9fc4a222227~mv2.png/v1/fill/w_254,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/nickteen.png"  group-title="KIDS",TeenNick Eastern
 https://tvpass.org/live/TeenNickEast/hd
 
 
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="KIDS",Boomerang
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_5030c33a3d8542fb8ee981fccbebe99a~mv2.png/v1/fill/w_278,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/boomerang.png"   group-title="KIDS",Boomerang
 https://tvpass.org/live/Boomerang/hd
 
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="KIDS",Cartoon Network USA
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png"   group-title="KIDS",Cartoon Network USA
 https://tvpass.org/live/CartoonNetworkEast/hd
 
 
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
