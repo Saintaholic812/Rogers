@@ -1910,14 +1910,14 @@ https://tvpass.org/live/DisneyJuniorEast/hd
 https://tvpass.org/live/DisneyXDEast/hd
 
 
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="KIDS",MeTV Toons
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_80f21ff80f524843ba238dbf27e4535d~mv2.png/v1/fill/w_372,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/metvtoonsd.png"   group-title="KIDS",MeTV Toons
 https://tvpass.org/live/metv-toons/hd
 
 
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" group-title="KIDS",MeTV Wjlp
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_58cd6929dd53458d834204e6cfb7c657~mv2.jpg/v1/fill/w_392,h_220,al_c,lg_1,q_80,enc_avif,quality_auto/metv1).jpg" group-title="KIDS",MeTV
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd
 
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" group-title="KIDS",Universal Kids
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1fb3d49f21694a73a42d63a4651ab87e~mv2.jpg/v1/fill/w_336,h_288,al_c,lg_1,q_80,enc_avif,quality_auto/universalkids.jpg" group-title="KIDS",Universal Kids
 https://tvpass.org/live/UniversalKidsEast/hd
 
 
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
