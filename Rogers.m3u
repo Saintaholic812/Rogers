@@ -1440,16 +1440,16 @@ https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="SITCOM",TV One
 https://tvpass.org/live/TVOne/hd
 
-#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="SITCOM",VH1
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="SITCOM",VH1
 https://tvpass.org/live/VH1East/hd
 
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="SITCOM",Comedy Central
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_65071dc575b4477b96d57522ad36af6e~mv2.png/v1/fill/w_536,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/comedy%20central.png" group-title="SITCOM",Comedy Central
 https://tvpass.org/live/ComedyCentralEast/hd
 
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="SITCOM",Bravo USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_364,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="SITCOM",Bravo USA
 https://tvpass.org/live/BravoEast/hd
 
-#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="SITCOM",MoreMax
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_a6aee46a6e4c43e5bb9608aac36ebc38~mv2.png/v1/fill/w_308,h_154,al_c,lg_1,q_85,enc_avif,quality_auto/moremax.png" group-title="SITCOM",MoreMax
 https://tvpass.org/live/MoreMaxEast/hd
 
 #EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="SITCOM" , Seinfeld
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
