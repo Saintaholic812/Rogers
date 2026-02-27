@@ -559,11 +559,11 @@ https://tvpass.org/live/espn-deportes/hd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_de529114ea2d423e9950a452c8415145~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/espnuu.png" group-title="SPORT",ESPN U
 https://tvpass.org/live/ESPNU/hd
 
-#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/mlb.png" group-title="SPORT",MLB Network
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_e3dab0207b064136bba51ac67b1360cc~mv2.png/v1/fill/w_309,h_319,al_c,lg_1,q_85,enc_avif,quality_auto/mlb.png" group-title="SPORT",MLB Network
 https://tvpass.org/live/MLBNetwork/hd
 
 
-#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/nba.png" group-title="SPORT",NBA TV USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e6ab8254c72b43bd960dff7f6d1d2987~mv2.png/v1/fill/w_265,h_374,al_c,lg_1,q_85,enc_avif,quality_auto/nba.png" group-title="SPORT",NBA TV USA
 https://tvpass.org/live/NBATV/hd
 
 
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
