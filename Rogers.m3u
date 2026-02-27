@@ -538,15 +538,17 @@ https://tvpass.org/live/NHLNetwork/hd
 
 
 
-#EXTINF:-1 tvg-id="espn-news""tvg-logo=https://static.wixstatic.com/media/6048cf_b0828d13cb69491ba6a74768d6f98394~mv2.jpg/v1/fill/w_192,h_192,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_b0828d13cb69491ba6a74768d6f98394~mv2.jpg" group-title="SPORT",ESPN News
+#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT",ESPN News
 https://tvpass.org/live/ESPNews/sd
 
 
 
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" "tvg-logo=https://static.wixstatic.com/media/6048cf_f471e285763746e1b08c29a3b61f00f3~mv2.png/v1/fill/w_226,h_226,al_c,lg_1,q_85,enc_avif,quality_auto/6048cf_f471e285763746e1b08c29a3b61f00f3~mv2.png"  group-title="SPORT",ESPN
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/"tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/espn.png"/espn.png" group-title="SPORT",ESPN
 https://tvpass.org/live/ESPN/hd
+
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/"tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/espn.png"/espn2.png" group-title="SPORT",ESPN2
 https://tvpass.org/live/ESPN2/hd
+
 
 
 #EXTINF:-1 tvg-id="espn-deportes" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/espndep.png" tvg-name="ESPN Deportes" group-title="SPORT",ESPN Deportes
@@ -3399,6 +3401,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
