@@ -1900,13 +1900,13 @@ https://tvpass.org/live/Boomerang/hd
 https://tvpass.org/live/CartoonNetworkEast/hd
 
 
-#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="KIDS",Disney
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7c68bc676d694059b2ea2570884d2bfd~mv2.png/v1/fill/w_476,h_207,al_c,lg_1,q_85,enc_avif,quality_auto/disney2d.png" group-title="KIDS",Disney
 https://tvpass.org/live/DisneyChannelEast/hd
 
-#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="KIDS",Disney Junior USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e10fbcbba04a4a7fa9d9c6d56b71e360~mv2.png/v1/fill/w_514,h_192,al_c,lg_1,q_85,enc_avif,quality_auto/disneyjr.png" group-title="KIDS",Disney Junior USA
 https://tvpass.org/live/DisneyJuniorEast/hd
 
-#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="KIDS",Disney XD USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d9fd7c02df81416bb67c44b8e1484591~mv2.png/v1/fill/w_372,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/disneyxdd.png" group-title="KIDS",Disney XD USA
 https://tvpass.org/live/DisneyXDEast/hd
 
 
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
