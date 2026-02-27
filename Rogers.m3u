@@ -1671,16 +1671,16 @@ https://i.mjh.nz/.r/three.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2403c54d4bb0408bb5fb56a52e132059~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/syfy2d.png" group-title="DRAMA",Syfy
 https://tvpass.org/live/SyfyEast/hd
 
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="DRAMA",Crime & Investigation Network USA HD
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/6048cf_cad3afa0d11944afa135fd9204f75aad~mv2.png/v1/fill/w_393,h_251,al_c,lg_1,q_85,enc_avif,quality_auto/crimee.png"     group-title="DRAMA",Crime & Investigation Network USA HD
 https://tvpass.org/live/CrimePlusInvestigation/hd
 
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego" group-title="DRAMA",CW (KFMB-TV2) San Diego
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_4e7d949bd54143dbbc400375c8bb3e91~mv2.jpg/v1/fill/w_352,h_220,al_c,lg_1,q_80,enc_avif,quality_auto/cw2).jpg"   group-title="DRAMA",CW (KFMB-TV2) San Diego
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="DRAMA",AMC
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_1d48f2c0e7224ee082a63de3d3f203dc~mv2.png/v1/fill/w_309,h_175,al_c,lg_1,q_85,enc_avif,quality_auto/amcd.png"   group-title="DRAMA",AMC
 https://tvpass.org/live/AMCEast/hd
 
-#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="DRAMA",American Heroes Channel
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_2da80ee40d294f2e954ea312e7a265ef~mv2.png/v1/fill/w_440,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/ahc.png" group-title="DRAMA",American Heroes Channel
 https://tvpass.org/live/AmericanHeroesChannel/hd
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="DRAMA",CSI: Crime Scene Investigation
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
