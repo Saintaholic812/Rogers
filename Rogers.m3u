@@ -882,7 +882,7 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playl
 https://daiconnect.com/live/hls/tvup/sportsstudios-mypadeltv/.m3u8?channel_name=My%20Padel%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&language=es&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]&domain=watch.freelivesports.tv
 
 
-#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="SPORT",The Tennis Channel
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8141929b05074dcca42b68e0d6f1e1e8~mv2.png/v1/fill/w_418,h_237,al_c,lg_1,q_85,enc_avif,quality_auto/tennisd.png"   group-title="SPORT",The Tennis Channel
 https://tvpass.org/live/TennisChannel/hd
 
 
@@ -892,14 +892,14 @@ https://tvpass.org/live/TennisChannel/hd
 
 ###############        POKER/BILLIARDS/BOWLS          #############
 
-#EXTINF:-1 tvg-id="worldpokertour_en" tvg-logo="" group-title="SPORT"",World Poker Tour
+#EXTINF:-1 tvg-id="worldpokertour_en" tvg-logo="https://static.wixstatic.com/media/6048cf_23bbd5e58c9d45728fa8cc4ec2018215~mv2.png/v1/fill/w_508,h_164,al_c,lg_1,q_85,enc_avif,quality_auto/wptd.png" group-title="SPORT"",World Poker Tour
 https://amg00218-amg00218c1-rlaxx-us-4264.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-rlaxxus/playlist.m3u8?tag_id=105307&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0247&content_producer_name=Amagi_WPTEnterprises_WorldPokerTourEN&content_categories=IAB1%2CIAB1-7%2CIAB17%2CIAB9-7&content_custom_1_param=Amagi&content_custom_2_param=M&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 
 #EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f" group-title="SPORT",World Poker Tour
 https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8?channel_name=World%20Poker%20Tour&content_genre=Poker%2CSport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 
-#EXTINF:-1 tvg-id="worldbilliardstv" tvg-logo="" group-title="SPORT",World Billiards TV
+#EXTINF:-1 tvg-id="worldbilliardstv" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="SPORT",World Billiards TV
 https://1acbbb9614cd40e6a66cc6e55ae8947b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_WorldBilliardsTV/playlist.m3u8?ads.wurl_channel=967&ads.wurl_name=WorldBilliardsTV&ads.coppa=0&ads.device_id=a340f719-ad45-4017-9965-81c3b8bd24f0&ads.dnt=0&ads.lmt=0&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=M&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.duration=&ads.content_producer_name=WURL_NEWID_WorldBilliardsTV&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=a340f719-ad45-4017-9965-81c3b8bd24f0&ads.height=1080&ads.width=1920&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB17%2CIAB17-23&ads.rlaxx_genre=Sports&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=106491&ads.channel_number=0295&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
 
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_003/lg_channels/img/default/channel_logo/channel_logo.png"group-title="SPORT"  ,World Billiards TV
@@ -930,7 +930,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16436&avod=1&content_dist_
 ###########          SOCCER             #################
 
 
-#EXTINF:-1 tvg-id="fifaplus_en" tvg-logo="" group-title="SPORT",FIFA+
+#EXTINF:-1 tvg-id="fifaplus_en" tvg-logo=""mjh-sbs-sysdata_s_p_a_fifa_6" tvg-id="mjh-sbs-sysdata_s_p_a_fifa_6" tvg-logo="https://image.pr.sbsod.com/82e2f8e9-238d-599f-84e7-891a54026c9f"" group-title="SPORT",FIFA+
 https://73e5fd4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.device_id=6e922edc-be24-495b-b332-5e87c9e821f8&ads.dnt=0&ads.lmt=0&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=M&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59%2C60-64&ads.duration=&ads.content_producer_name=WURL_FIFA_FIFAPlusEN&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=6e922edc-be24-495b-b332-5e87c9e821f8&ads.height=1080&ads.width=1920&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB17%2CIAB17-12%2CIAB17-44%2CIAB19-29&ads.rlaxx_genre=Featured+all+other+countries&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=142758&ads.channel_number=0478&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
 
 #EXTINF:-1 channel-id="mjh-sbs-sysdata_s_p_a_fifa_6" tvg-id="mjh-sbs-sysdata_s_p_a_fifa_6" tvg-logo="https://image.pr.sbsod.com/82e2f8e9-238d-599f-84e7-891a54026c9f" group-title="SPORT" , FIFA+
@@ -1032,7 +1032,7 @@ https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="Pickle TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5" group-title="SPORT",Pickle TV
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8?ads.wurl_channel=1380&ads.wurl_name=PickleTV&ads.channel_name=Pickle%20TV&ads.content_genre=Sport%2CTennis&ads.ic=IAB17%2CIAB17-40&ads.rating=PG&ads.language=US&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.dnt=[LAT]&ads.device_id=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="Unbeaten (North America)" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/c4c55eda-5927-4221-8164-ab00e4ff54ad" group-title="SPORT",Unbeaten (North America)
+#EXTINF:-1 tvg-name="Unbeaten (North America)" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/c4c55eda-5927-4221-8164-ab00e4ff54ad" group-title="SPORT",Unbeaten
 https://amg00721-amg00721c5-freelivesports-emea-9593.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbeaten-freelivesportsemea/playlist.m3u8?channel_name=Unbeaten%20-%20North%20America&content_genre=Boxing%2CMMA%2CSport&ic=IAB17%2CIAB17-20%2CIAB17-5&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=en&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="Moonball Sports TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/961caf5f-0495-4bfa-a239-da3eaafe891e" group-title="SPORT",Moonball Sports TV
@@ -1193,7 +1193,7 @@ https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-name="Golf Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842" group-title="SPORT",Golf Network
 https://amg26268-amg26268c12-freelivesports-emea-9477.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-golfnetworkchannel-freelivesportsemea/playlist.m3u8?channel_name=Golf%20Network&content_genre=Golf%2CSport&ic=IAB17%2CIAB17-15&rating=PG&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="FUEL TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4" group-title="SPORT",FUEL TV
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_1e8b83939de44c64999ad14f1ea66f59~mv2.jpg/v1/fill/w_212,h_210,al_c,lg_1,q_80,enc_avif,quality_auto/fueltv).jpg" group-title="SPORT",FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8?channel_name=Fuel%20TV&content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="RVTV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818" group-title="SPORT",RVTV
@@ -3344,6 +3344,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
