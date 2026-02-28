@@ -568,7 +568,7 @@ https://tvpass.org/live/NBATV/hd
 
 
 
-#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network" "tvg-logo=https://raw.githubusercontent.com/Saintaholic812/refs/heads/main/images/yes.png" group-title="SPORT",Yes Network
+#EXTINF:-1  "tvg-logo="https://static.wixstatic.com/media/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg/v1/fill/w_192,h_160,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg" group-title="SPORT",Yes Network
 https://tvpass.org/live/yes-network/hd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
@@ -2092,7 +2092,7 @@ https://i.mjh.nz/.r/bbc-earth-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/h2-fast.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="DOCO",ReelzChannel
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_25442dfc33494b5291ca59aedeb2973b~mv2.png/v1/fill/w_254,h_342,al_c,lg_1,q_85,enc_avif,quality_auto/reelzd.png" group-title="DOCO",ReelzChannel
 https://tvpass.org/live/Reelz/hd
 
 
@@ -3344,6 +3344,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
