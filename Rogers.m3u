@@ -1855,8 +1855,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/pla
 #EXTINF:-1 channel-id="285f3ba210e8561fa5261af0871ace90" tvg-id="285f3ba210e8561fa5261af0871ace90" tvg-chno="773" tvg-name="Haunt TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/285f3ba210e8561fa5261af0871ace90/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563088420_HauntTVLogo_260x147_copy.png" group-title="PARANORMAL",Haunt TV
 https://jmp2.uk/rok-285f3ba210e8561fa5261af0871ace90.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_5db8033b6c4a4080b72421ab9b3a5e99~mv2.jpg/v1/fill/w_384,h_222,al_c,lg_1,q_80,enc_avif,quality_auto/ghosts(1).jpg" group-title="PARANORMAL" ,Ghosts are Real
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_5db8033b6c4a4080b72421ab9b3a5e99~mv2.jpg/v1/fill/w_384,h_222,al_c,lg_1,q_80,enc_avif,quality_auto/ghosts(1).jpg" group-title="PARANORMAL" ,Ghosts are Real
 https://amg00136-wbd-amg00136c13-lg-us-1938.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvghostsarereal-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ghosthunters/GhostHunters_LGLaunch_Guide_Logo_White_800x200.png" group-title="PARANORMAL" ,Ghost Hunters
 https://amg00353-amg00353c18-lg-us-3069.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
@@ -2161,38 +2162,38 @@ https://amg00426-lds-amg00426c6-lg-au-2369.playouts.now.amagi.tv/playlist/amg004
 #######################################
 
 
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="REALITY",A&E US
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_298,h_302,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png group-title="REALITY",A&E US
 https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="REALITY",TLC USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="REALITY",TLC USA
 https://tvpass.org/live/TLCEast/hd
 
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="REALITY",Bravo USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_334,h_252,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="REALITY",Bravo USA
 https://tvpass.org/live/BravoEast/hd
 
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="REALITY",TNT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d8c5a62d44674e63bac03ddb51137ee6~mv2.png/v1/fill/w_522,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/tntd.png" group-title="REALITY",TNT
 https://tvpass.org/live/TNTEast/hd
 
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="REALITY",E! Entertainment USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="REALITY",E! Entertainment USA
 https://tvpass.org/live/EEast/hd
 
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="REALITY",Oprah Winfrey Network USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9b8576b77af04ef8ab09fc5a20ae966d~mv2.jpg/v1/fill/w_507,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/own(1).jpg" group-title="REALITY",Oprah Winfrey Network USA
 https://tvpass.org/live/OWNEast/hd
 
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="REALITY",BET
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7b04151a8c184510aefae2695a5e9f1d~mv2.png/v1/fill/w_508,h_164,al_c,lg_1,q_85,enc_avif,quality_auto/betd.png" group-title="REALITY",BET
 https://tvpass.org/live/BETEast/hd
 
-#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="REALITY",BET Her
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7b04151a8c184510aefae2695a5e9f1d~mv2.png/v1/fill/w_508,h_164,al_c,lg_1,q_85,enc_avif,quality_auto/betd.png" group-title="REALITY",BET Her
 https://tvpass.org/live/BETHerEast/hd
 
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1967-LG-Logo-PNG-100x100_v6.png"group-title="REALITY" ,Storage Wars by A&E
 https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_networks_storagewarsbyae_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1967&wurl_name=StorageWars&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1,  group-title="REALITY" , American Pickers
+#EXTINF:-1,   tvg-logo="https://static.wixstatic.com/media/6048cf_43fd4b0b69114ad1a69ca942ecb40a48~mv2.jpg/v1/fill/w_380,h_249,al_c,lg_1,q_80,enc_avif,quality_auto/american%20(1).jpg" group-title="REALITY" , American Pickers
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c22-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b9fb3b4-161b-4a0e-a380-58f96557a8b2
 
 
-#EXTINF:-1,  group-title="REALITY" , Cheaters
+#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_fcf26c016abf4214846e7ed06689c79d~mv2.jpg/v1/fill/w_420,h_225,al_c,lg_1,q_80,enc_avif,quality_auto/cheaters(1).jpg" group-title="REALITY" , Cheaters
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f7d612d5ee00089a663d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799154-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0c16eba-1daa-4dd1-9854-b271c81bb5e8
 
 
@@ -2663,9 +2664,6 @@ https://banijay-fearfactor-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-f
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993062/600x200.png?type=white_cropped"  group-title="REALITY"  ,America's Got Talent
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993062&ads.xumo_streamId=99993062&ads.channelId=99993062&ads.ad_tag_id=127758&ads.csid=lgchannels_us_fremantleamericasgottalent_ssai&ads.channelName=americasgottalent_us&ads.xumo_contentName=FremantleAmericasGotTalent&ads.xumo_contentId=4266&ads.xumo_providerName=FremantleAmericasGotTalent&ads.xumo_providerId=4266&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 tvg-logo="https://d1zn8lvr9xwhp4.cloudfront.net/LG_Logo_700x200_BachelorNation.png"  group-title="REALITY"  ,Bachelor Nation
-https://amg00136-wbd-amg00136c28-lg-us-1932.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvbachelornation-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 
 ##################################
@@ -3347,6 +3345,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
