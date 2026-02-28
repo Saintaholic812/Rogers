@@ -2034,7 +2034,7 @@ https://amg01775-amg01775c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01775-a
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Evolution_Earth_Logo_800x200.png"group-title="DOCO",Evolution Earth
 https://amg00276-aenetwork-amg00276c15-lg-gb-5552.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-universemysteriessolvedsubfeed-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984001/600x200.png?type=white_cropped"group-title="DOCUMENTARY",Go Wild
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984001/600x200.png?type=white_cropped"group-title="DOCO",Go Wild
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.xumo_streamId=99984001&ads.channelId=99984001&ads.ad_tag_id=16821&ads.csid=lgchannels_uk_indigeniusgowild_ssai&ads.channelName=indigeniusgowild_uk&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.xumo_providerName=indigeniusgowild&ads.xumo_providerId=1103&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=bbfc-12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 #EXTINF:-1 tvg-logo="https://dbbafpr18dnj5.cloudfront.net/Images/S3/AMG01823C1/ETTV_Logo_White.png"group-title="DOCO",Earth Touch TV
@@ -2067,7 +2067,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/PBS_History_LG_Channel_Logo_800x200.png"group-title="DOCO",PBS History
 https://amg02333-pbs-amg02333c3-lg-gb-1988.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png"group-title="DOCUMENTARY",PBS Science
+#EXTINF:-1 tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png"group-title="DOCO",PBS Science
 https://amg02333-pbs-amg02333c10-lg-gb-3238.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsscience-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1684/lg/c19d5e/LG-Logo-PNG-100x100_v2.png"group-title="DOCO",AIR & SPACE
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
