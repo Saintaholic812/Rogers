@@ -590,23 +590,23 @@ https://tvpass.org/live/tsn5/hd
 https://tvpass.org/live/msg-madison-square-gardens/hd
 
 
-#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA" group-title="SPORT",CBS Sports Network USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_aa64a8e06fc24cb4a40d6188b2ba8d31~mv2.png/v1/fill/w_363,h_271,al_c,lg_1,q_85,enc_avif,quality_auto/cbssports.png" group-title="SPORT",CBS Sports
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
 
 #EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network" group-title="SPORT",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/hd
 
 
-#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area" group-title="SPORT",NBC Sports Bay Area
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png"   group-title="SPORT",NBC Sports Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/hd
 
-#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston" group-title="SPORT",NBC Sports Boston
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png"   group-title="SPORT",NBC Sports Boston
 https://tvpass.org/live/nbc-sports-boston/hd
 
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California" group-title="SPORT",NBC Sports California
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png"   group-title="SPORT",NBC Sports California
 https://tvpass.org/live/nbc-sports-california/hd
 
-#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia" group-title="SPORT",NBC Sports Philadelphia
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png"   group-title="SPORT",NBC Sports Philadelphia
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 
 #EXTINF:-1 tvg-id="new-england-sports-network" tvg-name="New England Sports Network" group-title="SPORT",New England Sports Network
@@ -969,7 +969,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-pac12-lgau/pl
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/989/lg/09cf4f/LG-Logo-PNG-100x100_v1.png",104 NCAA Championships: Powered by LG
 https://wurllg.global.transmit.live/hls/689628fc4be878ea7aa6ec3e/v1/lg_ncaachannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=989&wurl_name=NCAAChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993008/600x200.png?type=white_cropped" group-title="SPORT",NBC Sports NOW
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE
 
 #EXTINF:-1 tvg-name="Sports Illustrated TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc" group-title="SPORT",Sports Illustrated TV
@@ -3344,6 +3344,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
