@@ -624,7 +624,7 @@ https://tvpass.org/live/fanduel-sports-network-florida/hd
 
 
 
-#EXTINF:-1 group-title="SPORT",Bein Sports Xtra (Australia)
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_048d851b85a0427797656aae89528ca9~mv2.png/v1/fill/w_298,h_222,al_c,lg_1,q_85,enc_avif,quality_auto/beinsports.png"   group-title="SPORT",Bein Sports Xtra (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
 
@@ -693,10 +693,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&content_dist_n
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/anglersparadise-fast.m3u8
 
-#EXTINF:-1 tvg-id="sportfishingtv" tvg-logo="" group-title="SPORT",Sport Fishing TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_5c2a633766d9499b99d867510bb27cc2~mv2.jpg/v1/fill/w_282,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/sport%20fishing).jpg"    group-title="SPORT",Sport Fishing TV
 https://streams2.sofast.tv/ptnr-whaletv/title-SPORT-FISHING-TV-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8cdaa3a1-be8c-447d-af2f-d9293483a49c/manifest.m3u8?ads.tag_id=138607&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Sport+Fishing+TV&ads.wtv_channel_id=0550&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_SportFishingTV&ads.content_categories=IAB17%2CIAB20-1%2CIAB17-11&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
 
-#EXTINF:-1 tvg-id="huntfishtv" tvg-logo="" group-title="SPORT",Hunt Fish TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_138129db080d460bb136118cad3cf925~mv2.png/v1/fill/w_254,h_250,al_c,lg_1,q_85,enc_avif,quality_auto/huntfish.png"   group-title="SPORT",Hunt Fish TV
 https://streams2.sofast.tv/ptnr-whaletv/title-HUNT_FISH_TV_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0e7b5dc5-af48-45be-aec8-ca327aab016b/master.m3u8?ads.tag_id=148553&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Hunt+Fish+TV&ads.wtv_channel_id=0536&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_HuntFishTV&ads.content_categories=IAB19-29%2CIAB17%2CIAB17-14%2CIAB17-11&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
 
 
@@ -3344,6 +3344,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
