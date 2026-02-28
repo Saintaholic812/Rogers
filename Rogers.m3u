@@ -466,7 +466,7 @@ https://c.mjh.nz/abc-news.m3u8
 
 ######       HORSE RACING  #################
 
-#EXTINF:-1 channel-id="mjh-racing-fast" tvg-id="mjh-racing-fast" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/Racing_Shelf.png" tvg-chno="78" group-title="SPORT" , Racing.com
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_9efbe9277218460f8b78b6e866b2bebb~mv2.png/v1/fill/w_497,h_199,al_c,lg_1,q_85,enc_avif,quality_auto/racingcomd.png"  group-title="SPORT" , Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="SPORT" , Sky Racing - Thoroughbred Central
@@ -743,7 +743,7 @@ https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
 https://c0d3aaa7b7cd4dcfbb34b76967e1615a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-LG_AU/680/lgtv/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="fueltv_en-au-nz" tvg-logo="" group-title="SPORT",FUEL TV
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_1e8b83939de44c64999ad14f1ea66f59~mv2.jpg/v1/fill/w_212,h_210,al_c,lg_1,q_80,enc_avif,quality_auto/fueltv).jpg" group-title="SPORT",FUEL TV
 https://amg01074-fueltv-amg01074c12-rlaxx-us-6438.playouts.now.amagi.tv/playlist/amg01074-fueltvfast-fueltvau-rlaxxus/playlist.m3u8?tag_id=105286&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0225&content_producer_name=Amagi_FuelTV_FuelTVEN-AU-NZ&content_categories=IAB17%2CIAB1&content_custom_1_param=Amagi&content_custom_2_param=M&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 
 #EXTINF:-1 tvg-name="HorizonSports" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af78b66f-4130-413f-870f-dc98f6ed2888" group-title="SPORT",HorizonSports
@@ -3344,6 +3344,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
