@@ -494,6 +494,14 @@ https://i.mjh.nz/.r/racingwa-fast.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/hnc_logo.png"group-title="SPORT"  ,Horse & Country
 https://amg00810-hnc-amg00810c1-lg-au-6140.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
+#EXTINF:-1 tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82" group-title="SPORT",Horse & Country
+https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8?channel_name=Horse%20And%20Country&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+#EXTINF:-1 tvg-name="Horse TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/58562898-af7f-48e7-b2cc-74e81b960840" group-title="SPORT",Horse TV
+https://amg00585-amg00585c5-sportstribal-emea-2944.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horsetv-sportstribalemea/playlist.m3u8?channel_name=Horse%20TV&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+
+
 #############       COWBOY         ##################
 
 
@@ -909,13 +917,13 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbil
 #EXTINF:-1 tvg-name="Billiard TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="SPORT",Billiard TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15650&avod=1&content_dist_name=freelivesports&content_channel=Billiard%20TV&channel_name=Billiard%20TV&content_genre=Billiard%2CPool%2CSnooker%2CSport&ic=IAB17&rating=G&preferred_language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="Poker Night In America" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432" group-title="SPORT",Poker Night In America
+#EXTINF:-1   tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432" group-title="SPORT",Poker Night In America
 https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlist.m3u8?ads.channel_name=Pokernight%20In%20America&ads.content_genre=Poker%2CSport&ads.iab_category=IAB17&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
 
-#EXTINF:-1 tvg-id="sportoutdoortv_en" tvg-logo=""  group-title="SPORT",SportOutdoor.TV
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/6048cf_5dad6f7d3136450f89898f43a084efed~mv2.jpg/v1/fill/w_384,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/sportoutdoor).jpg"  group-title="SPORT",SportOutdoor.TV
 https://821729f1eb0143ddb94fa678d594614e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_SportOutdoorTVEN/playlist.m3u8?ads.wurl_channel=2023&ads.wurl_name=SportOutdoor.TVEN&ads.coppa=0&ads.device_id=9df56d7c-2bfb-4a06-84a2-2d3b6d4c6e5a&ads.dnt=0&ads.lmt=0&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=F%2CM&ads.age=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.duration=&ads.content_producer_name=WURL_GTO2000_SportOutdoorTVEN&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=9df56d7c-2bfb-4a06-84a2-2d3b6d4c6e5a&ads.height=1080&ads.width=1920&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB20%2CIAB19-29%2CIAB20-12%2CIAB17&ads.rlaxx_genre=Featured+all+other+countries&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=133150&ads.channel_number=0459&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
 
-#EXTINF:-1 tvg-id="nomadlifetv" tvg-logo=""  group-title="SPORT",NOMADLife.tv
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_27620a39c278478983f17fbbbd057287~mv2.png/v1/fill/w_236,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/nomad%20lifed.png"  group-title="SPORT",NOMADLife.tv
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/OB5IN82O4PXYXX0AA6XZ/hls3/now,-1m/m.m3u8?ads.channel_name=NOMADslow+tv&ads.content_cat=IAB1-5&ads.content_genre=Health%2CLifestyle%2CRelaxing&ads.content_id=SNO100&ads.content_language=en&ads.content_title=beaver+moon+antennae&ads.ic=IAB1-7&ads.provider=NOMADslow&ads.rating=TVG&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=38e6b610-6985-4dfb-a19e-42a08ef288d2&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=0&ads.livestream=1&ads.coppa=0
 
 #EXTINF:-1 tvg-name="Kozoom" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3a13474e-b983-41c1-9ef1-0e11524eee06" group-title="SPORT",Kozoom
@@ -1131,14 +1139,9 @@ https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/dbfaec40-bb9a-4d9b-b47f-e894c872d162" group-title="SPORT",TyC Sports
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8?channel_name=TyC%20Sports%20Fan&content_genre=Sport&ic=IAB17&rating=PG&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82" group-title="SPORT",Horse & Country
-https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8?channel_name=Horse%20And%20Country&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="GCTV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2" group-title="SPORT",GCTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8?channel_name=GCTV&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-#EXTINF:-1 tvg-name="Horse TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/58562898-af7f-48e7-b2cc-74e81b960840" group-title="SPORT",Horse TV
-https://amg00585-amg00585c5-sportstribal-emea-2944.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horsetv-sportstribalemea/playlist.m3u8?channel_name=Horse%20TV&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 
 #EXTINF:-1 tvg-name="Pursuit UP" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/9d1e572a-01e1-47ab-9fce-7172476db225" group-title="SPORT",Pursuit UP
@@ -3344,6 +3347,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
