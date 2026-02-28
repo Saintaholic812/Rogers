@@ -1975,45 +1975,45 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 ##############################################
 ############################################3
 
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="DOCO",National Geographic US Eastern
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1ca671c8f33644eab95fb06e66fde4ed~mv2.png/v1/fill/w_523,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/natgeo2d.png"   group-title="DOCO",National Geographic
 https://tvpass.org/live/NationalGeographicEast/hd
 
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="DOCO",National Geographic Wild
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2e07797c74784f5698e4a1311cc8b4e6~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/natwild.png"    group-title="DOCO",National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
 
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="DOCO",Animal Planet US East
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png"    group-title="DOCO",Animal Planet
 https://tvpass.org/live/AnimalPlanetEast/hd
 
 
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="DOCO",Discovery Channel (US) Eastern Feed
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel
 https://tvpass.org/live/DiscoveryChannelEast/hd
 
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="DOCO",Discovery Family Channel
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_bbaddf22850e4b2885e28a4a0f9c5836~mv2.png/v1/fill/w_418,h_134,al_c,lg_1,q_85,enc_avif,quality_auto/discoveryfamily.png"   group-title="DOCO",Discovery Family Channel
 https://tvpass.org/live/DiscoveryFamily/hd
 
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="DOCO",Discovery Life Channel
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1b750d7537e04a19876fe9f1c7439ecd~mv2.png/v1/fill/w_254,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/discoverylifed.png"   group-title="DOCO",Discovery Life Channel
 https://tvpass.org/live/DiscoveryLife/hd
 
 
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="DOCO",HGTV USA Eastern Feed
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_0d06d6d01c774e7b8481058722780bd8~mv2.png/v1/fill/w_406,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/hgtvd.png"   group-title="DOCO",HGTV USA
 https://tvpass.org/live/HGTVEast/hd
 
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="DOCO",History Channel US Eastern Feed
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel
 https://tvpass.org/live/HistoryEast/hd
 
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="DOCO",HLN
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e822e1a17ad41468699afa780916467~mv2.png/v1/fill/w_264,h_266,al_c,lg_1,q_85,enc_avif,quality_auto/hln1.png"    group-title="DOCO",HLN
 https://tvpass.org/live/HLN/hd
 
 
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="DOCO",Investigation Discovery USA Eastern
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b714d2c187524b349d7bf5f611528bab~mv2.jpg/v1/fill/w_254,h_266,al_c,lg_1,q_80,enc_avif,quality_auto/investigation1).jpg"    group-title="DOCO",Investigation Discovery
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
 
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="DOCO",Outdoor Channel US
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_27fed807427c41feaea7a174e49a21f6~mv2.png/v1/fill/w_392,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/outdoor.png"    group-title="DOCO",Outdoor Channel
 https://tvpass.org/live/OutdoorChannel/hd
 
 
-#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="DOCO",Science
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4a395edba1a74358bf7f9f42bb56f3d4~mv2.png/v1/fill/w_392,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/scienced.png"    group-title="DOCO",Science
 https://tvpass.org/live/Science/hd
 
 
@@ -3403,6 +3403,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
