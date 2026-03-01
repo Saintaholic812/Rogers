@@ -2998,14 +2998,14 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 ##############################
 ##############################
 
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="MUSIC",MTV USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_01977d68168148d2880eab28d5e4c6e4~mv2.png/v1/fill/w_338,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/mtv.png" group-title="MUSIC",MTV USA
 https://tvpass.org/live/MTVEast/hd
 
 
-#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="MUSIC",MTV 2 East
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8bade779b8174a53920f787bc0cc4a17~mv2.png/v1/fill/w_382,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/mtv2d.png" group-title="MUSIC",MTV 2 East
 https://tvpass.org/live/mtv-2-east/hd
 
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="MUSIC",CMT US
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4b5afe887bc04835a1b0d6a733e47b04~mv2.png/v1/fill/w_296,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/cmtd.png" group-title="MUSIC",CMT US
 https://tvpass.org/live/CMTEast/hd
 
 
@@ -3029,34 +3029,34 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essentia
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CONCERTO400x200.png" group-title="MUSIC" ,Concerto
 https://amg01076-lightning-amg01076c14-lg-au-7579.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1,group-title="MUSIC",  Vevo Christmas (Australia)
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"  group-title="MUSIC",  Vevo Christmas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC", Vevo Pop (Australia)
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_eedb10518e3a4c37bafa3c0a4ed26df2~mv2.png/v1/fill/w_350,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/vevo%20popd.png"    group-title="MUSIC", Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC", Vevo Retro Rock (Australia)
+#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_53bb49a7f844455f9a2e8fbdffb2b805~mv2.jpg/v1/fill/w_338,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/vevoretro).jpg"  group-title="MUSIC", Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC", Vevo 2K (Australia)
+#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"    group-title="MUSIC", Vevo 2K 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC", Vevo Country (Australia)
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_03bbb427e2b04c2ebe91ea3ae9787379~mv2.jpg/v1/fill/w_382,h_236,al_c,lg_1,q_80,enc_avif,quality_auto/vevocountry%20(1).jpg"  group-title="MUSIC", Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MUSIC" ,NOW70S (Australia)
+#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MUSIC" ,NOW70S (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MUSIC" ,Now 80s (Australia)
+#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MUSIC" ,Now 80s (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MUSIC" ,Now90s00s (Australia)
+#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MUSIC" ,Now90s00s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MUSIC" ,NOW70S (Australia)
+#EXTINF:-1, tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MUSIC" ,NOW70S (Australia)
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MUSIC" ,Now 80s  (Australia)
+#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MUSIC" ,Now 80s  (Australia)
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,group-title="MUSIC" ,Now Rock (Australia)
@@ -3345,6 +3345,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
