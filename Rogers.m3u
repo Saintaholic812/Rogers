@@ -2824,7 +2824,7 @@ https://tvpass.org/live/LifetimeMoviesEast/sd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime
 https://tvpass.org/live/LifetimeEast/hd
 
-#EXTINF:-1 tvg-logo="starz-eastern" tvg-name="Starz Eastern" group-title="MOVIES",Starz
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz
 https://tvpass.org/live/StarzEast/hd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_33ff5c5c8d864b898e32c1a3bfb1306e~mv2.png/v1/fill/w_350,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/sundanced.png" group-title="MOVIES",SundanceTV
@@ -3345,6 +3345,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
