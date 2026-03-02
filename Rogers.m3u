@@ -3059,35 +3059,35 @@ https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MUSIC" ,Now 80s  (Australia)
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC" ,Now Rock (Australia)
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_c2c9dc269f174f69b9c190d7a34f34db~mv2.jpg/v1/fill/w_246,h_218,al_c,lg_1,q_80,enc_avif,quality_auto/nowrock).jpg"  group-title="MUSIC" ,Now Rock (Australia)
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC" ,Trace Urban (Australia)
+#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_c090b34af9f74ce7a0b5dd86c424ef2b~mv2.png/v1/fill/w_264,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/traced.png"   group-title="MUSIC" ,Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Hit list
+#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_d613ba3352b942488d11ea175f8cb5e5~mv2.jpg/v1/fill/w_362,h_198,al_c,lg_1,q_80,enc_avif,quality_auto/stingray3).jpg"   group-title="MUSIC" ,Stingray Hit list
 https://d1si3n1st4nkgb.cloudfront.net/10000/89009013/hls/master.m3u8?ads.xumo_channelId=89009013
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Pop Adult
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_7c91c247602f4516af46675d2d662c97~mv2.jpg/v1/fill/w_362,h_198,al_c,lg_1,q_80,enc_avif,quality_auto/stingray2).jpg"    group-title="MUSIC" ,Stingray Pop Adult
 https://d1si3n1st4nkgb.cloudfront.net/10000/89809011/hls/master.m3u8?ads.xumo_channelId=89809011
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray 2000s
+#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_bb420f1588dc4affa759623e2216c5b9~mv2.jpg/v1/fill/w_362,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/stingray).jpg"   group-title="MUSIC" ,Stingray 2000s
 https://d1si3n1st4nkgb.cloudfront.net/10000/89809012/hls/master.m3u8?ads.xumo_channelId=89809012
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Greatest Hits
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_c2a2c97b11c449c3a87a5ada17bbeaae~mv2.jpg/v1/fill/w_350,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/stingraygreat).jpg"         group-title="MUSIC" ,Stingray Greatest Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Classic Rock
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_d613ba3352b942488d11ea175f8cb5e5~mv2.jpg/v1/fill/w_362,h_198,al_c,lg_1,q_80,enc_avif,quality_auto/stingray3).jpg"    group-title="MUSIC" ,Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Spa
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_7c91c247602f4516af46675d2d662c97~mv2.jpg/v1/fill/w_362,h_198,al_c,lg_1,q_80,enc_avif,quality_auto/stingray2).jpg"    group-title="MUSIC" ,Stingray Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Easy Listening
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_bb420f1588dc4affa759623e2216c5b9~mv2.jpg/v1/fill/w_362,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/stingray).jpg"    group-title="MUSIC" ,Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1,group-title="MUSIC" ,Stingray Todays K Pop
+#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_7c91c247602f4516af46675d2d662c97~mv2.jpg/v1/fill/w_362,h_198,al_c,lg_1,q_80,enc_avif,quality_auto/stingray2).jpg"    group-title="MUSIC" ,Stingray Todays K Pop
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
 
@@ -3345,6 +3345,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
