@@ -3105,56 +3105,56 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 ############################
 
 
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="NEWS",CNN US
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_41d1ab2d17a0445f89226b66ed8880df~mv2.png/v1/fill/w_320,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/cnnd.png" group-title="NEWS",CNN US
 https://tvpass.org/live/CNN/hd
 
-#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles" group-title="NEWS",CBS (KCBS) Los Angeles
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9398357869ed4906be8cb01578a5886d~mv2.png/v1/fill/w_320,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/cbsnewsd.png" group-title="NEWS",CBS
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd
 
-#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY" group-title="NEWS",CBS (WCBS) New York, NY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9398357869ed4906be8cb01578a5886d~mv2.png/v1/fill/w_320,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/cbsnewsd.png" group-title="NEWS",CBS
 https://tvpass.org/live/WCBSDT1/hd
 
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="NEWS",Fox News
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e54edff68fc542279be6885764f1e1a8~mv2.png/v1/fill/w_350,h_198,al_c,lg_1,q_85,enc_avif,quality_auto/foxnews.png" group-title="NEWS",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
 
 
-#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles" group-title="NEWS",FOX (KTTV) Los Angeles
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e54edff68fc542279be6885764f1e1a8~mv2.png/v1/fill/w_350,h_198,al_c,lg_1,q_85,enc_avif,quality_auto/foxnews.png" group-title="NEWS",FOX (KTTV) Los Angeles
 https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 
-#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="FOX (WNYW) New York, NY" group-title="NEWS",FOX (WNYW) New York, NY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e54edff68fc542279be6885764f1e1a8~mv2.png/v1/fill/w_350,h_198,al_c,lg_1,q_85,enc_avif,quality_auto/foxnews.png" group-title="NEWS",FOX (WNYW) New York, NY
 https://tvpass.org/live/WNYWDT1/hd
 
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" group-title="NEWS",Fox Business
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_982deceb9b2d48c6a263f58f7ea936c9~mv2.png/v1/fill/w_362,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/foxbusiness.png" group-title="NEWS",Fox Business
 https://tvpass.org/live/FoxBusiness/hd
 
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="NEWS",CNBC USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8ea005414af84e9d99e7611f5994747b~mv2.png/v1/fill/w_320,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/cnbc.png" group-title="NEWS",CNBC USA
 https://tvpass.org/live/CNBC/hd
 
 
 
-#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles" group-title="NEWS",NBC (KNBC) Los Angeles
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_97568e3d73bb411b952b69f32fcf80f1~mv2.png/v1/fill/w_320,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/nbcd.png" group-title="NEWS",NBC (KNBC) Los Angeles
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
 
-#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY" group-title="NEWS",NBC (WNBC) New York, NY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_97568e3d73bb411b952b69f32fcf80f1~mv2.png/v1/fill/w_320,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/nbcd.png" group-title="NEWS",NBC (WNBC) New York, NY
 https://tvpass.org/live/WNBCDT1/hd
 
-#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" group-title="NEWS",ABC (KABC) Los Angeles
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_13312a6d80f4420aaf552fd995b7ea42~mv2.jpg/v1/fill/w_430,h_146,al_c,lg_1,q_80,enc_avif,quality_auto/abcnews%20(1).jpg" group-title="NEWS",ABC (KABC) Los Angeles
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 
-#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" group-title="NEWS",ABC (WABC) New York, NY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_13312a6d80f4420aaf552fd995b7ea42~mv2.jpg/v1/fill/w_430,h_146,al_c,lg_1,q_80,enc_avif,quality_auto/abcnews%20(1).jpg",ABC (WABC) New York, NY
 https://tvpass.org/live/WABCDT1/hd
 
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="NEWS",BBC America East
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_66a1f98c14d340a39a96c22eb5ba84fe~mv2.jpg/v1/fill/w_338,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/bbc%20(1).jpg" group-title="NEWS",BBC America East
 https://tvpass.org/live/BBCAmericaEast/hd
 
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="NEWS",BBC News North America HD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_66a1f98c14d340a39a96c22eb5ba84fe~mv2.jpg/v1/fill/w_338,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/bbc%20(1).jpg" group-title="NEWS",BBC News North America HD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 
 
-#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" group-title="NEWS",Big Ten Network
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_46f1d979ff6244dfba99293d616d01ce~mv2.png/v1/fill/w_338,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/big.png" group-title="NEWS",Big Ten Network
 https://tvpass.org/live/BTN/hd
 
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="NEWS",Bloomberg TV USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_64b18a567a09482ba55bff8c2f9dc4de~mv2.png/v1/fill/w_450,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bloomad.png" group-title="NEWS",Bloomberg TV USA
 https://tvpass.org/live/BloombergTV/hd
 
 
@@ -3327,7 +3327,7 @@ https://accuweatherx-lg.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-lg/CDN
 #############################
 #############################
 
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="TRAVEL",Travel US
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_70677b0909d247d2a6a084a5cc6d847d~mv2.jpg/v1/fill/w_445,h_216,al_c,lg_1,q_80,enc_avif,quality_auto/travelus).jpg" group-title="TRAVEL",Travel US
 https://tvpass.org/live/TravelChannelEast/hd
 
 
@@ -3345,6 +3345,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
