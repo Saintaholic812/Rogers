@@ -1552,6 +1552,10 @@ https://i.mjh.nz/.r/10-becker.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM" ,Cheers + Frasier
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66ba495ffe11e5000881f049/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 
+#EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="SITCOM", Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+
+
 #EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==" group-title="SITCOM",Anger Management
 https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
 
@@ -1587,6 +1591,33 @@ https://amg00353-lionsgatestudios-amg00353c5-lg-gb-864.playouts.now.amagi.tv/pla
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM",Pluto TV Sitcoms
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f53dc6ee9a0400071dc22b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="SITCOM", Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
+
+#EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="SITCOM", Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+#EXTINF:-1 channel-id="5f77977bd924d80007eee60c" tvg-id="5f77977bd924d80007eee60c" tvg-chno="710" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG_1731835516936.png" group-title="SITCOM", Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+
+
+
+#EXTINF:-1 channel-id="60f75771dfc72a00071fd0e0" tvg-id="60f75771dfc72a00071fd0e0" tvg-chno="795" tvg-name="Gunsmoke" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="SITCOM", Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+
+#EXTINF:-1 channel-id="68e9913c4a666b9054849832" tvg-id="68e9913c4a666b9054849832" tvg-chno="797" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="SITCOM", Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+
+
+#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="SITCOM", I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM",Sabrina The Teenage Witch
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66276091cee0d900085fe053/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
@@ -1732,6 +1763,21 @@ https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993063/600x200.png?type=white_cropped" group-title="DRAMA",Law & Order
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993063/hls/master.m3u8?ads.xumo_channelId=99993063&ads.channelId=99993063&ads.afid=444754633&ads.sfid=23912191&ads.csid=lgchannels_us_nbculaworder_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=4303&ads.xumo_contentName=NBCULawOrder&ads.xumo_providerId=4303&ads.xumo_providerName=NBCULawOrder&ads.asnw=169843&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]
+
+#EXTINF:-1 channel-id="68758038552299d2b08162e3" tvg-id="68758038552299d2b08162e3" tvg-chno="995" tvg-name="Law & Order" tvg-logo="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png" group-title="DRAMA", Law & Order
+https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
+
+
+
+
+
+#EXTINF:-1 channel-id="62f54c11b3af68000702c304" tvg-id="62f54c11b3af68000702c304" tvg-chno="970" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png" group-title="DRAMA", CSI: Miami
+https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
+
+
+#EXTINF:-1 channel-id="62f54c6439183b000769fb8f" tvg-id="62f54c6439183b000769fb8f" tvg-chno="980" tvg-name="CSI: NY" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/colorLogoPNG_1731837277521.png" group-title="DRAMA", CSI: NY
+https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
+
 
 
 #EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="DRAMA" , CSI Crime Scene Investigation
@@ -2272,7 +2318,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 #EXTINF:-1,  group-title="REALITY" ,
 
-
+#EXTINF:-1 channel-id="6565413e4261ca0008215320" tvg-id="6565413e4261ca0008215320" tvg-chno="1465" tvg-name="Pickers & Pawn" tvg-logo="https://images.pluto.tv/channels/6565413e4261ca0008215320/colorLogoPNG.png" group-title="REALITY", Pickers & Pawn
+https://jmp2.uk/plu-6565413e4261ca0008215320.m3u8
 
 #EXTINF:-1,  group-title="REALITY" ,
 
@@ -3441,6 +3488,7 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 
 
 
