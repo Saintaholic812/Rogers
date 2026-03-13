@@ -1549,8 +1549,6 @@ https://i.mjh.nz/.r/seinfeld-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-becker.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM" ,Cheers + Frasier
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66ba495ffe11e5000881f049/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 
 #EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="SITCOM", Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
@@ -1558,6 +1556,15 @@ https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 
 #EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==" group-title="SITCOM",Anger Management
 https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://db6iftd8li11q.cloudfront.net/AngerManagement_LGLaunch_Guide_Logo_White_800x200.png" group-title="SITCOM",Anger Management
+https://amg00353-lionsgatestudios-amg00353c4-lg-gb-863.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-angermanagementuk-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
+
+
+#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="SITCOM", Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_edf30b311bb543f4ae91306baafab311~mv2.jpg/v1/fill/w_273,h_273,al_c,lg_1,q_80,enc_avif,quality_auto/happydays21).jpg" group-title="SITCOM" , Happy Days
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e917b5e354cf0007b97a67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9cae61e-6671-48b9-8e36-973e2921034d
@@ -1583,8 +1590,6 @@ https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM" ,Beverly Hills 90210
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://db6iftd8li11q.cloudfront.net/AngerManagement_LGLaunch_Guide_Logo_White_800x200.png" group-title="SITCOM",Anger Management
-https://amg00353-lionsgatestudios-amg00353c4-lg-gb-863.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-angermanagementuk-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Lionsgate/AreWeThereYet_LG_200_logo.png" group-title="SITCOM",Are We There Yet?
 https://amg00353-lionsgatestudios-amg00353c5-lg-gb-864.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-arewethereyet-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -1592,8 +1597,6 @@ https://amg00353-lionsgatestudios-amg00353c5-lg-gb-864.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM",Pluto TV Sitcoms
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f53dc6ee9a0400071dc22b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="SITCOM", Happy Days
-https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
 
 #EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="SITCOM", Hogan's Heroes
@@ -2796,6 +2799,9 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999306
 #EXTINF:1,    tvg-logo="https://static.wixstatic.com/media/6048cf_e514f782835c434d8c65f94084a669f5~mv2.png/v1/fill/w_284,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/jamiechd.png"   group-title="COOKING",Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 channel-id="64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-chno="3470" tvg-name="The Jamie Oliver Channel" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="Home + Food", The Jamie Oliver Channel
+https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",The Cooking Channel
 https://tvpass.org/live/CookingChannel/hd
@@ -3488,7 +3494,6 @@ https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg159
 
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C3/TravelON_W_Widthx200.png"  group-title="TRAVEL" ,TravelON
 https://amg15905-k20-amg15905c3-lg-au-5401.playouts.now.amagi.tv/playlist/amg15905-mediacan-travelon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
 
 
 
