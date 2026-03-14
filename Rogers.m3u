@@ -765,6 +765,14 @@ https://b406660425ae4c31b6f3d40359f2d4eb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://lg-epg.muxip.com/channels/images/389/logo.png"group-title="SPORT"  ,Cricket Gold
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cricketgold&channel_id=newid_rt046&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=ea9db019-877db0d2-dbe6aa3d-95154e1d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
+#EXTINF:-1,tvg-logo="https://lg-epg.muxip.com/channels/images/389/logo.png" group-title="SPORT",  Cricket Gold (Australia)
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
+#EXTINF:-1, tvg-logo="https://lg-epg.muxip.com/channels/images/389/logo.png" group-title="SPORT", Cricket Gold (Australia) Test stream via Stirr source
+https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8
+
+#EXTINF:-1, tvg-logo="https://lg-epg.muxip.com/channels/images/389/logo.png" group-title="SPORT",  Cricket Gold (Australia) Test stream via Youtube
+https://ythls-v3.onrender.com/video/CeAgx48qQ3M.m3u8
 
 #############################################################
 #############################################################
@@ -1577,6 +1585,9 @@ https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
 
 
+#EXTINF:-1, tvg-logo="https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==" group-title="SITCOM",Anger Management
+ (Australia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 
 
 
@@ -2465,6 +2476,25 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Duck_Dynasty_Channel_Logo_Image_200x800.png"group-title="REALITY" ,Duck Dynasty
 https://amg00276-aenetwork-amg00276c2-lg-au-5155.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-duckdynasty-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
+#EXTINF:-1,tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Duck_Dynasty_Channel_Logo_Image_200x800.png"  group-title="REALITY" ,Duck Dynasty (Australia)
+https://d2wxbkuzb50ufu.cloudfront.net/playlist.m3u8
+
+
+
+
+#EXTINF:-1, group-title="REALITY"  Undercover Boss (Australia)
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, group-title="REALITY"  Hardcore Pawn (Australia) Geo
+https://amg00627-banijay-amg00627c8-samsung-au-1827.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungau/playlist.m3u8
+
+#EXTINF:-1, group-title="REALITY"   Hot Ones (Australia)
+https://d1si3n1st4nkgb.cloudfront.net/10000/89009008/hls/master.m3u8?ads.xumo_channelId=89009008
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/998-LG-Logo-PNG-100x100_v2.png"group-title="REALITY",Ax Men
 https://aenetworks.global.transmit.live/hls/68b761618762b0c1ea8af17e/v1/aenetworks_axmen_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=998&wurl_name=AxMen&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
