@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz", x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz",    x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, 
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz", x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz",    x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml"
 
 ##############################
 ##############################
@@ -1674,7 +1674,6 @@ https://i.mjh.nz/.r/10-becker.m3u8
 
 #EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="SITCOM", Cheers + Frasier
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
-
 
 
 
