@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz" "https://www.open-epg.com/files/unitedstates11.xml.gz" "https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
 
 ##############################
 ##############################
@@ -674,10 +674,10 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 
 
-#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 1
+#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 1
 https://tvpass.org/live/FoxSports1/hd
 
-#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 2 {AFL LIVE}
+#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-name="Fox Sports 2"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 2 {AFL LIVE}
 https://tvpass.org/live/FoxSports2/hd
 
 
