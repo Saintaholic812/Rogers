@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml.gz", x-tvg-url="https://i.mjh.nz/PlutoTV/gb.xml.gz",    x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",  x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz"
 
 ##############################
 ##############################
@@ -309,12 +309,6 @@ https://i.mjh.nz/.r/10shake-nsw.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-nsw.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-snowy-mountains" tvg-id="mjh-snowy-mountains" tvg-logo="https://i.mjh.nz/.images/smtv.png" group-title="Sydney" , Snowy Mountains Television
-#EXTVLCOPT:http-referrer=https://player.castr.com/
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-https://i.mjh.nz/.r/snowy-mountains.m3u8
 
 
 #EXTINF:-1 channel-id="mjh-abc-nsw" tvg-id="mjh-abc-nsw" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Sydney" , ABC TV Syd
@@ -630,7 +624,7 @@ https://amg00585-amg00585c5-sportstribal-emea-2944.playouts.now.amagi.tv/playlis
 ####################################################
 ###################################################
 
-#EXTINF:-1 channel-id="262b9a3f6220e5c070cb0ab316ee1128" tvg-id="262b9a3f6220e5c070cb0ab316ee1128" tvg-chno="221" tvg-name="PBR: Ride Pass" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="SPORT",PBR: Ride Pass
+#EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="221" tvg-name="PBR: Ride Pass" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="SPORT",PBR: Ride Pass
 https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8
 
 #EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="2840" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="SPORT", PBR RidePass
@@ -670,7 +664,7 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 ################################################
 
 
-#EXTINF:-1 channel-id="0fc01f1136055d89bae495ba92eff445" tvg-id="0fc01f1136055d89bae495ba92eff445" tvg-chno="226" tvg-name="FOX Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT",FOX Sports
+#EXTINF:-1 channel-id="640a68880e884c0009979cc2" tvg-id="640a68880e884c0009979cc2" tvg-chno="226" tvg-name="FOX Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 
 
@@ -701,48 +695,48 @@ https://tvpass.org/live/ESPNU/hd
 #EXTINF:-1  "tvg-logo="https://static.wixstatic.com/media/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg/v1/fill/w_192,h_160,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg" group-title="SPORT",Yes Network
 https://tvpass.org/live/yes-network/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
+#EXTINF:-1  tvg-id="tsn1" tvg-name="TSN1", tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
 https://tvpass.org/live/tsn1/sd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 PPV
+#EXTINF:-1  tvg-id="tsn2" tvg-name="TSN2", tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 PPV
 https://tvpass.org/live/tsn2/hd
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 PPV
+#EXTINF:-1  tvg-id="tsn3" tvg-name="TSN3",  tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 PPV
 https://tvpass.org/live/tsn3/hd
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 PPV
+#EXTINF:-1  tvg-id="tsn4" tvg-name="TSN4", tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 PPV
 https://tvpass.org/live/tsn4/hd
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 PPV
+#EXTINF:-1  tvg-id="tsn5" tvg-name="TSN5",  tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 PPV
 https://tvpass.org/live/tsn5/hd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_927f060d32084f538f28ab88df60ed64~mv2.jpg/v1/fill/w_508,h_164,al_c,lg_1,q_80,enc_avif,quality_auto/msgmadisond%20(1).jpg"   group-title="SPORT",MSG Madison Square Gardens
 https://tvpass.org/live/msg-madison-square-gardens/hd
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_aa64a8e06fc24cb4a40d6188b2ba8d31~mv2.png/v1/fill/w_363,h_271,al_c,lg_1,q_85,enc_avif,quality_auto/cbssports.png" group-title="SPORT",CBS Sports
+#EXTINF:-1  tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA",  tvg-logo="https://static.wixstatic.com/media/6048cf_aa64a8e06fc24cb4a40d6188b2ba8d31~mv2.png/v1/fill/w_363,h_271,al_c,lg_1,q_85,enc_avif,quality_auto/cbssports.png" group-title="SPORT",CBS Sports
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3d6caa9d5b8a4aeda556588f0b3ff4cb~mv2.jpg/v1/fill/w_352,h_242,al_c,lg_1,q_80,enc_avif,quality_auto/chicargo1).jpg" group-title="SPORT",Chicago Sports Network
+#EXTINF:-1  tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_3d6caa9d5b8a4aeda556588f0b3ff4cb~mv2.jpg/v1/fill/w_352,h_242,al_c,lg_1,q_80,enc_avif,quality_auto/chicargo1).jpg" group-title="SPORT",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports
+#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Boston
+#EXTINF:-1  tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Boston
 https://tvpass.org/live/nbc-sports-boston/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports California
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California",   tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports California
 https://tvpass.org/live/nbc-sports-california/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Philadelphia
+#EXTINF:-1  tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Philadelphia
 https://tvpass.org/live/nbc-sports-philadelphia/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b93e3110fc394937943cd2c14dddfff8~mv2.png/v1/fill/w_418,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/nesnd.png" group-title="SPORT",New England Sports Network
+#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_b93e3110fc394937943cd2c14dddfff8~mv2.png/v1/fill/w_418,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/nesnd.png" group-title="SPORT",New England Sports Network
 https://tvpass.org/live/new-england-sports-network/hd
 
 
@@ -1637,10 +1631,10 @@ https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scrip
 ###################################
 ###################################
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="SITCOM",A&E 
+#EXTINF:-1  tvg-id="ae-us-eastern-feed", tvg-name="A&E US Eastern Feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="SITCOM",A&E 
 https://tvpass.org/live/AEEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4498c0f800714498a594ac96f8f891f8~mv2.png/v1/fill/w_482,h_204,al_c,lg_1,q_85,enc_avif,quality_auto/tbs.png" group-title="SITCOM",TBS
+#EXTINF:-1  tvg-id="tbs-east", tvg-name="TBS East",  tvg-logo="https://static.wixstatic.com/media/6048cf_4498c0f800714498a594ac96f8f891f8~mv2.png/v1/fill/w_482,h_204,al_c,lg_1,q_85,enc_avif,quality_auto/tbs.png" group-title="SITCOM",TBS
 https://tvpass.org/live/TBSEast/hd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="SITCOM",TV Land
@@ -3235,70 +3229,71 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgu
 #############################
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d9c367cf935648a6a4e47ea5e12f6021~mv2.png/v1/fill/w_374,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/fx%20moviesd.png" group-title="MOVIES",FX Movie Channel
+#EXTINF:-1  tvg-id="fx-movie-channel" tvg-name="FX Movie Channel",  tvg-logo="https://static.wixstatic.com/media/6048cf_d9c367cf935648a6a4e47ea5e12f6021~mv2.png/v1/fill/w_374,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/fx%20moviesd.png" group-title="MOVIES",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime 
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed",   tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime 
 https://tvpass.org/live/ShowtimeEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_849cf88ab11a4639bde0af0d0dee475f~mv2.png/v1/fill/w_486,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime2.png" group-title="MOVIES",Showtime 2
+#EXTINF:-1  tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_849cf88ab11a4639bde0af0d0dee475f~mv2.png/v1/fill/w_486,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime2.png" group-title="MOVIES",Showtime 2
 https://tvpass.org/live/Showtime2East/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_13afd85d5d934bb297f85918f43f9c7b~mv2.png/v1/fill/w_334,h_268,al_c,lg_1,q_85,enc_avif,quality_auto/fxnet.png" group-title="MOVIES",FX Networks
+#EXTINF:-1  tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast",  tvg-logo="https://static.wixstatic.com/media/6048cf_13afd85d5d934bb297f85918f43f9c7b~mv2.png/v1/fill/w_334,h_268,al_c,lg_1,q_85,enc_avif,quality_auto/fxnet.png" group-title="MOVIES",FX Networks
 https://tvpass.org/live/FXEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="MOVIES",FXX USA
+#EXTINF:-1  tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="MOVIES",FXX USA
 https://tvpass.org/live/FXXEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="MOVIES",FYI USA
+#EXTINF:-1  tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern",    tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="MOVIES",FYI USA
 https://tvpass.org/live/FYIEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ab5442a1c2794757ac34604ad5ffcaec~mv2.png/v1/fill/w_374,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkd.png" group-title="MOVIES",Hallmark 
+#EXTINF:-1  tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_ab5442a1c2794757ac34604ad5ffcaec~mv2.png/v1/fill/w_374,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkd.png" group-title="MOVIES",Hallmark 
 https://tvpass.org/live/HallmarkChannelEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2c5abbfcdfa5485e8d1a9d378fcbc86f~mv2.png/v1/fill/w_414,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkfamily.png" group-title="MOVIES",Hallmark Family HD
+
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD", tvg-logo="https://static.wixstatic.com/media/6048cf_2c5abbfcdfa5485e8d1a9d378fcbc86f~mv2.png/v1/fill/w_414,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkfamily.png" group-title="MOVIES",Hallmark Family HD
 https://tvpass.org/live/HallmarkDrama/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9cf445f38c0f4e92a6709d798361cf2a~mv2.png/v1/fill/w_511,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/hallmark%20mysteryd.png" group-title="MOVIES",Hallmark Mystery 
+#EXTINF:-1  tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" ,,   tvg-logo="https://static.wixstatic.com/media/6048cf_9cf445f38c0f4e92a6709d798361cf2a~mv2.png/v1/fill/w_511,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/hallmark%20mysteryd.png" group-title="MOVIES",Hallmark Mystery 
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO
 https://tvpass.org/live/HBOEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2
+#EXTINF:-1  tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed",   tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2
 https://tvpass.org/live/HBO2East/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b81e70d4384949ee9e302286940f1be5~mv2.png/v1/fill/w_282,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbocomedyd.png" group-title="MOVIES",HBO Comedy HD
+#EXTINF:-1  tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East",  tvg-logo="https://static.wixstatic.com/media/6048cf_b81e70d4384949ee9e302286940f1be5~mv2.png/v1/fill/w_282,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbocomedyd.png" group-title="MOVIES",HBO Comedy HD
 https://tvpass.org/live/HBOComedyEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_5ea4e7d09f9e416a8a3a14a4042b02df~mv2.png/v1/fill/w_358,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hbofamilyd.png" group-title="MOVIES",HBO Family
+#EXTINF:-1  tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed",   tvg-logo="https://static.wixstatic.com/media/6048cf_5ea4e7d09f9e416a8a3a14a4042b02df~mv2.png/v1/fill/w_358,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hbofamilyd.png" group-title="MOVIES",HBO Family
 https://tvpass.org/live/HBOFamilyEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_a29283c9360e453192782b9153f8ad2a~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/hbosigd.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1  tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_a29283c9360e453192782b9153f8ad2a~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/hbosigd.png" group-title="MOVIES",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO Zone HD East
+#EXTINF:-1  tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East",  tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO Zone HD East
 https://tvpass.org/live/HBOZoneEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime Movies
+#EXTINF:-1   tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime Movies
 https://tvpass.org/live/LifetimeMoviesEast/sd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime
+#EXTINF:-1  tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime
 https://tvpass.org/live/LifetimeEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz
+#EXTINF:-1  tvg-id="starz-eastern" tvg-name="Starz Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz
 https://tvpass.org/live/StarzEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_33ff5c5c8d864b898e32c1a3bfb1306e~mv2.png/v1/fill/w_350,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/sundanced.png" group-title="MOVIES",SundanceTV
+#EXTINF:-1  tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East",  tvg-logo="https://static.wixstatic.com/media/6048cf_33ff5c5c8d864b898e32c1a3bfb1306e~mv2.png/v1/fill/w_350,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/sundanced.png" group-title="MOVIES",SundanceTV
 https://tvpass.org/live/SundanceTVEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1455eb9caa99403ebd5fc878a9025345~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/tcmd.png" group-title="MOVIES",Turner Classic Movies USA
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/6048cf_1455eb9caa99403ebd5fc878a9025345~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/tcmd.png" group-title="MOVIES",Turner Classic Movies USA
 https://tvpass.org/live/TCMEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b12efa3befbb43d4a03b7c6871c80e0e~mv2.png/v1/fill/w_370,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/cinemax.png" group-title="MOVIES",Cinemax
+#EXTINF:-1   tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_b12efa3befbb43d4a03b7c6871c80e0e~mv2.png/v1/fill/w_370,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/cinemax.png" group-title="MOVIES",Cinemax
 https://tvpass.org/live/CinemaxEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png" group-title="MOVIES",MovieMax
+#EXTINF:-1  tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East",  tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png" group-title="MOVIES",MovieMax
 https://tvpass.org/live/MovieMaxEast/hd
 
 #EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="MOVIES" , All-Star Cinema
@@ -3561,10 +3556,10 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 ############################
 
 
-#EXTINF:-1 channel-id="Sky News Australia SKY.au" tvg-id="Sky News Australia SKY.au", tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/Sky_News/SNN800x200px.png", group-title=NEWS , Sky News Australia
+#EXTINF:-1 channel-id="AU - Sky News Australia" tvg-id="AU - Sky News Australia", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", group-title=NEWS , Sky News Australia
 https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist/amg00663-australiannewschannelptyltdfast-skynews-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-#EXTINF:-1 channel-id="Sky News Australia SKY.au", tvg-id="Sky News Australia SKY.au", tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="NEWS" , Sky News Australia
+#EXTINF:-1 channel-id="AU - Sky News Australia" tvg-id="AU - Sky News Australia", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", group-title="NEWS" , Sky News Australia
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
