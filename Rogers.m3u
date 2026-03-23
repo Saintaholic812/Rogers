@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",  x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz", x-tvg-url="https://techzyon.com/epg/xumo_guide.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",  x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz", x-tvg-url="https://techzyon.com/epg/xumo_guide.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
+
 
 ##############################
 ##############################
@@ -1637,22 +1638,22 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1  tvg-id="tbs-east", tvg-name="TBS East",  tvg-logo="https://static.wixstatic.com/media/6048cf_4498c0f800714498a594ac96f8f891f8~mv2.png/v1/fill/w_482,h_204,al_c,lg_1,q_85,enc_avif,quality_auto/tbs.png" group-title="SITCOM",TBS
 https://tvpass.org/live/TBSEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="SITCOM",TV Land
+#EXTINF:-1  tvg-id="tv-land-eastern" tvg-name="TV Land Eastern", tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="SITCOM",TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="SITCOM",TV One
+#EXTINF:-1   tvg-id="tv-one" tvg-name="TV One", tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="SITCOM",TV One
 https://tvpass.org/live/TVOne/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="SITCOM",VH1
+#EXTINF:-1  tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="SITCOM",VH1
 https://tvpass.org/live/VH1East/hd
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_65071dc575b4477b96d57522ad36af6e~mv2.png/v1/fill/w_536,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/comedy%20central.png" group-title="SITCOM",Comedy Central
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_65071dc575b4477b96d57522ad36af6e~mv2.png/v1/fill/w_536,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/comedy%20central.png" group-title="SITCOM",Comedy Central
 https://tvpass.org/live/ComedyCentralEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_364,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="SITCOM",Bravo USA
+#EXTINF:-1  tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_364,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="SITCOM",Bravo USA
 https://tvpass.org/live/BravoEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_a6aee46a6e4c43e5bb9608aac36ebc38~mv2.png/v1/fill/w_308,h_154,al_c,lg_1,q_85,enc_avif,quality_auto/moremax.png" group-title="SITCOM",MoreMax
+#EXTINF:-1  tvg-id="moremax-eastern" tvg-name="MoreMax Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_a6aee46a6e4c43e5bb9608aac36ebc38~mv2.png/v1/fill/w_308,h_154,al_c,lg_1,q_85,enc_avif,quality_auto/moremax.png" group-title="SITCOM",MoreMax
 https://tvpass.org/live/MoreMaxEast/hd
 
 #EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="SITCOM" , Seinfeld
@@ -1682,7 +1683,7 @@ https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-999
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/732/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n4=content_name&ads.v4=Trailer%20Park%20Boys&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=ifa_type&ads.v22=&ads.n23=pos&ads.v23=midroll&ads.n24=device_type&ads.v24=&ads.n25=url&ads.v25=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n26=app_store_url&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=content_provider&ads.v28=trailer-park-boys&ads.n29=w&ads.v29=1920&ads.n30=channel_corp&ads.v30=Shout%21%20Factory%20LLC&ads.n31=gpp_sid&ads.v31=&ads.n32=content_livestream&ads.v32=1&ads.n33=channel_id&ads.v33=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n34=content_type&ads.v34=channel&ads.n35=gpp&ads.v35=&ads.n36=content_custom_2_param&ads.v36=AMDB013524&ads.n37=channel_genre&ads.v37=Comedy&ads.n38=channel_name&ads.v38=Trailer%20Park%20Boys&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=device_make&ads.v40=&ads.n41=did&ads.v41=&ads.n42=cust_devicename&ads.v42=desktop_web&ads.n43=app_name&ads.v43=&ads.n44=channel_company_id&ads.v44=AMDP500152&ads.n45=dnt&ads.v45=&ads.n46=network_name&ads.v46=trailer-park-boys&ads.n47=ua&ads.v47=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n48=device_model&ads.v48=&ads.n49=channel_brand_id&ads.v49=AMDB013524&ads.n50=app_version&ads.v50=0.0.0&ads.n51=content_producer_name&ads.v51=Shout%21%20Factory%20LLC&ads.n52=ip&ads.v52=86.48.9.131&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=channel_language&ads.v54=en&ads.n55=app_bundle&ads.v55=&ads.n56=channel_title&ads.v56=Trailer%20Park%20Boys&ads.n57=content_custom_1_param&ads.v57=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n58=channel_ext_id&ads.v58=
 
 
-#EXTINF:-1 channel-id="5f77939a630f530007dde654" tvg-id="5f77939a630f530007dde654" tvg-chno="315" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="SITCOM", Family Ties
+#EXTINF:-1 channel-id="5f77939a630f530007dde654" tvg-id="5f77939a630f530007dde654", tvg-chno="315" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="SITCOM", Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
 
@@ -1872,13 +1873,7 @@ https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993063/600x200.png?type=white_cropped" group-title="DRAMA",Law & Order
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993063/hls/master.m3u8?ads.xumo_channelId=99993063&ads.channelId=99993063&ads.afid=444754633&ads.sfid=23912191&ads.csid=lgchannels_us_nbculaworder_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=4303&ads.xumo_contentName=NBCULawOrder&ads.xumo_providerId=4303&ads.xumo_providerName=NBCULawOrder&ads.asnw=169843&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]
 
-#EXTINF:-1 channel-id="68758038552299d2b08162e3" tvg-id="68758038552299d2b08162e3" tvg-chno="995" tvg-name="Law & Order" tvg-logo="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png" group-title="DRAMA", Law & Order
-https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
 
-
-
-#EXTINF:-1 channel-id="68758038552299d2b08162e3" tvg-id="68758038552299d2b08162e3" tvg-chno="995" tvg-name="Law & Order" tvg-logo="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png" group-title="DRAMA", Law & Order
-https://jmp2.uk/plu-68758038552299d2b08162e3.m3u8
 
 #EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="DRAMA" , CSI Crime Scene Investigation
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -1907,7 +1902,7 @@ https://jmp2.uk/plu-63d000ef4e83e700086e0d6c.m3u8
 #EXTINF:-1 channel-id="68503d585965a2fd49fc2f0b" tvg-id="68503d585965a2fd49fc2f0b" tvg-chno="250" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/68503d585965a2fd49fc2f0b/colorLogoPNG_1750164241502.png" group-title="DRAMA", MacGyver
 https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A2206C2C-DD1C-423A-9290-99E6B308C3CB/3-1x1.png" tvg-id="LN_A2206C2C-DD1C-423A-9290-99E6B308C3CB" group-title="DRAMA",21 Jump Street
+#EXTINF:-1  channel id="USBB320000397", tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A2206C2C-DD1C-423A-9290-99E6B308C3CB/3-1x1.png" tvg-id="LN_A2206C2C-DD1C-423A-9290-99E6B308C3CB" group-title="DRAMA",21 Jump Street
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/dist/localnow/915/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n4=content_name&ads.v4=21%20Jump%20Street&ads.n21=network_name&ads.v21=21-jump-street&ads.n22=content_custom_2_param&ads.v22=AMDB013565&ads.n23=cust_devicename&ads.v23=desktop_web&ads.n24=gpp_sid&ads.v24=&ads.n25=channel_name&ads.v25=21%20Jump%20Street&ads.n26=channel_id&ads.v26=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n27=channel_title&ads.v27=21%20Jump%20Street&ads.n28=pos&ads.v28=midroll&ads.n29=device_type&ads.v29=&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=channel_language&ads.v31=en&ads.n32=content_type&ads.v32=channel&ads.n33=ifa_type&ads.v33=&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=app_store_url&ads.v35=&ads.n36=ip&ads.v36=86.48.9.131&ads.n37=content_producer_name&ads.v37=Shout%21%20Factory%20LLC&ads.n38=device_model&ads.v38=&ads.n39=channel_company_id&ads.v39=AMDP500152&ads.n40=did&ads.v40=&ads.n41=device_make&ads.v41=&ads.n42=channel_brand_id&ads.v42=AMDB013565&ads.n43=content_custom_1_param&ads.v43=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n44=w&ads.v44=1920&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=channel_ext_id&ads.v47=&ads.n48=app_bundle&ads.v48=&ads.n49=us_privacy&ads.v49=1YNY&ads.n50=h&ads.v50=1080&ads.n51=content_provider&ads.v51=21-jump-street&ads.n52=app_version&ads.v52=0.0.0&ads.n53=gpp&ads.v53=&ads.n54=channel_corp&ads.v54=Shout%21%20Factory%20LLC&ads.n55=app_name&ads.v55=&ads.n56=channel_genre&ads.v56=Drama&ads.n57=dnt&ads.v57=&ads.n58=content_livestream&ads.v58=1
 
 
@@ -3558,13 +3553,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 ############################
 
 
-#EXTINF:-1 channel-id="AU - Sky News Australia" tvg-id="AU - Sky News Australia", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", group-title=NEWS , Sky News Australia
-https://amg00663-skynewsau-amg00663c1-lg-au-4519.playouts.now.amagi.tv/playlist/amg00663-australiannewschannelptyltdfast-skynews-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1 channel-id="AU - Sky News Australia" tvg-id="AU - Sky News Australia", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", group-title="NEWS" , Sky News Australia
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-news-now.m3u8
+#EXTINF:-1  channel-id="AU - Sky News Australia" tvg-id="AU - Sky News Australia", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", Sky News Australia
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 
 #EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NEWS" , 7NEWS Spotlight
