@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",  x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz", url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",  x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz", x-tvg-url="https://techzyon.com/epg/xumo_guide.xml"
 
 ##############################
 ##############################
@@ -3301,10 +3301,10 @@ https://tvpass.org/live/MovieMaxEast/hd
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/all-starcinema-fast.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/MovieSphere_Intl_LGLaunch_Guide_Logo_Color_400x200.png" group-title="MOVIES",Moviesphere AUS
+#EXTINF:-1  channel id="MovieSphere.au",  tvg-logo="https://iptv-epg.org/logos/Australia/MovieSphere.au.png" group-title="MOVIES",Moviesphere AUS
 https://amg00353-amg00353c26-lg-au-3435.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphereaus-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://d23edfjfpc1xrv.cloudfront.net/MT_logo_200x200.png"group-title="MOVIES" ,MyTime Movie Network
+#EXTINF:-1  channel id="MyTimeMovieNetwork.us",  tvg-logo="https://iptv-epg.org/logos/USA/MyTimeMovieNetwork.us.png",  group-title="MOVIES" ,MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovient-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1019-LG-Logo-PNG-100x100_v1.png"group-title="MOVIES" ,Sparkle Movies - Light & Love
@@ -3388,8 +3388,10 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1
 https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 
-#EXTINF:-1 tvg-id="670604" tvg-logo="https://canvas-lb.tubitv.com/opts/4n7t3rFIeOIn9w==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Deal or No Deal USA
+#EXTINF:-1  tvg-logo="https://canvas-lb.tubitv.com/opts/4n7t3rFIeOIn9w==/78811e2c-60c2-4e88-ac2b-c083848b67ce/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Deal or No Deal USA
 https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
+ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
 
 
 
