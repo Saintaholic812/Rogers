@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz",  x-tvg-url="https://www.open-epg.com/files/australia2.xml.gz", x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz", x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",   x-tvg-url="https://techzyon.com/epg/xumo_guide.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
+#EXTM3U  x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, tvg-url="https://www.open-epg.com/files/australia3.xml.gz",  tvg-url="https://www.open-epg.com/files/australia2.xml.gz", tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml",url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz", tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz",  tvg-url="https://i.mjh.nz/au/all/epg.xml.gz, tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml",x-tvg-url="https://tvpass.org/epg.xml", tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",   x- tvg-url="https://techzyon.com/epg/xumo_guide.xml", tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
+
+
 
 
 ##############################
@@ -3533,9 +3535,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 ############################
 
 
-#EXTINF:-1  channel-id="AU - Sky News Australia" tvg-id="AU - Sky News Australia", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png",group-title="NEWS" , Sky News Australia
+#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", group-title="NEWS" ,Sky News Australia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-
 
 
 #EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NEWS" , 7NEWS Spotlight
