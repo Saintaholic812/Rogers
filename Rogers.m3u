@@ -701,14 +701,39 @@ https://tvpass.org/live/yes-network/hd
 #EXTINF:-1  tvg-id="tsn1" tvg-name="TSN1", tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
 https://tvpass.org/live/tsn1/sd
 
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1
+http://xxip25.top:8080/s5pPNV/514479/47440
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 
+http://xxip25.top:8080/s5pPNV/514479/47442
+
 #EXTINF:-1  tvg-id="tsn2" tvg-name="TSN2", tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 PPV
 https://tvpass.org/live/tsn2/hd
+
+
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3
+http://xxip25.top:8080/s5pPNV/514479/47444
 
 #EXTINF:-1  tvg-id="tsn3" tvg-name="TSN3",  tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 PPV
 https://tvpass.org/live/tsn3/hd
 
 #EXTINF:-1  tvg-id="tsn4" tvg-name="TSN4", tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 PPV
 https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4
+http://xxip25.top:8080/s5pPNV/514479/66783
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 (B)" tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4
+http://xxip25.top:8080/s5pPNV/514479/47446
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5
+http://xxip25.top:8080/s5pPNV/514479/57467
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5
+http://xxip25.top:8080/s5pPNV/514479/57295
+
+
+
 
 #EXTINF:-1  tvg-id="tsn5" tvg-name="TSN5",  tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 PPV
 https://tvpass.org/live/tsn5/hd
@@ -1415,9 +1440,44 @@ https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #############################
 #############################
 
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="MOVIES", SKY CINEMA ACTION FHD
+http://xxip25.top:8080/s5pPNV/514479/35254
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIES", SKY CINEMA DRAMA
+http://xxip25.top:8080/s5pPNV/514479/35251
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD  " tvg-logo="" group-title="MOVIES",Sky Cinema Scifi & Horror FHD  
+http://xxip25.top:8080/s5pPNV/514479/35248
+
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="" group-title="MOVIES",SKY COMEDY
+http://xxip25.top:8080/s5pPNV/514479/35253
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE", SKY CRIME THRILLER
+http://xxip25.top:8080/s5pPNV/514479/35252
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIES", SKY GREATS
+http://xxip25.top:8080/s5pPNV/514479/35249
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIES",Sky Cinema Premier
+http://xxip25.top:8080/s5pPNV/514479/35256
+
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD " tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIE NETWORKS", SONY Movies FHD 
+http://xxip25.top:8080/s5pPNV/514479/2214
+
+
 
 #EXTINF:-1  tvg-id="fx-movie-channel" tvg-name="FX Movie Channel",  tvg-logo="https://static.wixstatic.com/media/6048cf_d9c367cf935648a6a4e47ea5e12f6021~mv2.png/v1/fill/w_374,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/fx%20moviesd.png" group-title="MOVIES",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/hd
+
+#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA: FX HD" tvg-logo="https://static.wixstatic.com/media/6048cf_d9c367cf935648a6a4e47ea5e12f6021~mv2.png/v1/fill/w_374,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/fx%20moviesd.png" group-title="MOVIES",FX Channel
+http://xxip25.top:8080/s5pPNV/514479/57268
+
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " tvg-logo="https://static.wixstatic.com/media/6048cf_13afd85d5d934bb297f85918f43f9c7b~mv2.png/v1/fill/w_334,h_268,al_c,lg_1,q_85,enc_avif,quality_auto/fxnet.png" group-title="MOVIES",FXX 
+http://xxip25.top:8080/s5pPNV/514479/57429
+
+#EXTINF:-1  tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast",  tvg-logo="https://static.wixstatic.com/media/6048cf_13afd85d5d934bb297f85918f43f9c7b~mv2.png/v1/fill/w_334,h_268,al_c,lg_1,q_85,enc_avif,quality_auto/fxnet.png" group-title="MOVIES",FX Networks
+https://tvpass.org/live/FXEast/hd
+
 
 #EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed",   tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime 
 https://tvpass.org/live/ShowtimeEast/hd
@@ -1425,8 +1485,6 @@ https://tvpass.org/live/ShowtimeEast/hd
 #EXTINF:-1  tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_849cf88ab11a4639bde0af0d0dee475f~mv2.png/v1/fill/w_486,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime2.png" group-title="MOVIES",Showtime 2
 https://tvpass.org/live/Showtime2East/hd
 
-#EXTINF:-1  tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast",  tvg-logo="https://static.wixstatic.com/media/6048cf_13afd85d5d934bb297f85918f43f9c7b~mv2.png/v1/fill/w_334,h_268,al_c,lg_1,q_85,enc_avif,quality_auto/fxnet.png" group-title="MOVIES",FX Networks
-https://tvpass.org/live/FXEast/hd
 
 
 #EXTINF:-1  tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_ab5442a1c2794757ac34604ad5ffcaec~mv2.png/v1/fill/w_374,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkd.png" group-title="MOVIES",Hallmark 
@@ -1438,6 +1496,13 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 
 #EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO
 https://tvpass.org/live/HBOEast/hd
+
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA: HBO 1 " tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO
+http://xxip25.top:8080/s5pPNV/514479/57437
+
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA HBO 2 (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2
+http://xxip25.top:8080/s5pPNV/514479/57438
+
 
 #EXTINF:-1  tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed",   tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2
 https://tvpass.org/live/HBO2East/hd
@@ -1462,6 +1527,10 @@ https://tvpass.org/live/LifetimeEast/hd
 
 #EXTINF:-1  tvg-id="starz-eastern" tvg-name="Starz Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz
 https://tvpass.org/live/StarzEast/hd
+
+
+
+
 
 #EXTINF:-1  tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East",  tvg-logo="https://static.wixstatic.com/media/6048cf_33ff5c5c8d864b898e32c1a3bfb1306e~mv2.png/v1/fill/w_350,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/sundanced.png" group-title="MOVIES",SundanceTV
 https://tvpass.org/live/SundanceTVEast/hd
@@ -1554,6 +1623,273 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/p
 https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1467&wurl_name=Crunchyroll&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 
+########################################
+########################################
+###########   ENTERTAINMENT     ########
+########################################
+########################################
+
+
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="" group-title="Entertainment", A&E
+http://xxip25.top:8080/s5pPNV/514479/57476
+
+#EXTINF:-1  tvg-id="ae-us-eastern-feed", tvg-name="A&E US Eastern Feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" " group-title="Entertainment",A&E 
+https://tvpass.org/live/AEEast/hd
+
+
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " tvg-logo="" group-title="Entertainment", A&E 
+http://xxip25.top:8080/s5pPNV/514479/57264
+
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA: ABC SPARK" tvg-logo="" group-title="Entertainment", ABC SPARK
+http://xxip25.top:8080/s5pPNV/514479/57375
+
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="" group-title="Entertainment", AMC
+http://xxip25.top:8080/s5pPNV/514479/57376
+
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" tvg-logo="" group-title="Entertainment", Bravo
+http://xxip25.top:8080/s5pPNV/514479/57379
+
+#EXTINF:-1  tvg-id="ae-us-eastern-feed", tvg-name="A&E US Eastern Feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" " group-title="Entertainment",A&E 
+https://tvpass.org/live/AEEast/hd
+
+
+#EXTINF:-1  tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX USA
+https://tvpass.org/live/FXXEast/hd
+
+#EXTINF:-1  tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern",    tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="Entertainment",FYI USA
+https://tvpass.org/live/FYIEast/hd
+
+
+
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD", tvg-logo="https://static.wixstatic.com/media/6048cf_2c5abbfcdfa5485e8d1a9d378fcbc86f~mv2.png/v1/fill/w_414,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkfamily.png" group-title="Entertainment",Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/hd
+
+
+#EXTINF:-1  tvg-id="tbs-east", tvg-name="TBS East",  tvg-logo="https://static.wixstatic.com/media/6048cf_4498c0f800714498a594ac96f8f891f8~mv2.png/v1/fill/w_482,h_204,al_c,lg_1,q_85,enc_avif,quality_auto/tbs.png" group-title="Entertainment",TBS
+https://tvpass.org/live/TBSEast/hd
+
+#EXTINF:-1  tvg-id="tv-land-eastern" tvg-name="TV Land Eastern", tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="Entertainment",TV Land
+https://tvpass.org/live/tv-land-eastern/hd
+
+#EXTINF:-1   tvg-id="tv-one" tvg-name="TV One", tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="Entertainment",TV One
+https://tvpass.org/live/TVOne/hd
+
+#EXTINF:-1  tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="Entertainment",VH1
+https://tvpass.org/live/VH1East/hd
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_65071dc575b4477b96d57522ad36af6e~mv2.png/v1/fill/w_536,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/comedy%20central.png" group-title="Entertainment",Comedy Central
+https://tvpass.org/live/ComedyCentralEast/hd
+
+#EXTINF:-1  tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_364,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="Entertainment",Bravo USA
+https://tvpass.org/live/BravoEast/hd
+
+#EXTINF:-1  tvg-id="moremax-eastern" tvg-name="MoreMax Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_a6aee46a6e4c43e5bb9608aac36ebc38~mv2.png/v1/fill/w_308,h_154,al_c,lg_1,q_85,enc_avif,quality_auto/moremax.png" group-title="Entertainment",MoreMax
+https://tvpass.org/live/MoreMaxEast/hd
+
+#EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="Entertainment" , Seinfeld
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/seinfeld-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="Entertainment" , Becker
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-becker.m3u8
+
+
+#EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Entertainment", Cheers + Frasier
+https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==" group-title="Entertainment",Anger Management
+https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D69A4E6E-AF54-4F38-BA4C-AD7246522B51/3-1x1.png" tvg-id="LN_D69A4E6E-AF54-4F38-BA4C-AD7246522B51" group-title="Entertainment",Trailer Park Boys
+https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/732/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n4=content_name&ads.v4=Trailer%20Park%20Boys&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=ifa_type&ads.v22=&ads.n23=pos&ads.v23=midroll&ads.n24=device_type&ads.v24=&ads.n25=url&ads.v25=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n26=app_store_url&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=content_provider&ads.v28=trailer-park-boys&ads.n29=w&ads.v29=1920&ads.n30=channel_corp&ads.v30=Shout%21%20Factory%20LLC&ads.n31=gpp_sid&ads.v31=&ads.n32=content_livestream&ads.v32=1&ads.n33=channel_id&ads.v33=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n34=content_type&ads.v34=channel&ads.n35=gpp&ads.v35=&ads.n36=content_custom_2_param&ads.v36=AMDB013524&ads.n37=channel_genre&ads.v37=Comedy&ads.n38=channel_name&ads.v38=Trailer%20Park%20Boys&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=device_make&ads.v40=&ads.n41=did&ads.v41=&ads.n42=cust_devicename&ads.v42=desktop_web&ads.n43=app_name&ads.v43=&ads.n44=channel_company_id&ads.v44=AMDP500152&ads.n45=dnt&ads.v45=&ads.n46=network_name&ads.v46=trailer-park-boys&ads.n47=ua&ads.v47=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n48=device_model&ads.v48=&ads.n49=channel_brand_id&ads.v49=AMDB013524&ads.n50=app_version&ads.v50=0.0.0&ads.n51=content_producer_name&ads.v51=Shout%21%20Factory%20LLC&ads.n52=ip&ads.v52=86.48.9.131&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=channel_language&ads.v54=en&ads.n55=app_bundle&ads.v55=&ads.n56=channel_title&ads.v56=Trailer%20Park%20Boys&ads.n57=content_custom_1_param&ads.v57=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n58=channel_ext_id&ads.v58=
+
+
+#EXTINF:-1 channel-id="5f77939a630f530007dde654" tvg-id="5f77939a630f530007dde654", tvg-chno="315" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Entertainment", Family Ties
+https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
+
+
+
+
+
+#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="Entertainment", Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
+
+#EXTINF:-1 channel-id="ab47c5037be851e6a929a4d09daafeac" tvg-id="ab47c5037be851e6a929a4d09daafeac" tvg-chno="331" tvg-name="Baywatch" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="Entertainment",Baywatch
+https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CB5CDBE8-57CC-42D0-BED6-E5979B26EE80/3-1x1.png" tvg-id="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80" group-title="Entertainment",Mr. Bean Live Action
+https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/master.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n4=content_name&ads.v4=Mr.%20Bean%20Live%20Action&ads.n21=channel_title&ads.v21=Mr.%20Bean%20Live%20Action&ads.n22=content_producer_name&ads.v22=Banijay%20Rights%20LTD&ads.n23=h&ads.v23=1080&ads.n24=device_model&ads.v24=&ads.n25=gpp&ads.v25=&ads.n26=device_type&ads.v26=&ads.n27=ip&ads.v27=86.48.9.131&ads.n28=content_type&ads.v28=channel&ads.n29=content_custom_2_param&ads.v29=AMDB013679&ads.n30=pos&ads.v30=midroll&ads.n31=content_custom_1_param&ads.v31=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n32=channel_ext_id&ads.v32=&ads.n33=network_name&ads.v33=mr-bean-live-action&ads.n34=ua&ads.v34=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n35=channel_language&ads.v35=en&ads.n36=app_store_url&ads.v36=&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=device_make&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=channel_brand_id&ads.v41=AMDB013679&ads.n42=channel_name&ads.v42=Mr.%20Bean%20Live%20Action&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=channel_corp&ads.v44=Banijay%20Rights%20LTD&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=app_bundle&ads.v46=&ads.n47=dnt&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=app_name&ads.v49=&ads.n50=channel_id&ads.v50=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n51=ifa_type&ads.v51=&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_genre&ads.v54=Comedy&ads.n55=content_provider&ads.v55=mr-bean-live-action&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=channel_company_id&ads.v57=AMDP500504&ads.n58=did&ads.v58
+
+
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/38D9E180-1A43-439F-800D-74268C5EC966/3-1x1.png" tvg-id="LN_38D9E180-1A43-439F-800D-74268C5EC966" group-title="Entertainment",ALF
+https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/729/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=38D9E180-1A43-439F-800D-74268C5EC966&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=38D9E180-1A43-439F-800D-74268C5EC966&ads.n4=content_name&ads.v4=ALF&ads.n21=channel_ext_id&ads.v21=&ads.n22=channel_company_id&ads.v22=AMDP500152&ads.n23=app_version&ads.v23=0.0.0&ads.n24=w&ads.v24=1920&ads.n25=channel_brand_id&ads.v25=AMDB013523&ads.n26=gpp_sid&ads.v26=&ads.n27=content_custom_2_param&ads.v27=AMDB013523&ads.n28=content_provider&ads.v28=alf&ads.n29=h&ads.v29=1080&ads.n30=content_producer_name&ads.v30=Shout%21%20Factory%20LLC&ads.n31=gpp&ads.v31=&ads.n32=channel_corp&ads.v32=Shout%21%20Factory%20LLC&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=dnt&ads.v36=&ads.n37=content_custom_1_param&ads.v37=38D9E180-1A43-439F-800D-74268C5EC966&ads.n38=app_bundle&ads.v38=&ads.n39=device_make&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=channel_id&ads.v41=38D9E180-1A43-439F-800D-74268C5EC966&ads.n42=did&ads.v42=&ads.n43=app_name&ads.v43=&ads.n44=network_name&ads.v44=alf&ads.n45=app_store_url&ads.v45=&ads.n46=channel_title&ads.v46=ALF&ads.n47=channel_language&ads.v47=en&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=ip&ads.v49=86.48.9.131&ads.n50=device_model&ads.v50=&ads.n51=channel_genre&ads.v51=Comedy&ads.n52=channel_name&ads.v52=ALF&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=ifa_type&ads.v54=&ads.n55=device_type&ads.v55=&ads.n56=content_type&ads.v56=channel&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=pos&ads.v58=midroll
+
+
+
+#EXTINF:-1 channel-id="5f7794a788d29000079d2f07" tvg-id="5f7794a788d29000079d2f07" tvg-chno="620" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="Entertainment", The Love Boat
+https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
+
+#EXTINF:-1 channel-id="66275e41cee0d900085fde6e" tvg-id="66275e41cee0d900085fde6e" tvg-chno="553" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/66275e41cee0d900085fde6e/colorLogoPNG.png" group-title="Entertainment", The Love Boat
+https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
+
+
+
+#EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="Entertainment", Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+#EXTINF:-1 channel-id="5f77977bd924d80007eee60c" tvg-id="5f77977bd924d80007eee60c" tvg-chno="710" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG_1731835516936.png" group-title="Entertainment", Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+
+
+#EXTINF:-1 channel-id="60f75771dfc72a00071fd0e0" tvg-id="60f75771dfc72a00071fd0e0" tvg-chno="795" tvg-name="Gunsmoke" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Entertainment", Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+
+#EXTINF:-1 channel-id="68e9913c4a666b9054849832" tvg-id="68e9913c4a666b9054849832" tvg-chno="797" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="Entertainment", Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+#EXTINF:-1 channel-id="65a6dafb7bdc8d0008473c85" tvg-id="65a6dafb7bdc8d0008473c85" tvg-chno="825" tvg-name="The Lone Ranger" tvg-logo="https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png" group-title="Entertainment", The Lone Ranger
+https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
+
+
+
+#EXTINF:-1 channel-id="5e825550e758c700077b0aef" tvg-id="5e825550e758c700077b0aef" tvg-chno="815" tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="Entertainment", The Rifleman
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+
+
+
+
+#EXTINF:-1 channel-id="664e640a0120f40008be4582" tvg-id="664e640a0120f40008be4582" tvg-chno="800" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Entertainment", The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png" tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" group-title="Entertainment",Three Stooges+
+https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?content_provider=three-stooges&did=&channel_brand_id=AMDB013402&h=1080&device_make=&iu=&channel_company_id=AMDP500511&gdpr=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&dnt=&channel_name=Three%20Stooges+&coppa=0&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_bundle=&app_store_url=&app_name=&genre=Comedy&w=1920&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ic=&device_model=&device_type=&channel_corp=C3%20Entertainment%20INC&us_privacy=1YNY&gdpr_consent=&idtype=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=86.48.9.131
+
+
+
+#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="Entertainment", I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+
+#EXTINF:-1 channel-id="60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-chno="680" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="Entertainment", Matlock
+https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
+
+#EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Entertainment", The Addams Family
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+
+#EXTINF:-1 channel-id="5f7796e470510900070d4e3d" tvg-id="5f7796e470510900070d4e3d" tvg-chno="570" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="Entertainment", Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment" ,The Beverly Hillbillies
+https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8?wurl_channel=1342&wurl_name=TheBeverlyHillbillies&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+
+#EXTINF:-1 channel-id="60f75178e7f8aa0007e9c259" tvg-id="60f75178e7f8aa0007e9c259" tvg-chno="550" tvg-name="The Andy Griffith Show" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG_1758310637593.png" group-title="Entertainment", The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
+
+
+#EXTINF:-1 channel-id="6283d51144ad8f0007fa382d" tvg-id="6283d51144ad8f0007fa382d" tvg-chno="2470" tvg-name="The Judge Judy Channel" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="Entertainment", The Judge Judy Channel
+https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
+
+
+#EXTINF:-1 channel-id="5ef3977e5d773400077de284" tvg-id="5ef3977e5d773400077de284" tvg-chno="590" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG_1731835807101.png" group-title="Entertainment", Three's Company
+https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
+
+#EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="Entertainment", South Park
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+
+
+#EXTINF:-1 channel-id="6850408053d981d1fdb01696" tvg-id="6850408053d981d1fdb01696" tvg-chno="301" tvg-name="Taxi" tvg-logo="https://images.pluto.tv/channels/6850408053d981d1fdb01696/colorLogoPNG_1750164585959.png" group-title="Entertainment", Taxi
+https://jmp2.uk/plu-6850408053d981d1fdb01696.m3u8
+
+#EXTINF:-1 channel-id="66276091cee0d900085fe053" tvg-id="66276091cee0d900085fe053" tvg-chno="302" tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="Entertainment", Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
+
+
+
+#EXTINF:-1 channel-id="6549337183595c000815ad05" tvg-id="6549337183595c000815ad05" tvg-chno="690" tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Entertainment", Murder, She Wrote
+https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png" group-title="Entertainment" ,GET Comedy
+https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=830&wurl_name=GETComedy&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/715/lg/50c09d/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment" ,Degrassi
+https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.m3u8?wurl_channel=715&wurl_name=Degrassi&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" group-title="Entertainment" ,Tribeca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+
+#EXTINF:-1 channel-id="mjh-bbc-comedy-fast" tvg-id="mjh-bbc-comedy-fast" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="Entertainment" , BBC Comedy
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993016/600x200.png?type=white_cropped" group-title="Entertainment" ,NBC Comedy Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993016/hls/master.m3u8?ads.xumo_channelId=99993016&ads.asnw=169843&ads.afid=380749282&ads.sfid=17556801&ads.csid=lgchannels_us_nbcutnbc_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3941&ads.xumo_contentName=NBCUTNBC&ads.xumo_providerId=3941&ads.xumo_providerName=NBCUTNBC&ads.channelId=99993016&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993019/600x200.png?type=white_cropped" group-title="Entertainment" ,Saved by the Bell
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993019/hls/master.m3u8?ads.xumo_channelId=99993019&ads.asnw=169843&ads.afid=380750681&ads.sfid=17556737&ads.csid=lgchannels_us_nbcusavedbythebell_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99993019&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="Entertainment" ,Comedy Central Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/streamingink/channels/918-400x200.png",513 Animation+
+https://linear-918.frequency.stream/dist/lg-us/918/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
+
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993065/600x200.png?type=white_cropped" group-title="Entertainment" ,Leave It to Beaver
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993065/hls/master.m3u8?ads.xumo_channelId=99993065&ads.xumo_streamId=99993065&ads.channelId=99993065&ads.asnw=169843&ads.afid=380749485&ads.sfid=19301294&ads.csid=lgchannels_us_nbcumadeinchelsea_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads.xumo_contentId=3943&ads.xumo_contentName=NBCUMadeinChelsea&ads.xumo_providerId=3943&ads.xumo_providerName=NBCUMadeinChelsea&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]
+
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993017/600x200.png?type=white_cropped" group-title="Entertainment" ,SNL Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017&ads.asnw=169843&ads.afid=380737434&ads.sfid=19208104&ads.csid=lgchannels_us_nbcusnlvault_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3931&ads.xumo_contentName=NBCUSNLVault&ads.xumo_providerId=3931&ads.xumo_providerName=NBCUSNLVault&ads.channelId=99993017&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1197-LG-Logo-PNG-100x100_v2.png" group-title="Entertainment" ,WITZ-Comedy TV
+https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/playlist.m3u8?wurl_channel=1197&wurl_name=WITZComedyTV-1&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/cineverse/channels/ComedyDynamics_Vector_Yellow_v1.png?width=400&height=200"group-title="Entertainment" , Comedy Dynamics
+https://linear-903.frequency.stream/dist/lg-us/903/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/comedy-plus/Comedy%20Plus%20White%20transparent%20logo.png" group-title="Entertainment" ,Comedy Plus
+https://amg02042-ottstudio-amg02042c5-lg-us-1052.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+
+#EXTINF:-1 channel-id="e2e10d08139b56aba73a448f5555b6fd" tvg-id="e2e10d08139b56aba73a448f5555b6fd" tvg-chno="334" tvg-name="FilmRise Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png" group-title="Entertainment",FilmRise Classic TV
+https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
+
+#EXTINF:-1 channel-id="dead0e7a46da533c94c61c8710ef3418" tvg-id="dead0e7a46da533c94c61c8710ef3418" tvg-chno="335" tvg-name="FilmRise British TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png" group-title="Entertainment",FilmRise British TV
+https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8
+
+#EXTINF:-1 channel-id="b84d4953c086589c9d5202b7895552a7" tvg-id="b84d4953c086589c9d5202b7895552a7" tvg-chno="337" tvg-name="The Dick Van Dyke Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b84d4953c086589c9d5202b7895552a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673454632549_Dick_Van_Dyke_HUDlogo_centered_260x147.png" group-title="Entertainment",The Dick Van Dyke Show
+https://jmp2.uk/rok-b84d4953c086589c9d5202b7895552a7.m3u8
+
+
+#EXTINF:-1 channel-id="92b50144a69f5862a6d398c478fa6aa0" tvg-id="92b50144a69f5862a6d398c478fa6aa0" tvg-chno="339" tvg-name="Johnny Carson TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/92b50144a69f5862a6d398c478fa6aa0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653092678249_JCARTVChannel_RokuLogo_260x147.png" group-title="Entertainment",Johnny Carson TV
+https://jmp2.uk/rok-92b50144a69f5862a6d398c478fa6aa0.m3u8
+
+
+#EXTINF:-1 channel-id="e3cd976116d5578ab9be32baa738ade2" tvg-id="e3cd976116d5578ab9be32baa738ade2" tvg-chno="338" tvg-name="The Carol Burnett Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3cd976116d5578ab9be32baa738ade2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653087138529_TCBS_260x147_centered.png" group-title="Entertainment",The Carol Burnett Show
+https://jmp2.uk/rok-e3cd976116d5578ab9be32baa738ade2.m3u8
+
+
+
+#EXTINF:-1 channel-id="707e6e216be8369fb30f6960f8cf667e" tvg-id="707e6e216be8369fb30f6960f8cf667e" tvg-chno="340" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/707e6e216be8369fb30f6960f8cf667e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731437958811_Ed_Sullivan-HUD-Logo.png" group-title="Entertainment",The Ed Sullivan Show
+https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8
 
 
 
@@ -1670,12 +2006,6 @@ https://jmp2.uk/rok-645518dc5f92519688baed84d025b14e.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1201/lg/371c00/LG-Logo-PNG-100x100_v1.png" group-title="CRIME/MEDICAL",JAIL
 https://wurllangley.global.transmit.live/hls/68dc5ced67531dbca67149df/playlist.m3u8?wurl_channel=1201&wurl_name=Jail&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-
-
-
-
-
-
 #EXTINF:-1 channel-id="ebb810a8868251f18ac64056834c749a" tvg-id="ebb810a8868251f18ac64056834c749a" tvg-chno="507" tvg-name="FilmRise True Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ebb810a8868251f18ac64056834c749a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001493945_RokuChannel_FilmRiseTrueCrime_HUD_Logo_260x147.png" group-title="CRIME/MEDICAL",FilmRise True Crime
 https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8
 #EXTINF:-1 channel-id="8ba514251e1a58b7b53368177baa1041" tvg-id="8ba514251e1a58b7b53368177baa1041" tvg-chno="508" tvg-name="Law & Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8ba514251e1a58b7b53368177baa1041/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705443337284_lc-roku-epg-infohud-260x147.png" group-title=CRIME/MEDICAL,Law & Crime
@@ -1772,254 +2102,6 @@ https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandc
 
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1516/lg/0f59a3/LG-Logo-PNG-100x100_v2.png" group-title="CRIME/MEDICAL",Court TV
 https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1516&wurl_name=CourtTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-##################################$
-###################################
-#########    SITCOM    #############
-###################################
-###################################
-
-#EXTINF:-1  tvg-id="ae-us-eastern-feed", tvg-name="A&E US Eastern Feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="SITCOM",A&E 
-https://tvpass.org/live/AEEast/hd
-
-
-#EXTINF:-1  tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="SITCOM",FXX USA
-https://tvpass.org/live/FXXEast/hd
-
-#EXTINF:-1  tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern",    tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="SITCOM",FYI USA
-https://tvpass.org/live/FYIEast/hd
-
-
-
-#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD", tvg-logo="https://static.wixstatic.com/media/6048cf_2c5abbfcdfa5485e8d1a9d378fcbc86f~mv2.png/v1/fill/w_414,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkfamily.png" group-title="SITCOM",Hallmark Family HD
-https://tvpass.org/live/HallmarkDrama/hd
-
-
-#EXTINF:-1  tvg-id="tbs-east", tvg-name="TBS East",  tvg-logo="https://static.wixstatic.com/media/6048cf_4498c0f800714498a594ac96f8f891f8~mv2.png/v1/fill/w_482,h_204,al_c,lg_1,q_85,enc_avif,quality_auto/tbs.png" group-title="SITCOM",TBS
-https://tvpass.org/live/TBSEast/hd
-
-#EXTINF:-1  tvg-id="tv-land-eastern" tvg-name="TV Land Eastern", tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="SITCOM",TV Land
-https://tvpass.org/live/tv-land-eastern/hd
-
-#EXTINF:-1   tvg-id="tv-one" tvg-name="TV One", tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="SITCOM",TV One
-https://tvpass.org/live/TVOne/hd
-
-#EXTINF:-1  tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="SITCOM",VH1
-https://tvpass.org/live/VH1East/hd
-
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_65071dc575b4477b96d57522ad36af6e~mv2.png/v1/fill/w_536,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/comedy%20central.png" group-title="SITCOM",Comedy Central
-https://tvpass.org/live/ComedyCentralEast/hd
-
-#EXTINF:-1  tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_364,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="SITCOM",Bravo USA
-https://tvpass.org/live/BravoEast/hd
-
-#EXTINF:-1  tvg-id="moremax-eastern" tvg-name="MoreMax Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_a6aee46a6e4c43e5bb9608aac36ebc38~mv2.png/v1/fill/w_308,h_154,al_c,lg_1,q_85,enc_avif,quality_auto/moremax.png" group-title="SITCOM",MoreMax
-https://tvpass.org/live/MoreMaxEast/hd
-
-#EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="SITCOM" , Seinfeld
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seinfeld-fast.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="SITCOM" , Becker
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-becker.m3u8
-
-
-#EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="SITCOM", Cheers + Frasier
-https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="682059" tvg-logo="https://canvas-lb.tubitv.com/opts/-046fZgdcWy63w==/c327b06a-5844-429b-a4e1-36717181c962/CHgQeDoFMS4xLjhAAQ==" group-title="SITCOM",Anger Management
-https://live-manifest.production-public.tubi.io/live/d02b962b-a87d-4205-9e8e-9993ce4133fc/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D69A4E6E-AF54-4F38-BA4C-AD7246522B51/3-1x1.png" tvg-id="LN_D69A4E6E-AF54-4F38-BA4C-AD7246522B51" group-title="SITCOM",Trailer Park Boys
-https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/732/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n4=content_name&ads.v4=Trailer%20Park%20Boys&ads.n21=us_privacy&ads.v21=1YNY&ads.n22=ifa_type&ads.v22=&ads.n23=pos&ads.v23=midroll&ads.n24=device_type&ads.v24=&ads.n25=url&ads.v25=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n26=app_store_url&ads.v26=&ads.n27=h&ads.v27=1080&ads.n28=content_provider&ads.v28=trailer-park-boys&ads.n29=w&ads.v29=1920&ads.n30=channel_corp&ads.v30=Shout%21%20Factory%20LLC&ads.n31=gpp_sid&ads.v31=&ads.n32=content_livestream&ads.v32=1&ads.n33=channel_id&ads.v33=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n34=content_type&ads.v34=channel&ads.n35=gpp&ads.v35=&ads.n36=content_custom_2_param&ads.v36=AMDB013524&ads.n37=channel_genre&ads.v37=Comedy&ads.n38=channel_name&ads.v38=Trailer%20Park%20Boys&ads.n39=content_custom_3_param&ads.v39=channel&ads.n40=device_make&ads.v40=&ads.n41=did&ads.v41=&ads.n42=cust_devicename&ads.v42=desktop_web&ads.n43=app_name&ads.v43=&ads.n44=channel_company_id&ads.v44=AMDP500152&ads.n45=dnt&ads.v45=&ads.n46=network_name&ads.v46=trailer-park-boys&ads.n47=ua&ads.v47=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n48=device_model&ads.v48=&ads.n49=channel_brand_id&ads.v49=AMDB013524&ads.n50=app_version&ads.v50=0.0.0&ads.n51=content_producer_name&ads.v51=Shout%21%20Factory%20LLC&ads.n52=ip&ads.v52=86.48.9.131&ads.n53=channel_rating&ads.v53=TV-PG&ads.n54=channel_language&ads.v54=en&ads.n55=app_bundle&ads.v55=&ads.n56=channel_title&ads.v56=Trailer%20Park%20Boys&ads.n57=content_custom_1_param&ads.v57=D69A4E6E-AF54-4F38-BA4C-AD7246522B51&ads.n58=channel_ext_id&ads.v58=
-
-
-#EXTINF:-1 channel-id="5f77939a630f530007dde654" tvg-id="5f77939a630f530007dde654", tvg-chno="315" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="SITCOM", Family Ties
-https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
-
-
-
-
-
-#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="SITCOM", Happy Days
-https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-
-
-#EXTINF:-1 channel-id="ab47c5037be851e6a929a4d09daafeac" tvg-id="ab47c5037be851e6a929a4d09daafeac" tvg-chno="331" tvg-name="Baywatch" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="SITCOM",Baywatch
-https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CB5CDBE8-57CC-42D0-BED6-E5979B26EE80/3-1x1.png" tvg-id="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80" group-title="SITCOM",Mr. Bean Live Action
-https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/master.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n4=content_name&ads.v4=Mr.%20Bean%20Live%20Action&ads.n21=channel_title&ads.v21=Mr.%20Bean%20Live%20Action&ads.n22=content_producer_name&ads.v22=Banijay%20Rights%20LTD&ads.n23=h&ads.v23=1080&ads.n24=device_model&ads.v24=&ads.n25=gpp&ads.v25=&ads.n26=device_type&ads.v26=&ads.n27=ip&ads.v27=86.48.9.131&ads.n28=content_type&ads.v28=channel&ads.n29=content_custom_2_param&ads.v29=AMDB013679&ads.n30=pos&ads.v30=midroll&ads.n31=content_custom_1_param&ads.v31=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n32=channel_ext_id&ads.v32=&ads.n33=network_name&ads.v33=mr-bean-live-action&ads.n34=ua&ads.v34=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n35=channel_language&ads.v35=en&ads.n36=app_store_url&ads.v36=&ads.n37=cust_devicename&ads.v37=desktop_web&ads.n38=device_make&ads.v38=&ads.n39=gpp_sid&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=channel_brand_id&ads.v41=AMDB013679&ads.n42=channel_name&ads.v42=Mr.%20Bean%20Live%20Action&ads.n43=content_custom_3_param&ads.v43=channel&ads.n44=channel_corp&ads.v44=Banijay%20Rights%20LTD&ads.n45=channel_rating&ads.v45=TV-PG&ads.n46=app_bundle&ads.v46=&ads.n47=dnt&ads.v47=&ads.n48=w&ads.v48=1920&ads.n49=app_name&ads.v49=&ads.n50=channel_id&ads.v50=CB5CDBE8-57CC-42D0-BED6-E5979B26EE80&ads.n51=ifa_type&ads.v51=&ads.n52=app_version&ads.v52=0.0.0&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=channel_genre&ads.v54=Comedy&ads.n55=content_provider&ads.v55=mr-bean-live-action&ads.n56=us_privacy&ads.v56=1YNY&ads.n57=channel_company_id&ads.v57=AMDP500504&ads.n58=did&ads.v58
-
-
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/38D9E180-1A43-439F-800D-74268C5EC966/3-1x1.png" tvg-id="LN_38D9E180-1A43-439F-800D-74268C5EC966" group-title="SITCOM",ALF
-https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/729/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=38D9E180-1A43-439F-800D-74268C5EC966&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=38D9E180-1A43-439F-800D-74268C5EC966&ads.n4=content_name&ads.v4=ALF&ads.n21=channel_ext_id&ads.v21=&ads.n22=channel_company_id&ads.v22=AMDP500152&ads.n23=app_version&ads.v23=0.0.0&ads.n24=w&ads.v24=1920&ads.n25=channel_brand_id&ads.v25=AMDB013523&ads.n26=gpp_sid&ads.v26=&ads.n27=content_custom_2_param&ads.v27=AMDB013523&ads.n28=content_provider&ads.v28=alf&ads.n29=h&ads.v29=1080&ads.n30=content_producer_name&ads.v30=Shout%21%20Factory%20LLC&ads.n31=gpp&ads.v31=&ads.n32=channel_corp&ads.v32=Shout%21%20Factory%20LLC&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=dnt&ads.v36=&ads.n37=content_custom_1_param&ads.v37=38D9E180-1A43-439F-800D-74268C5EC966&ads.n38=app_bundle&ads.v38=&ads.n39=device_make&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=channel_id&ads.v41=38D9E180-1A43-439F-800D-74268C5EC966&ads.n42=did&ads.v42=&ads.n43=app_name&ads.v43=&ads.n44=network_name&ads.v44=alf&ads.n45=app_store_url&ads.v45=&ads.n46=channel_title&ads.v46=ALF&ads.n47=channel_language&ads.v47=en&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=ip&ads.v49=86.48.9.131&ads.n50=device_model&ads.v50=&ads.n51=channel_genre&ads.v51=Comedy&ads.n52=channel_name&ads.v52=ALF&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=ifa_type&ads.v54=&ads.n55=device_type&ads.v55=&ads.n56=content_type&ads.v56=channel&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=pos&ads.v58=midroll
-
-
-
-#EXTINF:-1 channel-id="5f7794a788d29000079d2f07" tvg-id="5f7794a788d29000079d2f07" tvg-chno="620" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="SITCOM", The Love Boat
-https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
-
-#EXTINF:-1 channel-id="66275e41cee0d900085fde6e" tvg-id="66275e41cee0d900085fde6e" tvg-chno="553" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/66275e41cee0d900085fde6e/colorLogoPNG.png" group-title="SITCOM", The Love Boat
-https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
-
-
-
-#EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="SITCOM", Hogan's Heroes
-https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
-
-#EXTINF:-1 channel-id="5f77977bd924d80007eee60c" tvg-id="5f77977bd924d80007eee60c" tvg-chno="710" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/5f77977bd924d80007eee60c/colorLogoPNG_1731835516936.png" group-title="SITCOM", Mission Impossible
-https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-
-
-#EXTINF:-1 channel-id="60f75771dfc72a00071fd0e0" tvg-id="60f75771dfc72a00071fd0e0" tvg-chno="795" tvg-name="Gunsmoke" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="SITCOM", Gunsmoke
-https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
-
-#EXTINF:-1 channel-id="68e9913c4a666b9054849832" tvg-id="68e9913c4a666b9054849832" tvg-chno="797" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="SITCOM", Bonanza
-https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
-
-#EXTINF:-1 channel-id="65a6dafb7bdc8d0008473c85" tvg-id="65a6dafb7bdc8d0008473c85" tvg-chno="825" tvg-name="The Lone Ranger" tvg-logo="https://images.pluto.tv/channels/65a6dafb7bdc8d0008473c85/colorLogoPNG.png" group-title="SITCOM", The Lone Ranger
-https://jmp2.uk/plu-65a6dafb7bdc8d0008473c85.m3u8
-
-
-
-#EXTINF:-1 channel-id="5e825550e758c700077b0aef" tvg-id="5e825550e758c700077b0aef" tvg-chno="815" tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="SITCOM", The Rifleman
-https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
-
-
-
-
-#EXTINF:-1 channel-id="664e640a0120f40008be4582" tvg-id="664e640a0120f40008be4582" tvg-chno="800" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="SITCOM", The Wild Wild West
-https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
-
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/2C7D3071-F7F4-4039-8FAB-195FA86E22B5/3-1x1.png" tvg-id="LN_2C7D3071-F7F4-4039-8FAB-195FA86E22B5" group-title="SITCOM",Three Stooges+
-https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-localnowus/playlist.m3u8?content_provider=three-stooges&did=&channel_brand_id=AMDB013402&h=1080&device_make=&iu=&channel_company_id=AMDP500511&gdpr=&url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&dnt=&channel_name=Three%20Stooges+&coppa=0&channel_id=2C7D3071-F7F4-4039-8FAB-195FA86E22B5&app_bundle=&app_store_url=&app_name=&genre=Comedy&w=1920&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ic=&device_model=&device_type=&channel_corp=C3%20Entertainment%20INC&us_privacy=1YNY&gdpr_consent=&idtype=&app_version=0.0.0&device_devicetype=desktop_web&ip_addr=86.48.9.131
-
-
-
-#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="SITCOM", I Love Lucy
-https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
-
-#EXTINF:-1 channel-id="60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-chno="680" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="SITCOM", Matlock
-https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
-
-#EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="SITCOM", The Addams Family
-https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-
-#EXTINF:-1 channel-id="5f7796e470510900070d4e3d" tvg-id="5f7796e470510900070d4e3d" tvg-chno="570" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="SITCOM", Beverly Hillbillies
-https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png" group-title="SITCOM" ,The Beverly Hillbillies
-https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8?wurl_channel=1342&wurl_name=TheBeverlyHillbillies&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-
-#EXTINF:-1 channel-id="60f75178e7f8aa0007e9c259" tvg-id="60f75178e7f8aa0007e9c259" tvg-chno="550" tvg-name="The Andy Griffith Show" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG_1758310637593.png" group-title="SITCOM", The Andy Griffith Show
-https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
-
-
-#EXTINF:-1 channel-id="6283d51144ad8f0007fa382d" tvg-id="6283d51144ad8f0007fa382d" tvg-chno="2470" tvg-name="The Judge Judy Channel" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="SITCOM", The Judge Judy Channel
-https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
-
-
-#EXTINF:-1 channel-id="5ef3977e5d773400077de284" tvg-id="5ef3977e5d773400077de284" tvg-chno="590" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG_1731835807101.png" group-title="SITCOM", Three's Company
-https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
-
-#EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c" tvg-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="SITCOM", South Park
-https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
-
-
-#EXTINF:-1 channel-id="6850408053d981d1fdb01696" tvg-id="6850408053d981d1fdb01696" tvg-chno="301" tvg-name="Taxi" tvg-logo="https://images.pluto.tv/channels/6850408053d981d1fdb01696/colorLogoPNG_1750164585959.png" group-title="SITCOM", Taxi
-https://jmp2.uk/plu-6850408053d981d1fdb01696.m3u8
-
-#EXTINF:-1 channel-id="66276091cee0d900085fe053" tvg-id="66276091cee0d900085fe053" tvg-chno="302" tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="SITCOM", Sabrina The Teenage Witch
-https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
-
-
-
-#EXTINF:-1 channel-id="6549337183595c000815ad05" tvg-id="6549337183595c000815ad05" tvg-chno="690" tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="SITCOM", Murder, She Wrote
-https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png" group-title="SITCOM" ,GET Comedy
-https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=830&wurl_name=GETComedy&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/715/lg/50c09d/LG-Logo-PNG-100x100_v1.png" group-title="SITCOM" ,Degrassi
-https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.m3u8?wurl_channel=715&wurl_name=Degrassi&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png" group-title="SITCOM" ,Tribeca
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-
-#EXTINF:-1 channel-id="mjh-bbc-comedy-fast" tvg-id="mjh-bbc-comedy-fast" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="SITCOM" , BBC Comedy
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993016/600x200.png?type=white_cropped" group-title="SITCOM" ,NBC Comedy Vault
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993016/hls/master.m3u8?ads.xumo_channelId=99993016&ads.asnw=169843&ads.afid=380749282&ads.sfid=17556801&ads.csid=lgchannels_us_nbcutnbc_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3941&ads.xumo_contentName=NBCUTNBC&ads.xumo_providerId=3941&ads.xumo_providerName=NBCUTNBC&ads.channelId=99993016&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993019/600x200.png?type=white_cropped" group-title="SITCOM" ,Saved by the Bell
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993019/hls/master.m3u8?ads.xumo_channelId=99993019&ads.asnw=169843&ads.afid=380750681&ads.sfid=17556737&ads.csid=lgchannels_us_nbcusavedbythebell_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3942&ads.xumo_contentName=NBCUSavedBytheBell&ads.xumo_providerId=3942&ads.xumo_providerName=NBCUSavedBytheBell&ads.channelId=99993019&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="SITCOM" ,Comedy Central Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/streamingink/channels/918-400x200.png",513 Animation+
-https://linear-918.frequency.stream/dist/lg-us/918/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
-
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993065/600x200.png?type=white_cropped" group-title="SITCOM" ,Leave It to Beaver
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993065/hls/master.m3u8?ads.xumo_channelId=99993065&ads.xumo_streamId=99993065&ads.channelId=99993065&ads.asnw=169843&ads.afid=380749485&ads.sfid=19301294&ads.csid=lgchannels_us_nbcumadeinchelsea_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads.xumo_contentId=3943&ads.xumo_contentName=NBCUMadeinChelsea&ads.xumo_providerId=3943&ads.xumo_providerName=NBCUMadeinChelsea&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]
-
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993017/600x200.png?type=white_cropped" group-title="SITCOM" ,SNL Vault
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017&ads.asnw=169843&ads.afid=380737434&ads.sfid=19208104&ads.csid=lgchannels_us_nbcusnlvault_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3931&ads.xumo_contentName=NBCUSNLVault&ads.xumo_providerId=3931&ads.xumo_providerName=NBCUSNLVault&ads.channelId=99993017&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1197-LG-Logo-PNG-100x100_v2.png" group-title="SITCOM" ,WITZ-Comedy TV
-https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/playlist.m3u8?wurl_channel=1197&wurl_name=WITZComedyTV-1&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://static.frequency.com/studio/cineverse/channels/ComedyDynamics_Vector_Yellow_v1.png?width=400&height=200", Comedy Dynamics
-https://linear-903.frequency.stream/dist/lg-us/903/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/comedy-plus/Comedy%20Plus%20White%20transparent%20logo.png" group-title="SITCOM" ,Comedy Plus
-https://amg02042-ottstudio-amg02042c5-lg-us-1052.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-
-#EXTINF:-1 channel-id="e2e10d08139b56aba73a448f5555b6fd" tvg-id="e2e10d08139b56aba73a448f5555b6fd" tvg-chno="334" tvg-name="FilmRise Classic TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e2e10d08139b56aba73a448f5555b6fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450928764_FilmRise-ClassicTV_260x147_copy.png" group-title="SITCOM",FilmRise Classic TV
-https://jmp2.uk/rok-e2e10d08139b56aba73a448f5555b6fd.m3u8
-
-#EXTINF:-1 channel-id="dead0e7a46da533c94c61c8710ef3418" tvg-id="dead0e7a46da533c94c61c8710ef3418" tvg-chno="335" tvg-name="FilmRise British TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dead0e7a46da533c94c61c8710ef3418/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001306928_RokuChannel_FilmRiseBritishTV_HUD_Logo_260x147.png" group-title="SITCOM",FilmRise British TV
-https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8
-
-#EXTINF:-1 channel-id="b84d4953c086589c9d5202b7895552a7" tvg-id="b84d4953c086589c9d5202b7895552a7" tvg-chno="337" tvg-name="The Dick Van Dyke Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b84d4953c086589c9d5202b7895552a7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673454632549_Dick_Van_Dyke_HUDlogo_centered_260x147.png" group-title="SITCOM",The Dick Van Dyke Show
-https://jmp2.uk/rok-b84d4953c086589c9d5202b7895552a7.m3u8
-
-
-#EXTINF:-1 channel-id="92b50144a69f5862a6d398c478fa6aa0" tvg-id="92b50144a69f5862a6d398c478fa6aa0" tvg-chno="339" tvg-name="Johnny Carson TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/92b50144a69f5862a6d398c478fa6aa0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653092678249_JCARTVChannel_RokuLogo_260x147.png" group-title="SITCOM",Johnny Carson TV
-https://jmp2.uk/rok-92b50144a69f5862a6d398c478fa6aa0.m3u8
-
-
-#EXTINF:-1 channel-id="e3cd976116d5578ab9be32baa738ade2" tvg-id="e3cd976116d5578ab9be32baa738ade2" tvg-chno="338" tvg-name="The Carol Burnett Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3cd976116d5578ab9be32baa738ade2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653087138529_TCBS_260x147_centered.png" group-title="SITCOM",The Carol Burnett Show
-https://jmp2.uk/rok-e3cd976116d5578ab9be32baa738ade2.m3u8
-
-
-
-#EXTINF:-1 channel-id="707e6e216be8369fb30f6960f8cf667e" tvg-id="707e6e216be8369fb30f6960f8cf667e" tvg-chno="340" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/707e6e216be8369fb30f6960f8cf667e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731437958811_Ed_Sullivan-HUD-Logo.png" group-title="SITCOM",The Ed Sullivan Show
-https://jmp2.uk/rok-707e6e216be8369fb30f6960f8cf667e.m3u8
 
 
 ########################################
@@ -2421,12 +2503,27 @@ https://tvpass.org/live/Boomerang/hd
 #EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png"   group-title="KIDS",Cartoon Network USA
 https://tvpass.org/live/CartoonNetworkEast/hd
 
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network " tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png" group-title="KIDS", Cartoon Network 
+http://xxip25.top:8080/s5pPNV/514479/57380
+
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network (E)" tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png" group-title="KIDS", Cartoon Network (E)
+http://xxip25.top:8080/s5pPNV/514479/57356
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7c68bc676d694059b2ea2570884d2bfd~mv2.png/v1/fill/w_476,h_207,al_c,lg_1,q_85,enc_avif,quality_auto/disney2d.png" group-title="KIDS",Disney
 https://tvpass.org/live/DisneyChannelEast/hd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e10fbcbba04a4a7fa9d9c6d56b71e360~mv2.png/v1/fill/w_514,h_192,al_c,lg_1,q_85,enc_avif,quality_auto/disneyjr.png" group-title="KIDS",Disney Junior USA
 https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="CA Disney Junior " tvg-logo="https://static.wixstatic.com/media/6048cf_e10fbcbba04a4a7fa9d9c6d56b71e360~mv2.png/v1/fill/w_514,h_192,al_c,lg_1,q_85,enc_avif,quality_auto/disneyjr.png" group-title="KIDS ZONE",CA Disney Junior 
+http://xxip25.top:8080/s5pPNV/514479/57349
+
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA Disney XD (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_7c68bc676d694059b2ea2570884d2bfd~mv2.png/v1/fill/w_476,h_207,al_c,lg_1,q_85,enc_avif,quality_auto/disney2d.png" group-title="KIDS ZONE", Disney XD 
+http://xxip25.top:8080/s5pPNV/514479/57420
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d9fd7c02df81416bb67c44b8e1484591~mv2.png/v1/fill/w_372,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/disneyxdd.png" group-title="KIDS",Disney XD USA
 https://tvpass.org/live/DisneyXDEast/hd
@@ -2504,6 +2601,11 @@ https://tvpass.org/live/NationalGeographicWildEast/hd
 
 #EXTINF:-1  tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East",  tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png"    group-title="DOCO",Animal Planet
 https://tvpass.org/live/AnimalPlanetEast/hd
+
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: Animal Planet" tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png" group-title="Entertainment", Animal Planet
+http://xxip25.top:8080/s5pPNV/514479/57377
+
+
 
 
 #EXTINF:-1  tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel
@@ -3622,6 +3724,11 @@ https://tvpass.org/live/BTN/hd
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_64b18a567a09482ba55bff8c2f9dc4de~mv2.png/v1/fill/w_450,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bloomad.png" group-title="NEWS",Bloomberg TV USA
 https://tvpass.org/live/BloombergTV/hd
+
+#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA: BNN Bloomberg HD" tvg-logo="https://static.wixstatic.com/media/6048cf_64b18a567a09482ba55bff8c2f9dc4de~mv2.png/v1/fill/w_450,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/bloomad.png"" group-title="Entertainment", Bloomberg HD
+http://xxip25.top:8080/s5pPNV/514479/57358
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8ea005414af84e9d99e7611f5994747b~mv2.png/v1/fill/w_320,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/cnbc.png" group-title="NEWS",CNBC USA
 https://tvpass.org/live/CNBC/hd
