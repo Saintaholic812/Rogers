@@ -844,6 +844,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&content_dist_n
 #######     FISHING    ##########
 ################################
 ################################
+#EXTINF:-1 tvg-name="RVTV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818" group-title="SPORT",RVTV
+https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-rvtv-freelivesportsemea/playlist.m3u8?channel_name=RVTV&content_genre=Sport&ic=IAB17&rating=PG&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 
 #EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="SPORT" , Anglers Paradise
@@ -1483,8 +1485,6 @@ https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.
 #EXTINF:-1 tvg-name="Popular Science" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288" group-title="SPORT",Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8?channel_name=Popular%20Science&content_genre=Entertainment&ic=IAB1-7&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-name="RVTV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818" group-title="SPORT",RVTV
-https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-rvtv-freelivesportsemea/playlist.m3u8?channel_name=RVTV&content_genre=Sport&ic=IAB17&rating=PG&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="Joel Osteen network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b" group-title="SPORT",Joel Osteen network
 https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.m3u8?ads.channel_name=Joel%20Osteen%20Network&ads.content_genre=Entertainment%2CReligion&ads.iab_category=IAB20%2CIAB1%2CIAB1-7&ads.content_rating=PG&ads.language=US&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
