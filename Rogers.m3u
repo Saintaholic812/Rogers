@@ -571,187 +571,6 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-
-################################################
-#################################################
-###########     SPORT     #######################
-################################################
-###############################################
-  
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV01: WWE RAW @ 08:00 PM EST" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV01
-http://xxip25.top:8080/s5pPNV/514479/260494
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | WWE" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV02
-http://xxip25.top:8080/s5pPNV/514479/260495
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV03
-http://xxip25.top:8080/s5pPNV/514479/260496
-
-
-
-
-
-
-#################################################
-################################################
-######       HORSE RACING  #################
-############################################
-#############################################
-
-
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_d0e06a66a5974757a6a4d31ada599c1c~mv2.png/v1/fill/w_238,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/tv_101305020528.png" group-title="HORSERACING" , Racing.com
-https://i.mjh.nz/.r/racing-fast.m3u8
-
-#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="HORSERACING" , Sky Racing #1
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-racing-1.m3u8
-
-#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="HORSERACING" , Sky Racing #2
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-racing-2.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-racingwa-fast" tvg-id="mjh-racingwa-fast" tvg-logo="https://i.mjh.nz/.images/auto-racingwa-fast-128220.png" group-title="HORSERACING" , Racing WA
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/racingwa-fast.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/hnc_logo.png" group-title="HORSERACING" ,Horse & Country
-https://amg00810-hnc-amg00810c1-lg-au-6140.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82" group-title="HORSERACING" , Horse & Country
-https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8?channel_name=Horse%20And%20Country&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-#EXTINF:-1 tvg-name="Horse TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/58562898-af7f-48e7-b2cc-74e81b960840" group-title="HORSERACING" , Horse TV
-https://amg00585-amg00585c5-sportstribal-emea-2944.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horsetv-sportstribalemea/playlist.m3u8?channel_name=Horse%20TV&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-
-
-################################################
-################################################
-###########    FOX SPORTS          #############
-################################################
-################################################
-
-
-#EXTINF:-1 channel-id="640a68880e884c0009979cc2" tvg-id="640a68880e884c0009979cc2" tvg-chno="226" tvg-name="FOX Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT",FOX Sports
-https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
-
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 1
-https://tvpass.org/live/FoxSports1/hd
-
-#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-name="Fox Sports 2"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 2 {AFL LIVE}
-https://tvpass.org/live/FoxSports2/hd
-
-#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT",ESPN News
-https://tvpass.org/live/ESPNews/sd
-
-#EXTINF:-1  tvg-name="ESPN" tvg-logo="https://static.wixstatic.com/media/6048cf_2cc5736161454cc0beeb675dc842a6f5~mv2.jpg/v1/fill/w_298,h_290,al_c,lg_1,q_80,enc_avif,quality_auto/espn.jpg" group-title="SPORT",ESPN
-https://tvpass.org/live/ESPN/hd
-
-#EXTINF:-1  tvg-name="ESPN2" tvg-logo="https://static.wixstatic.com/media/6048cf_3a9cd6f69e03495ba15823ddb12d05b2~mv2.jpg/v1/fill/w_298,h_290,al_c,lg_1,q_80,enc_avif,quality_auto/espn2).jpg"  group-title="SPORT",ESPN2
-https://tvpass.org/live/ESPN2/hd
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6ef5863f202443889f29e9c4f08540b3~mv2.png/v1/fill/w_216,h_226,al_c,lg_1,q_85,enc_avif,quality_auto/6048cf_6ef5863f202443889f29e9c4f08540b3~mv2.png" group-title="SPORT",ESPN Deportes
-https://tvpass.org/live/espn-deportes/hd
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_de529114ea2d423e9950a452c8415145~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/espnuu.png" group-title="SPORT",ESPN U
-https://tvpass.org/live/ESPNU/hd
-
-#EXTINF:-1  tvg-id="tsn1" tvg-name="TSN1", tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
-https://tvpass.org/live/tsn1/sd
-
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 1080p
-http://xxip25.top:8080/s5pPNV/514479/47440
-
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 1080p
-http://xxip25.top:8080/s5pPNV/514479/47442
-
-#EXTINF:-1  tvg-id="tsn2" tvg-name="TSN2", tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 PPV
-https://tvpass.org/live/tsn2/hd
-
-
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 1080p
-http://xxip25.top:8080/s5pPNV/514479/47444
-
-#EXTINF:-1  tvg-id="tsn3" tvg-name="TSN3",  tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 PPV
-https://tvpass.org/live/tsn3/hd
-
-#EXTINF:-1  tvg-id="tsn4" tvg-name="TSN4", tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 PPV
-https://tvpass.org/live/tsn4/hd
-
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 720p
-http://xxip25.top:8080/s5pPNV/514479/66783
-
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 (B)" tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 1080p
-http://xxip25.top:8080/s5pPNV/514479/47446
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 720p
-http://xxip25.top:8080/s5pPNV/514479/57467
-
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 720p
-http://xxip25.top:8080/s5pPNV/514479/57295
-
-#EXTINF:-1  tvg-id="tsn5" tvg-name="TSN5",  tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 PPV
-https://tvpass.org/live/tsn5/hd
-
-
-#EXTINF:-1  "tvg-logo="https://static.wixstatic.com/media/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg/v1/fill/w_192,h_160,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg" group-title="SPORT",Yes Network
-https://tvpass.org/live/yes-network/hd
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_927f060d32084f538f28ab88df60ed64~mv2.jpg/v1/fill/w_508,h_164,al_c,lg_1,q_80,enc_avif,quality_auto/msgmadisond%20(1).jpg"   group-title="SPORT",MSG Madison Square Gardens
-https://tvpass.org/live/msg-madison-square-gardens/hd
-
-
-#EXTINF:-1  tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA",  tvg-logo="https://static.wixstatic.com/media/6048cf_aa64a8e06fc24cb4a40d6188b2ba8d31~mv2.png/v1/fill/w_363,h_271,al_c,lg_1,q_85,enc_avif,quality_auto/cbssports.png" group-title="SPORT",CBS Sports
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
-
-#EXTINF:-1  tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_3d6caa9d5b8a4aeda556588f0b3ff4cb~mv2.jpg/v1/fill/w_352,h_242,al_c,lg_1,q_80,enc_avif,quality_auto/chicargo1).jpg" group-title="SPORT",Chicago Sports Network
-https://tvpass.org/live/chicago-sports-network/hd
-
-#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/hd
-
-#EXTINF:-1  tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/hd
-
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California",   tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports California
-https://tvpass.org/live/nbc-sports-california/hd
-
-#EXTINF:-1  tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/hd
-
-#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_b93e3110fc394937943cd2c14dddfff8~mv2.png/v1/fill/w_418,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/nesnd.png" group-title="SPORT",New England Sports Network
-https://tvpass.org/live/new-england-sports-network/hd
-####################################################
-####################################################
-#############       COWBOY         ##################
-####################################################
-###################################################
-
-#EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="221" tvg-name="PBR: Ride Pass" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="SPORT",PBR: Ride Pass
-https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8
-
-#EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="2840" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="SPORT", PBR RidePass
-https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
-
-
-
-
 ###################################################
 ###################################################
 ############        AFL              ###############
@@ -943,6 +762,191 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+
+
+
+
+
+
+
+
+
+################################################
+#################################################
+###########     SPORT     #######################
+################################################
+###############################################
+  
+#EXTINF:-1 tvg-id="" tvg-name="USA PPV01: WWE RAW @ 08:00 PM EST" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV01
+http://xxip25.top:8080/s5pPNV/514479/260494
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV02
+http://xxip25.top:8080/s5pPNV/514479/260495
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV03
+http://xxip25.top:8080/s5pPNV/514479/260496
+
+
+
+
+
+
+#################################################
+################################################
+######       HORSE RACING  #################
+############################################
+#############################################
+
+
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_d0e06a66a5974757a6a4d31ada599c1c~mv2.png/v1/fill/w_238,h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/tv_101305020528.png" group-title="HORSERACING" , Racing.com
+https://i.mjh.nz/.r/racing-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="HORSERACING" , Sky Racing #1
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="HORSERACING" , Sky Racing #2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-2.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-racingwa-fast" tvg-id="mjh-racingwa-fast" tvg-logo="https://i.mjh.nz/.images/auto-racingwa-fast-128220.png" group-title="HORSERACING" , Racing WA
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/racingwa-fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/hnc_logo.png" group-title="HORSERACING" ,Horse & Country
+https://amg00810-hnc-amg00810c1-lg-au-6140.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-name="Horse & Country" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82" group-title="HORSERACING" , Horse & Country
+https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8?channel_name=Horse%20And%20Country&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+#EXTINF:-1 tvg-name="Horse TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/58562898-af7f-48e7-b2cc-74e81b960840" group-title="HORSERACING" , Horse TV
+https://amg00585-amg00585c5-sportstribal-emea-2944.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-horsetv-sportstribalemea/playlist.m3u8?channel_name=Horse%20TV&content_genre=Equestrian%2CSport&ic=IAB17%2CIAB17-17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+
+
+################################################
+################################################
+###########    FOX SPORTS          #############
+################################################
+################################################
+
+
+#EXTINF:-1 channel-id="640a68880e884c0009979cc2" tvg-id="640a68880e884c0009979cc2" tvg-chno="226" tvg-name="FOX Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT",FOX Sports
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
+
+
+#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 1
+https://tvpass.org/live/FoxSports1/hd
+
+#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-name="Fox Sports 2"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 2 {AFL LIVE}
+https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT",ESPN News
+https://tvpass.org/live/ESPNews/sd
+
+#EXTINF:-1  tvg-name="ESPN" tvg-logo="https://static.wixstatic.com/media/6048cf_2cc5736161454cc0beeb675dc842a6f5~mv2.jpg/v1/fill/w_298,h_290,al_c,lg_1,q_80,enc_avif,quality_auto/espn.jpg" group-title="SPORT",ESPN
+https://tvpass.org/live/ESPN/hd
+
+#EXTINF:-1  tvg-name="ESPN2" tvg-logo="https://static.wixstatic.com/media/6048cf_3a9cd6f69e03495ba15823ddb12d05b2~mv2.jpg/v1/fill/w_298,h_290,al_c,lg_1,q_80,enc_avif,quality_auto/espn2).jpg"  group-title="SPORT",ESPN2
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6ef5863f202443889f29e9c4f08540b3~mv2.png/v1/fill/w_216,h_226,al_c,lg_1,q_85,enc_avif,quality_auto/6048cf_6ef5863f202443889f29e9c4f08540b3~mv2.png" group-title="SPORT",ESPN Deportes
+https://tvpass.org/live/espn-deportes/hd
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_de529114ea2d423e9950a452c8415145~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/espnuu.png" group-title="SPORT",ESPN U
+https://tvpass.org/live/ESPNU/hd
+
+#EXTINF:-1  tvg-id="tsn1" tvg-name="TSN1", tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 PPV
+https://tvpass.org/live/tsn1/sd
+
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT",TSN1 1080p
+http://xxip25.top:8080/s5pPNV/514479/47440
+
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 1080p
+http://xxip25.top:8080/s5pPNV/514479/47442
+
+#EXTINF:-1  tvg-id="tsn2" tvg-name="TSN2", tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT",TSN2 PPV
+https://tvpass.org/live/tsn2/hd
+
+
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD " tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 1080p
+http://xxip25.top:8080/s5pPNV/514479/47444
+
+#EXTINF:-1  tvg-id="tsn3" tvg-name="TSN3",  tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT",TSN3 PPV
+https://tvpass.org/live/tsn3/hd
+
+#EXTINF:-1  tvg-id="tsn4" tvg-name="TSN4", tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 PPV
+https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 720p
+http://xxip25.top:8080/s5pPNV/514479/66783
+
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 (B)" tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT",TSN4 1080p
+http://xxip25.top:8080/s5pPNV/514479/47446
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 720p
+http://xxip25.top:8080/s5pPNV/514479/57467
+
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 " tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 720p
+http://xxip25.top:8080/s5pPNV/514479/57295
+
+#EXTINF:-1  tvg-id="tsn5" tvg-name="TSN5",  tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT",TSN5 PPV
+https://tvpass.org/live/tsn5/hd
+
+
+#EXTINF:-1  "tvg-logo="https://static.wixstatic.com/media/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg/v1/fill/w_192,h_160,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg" group-title="SPORT",Yes Network
+https://tvpass.org/live/yes-network/hd
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_927f060d32084f538f28ab88df60ed64~mv2.jpg/v1/fill/w_508,h_164,al_c,lg_1,q_80,enc_avif,quality_auto/msgmadisond%20(1).jpg"   group-title="SPORT",MSG Madison Square Gardens
+https://tvpass.org/live/msg-madison-square-gardens/hd
+
+
+#EXTINF:-1  tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA",  tvg-logo="https://static.wixstatic.com/media/6048cf_aa64a8e06fc24cb4a40d6188b2ba8d31~mv2.png/v1/fill/w_363,h_271,al_c,lg_1,q_85,enc_avif,quality_auto/cbssports.png" group-title="SPORT",CBS Sports
+https://tvpass.org/live/CBSSportsNetworkUSA/hd
+
+#EXTINF:-1  tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_3d6caa9d5b8a4aeda556588f0b3ff4cb~mv2.jpg/v1/fill/w_352,h_242,al_c,lg_1,q_80,enc_avif,quality_auto/chicargo1).jpg" group-title="SPORT",Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/hd
+
+#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/hd
+
+#EXTINF:-1  tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/hd
+
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California",   tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/hd
+
+#EXTINF:-1  tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia",  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT",NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+
+#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network",  tvg-logo="https://static.wixstatic.com/media/6048cf_b93e3110fc394937943cd2c14dddfff8~mv2.png/v1/fill/w_418,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/nesnd.png" group-title="SPORT",New England Sports Network
+https://tvpass.org/live/new-england-sports-network/hd
+####################################################
+####################################################
+#############       COWBOY         ##################
+####################################################
+###################################################
+
+#EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="221" tvg-name="PBR: Ride Pass" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="SPORT",PBR: Ride Pass
+https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8
+
+#EXTINF:-1 channel-id="60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-chno="2840" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="SPORT", PBR RidePass
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 
 
 
