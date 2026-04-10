@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Foxtel/epg.xml.gz" x-tvg-url="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Australia/oztivo.net.channels.xml.gz" x-tvg-url="https://xmltv.net/xml_files/Sunshine_Coast.xml.gz" x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz", x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz" x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz" x-tvg-url="https://www.open-epg.com/files/australia2.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz" x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml.gz" x-tvg-url="https://tvpass.org/epg.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz" x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedkingdom3.xml.gz" x-tvg-url="https://www.open-epg.com/files/newzealand1.xml.gz" x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SkySportNow/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Foxtel/epg.xml.gz" x-tvg-url="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Australia/oztivo.net.channels.xml.gz" x-tvg-url="https://xmltv.net/xml_files/Sunshine_Coast.xml.gz" x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz", x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz" x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz" x-tvg-url="https://www.open-epg.com/files/australia2.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz" x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml.gz" x-tvg-url="https://tvpass.org/epg.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz" x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedkingdom3.xml.gz" x-tvg-url="https://www.open-epg.com/files/newzealand1.xml.gz" x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SkySportNow/epg.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedkingdom1.xml.gz"
 
 
 ##############################
@@ -601,19 +601,19 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307979
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307980
 #EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="Sky Sport 3.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SPORT", Sky Sport 3 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307981
-#EXTINF:-1 tvg-id="Sky Sport 4.nz;Sky Sport 4.nz" tvg-name="Sky Sport 4.nz;Sky Sport 4.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SPORT", Sky Sport 4 NZ
+#EXTINF:-1 tvg-id="Sky Sport 4.nz" tvg-name="Sky Sport 4.nz;Sky Sport 4.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SPORT", Sky Sport 4 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307982
-#EXTINF:-1 tvg-id="Sky Sport 5.nz;Sky Sport 5.nz" tvg-name="Sky Sport 5.nz;Sky Sport 5.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="SPORT", Sky Sport 5 NZ
+#EXTINF:-1 tvg-id="Sky Sport 5.nz" tvg-name="Sky Sport 5.nz;Sky Sport 5.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="SPORT", Sky Sport 5 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307983
-#EXTINF:-1 tvg-id="Sky Sport 6.nz;Sky Sport 6.nz" tvg-name="Sky Sport 6.nz;Sky Sport 6.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="SPORT", Sky Sport 6 NZ
+#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-name="Sky Sport 6.nz;Sky Sport 6.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="SPORT", Sky Sport 6 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307984
-#EXTINF:-1 tvg-id="Sky Sport 7.nz;Sky Sport 7.nz" tvg-name="Sky Sport 7.nz;Sky Sport 7.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title="SPORT", Sky Sport 7 NZ
+#EXTINF:-1 tvg-id="Sky Sport 7.nz" tvg-name="Sky Sport 7.nz;Sky Sport 7.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title="SPORT", Sky Sport 7 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307985
-#EXTINF:-1 tvg-id="Sky Sport 8.nz;Sky Sport 8.nz" tvg-name="Sky Sport 8.nz;Sky Sport 8.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 8 NZ
+#EXTINF:-1 tvg-id="Sky Sport 8.nz" tvg-name="Sky Sport 8.nz;Sky Sport 8.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 8 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307986
-#EXTINF:-1 tvg-id="Sky Sport 9.nz;Sky Sport 9.nz" tvg-name="Sky Sport 9.nz;Sky Sport 9.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 9 NZ
+#EXTINF:-1 tvg-id="Sky Sport 9.nz" tvg-name="Sky Sport 9.nz;Sky Sport 9.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 9 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307987
-#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title="SPORT", Sky Sport Select NZ
+#EXTINF:-1 tvg-id="Sky Sport Select" tvg-name="AU: Sky Sport Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title="SPORT", Sky Sport Select NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307988
 
 #EXTINF:-1   tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT",FOX Sports
@@ -644,45 +644,45 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 1 UK
+#EXTINF:-1 tvg-id="TNT Sports 1 HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 1 UK
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20446 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@Relax",UK: TNT Sports 1 HD
+EXTINF:-1 tvg-id="TNT Sports 1 HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="ShareExt@Relax",UK: TNT Sports 1 HD
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147028
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 2 UK
+#EXTINF:-1  tvg-id="TNT Sports 2 HD.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 2 UK
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20447 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 2 HD
+#EXTINF:-1 tvg-id="TNT Sports 2 HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 2 HD
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147029
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 3 
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 3 
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147030
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 3 HD
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 3 HD
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147030
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 4 UK
+#EXTINF:-1  tvg-id="TNT Sports 4 HD.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 4 UK
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20449
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT Sports 4 HD
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/147031
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 5
+#EXTINF:-1 tvg-id="TNT Sports 5 HD.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", TNT SPORTS 5
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/146591
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", PREMIER SPORTS UK
+#EXTINF:-1 tvg-id="Premier Sports 1 HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT", PREMIER SPORTS UK
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20438
 
-#EXTINF:-1 group-title="SPORT", tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",Premiere Sports 1 UK
+#EXTINF:-1 group-title="SPORT", tvg-id="Premier Sports 1 HD.uk"  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",Premiere Sports 1 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 group-title="SPORT", tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",Premiere Sports 2 UK
+#EXTINF:-1 group-title="SPORT", tvg-id="Premier Sports 2 HD.uk"  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",Premiere Sports 2 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
@@ -1410,22 +1410,22 @@ http://xxip25.top:8080/s5pPNV/514479/21091
 #EXTINF:-1 tvg-id="Sky Cinema Action HD.uk;Sky Cinema Action HD.uk" tvg-name="Sky Cinema Action HD.uk;Sky Cinema Action HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_102d382b16874fe9a22535ce32355bd5~mv2.png/v1/fill/w_392,h_172,al_c,lg_1,q_85,enc_avif,quality_auto/skyactionpng.png", group-title="MOVIES", SKY CINEMA ACTION FHD
 http://xxip25.top:8080/s5pPNV/514479/35254
 
-#EXTINF:-1 tvg-id="Sky Cinema Drama HD.uk;Sky Cinema Drama HD.uk" tvg-name="Sky Cinema Drama HD.uk;Sky Cinema Drama HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES", SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="Sky Cinema Drama HD.uk" tvg-name="Sky Cinema Drama HD.uk;Sky Cinema Drama HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES", SKY CINEMA DRAMA
 http://xxip25.top:8080/s5pPNV/514479/35251
 
-#EXTINF:-1 tvg-id="Sky Cinema Sci Fi Horror HD.uk;Sky Cinema Sci Fi Horror HD.uk" tvg-name="Sky Cinema Sci Fi Horror HD.uk;Sky Cinema Sci Fi Horror HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES", Sky Cinema Scifi & Horror FHD  
+#EXTINF:-1 tvg-id="Sky Cinema Sci Fi Horror HD.uk" tvg-name="Sky Cinema Sci Fi Horror HD.uk;Sky Cinema Sci Fi Horror HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES", Sky Cinema Scifi & Horror FHD  
 http://xxip25.top:8080/s5pPNV/514479/35248
 
-#EXTINF:-1 tvg-id="Sky Cinema Comedy HD.uk;Sky Cinema Comedy HD.uk" tvg-name="Sky Cinema Comedy HD.uk;Sky Cinema Comedy HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_44c47c9dd8974d10aa2d86539c4d5c5c~mv2.png/v1/fill/w_288,h_142,al_c,lg_1,q_85,enc_avif,quality_auto/skycomed1y.png", group-title="MOVIES", SKY COMEDY
+#EXTINF:-1 tvg-id="Sky Cinema Comedy HD.uk" tvg-name="Sky Cinema Comedy HD.uk;Sky Cinema Comedy HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_44c47c9dd8974d10aa2d86539c4d5c5c~mv2.png/v1/fill/w_288,h_142,al_c,lg_1,q_85,enc_avif,quality_auto/skycomed1y.png", group-title="MOVIES", SKY COMEDY
 http://xxip25.top:8080/s5pPNV/514479/35253
 
-#EXTINF:-1 tvg-id="Sky Cinema Thriller HD.uk;Sky Cinema Thriller HD.uk" tvg-name="Sky Cinema Thriller HD.uk;Sky Cinema Thriller HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES", SKY CRIME THRILLER
+#EXTINF:-1 tvg-id="Sky Cinema Thriller HD.uk" tvg-name="Sky Cinema Thriller HD.uk;Sky Cinema Thriller HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES", SKY CRIME THRILLER
 http://xxip25.top:8080/s5pPNV/514479/35252
 
-#EXTINF:-1 tvg-id="Sky Cinema Greats HD.uk;Sky Cinema Greats HD.uk" tvg-name="Sky Cinema Greats HD.uk;Sky Cinema Greats HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_690684f169c047f0a0454ec74075ebb9~mv2.png/v1/fill/w_372,h_190,al_c,lg_1,q_85,enc_avif,quality_auto/SKYFAMILYpng.png", group-title="MOVIES", SKY GREATS
+#EXTINF:-1 tvg-id="Sky Cinema Greats HD.uk" tvg-name="Sky Cinema Greats HD.uk;Sky Cinema Greats HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_690684f169c047f0a0454ec74075ebb9~mv2.png/v1/fill/w_372,h_190,al_c,lg_1,q_85,enc_avif,quality_auto/SKYFAMILYpng.png", group-title="MOVIES", SKY GREATS
 http://xxip25.top:8080/s5pPNV/514479/35249
 
-#EXTINF:-1 tvg-id="Sky Cinema Premiere HD.uk;Sky Cinema Premiere HD.uk" tvg-name="Sky Cinema Premiere HD.uk;Sky Cinema Premiere HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES",Sky Cinema Premier
+#EXTINF:-1 tvg-id="Sky Cinema Premiere HD.uk" tvg-name="Sky Cinema Premiere HD.uk;Sky Cinema Premiere HD.uk", tvg-logo="https://static.wixstatic.com/media/6048cf_56fe00d82aab4d4681af337e2c1cbbb3~mv2.jpg/v1/fill/w_372,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/SKYCINEMA(1).jpg", group-title="MOVIES",Sky Cinema Premier
 http://xxip25.top:8080/s5pPNV/514479/35256
 
 
