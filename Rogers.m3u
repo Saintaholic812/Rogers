@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Foxtel/epg.xml" x-tvg-url="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Australia/oztivo.net.channels.xml" x-tvg-url="https://xmltv.net/xml_files/Sunshine_Coast.xml" x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz", x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz" x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz" x-tvg-url="https://www.open-epg.com/files/australia2.xml.gz", x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz" x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml.gz" x-tvg-url="https://tvpass.org/epg.xml/gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz" x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedkingdom3.xml.gz" x-tvg-url="https://www.open-epg.com/files/newzealand1.xml.gz" x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Foxtel/epg.xml.gz" x-tvg-url="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Australia/oztivo.net.channels.xml.gz" x-tvg-url="https://xmltv.net/xml_files/Sunshine_Coast.xml.gz" x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz", x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz" x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz" x-tvg-url="https://www.open-epg.com/files/australia2.xml.gz" x-tvg-url="https://iptv-epg.org/files/epg-ekofwl.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz" x-tvg-url="https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml.gz" x-tvg-url="https://tvpass.org/epg.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz" x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz" x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz" x-tvg-url="https://www.open-epg.com/files/unitedkingdom3.xml.gz" x-tvg-url="https://www.open-epg.com/files/newzealand1.xml.gz" x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SkySportNow/epg.xml.gz"
 
 
 ##############################
@@ -579,27 +579,27 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="FSN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SPORT", Fox Sports News
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/76006
 
-#EXTINF:-1 tvg-id="Fox Sports One""  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SPORT", Fox Sports 501
+#EXTINF:-1 tvg-id="FOX Cricket HD / F1D.au" tvg-name="FOX Cricket HD / F1D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SPORT", Fox Sports 501
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279034
-#EXTINF:-1  tvg-name="Fox Sports One"" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORT", Fox Sports 502 NRL
+#EXTINF:-1  tvg-id="FOX League HD / F2D.au" tvg-name="FOX League HD / F2D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORT", Fox Sports 502 NRL
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/81784
-#EXTINF:-1 tvg-id="FS3" tvg-name="FS3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORT", Fox Sports 503
+#EXTINF:-1 tvg-id="FOX SPORTS 503 HD / F3D.au" tvg-name="FOX SPORTS 503 HD / F3D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORT", Fox Sports 503
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280192
 #EXTINF:-1 tvg-id="FOX FOOTY HD / FOX FOOTY HD.au" tvg-name="FOX FOOTY HD / FOX FOOTY HD.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORT", Fox Sports 504 AFL
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280193
 #EXTINF:-1 tvg-id="FOX FOOTY HD / FOX FOOTY HD.au" tvg-name="FOX FOOTY HD / FOX FOOTY HD.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORT", Fox Sports 504 AFL {BACKUP}
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306510
-#EXTINF:-1 tvg-id="FSP" tvg-name="FSP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORT", Fox Sports 505
+#EXTINF:-1 tvg-id="FOX SPORTS 505 HD / F4D.au" tvg-name="FOX SPORTS 505 HD / F4D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORT", Fox Sports 505
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144772
-#EXTINF:-1 tvg-id="SPS" tvg-name="SPS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORT", Fox Sports 506
+#EXTINF:-1 tvg-id="FOX SPORTS 506 HD / SPE.au" tvg-name="FOX SPORTS 506 HD / SPE.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORT", Fox Sports 506
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279033
-#EXTINF:-1 tvg-id="FOX SPORTS MORE / FSS.au;" tvg-name="FOX SPORTS MORE / FSS.au;" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORT", Fox Sports 507
+#EXTINF:-1 tvg-id="FOX SPORTS MORE HD / FSM.au" tvg-name="FOX SPORTS MORE HD / FSM.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORT", Fox Sports 507
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
-#EXTINF:-1 tvg-id="Sky Sport 1.nz;Sky Sport 1.nz" tvg-name="Sky Sport 1.nz;Sky Sport 1.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SPORT", Sky Sport 1 NZ
+#EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="Sky Sport 1.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SPORT", Sky Sport 1 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307979
-#EXTINF:-1 tvg-id="Sky Sport 2.nz;Sky Sport 2.nz" tvg-name="Sky Sport 2.nz;Sky Sport 2.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="SPORT", Sky Sport 2 NZ
+#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="Sky Sport 2.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="SPORT", Sky Sport 2 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307980
-#EXTINF:-1 tvg-id="Sky Sport 3.nz;Sky Sport 3.nz" tvg-name="Sky Sport 3.nz;Sky Sport 3.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SPORT", Sky Sport 3 NZ
+#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="Sky Sport 3.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SPORT", Sky Sport 3 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307981
 #EXTINF:-1 tvg-id="Sky Sport 4.nz;Sky Sport 4.nz" tvg-name="Sky Sport 4.nz;Sky Sport 4.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SPORT", Sky Sport 4 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307982
@@ -1601,21 +1601,21 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1
 
 
 
-#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA: A&E" tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="Entertainment", A&E HD
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="Entertainment", A&E HD
 http://xxip25.top:8080/s5pPNV/514479/57476
 
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E TV
 http://89.105.221.127/AandE/index.m3u8?token=test
 
 
-#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA A&E " tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="Entertainment", A&E HD
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png" group-title="Entertainment", A&E HD
 http://xxip25.top:8080/s5pPNV/514479/57264
 
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_790c429232d146d1a77f777d374194a2~mv2.png/v1/fill/w_298,h_302,al_c,lg_1,q_85,enc_avif,quality_auto/aed.png", group-title="Entertainment", A&E SD
 https://tvpass.org/live/AEEast/hd
 
 
-#EXTINF:-1 channel-id="6887aaf4e3703b7d42b71a1e" tvg-id="6887aaf4e3703b7d42b71a1e" tvg-chno="1467" tvg-name="Storage Wars by A&E" tvg-logo="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1755034317630.png" group-title="Entertainment", Storage Wars by A&E
+#EXTINF:-1  tvg-id="6887aaf4e3703b7d42b71a1e"  tvg-name="Storage Wars by A&E" tvg-logo="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/colorLogoPNG_1755034317630.png" group-title="Entertainment", Storage Wars by A&E
 https://jmp2.uk/plu-6887aaf4e3703b7d42b71a1e.m3u8
 
 
@@ -1624,61 +1624,61 @@ https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_netwo
 
 
 
-#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA: AMC" tvg-logo="https://static.wixstatic.com/media/6048cf_a6fbd71508634e89ae78aa8243edd35f~mv2.png/v1/fill/w_392,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/amc2d.png" group-title="Entertainment", AMC
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="CA: AMC" tvg-logo="https://static.wixstatic.com/media/6048cf_a6fbd71508634e89ae78aa8243edd35f~mv2.png/v1/fill/w_392,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/amc2d.png" group-title="Entertainment", AMC
 http://xxip25.top:8080/s5pPNV/514479/57376
 
 #EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Entertainment",AMC
 http://41.205.93.154/AMC/index.m3u8
 
 
-#EXTINF:-1 tvg-id="fx.ca" tvg-name="CA: FX HD" tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FX HD
+#EXTINF:-1 tvg-id="fx.ca" tvg-name="FX HD" tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FX HD
 http://xxip25.top:8080/s5pPNV/514479/57268
 
-#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX 
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="FXX " tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX 
 http://xxip25.top:8080/s5pPNV/514479/57429
 
 
 #EXTINF:-1  tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX USA
 https://tvpass.org/live/FXXEast/hd
 
-#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA TLC " tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="Entertainment",TLC 
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="TLC " tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="Entertainment",TLC 
 http://xxip25.top:8080/s5pPNV/514479/57290
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="Entertainment",TLC USA
 https://tvpass.org/live/TLCEast/hd
 
 
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="CA: Bravo" tvg-logo="https://static.wixstatic.com/media/6048cf_51bb5aa8a78e4fc789374fa8823c7877~mv2.png/v1/fill/w_310,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="Entertainment",, Bravo
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="https://static.wixstatic.com/media/6048cf_51bb5aa8a78e4fc789374fa8823c7877~mv2.png/v1/fill/w_310,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="Entertainment",, Bravo
 http://xxip25.top:8080/s5pPNV/514479/57379
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_334,h_252,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="Entertainment",Bravo USA
-https://tvpass.org/live/BravoEast/hd
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entertainment",Bravo TV
+#EXTINF:-1  tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Entertainment",Bravo TV
 http://41.205.93.154/BRAVO/index.m3u8
 
+#EXTINF:-1  tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_334,h_252,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="Entertainment",Bravo USA SD
+https://tvpass.org/live/BravoEast/hd
 
 
 #EXTINF:-1  tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern",    tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="Entertainment",FYI USA
 https://tvpass.org/live/FYIEast/hd
 
-#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA E! (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E!
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA E! (R)" tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! HD
 http://xxip25.top:8080/s5pPNV/514479/57422
 
-#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E! CANADA HD" tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! CANADA HD
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA: E! CANADA HD" tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E!  HD
 http://xxip25.top:8080/s5pPNV/514479/57249
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! Entertainment
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! SD
 https://tvpass.org/live/EEast/hd
 
 
-#EXTINF:-1  tvg-id="tv-land-eastern" tvg-name="TV Land Eastern", tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="Entertainment",,TV Land
+#EXTINF:-1  tvg-id="tv-land-eastern" tvg-name="TV Land Eastern", tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="Entertainment", TV Land
 https://tvpass.org/live/tv-land-eastern/hd
 
-#EXTINF:-1   tvg-id="tv-one" tvg-name="TV One", tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="Entertainment",,TV One
+#EXTINF:-1   tvg-id="tv-one" tvg-name="TV One", tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="Entertainment", TV One
 https://tvpass.org/live/TVOne/hd
 
-#EXTINF:-1  tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="Entertainment",,VH1
+#EXTINF:-1  tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="Entertainment", VH1
 https://tvpass.org/live/VH1East/hd
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50/3-1x1.png" tvg-id="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50" group-title="Entertainment",ET
