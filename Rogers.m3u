@@ -584,42 +584,134 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="id="447006"" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SPORT", Fox Sports News
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/76006
 
+#EXTINF:-1 tvg-id="447006"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SPORT", Fox Sports News Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/76006
+
+
 #EXTINF:-1 tvg-id="FOX Cricket HD / F1D.au" tvg-name="FOX Cricket HD / F1D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SPORT", Fox Sports 501
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279034
+
+#EXTINF:-1 tvg-id="FOX Cricket HD"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SPORT", Fox Sports 501 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279034
+
+
 #EXTINF:-1  tvg-id="FOX League HD / F2D.au" tvg-name="FOX League HD / F2D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORT", Fox Sports 502 NRL
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/81784
+
+#EXTINF:-1 tvg-id="FOX League HD" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORT", Fox Sports 502 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/81784
+
 #EXTINF:-1 tvg-id="FOX SPORTS 503 HD / F3D.au" tvg-name="FOX SPORTS 503 HD / F3D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORT", Fox Sports 503
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280192
+
+#EXTINF:-1 tvg-id="FOX SPORTS 503 HD" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORT", Fox Sports 503 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280192
+
+
 #EXTINF:-1 tvg-id="FOX FOOTY HD / FOX FOOTY HD.au" tvg-name="FOX FOOTY HD / FOX FOOTY HD.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORT", Fox Sports 504 AFL
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280193
+
+
+
 #EXTINF:-1 tvg-id="FOX FOOTY HD / FOX FOOTY HD.au" tvg-name="FOX FOOTY HD / FOX FOOTY HD.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORT", Fox Sports 504 AFL {BACKUP}
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306510
+
+#EXTINF:-1 tvg-id="FOX FOOTY HD " tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORT", Fox Sports 504 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280193
+
+
 #EXTINF:-1 tvg-id="FOX SPORTS 505 HD / F4D.au" tvg-name="FOX SPORTS 505 HD / F4D.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORT", Fox Sports 505
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144772
+
+#EXTINF:-1 tvg-id="FOX SPORTS 505 HD" tvg-name="AU: Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORT", Fox Sports 505 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144772
+
+
 #EXTINF:-1 tvg-id="FOX SPORTS 506 HD / SPE.au" tvg-name="FOX SPORTS 506 HD / SPE.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORT", Fox Sports 506
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279033
+
+#EXTINF:-1 tvg-id="FOX SPORTS 506 HD" tvg-name="AU: Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORT", Fox Sports 506 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279033
+
+
 #EXTINF:-1 tvg-id="FOX SPORTS MORE HD / FSM.au" tvg-name="FOX SPORTS MORE HD / FSM.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORT", Fox Sports 507
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
-#EXTINF:-1 tvg-id="Sky Sport 1.nz" tvg-name="Sky Sport 1.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SPORT", Sky Sport 1 NZ
+
+#EXTINF:-1 tvg-id="FOX SPORTS MORE HD " tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORT", Fox Sports 507 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
+
+
+#EXTINF:-1 tvg-id="Sky Sport 1.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SPORT", Sky Sport 1 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307979
-#EXTINF:-1 tvg-id="Sky Sport 2.nz" tvg-name="Sky Sport 2.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="SPORT", Sky Sport 2 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 1.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="SPORT",Sky Sport 1 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302393
+
+#EXTINF:-1 tvg-id="Sky Sport 2.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="SPORT", Sky Sport 2 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307980
-#EXTINF:-1 tvg-id="Sky Sport 3.nz" tvg-name="Sky Sport 3.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SPORT", Sky Sport 3 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 2.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="SPORT", Sky Sport 2 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302394
+
+
+#EXTINF:-1 tvg-id="Sky Sport 3.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SPORT", Sky Sport 3 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307981
-#EXTINF:-1 tvg-id="Sky Sport 4.nz" tvg-name="Sky Sport 4.nz;Sky Sport 4.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SPORT", Sky Sport 4 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 3.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="SPORT", Sky Sport 3 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302395
+
+
+#EXTINF:-1 tvg-id="Sky Sport 4.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SPORT", Sky Sport 4 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307982
-#EXTINF:-1 tvg-id="Sky Sport 5.nz" tvg-name="Sky Sport 5.nz;Sky Sport 5.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="SPORT", Sky Sport 5 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 4.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/eb66040f6d5b2b1b68d081dd34668033.png" group-title="SPORT", Sky Sport 4 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302396
+
+
+#EXTINF:-1 tvg-id="Sky Sport 5.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="SPORT", Sky Sport 5 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307983
-#EXTINF:-1 tvg-id="Sky Sport 6.nz" tvg-name="Sky Sport 6.nz;Sky Sport 6.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="SPORT", Sky Sport 6 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 5.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/773a17d6f9d31094cb82ed98f197cc96.png" group-title="SPORT", Sky Sport 5 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302397
+
+
+#EXTINF:-1 tvg-id="Sky Sport 6.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="SPORT", Sky Sport 6 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307984
-#EXTINF:-1 tvg-id="Sky Sport 7.nz" tvg-name="Sky Sport 7.nz;Sky Sport 7.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title="SPORT", Sky Sport 7 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 6.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7d464629e0c6826c1afcae7478a2172d.png" group-title="SPORT", Sky Sport 6 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302398
+
+
+#EXTINF:-1 tvg-id="Sky Sport 7.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title="SPORT", Sky Sport 7 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307985
-#EXTINF:-1 tvg-id="Sky Sport 8.nz" tvg-name="Sky Sport 8.nz;Sky Sport 8.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 8 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 7.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d8922f9133b9e38996ef277d5ce830a6.png" group-title="SPORT", Sky Sport 7 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302399
+
+
+#EXTINF:-1 tvg-id="Sky Sport 8.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 8 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307986
-#EXTINF:-1 tvg-id="Sky Sport 9.nz" tvg-name="Sky Sport 9.nz;Sky Sport 9.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 9 NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 8.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/299061401984bbf6f42c7859bdd45ac3.png" group-title="SPORT", Sky Sport 8 Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302400
+
+
+#EXTINF:-1 tvg-id="Sky Sport 9.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT", Sky Sport 9 NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307987
-#EXTINF:-1 tvg-id="Sky Sport Select" tvg-name="AU: Sky Sport Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title="SPORT", Sky Sport Select NZ
+
+#EXTINF:-1 tvg-id="Sky Sport 9.nz"  tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ AUS_NEWZEALAND || SPORTS",NZ: Sky Sport 9 backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304079
+
+
+#EXTINF:-1 tvg-id="Sky Sport Select.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title="SPORT", Sky Sport Select NZ
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307988
+
+
+#EXTINF:-1 tvg-id="Sky Sport Select.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bf8f52fc298816f7327ffaae3105c7b0.png" group-title="SPORT", Sky Sport Select Backup
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401
+
+
+
 
 #EXTINF:-1   tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT",FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
