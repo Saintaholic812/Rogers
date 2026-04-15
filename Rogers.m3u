@@ -717,17 +717,17 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 
 
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 1
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="SPORT",Fox Sports 1
 https://tvpass.org/live/FoxSports1/hd
 
-#EXTINF:-1 tvg-id="Fox Sports 2 HD.us" tvg-name="Fox Sports 2"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT",Fox Sports 2 {AFL LIVE}
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="SPORT",Fox Sports 2 {AFL LIVE}
 https://tvpass.org/live/FoxSports2/hd
 
 
-#EXTINF:-1  tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"  tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", group-title="SPORT", FOX SPORTS 1 US
+#EXTINF:-1  tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png", group-title="SPORT", FOX SPORTS 1 US
 http://supersonictv.live:8080/006779/439866/40398
 
-#EXTINF:-1  tvg-id="Fox Sports 2 HD.us" tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png", group-title="SPORT", FOX SPORTS 2 US
+#EXTINF:-1  tvg-id="Fox Sports 2 HD.us" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png", group-title="SPORT", FOX SPORTS 2 US
 http://supersonictv.live:8080/006779/439866/40399
 
  
