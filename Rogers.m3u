@@ -608,7 +608,7 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
 #EXTINF:-1 tvg-id="FOX SPORTS MORE HD / FSM.au" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORT", Fox Sports 507
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
 
-#EXTINF:-1 tvg-id="FoxSports507.au" tvg-name="Fox Sports 507 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT",Fox Sports 507
+#EXTINF:-1 tvg-id="FOX SPORTS MORE HD / FSM.au" tvg-name="Fox Sports 507 AU" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT",Fox Sports 507
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6085
 
 #EXTINF:-1 tvg-id="Sky Sport 1.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SPORT", Sky Sport 1 NZ
@@ -1527,16 +1527,13 @@ https://tvpass.org/live/FXEast/hd
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="MOVIES",Paramount+ with Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="showtime-eastern" tvg-name="US Showtime East " tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES",Showtime HD
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES",Showtime HD
 http://xxip25.top:8080/s5pPNV/514479/46214
-
-#EXTINF:-1  tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="MOVIES",Showtime HD
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed",   tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime SD
 https://tvpass.org/live/ShowtimeEast/hd
 
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES", Showtime 2
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES", Showtime 2
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
 
 #EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES",Showtime 2 HD
@@ -1560,27 +1557,25 @@ http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8
 #EXTINF:-1  tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="MOVIES",Showtime Extreme
 http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="MOVIES",Showtime Showcase
+#EXTINF:-1 tvg-id="Showtime Showcase HD  East.us" tvg-name="Showtime Showcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="MOVIES",Showtime Showcase
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
 
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="MOVIES",Showtime Next
+#EXTINF:-1 tvg-id="Showtime Next HD  Eastern.us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="MOVIES",Showtime Next
 http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
 
-#EXTINF:-1 tvg-id="showtime-next-eastern" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIES", Showtime NEXT
+#EXTINF:-1 tvg-id="Showtime Next HD  Eastern.us" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIES", Showtime NEXT
 http://xxip25.top:8080/s5pPNV/514479/9316
 
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="MOVIES",Showtime Family Zone
+#EXTINF:-1 tvg-id="Showtime Family Zone HD  Eastern.us" tvg-name="Showtime Family Zone" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="MOVIES",Showtime Family Zone
 http://1tv41.icu:8080/Y06DNq/295733/13481
 
-#EXTINF:-1 tvg-id="showtime-family-eastern"  tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png", group-title="MOVIES",Showtime Family Zone
+#EXTINF:-1 tvg-id="Showtime Family Zone HD  Eastern.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png", group-title="MOVIES",Showtime Family Zone
 http://xxip25.top:8080/s5pPNV/514479/13481
 
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="MOVIES",Showtime Women
+#EXTINF:-1 tvg-id="Showtime Women HD  Eastern.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="MOVIES",Showtime Women
 http://1tv41.icu:8080/Y06DNq/295733/17778
 
-
-
-#EXTINF:-1 tvg-id="showtime-women-eastern"  tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIES",Showtime Women
+#EXTINF:-1 tvg-id="Showtime Women HD  Eastern.us"  tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIES",Showtime Women
 http://xxip25.top:8080/s5pPNV/514479/17778
 
 
@@ -1599,12 +1594,6 @@ https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 #######    HBO    ###############
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIES",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="MOVIES",HBO Movies
-http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
-
-#EXTINF:-1  tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES",HBO 1 HD
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="hbo-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO 1 HD
@@ -1637,8 +1626,8 @@ http://xxip25.top:8080/s5pPNV/514479/9266
 #EXTINF:-1  tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern",  tvg-logo="https://logodix.com/logo/1111252.png"group-title="MOVIES",HBO Signature
 https://tvpass.org/live/HBOSignatureEast/hd
 
-#EXTINF:-1  tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East",  tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO Zone HD
-https://tvpass.org/live/HBOZoneEast/hd
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO Movies" tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="MOVIES",HBO Movie zONE
+http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
 
 #EXTINF:-1 tvg-id="hbo-zone-hd-east"  tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO Zone 
 http://xxip25.top:8080/s5pPNV/514479/9265
