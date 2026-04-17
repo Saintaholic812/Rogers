@@ -2327,12 +2327,6 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/adult-swim-us.png?raw=true" group-title="Entertainment" ,Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR" tvg-logo="https://image.xumo.com/v1/channels/channel/99951124/168x168.png?type=color_onBlack" group-title="Entertainment" ,BUZZR
-https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="美国综合",Game Show Network
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10404
-
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/axs-tv-us.png?raw=true" group-title="Entertainment" ,AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 
@@ -4294,6 +4288,12 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999228
 #EXTINF:-1 tvg-id="400000196" tvg-logo="https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Family Feud
 https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR" tvg-logo="https://image.xumo.com/v1/channels/channel/99951124/168x168.png?type=color_onBlack" group-title="Entertainment" ,BUZZR
+https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="Entertainment",Game Show Network
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10404
+
 
 
 
@@ -4409,21 +4409,17 @@ https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 ##############################
 ##############################
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_01977d68168148d2880eab28d5e4c6e4~mv2.png/v1/fill/w_338,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/mtv.png" group-title="MUSIC",MTV USA
-https://tvpass.org/live/MTVEast/hd
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/500px-MTV_Live.svg.png" group-title="MUSIC" ,MTV Live
+http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
 
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/500px-MTV_Classic_US.svg.png" group-title="MUSIC" ,MTV Classic
+http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129921
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8bade779b8174a53920f787bc0cc4a17~mv2.png/v1/fill/w_382,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/mtv2d.png" group-title="MUSIC",MTV 2 East
-https://tvpass.org/live/mtv-2-east/hd
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/500px-VH1_logo.svg.png" group-title="MUSIC" ,VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4b5afe887bc04835a1b0d6a733e47b04~mv2.png/v1/fill/w_296,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/cmtd.png" group-title="MUSIC",CMT US
-https://tvpass.org/live/CMTEast/hd
-
-#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="MUSIC",CA: MUCH MUSIC
-http://xxip25.top:8080/s5pPNV/514479/215268
-
-
-
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/500px-CMT_2017_logo.svg.png" group-title="MUSIC" ,CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MUSIC" ,NOW70S
 https://amg01076-lightning-amg01076c1-lg-au-7320.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
@@ -4505,17 +4501,6 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 
 
-#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/500px-MTV_Live.svg.png" group-title="MUSIC" ,MTV Live
-http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
-
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/500px-MTV_Classic_US.svg.png" group-title="MUSIC" ,MTV Classic
-http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129921
-
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/500px-VH1_logo.svg.png" group-title="MUSIC" ,VH1
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-
-#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/500px-CMT_2017_logo.svg.png" group-title="MUSIC" ,CMT
-http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="USBB4400015F5" tvg-name="Vevo 2K" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94759dbd58a65682bcc573932f725f46/https://image.roku.com/bh-uploads/production/infoHUDLogo/1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" group-title="MUSIC" ,Vevo 2K
 https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live_1080.m3u8
