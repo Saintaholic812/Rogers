@@ -1418,14 +1418,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&content_dist_n
 #EXTINF:-1 tvg-name="RVTV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818" group-title="FISHING/CAMPING",RVTV
 https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-rvtv-freelivesportsemea/playlist.m3u8?channel_name=RVTV&content_genre=Sport&ic=IAB17&rating=PG&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="FISHING/CAMPING", Anglers Paradise
+#EXTINF:-1  tvg-id="mjh-anglersparadise-fast" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="FISHING/CAMPING", Anglers Paradise
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/anglersparadise-fast.m3u8
 
-#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/500px-WFN_2014_logo.svg.png" group-title="FISHING/CAMPING",World Fishing Network
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/500px-WFN_2014_logo.svg.png" group-title="FISHING/CAMPING",World Fishing Network
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23203
 
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca"  tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b65b36c6-7be1-42f8-9bc6-83c84e30d86b" group-title="FISHING/CAMPING",World Fishing Network
+http://xxip25.top:8080/s5pPNV/514479/57471
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_5c2a633766d9499b99d867510bb27cc2~mv2.jpg/v1/fill/w_282,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/sport%20fishing).jpg" group-title="FISHING/CAMPING",Sport Fishing TV
 https://streams2.sofast.tv/ptnr-whaletv/title-SPORT-FISHING-TV-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8cdaa3a1-be8c-447d-af2f-d9293483a49c/manifest.m3u8?ads.tag_id=138607&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Sport+Fishing+TV&ads.wtv_channel_id=0550&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_SportFishingTV&ads.content_categories=IAB17%2CIAB20-1%2CIAB17-11&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
@@ -1433,17 +1435,12 @@ https://streams2.sofast.tv/ptnr-whaletv/title-SPORT-FISHING-TV-ENG_WHALETV/v1/ma
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_138129db080d460bb136118cad3cf925~mv2.png/v1/fill/w_254,h_250,al_c,lg_1,q_85,enc_avif,quality_auto/huntfish.png"   group-title="FISHING/CAMPING",Hunt Fish TV
 https://streams2.sofast.tv/ptnr-whaletv/title-HUNT_FISH_TV_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0e7b5dc5-af48-45be-aec8-ca327aab016b/master.m3u8?ads.tag_id=148553&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Hunt+Fish+TV&ads.wtv_channel_id=0536&ads.content_id=&ads.content_genre=Featured+all+other+countries&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_HuntFishTV&ads.content_categories=IAB19-29%2CIAB17%2CIAB17-14%2CIAB17-11&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=M&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.dnt=0&ads.lmt=0&ads.coppa=0&ads.us_privacy=1YNN&ads.min_dur=5&ads.max_dur=30&ads.h=&ads.w=&ads.placement=1&ads.ap=1&ads.mute=0&ads.skip=0
 
-#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca" tvg-name="CA: World Fishing Network" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b65b36c6-7be1-42f8-9bc6-83c84e30d86b" group-title="FISHING/CAMPING",World Fishing Network
-http://xxip25.top:8080/s5pPNV/514479/57471
 
 #EXTINF:-1 tvg-name="GAME & FISH TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/b65b36c6-7be1-42f8-9bc6-83c84e30d86b" group-title="FISHING/CAMPING",GAME & FISH TV
 https://amg00436-amg00436c7-freelivesports-emea-8457.playouts.now.amagi.tv/playlist/amg00436-ksemotvholdingsfast-gameandfishtv-freelivesportsemea/playlist.m3u8?channel_name=Game%20Fish%20TV&content_genre=Fishing%2CHunting%2CSport&ic=IAB17%2CIAB17-13%2CIAB17-18%2CIAB17-32&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=en&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 tvg-name="The Boat Show" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3153e0bf-1b87-470c-8959-b07a6676c152" group-title="FISHING/CAMPING",The Boat Show
 https://b406660425ae4c31b6f3d40359f2d4eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_TheBoatShow/playlist.m3u8?ads.wurl_channel=529&ads.wurl_name=TheBoatShow&ads.coppa=0&ads.device_id=bc1de050-8f8b-49b5-a9f2-2f60ef51ca9b&ads.dnt=0&ads.lmt=0&ads.us_privacy=1YNN&ads.gdpr=0&ads.consent=&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.url=&ads.device_make=&ads.device_model=&ads.tv_language=&ads.tv_vendor=&ads.brand_name=&ads.tv_model=&ads.language=&ads.gender=M&ads.age=30-34%2C35-39%2C40-44%2C45-49&ads.duration=&ads.content_producer_name=WURL_TheBoatShow_TheBoatShowEN&ads.content_custom_1_param=WURL&ads.rlaxx_session_id=bc1de050-8f8b-49b5-a9f2-2f60ef51ca9b&ads.height=1080&ads.width=1920&ads.rlaxx_iab_category=IAB1&ads.rlaxx_content_category=IAB9%2CIAB17-31%2CIAB17%2CIAB20%2CIAB20-1&ads.rlaxx_genre=Featured+all+other+countries&ads.rlaxx_rating=12%2B&ads.livestream=1&ads.max_ad_duration=30&ads.min_ad_duration=5&ads.tag_id=106434&ads.channel_number=0299&ads.placement=1&ads.autoplay=1&ads.mute=0&ads.skip=0
-
-
-
 
 
 
@@ -1454,11 +1451,10 @@ https://b406660425ae4c31b6f3d40359f2d4eb.mediatailor.us-east-1.amazonaws.com/v1/
 ############################################
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="USA PPV01: WWE RAW @ 08:00 PM EST" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV01
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV01
 http://xxip25.top:8080/s5pPNV/514479/260494
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | WWE" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV02
+#EXTINF:-1 tvg-id="USA | WWE" tvg-name="USA | WWE" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV02
 http://xxip25.top:8080/s5pPNV/514479/260495
 
 #EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="https://static.wixstatic.com/media/6048cf_e5efa16793a94a65b7a7e3a29392cba8~mv2.png/v1/fill/w_238,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/ppv.png" group-title="PPV",USA PPV03
@@ -1550,7 +1546,7 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2"  tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES",Showtime HD
 http://xxip25.top:8080/s5pPNV/514479/46214
 
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" ,   tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime SD
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed", tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime SD
 https://tvpass.org/live/ShowtimeEast/hd
 
 #EXTINF:-1 tvg-id="showtime-2-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES", Showtime 2
