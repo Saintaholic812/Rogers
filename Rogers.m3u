@@ -2660,34 +2660,34 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993065/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993017/600x200.png?type=white_cropped" group-title="Entertainment" ,SNL Vault
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017&ads.asnw=169843&ads.afid=380737434&ads.sfid=19208104&ads.csid=lgchannels_us_nbcusnlvault_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3931&ads.xumo_contentName=NBCUSNLVault&ads.xumo_providerId=3931&ads.xumo_providerName=NBCUSNLVault&ads.channelId=99993017&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="Entertainment" ,BBC One UK
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="Entertainment" ,BBC One UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47744
 
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="Entertainment" ,BBC Two UK
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="Entertainment" ,BBC Two UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47745
 
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="Entertainment" ,BBC Three UK
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="Entertainment" ,BBC Three UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47751
 
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="Entertainment" ,BBC Four UK
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="Entertainment" ,BBC Four UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47742
 
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="Entertainment" ,ITV1 UK
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="Entertainment" ,ITV1 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47784
 
-#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV2 UK" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="Entertainment" ,ITV2 UK
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://i.ibb.co/Yc66t7f/ITV2.png" group-title="Entertainment" ,ITV2 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47786
 
-#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV3 UK" tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" group-title="Entertainment" ,ITV3 UK
+#EXTINF:-1 tvg-id="ITV3.HD.uk"  tvg-logo="https://i.ibb.co/fHbyKrt/ITV3.png" group-title="Entertainment" ,ITV3 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47787
 
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 UK" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="Entertainment" ,ITV4 UK
+#EXTINF:-1 tvg-id="ITV4.HD.uk"  tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="Entertainment" ,ITV4 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47785
 
-#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/330px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="Entertainment" ,Channel 4 UK
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/330px-Channel_4_%28On_Demand%29_2023.svg.png" group-title="Entertainment" ,Channel 4 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47758
 
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-name="Channel 5 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/250px-Channel_5_2025.svg.png" group-title="Entertainment" ,Channel 5 UK
+#EXTINF:-1 tvg-id="Channel.5.HD.uk"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Channel_5_2025.svg/250px-Channel_5_2025.svg.png" group-title="Entertainment" ,Channel 5 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47759
 
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/e-4-uk.png?raw=true" group-title="Entertainment" ,E4 UK
@@ -2713,42 +2713,32 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47810
 
 
 
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-name="NBC 4 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="Entertainment" ,NBC 4 New York
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="Entertainment" ,NBC 4 New York
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49424
 
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-name="NBC 4 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/500px-KNBC_2023.svg.png" group-title="Entertainment" ,NBC 4 Los Angeles
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KNBC_2023.svg/500px-KNBC_2023.svg.png" group-title="Entertainment" ,NBC 4 Los Angeles
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49272
 
-#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="NBC 5 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WMAQ_2023.svg/500px-WMAQ_2023.svg.png" group-title="Entertainment" ,NBC 5 Chicago
+#EXTINF:-1 tvg-id="NBC.East.Stream.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/WMAQ_2023.svg/500px-WMAQ_2023.svg.png" group-title="Entertainment" ,NBC 5 Chicago
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49339
 
-#EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS 2 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="Entertainment" ,CBS 2 New York
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="Entertainment" ,CBS 2 New York
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49423
 
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-name="CBS 2 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBS_LA_logo.svg/500px-CBS_LA_logo.svg.png" group-title="Entertainment" ,CBS 2 Los Angeles
+#EXTINF:-1 tvg-id="CBS.West.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="Entertainment" ,CBS 2 Los Angeles
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49269
 
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="CBS 2 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CBS_Chicago_logo.svg/500px-CBS_Chicago_logo.svg.png" group-title="Entertainment" ,CBS 2 Chicago
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="Entertainment" ,CBS 2 Chicago
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49336
 
-#EXTINF:-1 tvg-id="WABC-DT.us_locals1" tvg-name="ABC 7 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Entertainment" ,ABC 7 New York
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Entertainment" ,ABC 7 New York
 http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/715170
 
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-name="ABC 7 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg/500px-KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg.png" group-title="Entertainment" ,ABC 7 Los Angeles
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg/500px-KGO-TV_and_KABC-TV_ABC_7_%282021_flat_version%29.svg.png" group-title="Entertainment" ,ABC 7 Los Angeles
 http://totalplay.site:8080/SantiagoVallecillo07/CMHawSKdKy/715250
 
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="ABC 7 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Entertainment" ,ABC 7 Chicago
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="Entertainment" ,ABC 7 Chicago
 http://kstv.us:8080/4VUyfZBQzk/95104974615/49335
-
-#EXTINF:-1 tvg-id="WNYW-DT.us_locals1" tvg-name="FOX 5 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/500px-Fts-new-york-a.svg.png" group-title="Entertainment" ,FOX 5 New York
-http://cord-cutter.net:8080/bn80NG/909467/120750
-
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 11 Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Fts-los-angeles-a.svg/500px-Fts-los-angeles-a.svg.png" group-title="Entertainment" ,FOX 11 Los Angeles
-http://cord-cutter.net:8080/bn80NG/909467/120655
-
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="FOX 32 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fts-chicago-c.svg/500px-Fts-chicago-c.svg.png" group-title="Entertainment" ,FOX 32 Chicago
-http://cord-cutter.net:8080/bn80NG/909467/120689
-
 
 ##################################
 ##################################
