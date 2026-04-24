@@ -587,7 +587,7 @@ https://c.mjh.nz/abc-news.m3u8
 ###################################################
 
 
-#EXTINF:-1 tvg-id="FOX NEWS / NEWS.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SPORT/AUSTRALIA", Fox Sports News
+#EXTINF:-1 tvg-id="FOXNewsChannel.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SPORT/AUSTRALIA", Fox Sports News
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/76006
 
 
@@ -603,10 +603,10 @@ http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6080
 #EXTINF:-1  tvg-id="FoxLeague.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORT/AUSTRALIA", Fox Sports 502 NRL
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/81784
 
-#EXTINF:-1 tvg-id="FOX SPORTS 503 HD / F3D.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORT/AUSTRALIA", Fox Sports 503 
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORT/AUSTRALIA", Fox Sports 503 
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280192
 
-#EXTINF:-1 tvg-id="FOX SPORTS 503 FS3.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 503
+#EXTINF:-1 tvg-id="FoxSports503.alt.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 503
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6081
 
 #EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 504
@@ -618,16 +618,16 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280193
 #EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORT/AUSTRALIA", Fox Sports 504 AFL 
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306510
 
-#EXTINF:-1 tvg-id="FoxSports505.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORT/AUSTRALIA", Fox Sports 505
+#EXTINF:-1 tvg-id="FOX SPORTS 505 HD F4D.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORT/AUSTRALIA", Fox Sports 505
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144772
 
-#EXTINF:-1 tvg-id="FOX SPORTS 505 FSP.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 505
+#EXTINF:-1 tvg-id="FOX SPORTS 505 HD F4D.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 505
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6083
 
-#EXTINF:-1 tvg-id="FoxSports506.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORT/AUSTRALIA", Fox Sports 506
+#EXTINF:-1 tvg-id="FOX SPORTS 506 HD SPE.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORT/AUSTRALIA", Fox Sports 506
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279033
 
-#EXTINF:-1 tvg-id="FOX SPORTS 506 SPEED.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 506
+#EXTINF:-1 tvg-id="FOX SPORTS 506 HD SPE.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 506
 http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6084
 
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORT/AUSTRALIA", Fox Sports 507
@@ -739,57 +739,57 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401
 ##############   TNT   SPORT    #####################
 
 
-#EXTINF:-1 tvg-id="TNTSports1.uk;TNT Sports 1.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 1 UK
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 1 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47850
 
-#EXTINF:-1 tvg-id="TNTSports2.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 2 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
 
-#EXTINF:-1 tvg-id="TNTSports3.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 3 UK
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 3 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
 
-#EXTINF:-1 tvg-id="TNTSports4.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 4 UK
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 4 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
 
-#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 5 UK
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 5 UK
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/146591
 
 
 #########   SKY SPORTS   ##################################
 
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Main Event UK
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Main Event UK
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/265926
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Main Event
 http://tvmate.icu:8080/69NpyV/884735/35243
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SPORTS MAIN EVENT HD
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SPORTS MAIN EVENT HD
 http://185.160.192.64:80/mangin15/85784/215920
 
-#EXTINF:-1 tvg-id="SkySportsPlus.uk;Sky Sports +.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="SPORT/UK", Sky Sports+ UK
+#EXTINF:-1 tvg-id="SkySportsPlus.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="SPORT/UK", Sky Sports+ UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47863
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="SPORT/UK", Sky Sports F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="SPORT/UK", Sky Sports F1 HD
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
 http://185.160.192.64:80/mangin15/85784/215910
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
 http://tvmate.icu:8080/69NpyV/884735/53704
 
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-id="SkySportsCricket.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47864
 
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-id="SkySportsCricket.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
 http://185.160.192.64:80/mangin15/85784/215914
 
 
-#EXTINF:-1 tvg-id="Sky Sports Mix.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Mix
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
 
-#EXTINF:-1 tvg-id="Sky Sports Mix.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS MIX HD
+#EXTINF:-1 tvg-id="SkySportsMix.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS MIX HD
 http://185.160.192.64:80/mangin15/85784/215906
 
 #EXTINF:-1 tvg-id="SkySportsAction.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS ACTION HD
@@ -801,16 +801,16 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS PREMIER LEAGUE HD
 http://185.160.192.64:80/mangin15/85784/215918
 
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Football UK
+#EXTINF:-1 tvg-id="SkySportsFootball.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Football UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47866
 
 #EXTINF:-1  tvg-id="SkySp.Fball.HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS FOOTBALL HD
 http://185.160.192.64:80/mangin15/85784/215916
 
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS GOLF HD
+#EXTINF:-1 tvg-id="SkySportsGolf.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS GOLF HD
 http://185.160.192.64:80/mangin15/85784/215912
 
-#EXTINF:-1 tvg-id="Sky Sports Golf.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Golf UK
+#EXTINF:-1 tvg-id="SkySportsGolf.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Golf UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk;Sky Sports Golf.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Golf FHD 
@@ -830,7 +830,7 @@ http://185.160.192.64:80/mangin15/85784/215904
 #EXTINF:-1   tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png"  group-title="SPORT/USA", FOX Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="SPORT/USA", Fox Sports 1
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="SPORT/USA", Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/hd
 
 #EXTINF:-1  tvg-id="FS1.Fox.Sports.1.HD.us2"   tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png", group-title="SPORT/USA", FOX SPORTS 1 US
@@ -845,7 +845,7 @@ http://supersonictv.live:8080/006779/439866/40399
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/500px-FS2_logo_2015.svg.png" group-title="SPORT/USA", FS2 HD
 http://cord-cutter.net:8080/bn80NG/909467/1847
 
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="SPORT/USA", Fox Sports 2 {AFL LIVE}
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="SPORT/USA", Fox Sports 2 SD
 https://tvpass.org/live/FoxSports2/hd
 
 
@@ -973,7 +973,7 @@ https://i.mjh.nz/.r/7afl-fast.m3u8
 ################################################
 
 
-#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT/USA", ESPN News
+#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT/USA", ESPN News SD
 https://tvpass.org/live/ESPNews/sd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" group-title="SPORT/USA", ESPN HD
@@ -1032,7 +1032,7 @@ http://xxip25.top:8080/s5pPNV/514479/66783
 #EXTINF:-1 tvg-id="tsn4.ca"  tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT/USA", TSN4 1080p
 http://xxip25.top:8080/s5pPNV/514479/47446
 
-#EXTINF:-1  tvg-id="tsn4" , tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT/USA", TSN4 PPV
+#EXTINF:-1  tvg-id="tsn4" , tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT/USA", TSN4 SD
 https://tvpass.org/live/tsn4/hd
 
 #EXTINF:-1 tvg-id="TSN.5.HD.ca2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="SPORT/USA",TSN5 HD
@@ -1106,13 +1106,13 @@ https://amg01074-fueltv-amg01074c12-rlaxx-us-6438.playouts.now.amagi.tv/playlist
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT/USA", NFL Network
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT/USA", NFL Network SD
 https://tvpass.org/live/NFLNetwork/sd
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/500px-NFL_Network_Redzone.png" group-title="SPORT/USA", NFL RedZone
 http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts
 
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT/USA",NFL RedZone
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT/USA",NFL RedZone SD
 https://tvpass.org/live/NFLRedZone/sd
 
 #EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Action UK
@@ -1158,7 +1158,7 @@ https://tvpass.org/live/NBATV/hd
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/500px-MLBNetworkLogo.svg.png" group-title="SPORT/USA", MLB Network
 http://89.105.221.127/MLBNetwork/mpegts?token=test
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_e3dab0207b064136bba51ac67b1360cc~mv2.png/v1/fill/w_309,h_319,al_c,lg_1,q_85,enc_avif,quality_auto/mlb.png" group-title="SPORT/USA", MLB Network
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_e3dab0207b064136bba51ac67b1360cc~mv2.png/v1/fill/w_309,h_319,al_c,lg_1,q_85,enc_avif,quality_auto/mlb.png" group-title="SPORT/USA", MLB Network SD
 https://tvpass.org/live/MLBNetwork/hd
 
 #EXTINF:-1 tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="SPORT", Space City Home Network
@@ -1174,7 +1174,7 @@ http://mytvstream.net:8080/live/56481106/11185695/213668.m3u8
 https://nhl-firetv.amagi.tv/playlist1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_590b3d7cf7ba4601a62e078ee4f6197f~mv2.png/v1/fill/w_192,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_590b3d7cf7ba4601a62e078ee4f6197f~mv2.png" group-title="SPORT/USA",NHL Network USA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_590b3d7cf7ba4601a62e078ee4f6197f~mv2.png/v1/fill/w_192,h_212,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_590b3d7cf7ba4601a62e078ee4f6197f~mv2.png" group-title="SPORT/USA",NHL Network SD
 https://tvpass.org/live/NHLNetwork/hd
 
 
@@ -1290,7 +1290,7 @@ http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293804
 #EXTINF:-1 tvg-name="Tennis TV" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5db9d9c0-666f-4153-a55b-0de074aba0c7" group-title="SPORT",Tennis TV
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8?channel_name=Tennis%20TV&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=en&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8141929b05074dcca42b68e0d6f1e1e8~mv2.png/v1/fill/w_418,h_237,al_c,lg_1,q_85,enc_avif,quality_auto/tennisd.png"   group-title="SPORT",The Tennis Channel
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8141929b05074dcca42b68e0d6f1e1e8~mv2.png/v1/fill/w_418,h_237,al_c,lg_1,q_85,enc_avif,quality_auto/tennisd.png"   group-title="SPORT",The Tennis Channel SD
 https://tvpass.org/live/TennisChannel/hd
 
 
@@ -1554,10 +1554,10 @@ http://xxip25.top:8080/s5pPNV/514479/17778
 
 ###############   HALLMARK   ###########
 
-#EXTINF:-1  tvg-id="hallmark-eastern-feed" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_ab5442a1c2794757ac34604ad5ffcaec~mv2.png/v1/fill/w_374,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkd.png" group-title="MOVIES",Hallmark 
+#EXTINF:-1  tvg-id="hallmark-eastern-feed" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_ab5442a1c2794757ac34604ad5ffcaec~mv2.png/v1/fill/w_374,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkd.png" group-title="MOVIES",Hallmark SD
 https://tvpass.org/live/HallmarkChannelEast/hd
 
-#EXTINF:-1  tvg-id="hallmark-mystery-eastern-hd",   tvg-logo="https://static.wixstatic.com/media/6048cf_9cf445f38c0f4e92a6709d798361cf2a~mv2.png/v1/fill/w_511,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/hallmark%20mysteryd.png" group-title="MOVIES",Hallmark Mystery 
+#EXTINF:-1  tvg-id="hallmark-mystery-eastern-hd",   tvg-logo="https://static.wixstatic.com/media/6048cf_9cf445f38c0f4e92a6709d798361cf2a~mv2.png/v1/fill/w_511,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/hallmark%20mysteryd.png" group-title="MOVIES",Hallmark Mystery SD
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 
 
@@ -1594,7 +1594,7 @@ http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
 #EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern"  tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIES",HBO SIGNATURE
 http://xxip25.top:8080/s5pPNV/514479/9266
 
-#EXTINF:-1  tvg-id="hbo-signature-hbo-3-eastern" ,  tvg-logo="https://logodix.com/logo/1111252.png"group-title="MOVIES",HBO Signature
+#EXTINF:-1  tvg-id="hbo-signature-hbo-3-eastern" ,  tvg-logo="https://logodix.com/logo/1111252.png"group-title="MOVIES",HBO Signature SD
 https://tvpass.org/live/HBOSignatureEast/hd
 
 #EXTINF:-1 tvg-id="hbo-zone-hd-east"  tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="MOVIES",HBO Movie zONE
@@ -1618,10 +1618,10 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="hbo-comedy-hd-east"  tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIES",HBO Comedy 
 http://xxip25.top:8080/s5pPNV/514479/17773
 
-#EXTINF:-1  tvg-id="hbo-comedy-hd-east" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_b81e70d4384949ee9e302286940f1be5~mv2.png/v1/fill/w_282,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbocomedyd.png" group-title="MOVIES",HBO Comedy HD
+#EXTINF:-1  tvg-id="hbo-comedy-hd-east" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_b81e70d4384949ee9e302286940f1be5~mv2.png/v1/fill/w_282,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbocomedyd.png" group-title="MOVIES",HBO Comedy SD
 https://tvpass.org/live/HBOComedyEast/hd
 
-#EXTINF:-1  tvg-id="hbo-family-eastern-feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_5ea4e7d09f9e416a8a3a14a4042b02df~mv2.png/v1/fill/w_358,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hbofamilyd.png" group-title="MOVIES",HBO Family
+#EXTINF:-1  tvg-id="hbo-family-eastern-feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_5ea4e7d09f9e416a8a3a14a4042b02df~mv2.png/v1/fill/w_358,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hbofamilyd.png" group-title="MOVIES",HBO Family SD
 https://tvpass.org/live/HBOFamilyEast/hd
 
 #EXTINF:-1  tvg-id="HBO.Drama.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="MOVIES",HBO Family
@@ -1662,7 +1662,7 @@ http://xxip25.top:8080/s5pPNV/514479/9299
 #EXTINF:-1  tvg-id="Starz.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",Starz HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1  tvg-id="starz-eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz
+#EXTINF:-1  tvg-id="starz-eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz SD
 https://tvpass.org/live/StarzEast/hd
 
 #EXTINF:-1 tvg-id="starz-western"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz West
@@ -1810,7 +1810,7 @@ http://xxip25.top:8080/s5pPNV/514479/13380
 #EXTINF:-1 tvg-id="Cinemax.HD.us2"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="MOVIES",Cinemax HD
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
-#EXTINF:-1   tvg-id="cinemax-eastern-feed", tvg-logo="https://static.wixstatic.com/media/6048cf_b12efa3befbb43d4a03b7c6871c80e0e~mv2.png/v1/fill/w_370,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/cinemax.png" group-title="MOVIES", Cinemax
+#EXTINF:-1   tvg-id="cinemax-eastern-feed", tvg-logo="https://static.wixstatic.com/media/6048cf_b12efa3befbb43d4a03b7c6871c80e0e~mv2.png/v1/fill/w_370,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/cinemax.png" group-title="MOVIES", Cinemax SD
 https://tvpass.org/live/CinemaxEast/hd
 
 #EXTINF:-1 tvg-id="Cinemax Hits  Eastern HD.us" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="MOVIES",Cinemax Hits
@@ -1828,7 +1828,7 @@ http://xxip25.top:8080/s5pPNV/514479/21012
 #EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIES", More Max 
 http://xxip25.top:8080/s5pPNV/514479/17776
 
-#EXTINF:-1  tvg-id="MovieMax.HD.us2" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png" group-title="MOVIES", MovieMax
+#EXTINF:-1  tvg-id="MovieMax.HD.us2" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png" group-title="MOVIES", MovieMax SD
 https://tvpass.org/live/MovieMaxEast/hd
 
 #EXTINF:-1 tvg-id="ActionMax.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png"" group-title="MOVIES", ActionMAX
@@ -1903,7 +1903,7 @@ http://xxip25.top:8080/s5pPNV/514479/47331
 #EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-logo="" group-title="MOVIES", Silver Screen
 http://xxip25.top:8080/s5pPNV/514479/107190
 
-#EXTINF:-1  tvg-id="SundanceTV.HD.us2" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_33ff5c5c8d864b898e32c1a3bfb1306e~mv2.png/v1/fill/w_350,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/sundanced.png" group-title="MOVIES",SundanceTV
+#EXTINF:-1  tvg-id="SundanceTV.HD.us2" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_33ff5c5c8d864b898e32c1a3bfb1306e~mv2.png/v1/fill/w_350,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/sundanced.png" group-title="MOVIES",SundanceTV SD
 https://tvpass.org/live/SundanceTVEast/hd
 
 #EXTINF:-1  tvg-id="Syfy.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES",Syfy
@@ -1912,7 +1912,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1  tvg-id="Turner.Classic.Movies.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="MOVIES",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1  tvg-id="Turner.Classic.Movies.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_1455eb9caa99403ebd5fc878a9025345~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/tcmd.png" group-title="MOVIES",Turner Classic Movies USA
+#EXTINF:-1  tvg-id="Turner.Classic.Movies.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_1455eb9caa99403ebd5fc878a9025345~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/tcmd.png" group-title="MOVIES",Turner Classic Movies SD
 https://tvpass.org/live/TCMEast/hd
 
 #EXTINF:-1 tvg-id="LN_D2DC3D4D-2ACF-475A-A254-0016D18F3BF0"  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D2DC3D4D-2ACF-475A-A254-0016D18F3BF0/3-1x1.png" group-title="MOVIES" ,At the Movies
