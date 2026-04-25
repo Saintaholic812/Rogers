@@ -5,6 +5,11 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz"
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-gb.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-au.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-nz.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-ca.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
@@ -739,86 +744,90 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401
 ##############   TNT   SPORT    #####################
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 1 UK
+#EXTINF:-1 tvg-id="TNTSports1.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 1 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47850
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 2 UK
+#EXTINF:-1 tvg-id="TNTSports2.uk" channel id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 2 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 3 UK
+#EXTINF:-1 tvg-id="TNTSports3.uk" channel id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 3 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 4 UK
+#EXTINF:-1 tvg-id="TNTSports4.uk" channel id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 4 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
 
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 5 UK
+#EXTINF:-1 tvg-id="TNTSports5.uk" channel id="TNTSports5.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 5 UK
 http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/146591
 
 
 #########   SKY SPORTS   ##################################
 
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Main Event UK
+#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Main Event UK
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/265926
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Main Event
+#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk" channel id="SkySportsMainEventUHD.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Main Event
 http://tvmate.icu:8080/69NpyV/884735/35243
 
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SPORTS MAIN EVENT HD
+#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk"  channel id="SkySportsMainEventUHD.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SPORTS MAIN EVENT HD
 http://185.160.192.64:80/mangin15/85784/215920
 
-#EXTINF:-1 tvg-id="SkySportsPlus.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="SPORT/UK", Sky Sports+ UK
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" channel id="SkySportsPlus.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="SPORT/UK", Sky Sports+ UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47863
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="SPORT/UK", Sky Sports F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" channel id="SkySportsF1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="SPORT/UK", Sky Sports F1 HD
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" channel id="SkySportsF1.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
 http://185.160.192.64:80/mangin15/85784/215910
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" channel id="SkySportsF1.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS F1 HD
 http://tvmate.icu:8080/69NpyV/884735/53704
 
-#EXTINF:-1 tvg-id="SkySportsCricket.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-id="SkySportsCricket.uk"  channel-id="SkySportsCricket.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47864
 
-#EXTINF:-1 tvg-id="SkySportsCricket.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" channel-id="SkySportsCricket.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
 http://185.160.192.64:80/mangin15/85784/215914
 
 
-#EXTINF:-1 tvg-id="SkySportsMix.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySportsMix.uk" channel-id="SkySportsMix.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Mix
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
 
-#EXTINF:-1 tvg-id="SkySportsMix.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS MIX HD
+#EXTINF:-1 tvg-id="SkySportsMix.uk" channel-id="SkySportsMix.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS MIX HD
 http://185.160.192.64:80/mangin15/85784/215906
 
-#EXTINF:-1 tvg-id="SkySportsAction.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS ACTION HD
+#EXTINF:-1 tvg-id="SkySportsAction.uk"  channel-id="SkySportsAction.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS ACTION HD
 http://185.160.192.64:80/mangin15/85784/215908
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Premier League UK
+#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Action UK
+http://kstv.us:8080/4VUyfZBQzk/95104974615/47862
+
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" channel-id="SkySportsPremierLeague.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Premier League UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS PREMIER LEAGUE HD
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk"  channel-id="SkySportsPremierLeague.uk" tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS PREMIER LEAGUE HD
 http://185.160.192.64:80/mangin15/85784/215918
 
-#EXTINF:-1 tvg-id="SkySportsFootball.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Football UK
+#EXTINF:-1 tvg-id="SkySportsFootball.uk"  channel id="SkySportsFootball.uk"  tvg-logo="https://static.wixstatic.com/media/6048cf_8fd7a1723f0348819766a37753a2d58d~mv2.jpg/v1/fill/w_260,h_260,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsfootball.jpg" group-title="SPORT/UK", Sky Sports Football UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47866
 
-#EXTINF:-1  tvg-id="SkySp.Fball.HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS FOOTBALL HD
+#EXTINF:-1  tvg-id="SkySportsFootball.uk"  channel id="SkySportsFootball.uk" tvg-logo="https://static.wixstatic.com/media/6048cf_8fd7a1723f0348819766a37753a2d58d~mv2.jpg/v1/fill/w_260,h_260,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsfootball.jpg" group-title="SPORT/UK", SKY SPORTS FOOTBALL HD
 http://185.160.192.64:80/mangin15/85784/215916
 
-#EXTINF:-1 tvg-id="SkySportsGolf.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS GOLF HD
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" channel id="SkySportsGolf.uk"  tvg-logo="https://static.wixstatic.com/media/6048cf_633dc1d2112f45958ee68f0aa0c7f71d~mv2.jpg/v1/fill/w_272,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsgolf.jpg" group-title="SPORT/UK", SKY SPORTS GOLF HD
 http://185.160.192.64:80/mangin15/85784/215912
 
-#EXTINF:-1 tvg-id="SkySportsGolf.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-golf-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Golf UK
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" channel id="SkySportsGolf.uk" tvg-logo="https://static.wixstatic.com/media/6048cf_633dc1d2112f45958ee68f0aa0c7f71d~mv2.jpg/v1/fill/w_272,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsgolf.jpg" group-title="SPORT/UK", Sky Sports Golf UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
 
-#EXTINF:-1 tvg-id="SkySportsGolf.uk;Sky Sports Golf.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Golf FHD 
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" channel id="SkySportsGolf.uk" tvg-logo="https://static.wixstatic.com/media/6048cf_633dc1d2112f45958ee68f0aa0c7f71d~mv2.jpg/v1/fill/w_272,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsgolf.jpg" group-title="SPORT/UK", SkySports Golf FHD 
 http://tvmate.icu:8080/69NpyV/884735/35240
 
 
 
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="SPORT/UK", Sky Sports News UK
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="SPORT/UK", Sky Sports News UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47870
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS NEWS HD
@@ -861,13 +870,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 ###############     EUROSPORT  ?    PREMIER SPORT  ############################
 
 
-#EXTINF:-1 tvg-id="Eurosport.1.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="SPORT/UK", EuroSport 1 UK
+#EXTINF:-1 tvg-id="Eurosport.1.uk" channel id="Eurosport1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-1-uk.png?raw=true" group-title="SPORT/UK", EuroSport 1 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47854
 
-#EXTINF:-1 tvg-id="Eurosport.1.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", Eurosport 1 UK
+#EXTINF:-1 tvg-id="Eurosport.1.uk" channel id="Eurosport1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", Eurosport 1 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47854
 
-#EXTINF:-1   tvg-id="Eurosport.1.HD.uk"   tvg-logo="https://i.postimg.cc/1530JnG0/ezgif-6bab54ee368362.png", group-title="SPORT/UK", EUROSPORT 1
+#EXTINF:-1   tvg-id="Eurosport1.uk"  channel id="Eurosport1.uk" tvg-logo="https://i.postimg.cc/1530JnG0/ezgif-6bab54ee368362.png", group-title="SPORT/UK", EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -875,11 +884,11 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47854
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="Eurosport.2.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", Eurosport 2 UK
+#EXTINF:-1 tvg-id="Eurosport.2.uk" channel id="Eurosport2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", Eurosport 2 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47855
 
 
-#EXTINF:-1 tvg-id="Eurosport.2.uk" tvg-name="EuroSport 2 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="SPORT/UK",EuroSport 2 UK
+#EXTINF:-1 tvg-id="Eurosport.2.uk" channel id="Eurosport2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/eurosport-2-uk.png?raw=true" group-title="SPORT/UK",EuroSport 2 UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47855
 
 #EXTINF:-1  tvg-id="Eurosport.2.HD.uk"    tvg-logo="https://i.postimg.cc/0Q5rPm2B/ezgif-626de9edc5d7dc.png",group-title="SPORT/UK", EUROSPORT 2
@@ -893,7 +902,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK",  ???? UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47856
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", LFC Soccer UK
+#EXTINF:-1 tvg-id="LFCTV.uk" channel id="LFCTV.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", LFC  UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47857
 
 
@@ -912,12 +921,12 @@ http://185.160.192.64:80/mangin15/85784/215898
 http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/304796
 
 
-#EXTINF:-1  tvg-id="Premier 2 HD.uk"  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", group-title="SPORT/UK",  Premiere Sports 2 UK
+#EXTINF:-1  tvg-id="Premier.Sports.2.HD.uk"  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", group-title="SPORT/UK",  Premiere Sports 2 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premier.Sports.Rugby.HD.uk"  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", group-title="SPORT/UK", Premier Sports Rugby UK
+#EXTINF:-1 tvg-id="PremierSportsRugby.uk" channel id="PremierSportsRugby.uk" tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg", group-title="SPORT/UK", Premier Sports Rugby UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4751472d3ac45e95e44b5e75480e53de:5f989e3de354630ec7973980f129ed01
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fapyi0fj1o/out/v1/6fe7ef7bb5de4033a2b202d9ca62151a/cenc.mpd
@@ -1057,7 +1066,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 ####################################################
 ###################################################
 
-#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8"  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="SPORT",PBR: Ride Pass
+#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8"  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/262b9a3f6220e5c070cb0ab316ee1128/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1744402737715_PBRRidepass_CenterAlign_260x147.png" group-title="SPORT/USA",PBR: Ride Pass
 https://jmp2.uk/rok-262b9a3f6220e5c070cb0ab316ee1128.m3u8
 
 #EXTINF:-1  tvg-id="60d39387706fe50007fda8e8"  tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="SPORT/USA", PBR RidePass
@@ -1115,8 +1124,6 @@ http://iptvtree.net:8080/live/7e4b0dbd/1dd755dc3f/2369.ts
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="SPORT/USA",NFL RedZone SD
 https://tvpass.org/live/NFLRedZone/sd
 
-#EXTINF:-1 tvg-id="Sky.Sports.NFL.uk" tvg-name="Sky Sports Action UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Action UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47862
 
 
 #EXTINF:-1 channel-id="mjh-superbowlchampions-fast" tvg-id="mjh-superbowlchampions-fast" tvg-logo="https://i.mjh.nz/.images/auto-superbowlchampions-fast-613fd9.png" group-title="SPORT/USA", Super Bowl Champions
