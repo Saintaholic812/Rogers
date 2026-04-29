@@ -1,12 +1,15 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz"
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz"
 #EXTM3U x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz"
-#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz"
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml.gz"
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/australia3.xml.gz"
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Roku/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+
+
+
 
 
 ##############################
@@ -15,7 +18,7 @@
 ##############################
 #############################
 
-#EXTINF:-1 channel-id="7Brisbane.au"  tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" group-title="Brisbane" , 7 Brisbane
+#EXTINF:-1 channel-id="7Brisbane.au"  tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="Brisbane" , 7 Brisbane
 https://i.mjh.nz/.r/seven-bri.m3u8
 
 #EXTINF:-1 channel-id="7SunshineCoast.au"  tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="Brisbane" , 7 Sunshine Coast
@@ -208,73 +211,73 @@ https://c.mjh.nz/abc-nsw.m3u8
 ###################################
 
 
-#EXTINF:-1 channel-id="7Perth.au" tvg-id="7Perth.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png"  group-title="Rest of OZ" , Seven Perth
+#EXTINF:-1 channel-id="7Perth.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png"  group-title="Rest of OZ" , Seven Perth
 https://i.mjh.nz/.r/seven-per.m3u8
 
-#EXTINF:-1 channel-id="7TWOPerth.au" tvg-id="7TWOPerth.au" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png"  group-title="Rest of OZ" , 7two Perth
+#EXTINF:-1 channel-id="7TWOPerth.au"  tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png"  group-title="Rest of OZ" , 7two Perth
 https://i.mjh.nz/.r/7two-per.m3u8
 
-#EXTINF:-1 channel-id="7matePerth.au" tvg-id="7matePerth.au" tvg-logo="https://i.mjh.nz/.images/auto-7mate-per-360d60.png"  group-title="Rest of OZ" , 7matem Perth
+#EXTINF:-1 channel-id="7matePerth.au"  tvg-logo="https://i.mjh.nz/.images/auto-7mate-per-360d60.png"  group-title="Rest of OZ" , 7matem Perth
 https://i.mjh.nz/.r/7mate-per.m3u8
 
-#EXTINF:-1 channel-id="7flixPerth.au" tvg-id="7flixPerth.au" tvg-logo="https://i.mjh.nz/.images/auto-7flix-per-c6badc.png"  group-title="Rest of OZ" , 7flix Perth
+#EXTINF:-1 channel-id="7flixPerth.au" tvg-logo="https://i.mjh.nz/.images/auto-7flix-per-c6badc.png"  group-title="Rest of OZ" , 7flix Perth
 https://i.mjh.nz/.r/7flix-per.m3u8
 
-#EXTINF:-1 channel-id="9Perth.au" tvg-id="9Perth.au" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png"  group-title="Rest of OZ" , Channel 9 Perth
+#EXTINF:-1 channel-id="9Perth.au"  tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png"  group-title="Rest of OZ" , Channel 9 Perth
 https://i.mjh.nz/.r/channel-9-wa.m3u8
 
-#EXTINF:-1 channel-id="9GemPerth.au" tvg-id="9GemPerth.au" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png"  group-title="Rest of OZ", 9Gem Perth
+#EXTINF:-1 channel-id="9GemPerth.au"  tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png"  group-title="Rest of OZ", 9Gem Perth
 https://i.mjh.nz/.r/gem-wa.m3u8
 
-#EXTINF:-1 channel-id="9GoPerth.au" tvg-id="9GoPerth.au" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png"  group-title="Rest of OZ" , 9Go! Perth
+#EXTINF:-1 channel-id="9GoPerth.au"  tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png"  group-title="Rest of OZ" , 9Go! Perth
 https://i.mjh.nz/.r/go-wa.m3u8
 
-#EXTINF:-1 channel-id="9LifePerth.au" tvg-id="9LifePerth.au" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="Rest of OZ" , 9Life Perth
+#EXTINF:-1 channel-id="9LifePerth.au"  tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="Rest of OZ" , 9Life Perth
 https://i.mjh.nz/.r/life-wa.m3u8
 
-#EXTINF:-1 channel-id="9RushPerth.au" tvg-id="9RushPerth.au" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png"  group-title="Rest of OZ", 9Rush Perth
+#EXTINF:-1 channel-id="9RushPerth.au"  tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png"  group-title="Rest of OZ", 9Rush Perth
 https://i.mjh.nz/.r/rush-wa.m3u8
 
-#EXTINF:-1 channel-id="ABCPerth.au" tvg-id="ABCPerth.au"" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ", ABC TV Perth
+#EXTINF:-1 channel-id="ABCPerth.au"  tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ", ABC TV Perth
 https://c.mjh.nz/abc-wa.m3u8
 
-#EXTINF:-1 channel-id="10Perth.au" tvg-id="10Perth.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png"  group-title="Rest of OZ", 10 Perth
+#EXTINF:-1 channel-id="10Perth.au"  tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png"  group-title="Rest of OZ", 10 Perth
 https://i.mjh.nz/.r/10-wa.m3u8
 
-#EXTINF:-1 channel-id="10BoldPerth.au" tvg-id="10BoldPerth.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png"  group-title="Rest of OZ", 10 Drama Perth
+#EXTINF:-1 channel-id="10BoldPerth.au"  tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png"  group-title="Rest of OZ", 10 Drama Perth
 https://i.mjh.nz/.r/10bold-wa.m3u8
 
-#EXTINF:-1 channel-id="10PeachPerth.au" tvg-id="10PeachPerth.au" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Rest of OZ", 10 Comedy Perth
+#EXTINF:-1 channel-id="10PeachPerth.au"  tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" group-title="Rest of OZ", 10 Comedy Perth
 https://i.mjh.nz/.r/10peach-wa.m3u8
 
-#EXTINF:-1 channel-id="NickelodeonPerth.au" tvg-id="NickelodeonPerth.au" tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png"  group-title="Rest of OZ" , Nickelodeon Perth
+#EXTINF:-1 channel-id="NickelodeonPerth.au"  tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png"  group-title="Rest of OZ" , Nickelodeon Perth
 https://i.mjh.nz/.r/10shake-wa.m3u8
 
-#EXTINF:-1 channel-id="7Adelaide.au" tvg-id="7Adelaide.au" tvg-logo="https://i.mjh.nz/.images/auto-seven-ade-9608a4.png"  group-title="Rest of OZ", Seven Adel
+#EXTINF:-1 channel-id="7Adelaide.au"  tvg-logo="https://i.mjh.nz/.images/auto-seven-ade-9608a4.png"  group-title="Rest of OZ", Seven Adel
 https://i.mjh.nz/.r/seven-ade.m3u8
 
-#EXTINF:-1 channel-id="7TWOAdelaide.au" tvg-id="7TWOAdelaide.au" tvg-logo="https://i.mjh.nz/.images/auto-7two-ade-701123.png"  group-title="Rest of OZ" , 7two Adel
+#EXTINF:-1 channel-id="7TWOAdelaide.au"  tvg-logo="https://i.mjh.nz/.images/auto-7two-ade-701123.png"  group-title="Rest of OZ" , 7two Adel
 https://i.mjh.nz/.r/7two-ade.m3u8
 
-#EXTINF:-1 channel-id="7mateAdelaide.au" tvg-id="7mateAdelaide.au" tvg-logo="https://i.mjh.nz/.images/auto-7mate-ade-360d60.png"  group-title="Rest of OZ" , 7mate Adel
+#EXTINF:-1 channel-id="7mateAdelaide.au"  tvg-logo="https://i.mjh.nz/.images/auto-7mate-ade-360d60.png"  group-title="Rest of OZ" , 7mate Adel
 https://i.mjh.nz/.r/7mate-ade.m3u8
 
-#EXTINF:-1 channel-id="7flixAdelaide.au" tvg-id="7flixAdelaide.au" tvg-logo="https://i.mjh.nz/.images/auto-7flix-ade-c6badc.png"  group-title="Rest of OZ" , 7flix Adel
+#EXTINF:-1 channel-id="7flixAdelaide.au"  tvg-logo="https://i.mjh.nz/.images/auto-7flix-ade-c6badc.png"  group-title="Rest of OZ" , 7flix Adel
 https://i.mjh.nz/.r/7flix-ade.m3u8
 
-#EXTINF:-1 channel-id="9Adelaide.au" tvg-id="9Adelaide.au" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png"  group-title="Rest of OZ" , Channel 9 Adel
+#EXTINF:-1 channel-id="9Adelaide.au"  tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png"  group-title="Rest of OZ" , Channel 9 Adel
 https://i.mjh.nz/.r/channel-9-sa.m3u8
 
-#EXTINF:-1 channel-id="9GemAdelaide.au" tvg-id="9GemAdelaide.au" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png"  group-title="Rest of OZ" , 9Gem Adel
+#EXTINF:-1 channel-id="9GemAdelaide.au"  tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png"  group-title="Rest of OZ" , 9Gem Adel
 https://i.mjh.nz/.r/gem-sa.m3u8
 
-#EXTINF:-1 channel-id="9GoAdelaide.au" tvg-id="9GoAdelaide.au" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png"  group-title="Rest of OZ" , 9Go! Adel
+#EXTINF:-1 channel-id="9GoAdelaide.au"  tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png"  group-title="Rest of OZ" , 9Go! Adel
 https://i.mjh.nz/.r/go-sa.m3u8
 
-#EXTINF:-1 channel-id="9LifeAdelaide.au" tvg-id="9LifeAdelaide.au" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png"  group-title="Rest of OZ" , 9Life Adel
+#EXTINF:-1 channel-id="9LifeAdelaide.au"  tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png"  group-title="Rest of OZ" , 9Life Adel
 https://i.mjh.nz/.r/life-sa.m3u8
 
-#EXTINF:-1 channel-id="9RushAdelaide.au" tvg-id="9RushAdelaide.au" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png"  group-title="Rest of OZ" , 9Rush Adel
+#EXTINF:-1 channel-id="9RushAdelaide.au"  tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png"  group-title="Rest of OZ" , 9Rush Adel
 https://i.mjh.nz/.r/rush-sa.m3u8
 
 #EXTINF:-1 channel-id="10Adelaide.au"  tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png"  group-title="Rest of OZ" , 10 Adel
@@ -289,110 +292,68 @@ https://i.mjh.nz/.r/10peach-sa.m3u8
 #EXTINF:-1 channel-id="NickelodeonAdelaide.au"  tvg-logo="https://10play.com.au/ip/s3/2023/07/31/dc4873abc5ba0fde04b59a78c89e0943-1252731.png"  group-title="Rest of OZ", Nickelodeon Adel
 https://i.mjh.nz/.r/10shake-sa.m3u8
 
-#EXTINF:-1 channel-id="NickJr.au" tvg-id="NickJr.au" tvg-logo="https://10.com.au/ip/s3/2024/06/06/d14509f218578984e3a6f6f34f0ee12c-1319009.png?image-profile=logo" group-title="Rest of OZ" 
+#EXTINF:-1 channel-id="NickJr.au"  tvg-logo="https://10.com.au/ip/s3/2024/06/06/d14509f218578984e3a6f6f34f0ee12c-1319009.png?image-profile=logo" group-title="Rest of OZ" 
 , Nick Jr Club
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-nick-jr.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-spongebobsquarepants" tvg-id="mjh-10-spongebobsquarepants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="Rest of OZ"  , SpongeBob SquarePants
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-10-spongebobsquarepants"  tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="Rest of OZ"  , SpongeBob SquarePants
 https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-nicktoons" tvg-id="mjh-10-nicktoons" tvg-logo="https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo" group-title="Rest of OZ" , NickToons
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-10-nicktoons"  tvg-logo="https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo" group-title="Rest of OZ" , NickToons
 https://i.mjh.nz/.r/10-nicktoons.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-nicktoons-90s" tvg-id="mjh-10-nicktoons-90s" tvg-logo="https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo" group-title="Rest of OZ"  , NickToons 90s
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-10-nicktoons-90s"  tvg-logo="https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo" group-title="Rest of OZ"  , NickToons 90s
 https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-nickteen" tvg-id="mjh-10-nickteen" tvg-logo="https://10.com.au/ip/s3/2024/06/04/ecc540be818b29d753e036e046028a27-1318595.png?image-profile=logo" group-title="Rest of OZ" , NickTeen
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-10-nickteen"  tvg-logo="https://10.com.au/ip/s3/2024/06/04/ecc540be818b29d753e036e046028a27-1318595.png?image-profile=logo" group-title="Rest of OZ" , NickTeen
 https://i.mjh.nz/.r/10-nickteen.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-sa" tvg-id="mjh-abc-sa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ", ABC TV Adel
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-sa"  tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ", ABC TV Adel
 https://c.mjh.nz/abc-sa.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-tas" tvg-id="mjh-abc-tas" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ" , ABC TV Hobart
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-tas"  tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ" , ABC TV Hobart
 https://c.mjh.nz/abc-tas.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-act" tvg-id="mjh-abc-act" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ" , ABC TV Canberra
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-act"  tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ" , ABC TV Canberra
 https://c.mjh.nz/abc-act.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-nt" tvg-id="mjh-abc-nt" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ" , ABC TV Darwin
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-nt"  tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="Rest of OZ" , ABC TV Darwin
 https://c.mjh.nz/abc-nt.m3u8
 
-#EXTINF:-1 channel-id="mjh-c44" tvg-id="mjh-c44" tvg-logo="https://i.mjh.nz/.images/c44.png" tvg-chno="44" group-title="Rest of OZ" , Channel 44 Adel
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-c44"  tvg-logo="https://i.mjh.nz/.images/c44.png" tvg-chno="44" group-title="Rest of OZ" , Channel 44 Adel
 https://i.mjh.nz/.r/c44.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="Rest of OZ"  , ABC Kids
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-kids"  tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="Rest of OZ"  , ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-tv-plus" tvg-id="mjh-abc-tv-plus" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="Rest of OZ"  , ABC Family
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-tv-plus"  tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="Rest of OZ"  , ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="mjh-abc-me" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/6_Entertains_C-1054_iview_LivestreamOn_2000x2000_new.png" tvg-chno="23" group-title="Rest of OZ" , ABC Entertains
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-me"  tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/6_Entertains_C-1054_iview_LivestreamOn_2000x2000_new.png" tvg-chno="23" group-title="Rest of OZ" , ABC Entertains
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 channel-id="mjh-first-nations-tv" tvg-id="mjh-first-nations-tv" tvg-logo="https://i.mjh.nz/.images/first-nations-tv.png" tvg-chno="41" group-title="Rest of OZ", First Nations TV Darwin
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-first-nations-tv"  tvg-logo="https://i.mjh.nz/.images/first-nations-tv.png" tvg-chno="41" group-title="Rest of OZ", First Nations TV Darwin
 https://i.mjh.nz/.r/first-nations-tv.m3u8
 
-#EXTINF:-1 channel-id="mjh-tourism-tv" tvg-id="mjh-tourism-tv" tvg-logo="https://i.mjh.nz/.images/tourism-tv.png" tvg-chno="42" group-title="Rest of OZ" , Tourism TV Darwin
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-tourism-tv"  tvg-logo="https://i.mjh.nz/.images/tourism-tv.png" tvg-chno="42" group-title="Rest of OZ" , Tourism TV Darwin
 https://i.mjh.nz/.r/tourism-tv.m3u8
 
-#EXTINF:-1 channel-id="mjh-sbs-sbst" tvg-id="mjh-sbs-sbst" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c" tvg-chno="30" group-title="Rest of OZ", SBS
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-sbs-sbst"  tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c" tvg-chno="30" group-title="Rest of OZ", SBS
 https://i.mjh.nz/.r/sbs-sbst.m3u8
 
-#EXTINF:-1 channel-id="mjh-sbs-2syd" tvg-id="mjh-sbs-2syd" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500" tvg-chno="31" group-title="Rest of OZ" , SBS VICELAND
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-sbs-2syd"  tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500" tvg-chno="31" group-title="Rest of OZ" , SBS VICELAND
 https://i.mjh.nz/.r/sbs-2syd.m3u8
 
-#EXTINF:-1 channel-id="mjh-sbs-5nsw" tvg-id="mjh-sbs-5nsw" tvg-logo="https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6" tvg-chno="34" group-title="Rest of OZ" , NITV
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-sbs-5nsw"  tvg-logo="https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6" tvg-chno="34" group-title="Rest of OZ" , NITV
 https://i.mjh.nz/.r/sbs-5nsw.m3u8
 
-#EXTINF:-1 channel-id="mjh-sbs-4syd" tvg-id="mjh-sbs-4syd" tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb" tvg-chno="32" group-title="Rest of OZ", SBS World Movies
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-sbs-4syd"  tvg-logo="https://image.pr.sbsod.com/cc42ae9e-0e64-5bc3-8c71-6f23f42610fb" tvg-chno="32" group-title="Rest of OZ", SBS World Movies
 https://i.mjh.nz/.r/sbs-4syd.m3u8
 
-#EXTINF:-1 channel-id="mjh-sbs-6nat" tvg-id="mjh-sbs-6nat" tvg-logo="https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555" tvg-chno="35" group-title="Rest of OZ" , SBS WorldWatch
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-sbs-6nat"  tvg-logo="https://image.pr.sbsod.com/ca2194b7-6b91-58b3-a731-e0b7f04d9555" tvg-chno="35" group-title="Rest of OZ" , SBS WorldWatch
 https://i.mjh.nz/.r/sbs-6nat.m3u8
 
-#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="Rest of OZ"  , ABC NEWS
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
+#EXTINF:-1 channel-id="mjh-abc-news"  tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="Rest of OZ"  , ABC NEWS
 https://c.mjh.nz/abc-news.m3u8
 
 ###################################################
@@ -1898,7 +1859,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="FXX USA HD  Eastern.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX HD
 http://xxip25.top:8080/s5pPNV/514479/57429
 
-#EXTINF:-1  tvg-id="fxx-usa-eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX SD
+#EXTINF:-1  tvg-id="FXX USA HD  Eastern.us" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="Entertainment",FXX SD
 https://tvpass.org/live/FXXEast/hd
 
 #EXTINF:-1 tvg-id="FXX.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/500px-FXX_Logo.svg.png" group-title="Entertainment",FXX
@@ -1913,7 +1874,7 @@ http://89.105.221.127/tlc/mpegts?token=test
 #EXTINF:-1 tvg-id="tlc.ca"  tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="Entertainment",TLC HD
 http://xxip25.top:8080/s5pPNV/514479/57290
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="Entertainment",TLC SD
+#EXTINF:-1  tvg-id="TLC.HD.(US).us2" tvg-logo="https://static.wixstatic.com/media/6048cf_9e362dc5a3784a47ba64e18dcd74ad46~mv2.png/v1/fill/w_448,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/tlcd.png" group-title="Entertainment",TLC SD
 https://tvpass.org/live/TLCEast/hd
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bravo_2024.svg/500px-Bravo_2024.svg.png" group-title="Entertainment" ,Bravo
@@ -1928,7 +1889,7 @@ http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1  tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="https://static.wixstatic.com/media/6048cf_08b32533ca61428bba1a96aded7b479a~mv2.png/v1/fill/w_334,h_252,al_c,lg_1,q_85,enc_avif,quality_auto/bravod.png" group-title="Entertainment",Bravo SD
 https://tvpass.org/live/BravoEast/hd
 
-#EXTINF:-1  tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern",    tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="Entertainment",FYI USA
+#EXTINF:-1  tvg-id="FYI.Channel.HD.us2"   tvg-logo="https://static.wixstatic.com/media/6048cf_a99184b3d52a454b8ad49256ca78c8f4~mv2.png/v1/fill/w_316,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/fyid.png" group-title="Entertainment",FYI USA
 https://tvpass.org/live/FYIEast/hd
 
 ########    HALLMARK    ############
@@ -2011,7 +1972,7 @@ http://mytvstream.net:8080/live/30550113/30550113/16262.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/500px-TV_Land_2015_logo.svg.png" group-title="Entertainment",TV Land
 http://mytvstream.net:8080/live/30550113/30550113/46696.m3u8
 
-#EXTINF:-1  tvg-id="tv-land-eastern" , tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="Entertainment", TV Land SD
+#EXTINF:-1  tvg-id="TV.Land.HD.us2" , tvg-logo="https://static.wixstatic.com/media/6048cf_98c9eeab6b2149f8a9b8ebe56fff2d21~mv2.png/v1/fill/w_363,h_273,al_c,lg_1,q_85,enc_avif,quality_auto/tvlandd.png" group-title="Entertainment", TV Land SD
 https://tvpass.org/live/tv-land-eastern/hd
 
 #EXTINF:-1 tvg-id="TV.One.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/500px-TV-One-logo-2016.png" group-title="Entertainment",TV One
@@ -2020,7 +1981,7 @@ http://1tv41.icu:8080/live/Y06DNq/295733/20868.rtmp
 #EXTINF:-1   tvg-id="tv-one" , tvg-logo="https://static.wixstatic.com/media/6048cf_246a17334f9a43acbfa0140e2beacd02~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tvoned.png" group-title="Entertainment", TV One SD
 https://tvpass.org/live/TVOne/hd
 
-#EXTINF:-1  tvg-id="vh1-eastern-feed"   tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="Entertainment", VH1 SD
+#EXTINF:-1  tvg-id="VH1.HD.us2"   tvg-logo="https://static.wixstatic.com/media/6048cf_4766a4c77d78456db57e6a7afc3f2a60~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/vh1.png" group-title="Entertainment", VH1 SD
 https://tvpass.org/live/VH1East/hd
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" group-title="Entertainment",BBC America
@@ -2064,9 +2025,6 @@ http://cord-cutter.net:8080/96082340/96082340/116506
 
 #EXTINF:-1 tvg-id="CTV.Speed.HD.ca2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-speed-channel-ca.png?raw=true" group-title="Entertainment",CTV Speed Channel CA
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/12372
-
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/500px-Fashion_TV_logo_2017.svg.png" group-title="Entertainment",FashionTV FR
-https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/500px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
@@ -2113,7 +2071,7 @@ https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_netwo
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! HD
 http://xxip25.top:8080/s5pPNV/514479/57422
 
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! SD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e71526d3ab67422eb3e5384574c258b8~mv2.png/v1/fill/w_282,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/eenterd.png" group-title="Entertainment",E! SD
 https://tvpass.org/live/EEast/hd
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50/3-1x1.png" tvg-id="LN_A9BAC7BD-E8B0-4B2D-B290-9AF210B32B50" group-title="Entertainment", ET
@@ -2122,17 +2080,11 @@ https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9/3-1x1.png" tvg-id="LN_433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9" group-title="Entertainment", TMZ
 https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/lg.m3u8?ads.cdnhost=s11host2.localnow.api.cms.amdvids.com&ads.playbackid=433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9&ads.n4=content_name&ads.v4=TMZ&ads.n21=device_make&ads.v21=&ads.n22=ua&ads.v22=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n23=content_provider&ads.v23=tmz&ads.n24=channel_company_id&ads.v24=AMDP500565&ads.n25=content_custom_1_param&ads.v25=433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9&ads.n26=content_custom_3_param&ads.v26=channel&ads.n27=channel_id&ads.v27=433DDB79-4CA9-4EEA-BB7D-8FDF5FC788E9&ads.n28=channel_brand_id&ads.v28=AMDB013651&ads.n29=pos&ads.v29=midroll&ads.n30=channel_genre&ads.v30=Entertainment&ads.n31=channel_corp&ads.v31=Fox%20News%20Network&ads.n32=network_name&ads.v32=tmz&ads.n33=gpp&ads.v33=&ads.n34=device_model&ads.v34=&ads.n35=ip&ads.v35=86.48.9.131&ads.n36=content_type&ads.v36=channel&ads.n37=channel_title&ads.v37=TMZ&ads.n38=content_producer_name&ads.v38=Fox%20News%20Network&ads.n39=channel_rating&ads.v39=TV-PG&ads.n40=gpp_sid&ads.v40=&ads.n41=app_version&ads.v41=0.0.0&ads.n42=w&ads.v42=1920&ads.n43=dnt&ads.v43=&ads.n44=channel_ext_id&ads.v44=&ads.n45=url&ads.v45=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n46=did&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB013651&ads.n48=h&ads.v48=1080&ads.n49=device_type&ads.v49=&ads.n50=app_store_url&ads.v50=&ads.n51=us_privacy&ads.v51=1YNY&ads.n52=channel_name&ads.v52=TMZ&ads.n53=cust_devicename&ads.v53=desktop_web&ads.n54=ifa_type&ads.v54=&ads.n55=app_name&ads.v55=&ads.n56=app_bundle&ads.v56=&ads.n57=channel_language&ads.v57=en&ads.n58=content_livestream&ads.v58=1
 
-#EXTINF:-1 tvg-id="tnt-eastern-feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_d8c5a62d44674e63bac03ddb51137ee6~mv2.png/v1/fill/w_522,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/tntd.png" group-title="Entertainment",TNT SD
+#EXTINF:-1 tvg-id="TNT.HD.us2",  tvg-logo="https://static.wixstatic.com/media/6048cf_d8c5a62d44674e63bac03ddb51137ee6~mv2.png/v1/fill/w_522,h_189,al_c,lg_1,q_85,enc_avif,quality_auto/tntd.png" group-title="Entertainment",TNT SD
 https://tvpass.org/live/TNTEast/hd 
 
 #EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_9b8576b77af04ef8ab09fc5a20ae966d~mv2.jpg/v1/fill/w_507,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/own(1).jpg" group-title="Entertainment", Oprah Winfrey Network SD
 https://tvpass.org/live/OWNEast/hd
-
-#EXTINF:-1 tvg-id="OWN.HD.us2" tvg-name="OWN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/500px-OWN_2011_logo.svg.png" group-title="Entertainment",OWN
-http://1tv41.icu:8080/live/Y06DNq/295733/46698.rtmp
-
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern"  tvg-logo="https://static.wixstatic.com/media/6048cf_9b8576b77af04ef8ab09fc5a20ae966d~mv2.jpg/v1/fill/w_507,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/own(1).jpg" group-title="Entertainment", OWN 
-http://xxip25.top:8080/s5pPNV/514479/57277
 
 #EXTINF:-1 tvg-id="bet-eastern-feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_7b04151a8c184510aefae2695a5e9f1d~mv2.png/v1/fill/w_508,h_164,al_c,lg_1,q_85,enc_avif,quality_auto/betd.png" group-title="Entertainment",BET
 https://tvpass.org/live/BETEast/hd
@@ -2161,7 +2113,7 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47825
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sci-fi-uk.png?raw=true" group-title="Entertainment",Sky Sci-Fi UK
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14932
 
-#EXTINF:-1 tvg-id="99951213"  tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6dec467-4010-490f-84c2-07f816211ef6/BritBox_MysteryMonth_channel_logo__full_color__Caitlin_Schiffer.png" group-title="Entertainment",BritBox Mysteries UK
+#EXTINF:-1 tvg-id="plex.tv.BritBox.Mysteries.plex"  tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6dec467-4010-490f-84c2-07f816211ef6/BritBox_MysteryMonth_channel_logo__full_color__Caitlin_Schiffer.png" group-title="Entertainment",BritBox Mysteries UK
 https://1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-796-BRITBOXMYSTERIES-LG_US/a623a951-0765-40f6-83dd-307e7c64a4f5/0.m3u8
 
 #EXTINF:-1 tvg-id="99951497"  tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcdrama400x200.png" group-title="Entertainment",BBC Drama UK
@@ -2197,16 +2149,16 @@ http://1tv41.icu:8080/live/Y06DNq/295733/57254.rtmp
 #EXTINF:-1 tvg-id="CTV.SCI-FI.CHANNEL.HD.ca2" tvg-name="CTV Sci-Fi Channel CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/500px-CTV_Sci-Fi_Channel_2019.svg.png" group-title="Entertainment",CTV Sci-Fi Channel CA
 http://1tv41.icu:8080/live/Y06DNq/295733/57464.rtmp
 
-#EXTINF:-1 tvg-id="Crave1  East HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_8950d83e22c34d408295863c194717a5~mv2.png/v1/fill/w_186,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave1.png" group-title="Entertainment", CRAVE 1 HD
+#EXTINF:-1 tvg-id="Crave1.HD.ca2"  tvg-logo="https://static.wixstatic.com/media/6048cf_8950d83e22c34d408295863c194717a5~mv2.png/v1/fill/w_186,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave1.png" group-title="Entertainment", CRAVE 1 HD
 http://xxip25.top:8080/s5pPNV/514479/57309
 
-#EXTINF:-1 tvg-id="Crave2  East HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_e58a3446176a49028353ecd6ad80c7bf~mv2.png/v1/fill/w_166,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave2.png" group-title="Entertainment", CRAVE 2 HD
+#EXTINF:-1 tvg-id="Crave2.HD.ca2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e58a3446176a49028353ecd6ad80c7bf~mv2.png/v1/fill/w_166,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave2.png" group-title="Entertainment", CRAVE 2 HD
 http://xxip25.top:8080/s5pPNV/514479/57310
 
-#EXTINF:-1 tvg-id="Crave3  East HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_e4ca1a7c75e04dbcbe54b0e228ca1cf4~mv2.png/v1/fill/w_210,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave3.png" group-title="Entertainment", CRAVE 3 HD
+#EXTINF:-1 tvg-id="Crave3.HD.ca2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e4ca1a7c75e04dbcbe54b0e228ca1cf4~mv2.png/v1/fill/w_210,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave3.png" group-title="Entertainment", CRAVE 3 HD
 http://xxip25.top:8080/s5pPNV/514479/57322
 
-#EXTINF:-1 tvg-id="Crave4  East HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_ad8a70b6d3e0483c8f75d0d60c4cffa8~mv2.png/v1/fill/w_186,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave4.png" group-title="Entertainment", CRAVE 4 HD
+#EXTINF:-1 tvg-id="Crave4.ca2"  tvg-logo="https://static.wixstatic.com/media/6048cf_ad8a70b6d3e0483c8f75d0d60c4cffa8~mv2.png/v1/fill/w_186,h_186,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/crave4.png" group-title="Entertainment", CRAVE 4 HD
 http://xxip25.top:8080/s5pPNV/514479/57311
 
 #EXTINF:-1 tvg-id="Vision TV HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_f815e36e03fa4ec29cc6abc86c7fd325~mv2.jpg/v1/fill/w_131,h_129,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/visiontv).jpg" group-title="Entertainment", Vision TV HD
@@ -2215,22 +2167,19 @@ http://xxip25.top:8080/s5pPNV/514479/57468
 #EXTINF:-1 tvg-id="W (WTN)  East HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_0dba47445b1b4623962192c41895a979~mv2.png/v1/fill/w_226,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/wnetwork2ad.png" group-title="Entertainment", W Network HD
 http://xxip25.top:8080/s5pPNV/514479/57284
 
-#EXTINF:-1 tvg-id="Charge! (KABC3) Los Angeles, CA HD.us" tvg-name="CA: CHRGD" tvg-logo="https://static.wixstatic.com/media/6048cf_9af04b5105974966a51a172a9500b192~mv2.png/v1/fill/w_378,h_154,al_c,lg_1,q_85,enc_avif,quality_auto/chargd.png" group-title="Entertainment", CHRGD
-http://xxip25.top:8080/s5pPNV/514479/75653
-
-#EXTINF:-1 tvg-id="Slice HD.us" tvg-name="CA Slice TV " tvg-logo="https://static.wixstatic.com/media/6048cf_d6814890756641baa7fb51b2b1913e4b~mv2.png/v1/fill/w_348,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/slice.png" group-title="Entertainment", Slice TV 
+#EXTINF:-1 tvg-id="SLICE.HD.ca2" tvg-name="CA Slice TV " tvg-logo="https://static.wixstatic.com/media/6048cf_d6814890756641baa7fb51b2b1913e4b~mv2.png/v1/fill/w_348,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/slice.png" group-title="Entertainment", Slice TV 
 http://xxip25.top:8080/s5pPNV/514479/57274
 
 #EXTINF:-1 tvg-id="HGTV USA HD  Eastern.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_cd5d27bb87b6477381ef267357d3dd06~mv2.png/v1/fill/w_320,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/hgtvd.png" group-title="Entertainment", HGTV 
 http://xxip25.top:8080/s5pPNV/514479/57273
 
-#EXTINF:-1 tvg-id="MTV USA HD  Eastern.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_01977d68168148d2880eab28d5e4c6e4~mv2.png/v1/fill/w_338,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/mtv.png" group-title="Entertainment", MTV HD
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_01977d68168148d2880eab28d5e4c6e4~mv2.png/v1/fill/w_338,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/mtv.png" group-title="Entertainment", MTV HD
 http://xxip25.top:8080/s5pPNV/514479/57368
 
-#EXTINF:-1 tvg-id="MTV 2 East HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_8bade779b8174a53920f787bc0cc4a17~mv2.png/v1/fill/w_382,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/mtv2d.png" group-title="Entertainment", MTV2
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_8bade779b8174a53920f787bc0cc4a17~mv2.png/v1/fill/w_382,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/mtv2d.png" group-title="Entertainment", MTV2
 http://xxip25.top:8080/s5pPNV/514479/57447
 
-#EXTINF:-1 tvg-id="PBS  Network HD  Eastern.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_b8dac26f785a4868bae8a9df26a0bded~mv2.png/v1/fill/w_306,h_122,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/pbs.png" group-title="Entertainment", PBS HD
+#EXTINF:-1 tvg-id="PBS.Stream.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_b8dac26f785a4868bae8a9df26a0bded~mv2.png/v1/fill/w_306,h_122,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/pbs.png" group-title="Entertainment", PBS HD
 http://xxip25.top:8080/s5pPNV/514479/57276
 
 #EXTINF:-1 tvg-id="Peachtree TV (WPCH TV) Atlanta HD.us" tvg-name="CA Peachtree TV HD (R)" tvg-logo="" group-title="Entertainment", Peachtree TV HD
@@ -2279,7 +2228,7 @@ https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="Entertainment", Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
-#EXTINF:-1 channel-id="ab47c5037be851e6a929a4d09daafeac" tvg-id="Batwatch" tvg-chno="331" tvg-name="Baywatch" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="Entertainment",Baywatch
+#EXTINF:-1 channel-id="ab47c5037be851e6a929a4d09daafeac" tvg-id="Batwatch"  tvg-name="Baywatch" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="Entertainment",Baywatch
 https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8
 
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/CB5CDBE8-57CC-42D0-BED6-E5979B26EE80/3-1x1.png" tvg-id="LN_CB5CDBE8-57CC-42D0-BED6-E5979B26EE80" group-title="Entertainment",Mr. Bean Live Action
@@ -2288,16 +2237,16 @@ https://s11host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/38D9E180-1A43-439F-800D-74268C5EC966/3-1x1.png" tvg-id="LN_38D9E180-1A43-439F-800D-74268C5EC966" group-title="Entertainment",ALF
 https://s9host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config11/dist/localnow/729/hls/master/playlist.m3u8?ads.cdnhost=s9host3.localnow.api.cms.amdvids.com&ads.playbackid=38D9E180-1A43-439F-800D-74268C5EC966&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=38D9E180-1A43-439F-800D-74268C5EC966&ads.n4=content_name&ads.v4=ALF&ads.n21=channel_ext_id&ads.v21=&ads.n22=channel_company_id&ads.v22=AMDP500152&ads.n23=app_version&ads.v23=0.0.0&ads.n24=w&ads.v24=1920&ads.n25=channel_brand_id&ads.v25=AMDB013523&ads.n26=gpp_sid&ads.v26=&ads.n27=content_custom_2_param&ads.v27=AMDB013523&ads.n28=content_provider&ads.v28=alf&ads.n29=h&ads.v29=1080&ads.n30=content_producer_name&ads.v30=Shout%21%20Factory%20LLC&ads.n31=gpp&ads.v31=&ads.n32=channel_corp&ads.v32=Shout%21%20Factory%20LLC&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=ua&ads.v35=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n36=dnt&ads.v36=&ads.n37=content_custom_1_param&ads.v37=38D9E180-1A43-439F-800D-74268C5EC966&ads.n38=app_bundle&ads.v38=&ads.n39=device_make&ads.v39=&ads.n40=content_livestream&ads.v40=1&ads.n41=channel_id&ads.v41=38D9E180-1A43-439F-800D-74268C5EC966&ads.n42=did&ads.v42=&ads.n43=app_name&ads.v43=&ads.n44=network_name&ads.v44=alf&ads.n45=app_store_url&ads.v45=&ads.n46=channel_title&ads.v46=ALF&ads.n47=channel_language&ads.v47=en&ads.n48=cust_devicename&ads.v48=desktop_web&ads.n49=ip&ads.v49=86.48.9.131&ads.n50=device_model&ads.v50=&ads.n51=channel_genre&ads.v51=Comedy&ads.n52=channel_name&ads.v52=ALF&ads.n53=url&ads.v53=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n54=ifa_type&ads.v54=&ads.n55=device_type&ads.v55=&ads.n56=content_type&ads.v56=channel&ads.n57=us_privacy&ads.v57=1YNY&ads.n58=pos&ads.v58=midroll
 
-#EXTINF:-1 channel-id="5f7794a788d29000079d2f07" tvg-id="5f7794a788d29000079d2f07"  tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="Entertainment", The Love Boat
+#EXTINF:-1  tvg-id="5f7794a788d29000079d2f07"  tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="Entertainment", The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
-#EXTINF:-1 channel-id="66275e41cee0d900085fde6e" tvg-id="66275e41cee0d900085fde6e"  tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/66275e41cee0d900085fde6e/colorLogoPNG.png" group-title="Entertainment", The Love Boat
+#EXTINF:-1  tvg-id="66275e41cee0d900085fde6e"  tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/66275e41cee0d900085fde6e/colorLogoPNG.png" group-title="Entertainment", The Love Boat
 https://jmp2.uk/plu-66275e41cee0d900085fde6e.m3u8
 
-#EXTINF:-1 channel-id="66276091cee0d900085fe053" tvg-id="66276091cee0d900085fe053"  tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="Entertainment", Sabrina The Teenage Witch
+#EXTINF:-1  tvg-id="66276091cee0d900085fe053"  tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" group-title="Entertainment", Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 
-#EXTINF:-1 channel-id="6549337183595c000815ad05" tvg-id="6549337183595c000815ad05" tvg-chno="690" tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Entertainment", Murder, She Wrote
+#EXTINF:-1  tvg-id="6549337183595c000815ad05"  tvg-name="Murder, She Wrote" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" group-title="Entertainment", Murder, She Wrote
 https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
 
 #EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="Entertainment", Hogan's Heroes
@@ -2327,13 +2276,13 @@ https://amg02451-c3-amg02451c1-localnow-us-4191.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="Entertainment", I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 
-#EXTINF:-1 channel-id="60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-chno="680" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="Entertainment", Matlock
+#EXTINF:-1 channel-id="60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754"  tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG_1731836706925.png" group-title="Entertainment", Matlock
 https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
 
-#EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Entertainment", The Addams Family
+#EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e"  tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Entertainment", The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 
-#EXTINF:-1 channel-id="5f7796e470510900070d4e3d" tvg-id="5f7796e470510900070d4e3d" tvg-chno="570" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="Entertainment", Beverly Hillbillies
+#EXTINF:-1 channel-id="5f7796e470510900070d4e3d" tvg-id="5f7796e470510900070d4e3d" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="Entertainment", Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment" ,The Beverly Hillbillies
@@ -2421,7 +2370,7 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47774
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/4-seven-uk.png?raw=true" group-title="Entertainment" ,4seven UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47738
 
-#EXTINF:-1 tvg-id="Sky.Showcase.uk" tvg-name="Sky One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-one-uk.png?raw=true" group-title="Entertainment" ,Sky One UK
+#EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="Sky One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-one-uk.png?raw=true" group-title="Entertainment" ,Sky One UK
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47829
 
 #EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="U & Gold UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-gold-uk.png?raw=true" group-title="Entertainment" ,U & Gold UK
@@ -2700,13 +2649,13 @@ https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 #EXTINF:-1  channel id="USBB320000397", tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/A2206C2C-DD1C-423A-9290-99E6B308C3CB/3-1x1.png" tvg-id="LN_A2206C2C-DD1C-423A-9290-99E6B308C3CB" group-title="DRAMA",21 Jump Street
 https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config12/dist/localnow/915/hls/master/playlist.m3u8?ads.cdnhost=s9host5.localnow.api.cms.amdvids.com&ads.playbackid=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n4=content_name&ads.v4=21%20Jump%20Street&ads.n21=network_name&ads.v21=21-jump-street&ads.n22=content_custom_2_param&ads.v22=AMDB013565&ads.n23=cust_devicename&ads.v23=desktop_web&ads.n24=gpp_sid&ads.v24=&ads.n25=channel_name&ads.v25=21%20Jump%20Street&ads.n26=channel_id&ads.v26=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n27=channel_title&ads.v27=21%20Jump%20Street&ads.n28=pos&ads.v28=midroll&ads.n29=device_type&ads.v29=&ads.n30=url&ads.v30=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n31=channel_language&ads.v31=en&ads.n32=content_type&ads.v32=channel&ads.n33=ifa_type&ads.v33=&ads.n34=channel_rating&ads.v34=TV-PG&ads.n35=app_store_url&ads.v35=&ads.n36=ip&ads.v36=86.48.9.131&ads.n37=content_producer_name&ads.v37=Shout%21%20Factory%20LLC&ads.n38=device_model&ads.v38=&ads.n39=channel_company_id&ads.v39=AMDP500152&ads.n40=did&ads.v40=&ads.n41=device_make&ads.v41=&ads.n42=channel_brand_id&ads.v42=AMDB013565&ads.n43=content_custom_1_param&ads.v43=A2206C2C-DD1C-423A-9290-99E6B308C3CB&ads.n44=w&ads.v44=1920&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=content_custom_3_param&ads.v46=channel&ads.n47=channel_ext_id&ads.v47=&ads.n48=app_bundle&ads.v48=&ads.n49=us_privacy&ads.v49=1YNY&ads.n50=h&ads.v50=1080&ads.n51=content_provider&ads.v51=21-jump-street&ads.n52=app_version&ads.v52=0.0.0&ads.n53=gpp&ads.v53=&ads.n54=channel_corp&ads.v54=Shout%21%20Factory%20LLC&ads.n55=app_name&ads.v55=&ads.n56=channel_genre&ads.v56=Drama&ads.n57=dnt&ads.v57=&ads.n58=content_livestream&ads.v58=1
 
-#EXTINF:-1 channel-id="660e5dc60cd4630008f6198a" tvg-id="660e5dc60cd4630008f6198a" tvg-chno="206" tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/colorLogoPNG.png" group-title="DRAMA",JAG
+#EXTINF:-1 channel-id="660e5dc60cd4630008f6198a" tvg-id="660e5dc60cd4630008f6198a"  tvg-name="JAG" tvg-logo="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/colorLogoPNG.png" group-title="DRAMA",JAG
 https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
 
 #EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA CTV Drama Channel (R)" tvg-logo="" group-title="DRAMA",CTV Drama Channel
 http://xxip25.top:8080/s5pPNV/514479/57254
 
-#EXTINF:-1 tvg-id="syfy.us" tvg-name="CA CTV SCI-FI " tvg-logo="" group-title="DRAMA",CTV SCI-FI 
+#EXTINF:-1 tvg-id="CTV.SCI-FI.CHANNEL.HD.ca2" tvg-logo="https://static.wixstatic.com/media/6048cf_2403c54d4bb0408bb5fb56a52e132059~mv2.png/v1/fill/w_418,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/syfy2d.png" group-title="DRAMA",CTV SCI-FI 
 http://xxip25.top:8080/s5pPNV/514479/57464
 
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA: Showcase HD" tvg-logo="" group-title="DRAMA",Showcase HD
@@ -2730,7 +2679,7 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 channel-id="620bfa7df72827000703ddb1" tvg-id="620bfa7df72827000703ddb1" tvg-chno="860" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="DRAMA", Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 
-#EXTINF:-1 ,   tvg-logo="https://static.wixstatic.com/media/6048cf_033629764165410faccc9a0c1fa6ffa0~mv2.png/v1/fill/w_350,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/three.png" group-title="DRAMA" , Three [NZ Channel]
+#EXTINF:-1 ,  channel-id="Three.nz"   tvg-logo="https://static.wixstatic.com/media/6048cf_033629764165410faccc9a0c1fa6ffa0~mv2.png/v1/fill/w_350,h_185,al_c,lg_1,q_85,enc_avif,quality_auto/three.png" group-title="DRAMA" , Three [NZ Channel]
 https://i.mjh.nz/.r/three.m3u8
 
 #EXTINF:-1 channel-id="67352ed93a61d4000881f9fa" tvg-id="67352ed93a61d4000881f9fa" tvg-chno="857" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png" group-title="DRAMA", The Twilight Zone
@@ -2772,10 +2721,10 @@ https://tvpass.org/live/SyfyEast/hd
 #EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/6048cf_cad3afa0d11944afa135fd9204f75aad~mv2.png/v1/fill/w_393,h_251,al_c,lg_1,q_85,enc_avif,quality_auto/crimee.png"     group-title="DRAMA",Crime & Investigation Network USA HD
 https://tvpass.org/live/CrimePlusInvestigation/hd
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_4e7d949bd54143dbbc400375c8bb3e91~mv2.jpg/v1/fill/w_352,h_220,al_c,lg_1,q_80,enc_avif,quality_auto/cw2).jpg"   group-title="DRAMA",CW (KFMB-TV2) San Diego
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_4e7d949bd54143dbbc400375c8bb3e91~mv2.jpg/v1/fill/w_352,h_220,al_c,lg_1,q_80,enc_avif,quality_auto/cw2).jpg"   group-title="DRAMA",CW 
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_1d48f2c0e7224ee082a63de3d3f203dc~mv2.png/v1/fill/w_309,h_175,al_c,lg_1,q_85,enc_avif,quality_auto/amcd.png"   group-title="DRAMA",AMC
+#EXTINF:-1   tvg-id="AMC.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_1d48f2c0e7224ee082a63de3d3f203dc~mv2.png/v1/fill/w_309,h_175,al_c,lg_1,q_85,enc_avif,quality_auto/amcd.png"   group-title="DRAMA",AMC
 https://tvpass.org/live/AMCEast/hd
 
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_2da80ee40d294f2e954ea312e7a265ef~mv2.png/v1/fill/w_440,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/ahc.png" group-title="DRAMA",American Heroes Channel
@@ -2786,6 +2735,9 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9998400
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984006/600x200.png?type=white_cropped" group-title="DRAMA",Xena Warrior Princess
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984006&ads.xumo_streamId=99984006&ads.channelId=99984006&ads.ad_tag_id=40080&ads.csid=lgchannels_uk_xenawarriorprincess_ssai&ads.channelName=xenawarriorprincess_uk&ads.xumo_contentName=xenawarriorprincess&ads.xumo_contentId=3913&ads.xumo_providerName=xenawarriorprincess&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=bbfc-15&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 channel-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-chno="329" tvg-name="Xena" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/302d8d86738c0ab83d0ca3a5e2df3492/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="DRAMA",Xena
+https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8
 
 #EXTINF:-1 channel-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-chno="329" tvg-name="Xena" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/302d8d86738c0ab83d0ca3a5e2df3492/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="DRAMA",Xena
 https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8
@@ -2865,9 +2817,6 @@ https://i.mjh.nz/.r/cas26-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 
-#EXTINF:-1 channel-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-id="302d8d86738c0ab83d0ca3a5e2df3492" tvg-chno="329" tvg-name="Xena" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/302d8d86738c0ab83d0ca3a5e2df3492/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1757537081513_Xena_260x147_2x1_channel_logo_center_align_EFEFEF_transparent_bkgd_roku_PNG.png" group-title="DRAMA",Xena
-https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8
-
 #EXTINF:-1 channel-id="ab47c5037be851e6a929a4d09daafeac" tvg-id="ab47c5037be851e6a929a4d09daafeac" tvg-chno="331" tvg-name="Baywatch" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab47c5037be851e6a929a4d09daafeac/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669077442140_Baywatch-HUDLOGO-CENTER-260x147-ROKU.png" group-title="DRAMA",,Baywatch
 https://jmp2.uk/rok-ab47c5037be851e6a929a4d09daafeac.m3u8
 
@@ -2908,7 +2857,7 @@ https://i.mjh.nz/.r/10-heartland.m3u8
 ######################################
 ######################################
 
-#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="KIDS",WWE Network
+#EXTINF:-1 tvg-id="WWE.Network.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/wwe-us.png?raw=true" group-title="KIDS",WWE Network
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47642
 
 #EXTINF:-1 tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="KIDS",TNA Wrestling Channel
@@ -2926,7 +2875,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5391&live=1&avo
 #EXTINF:-1 channel-id="77761dc1928357d6809a2032fc2e17b8" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-chno="404" tvg-name="The LEGO Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="KIDS",The LEGO Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="https://images.seeklogo.com/logo-png/28/2/tom-and-jerry-logo-png_seeklogo-289009.png" group-title="KIDS",Tom and Jerry
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/28/2/tom-and-jerry-logo-png_seeklogo-289009.png" group-title="KIDS",Tom and Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 channel-id="697a2f8b3991484f03064614" tvg-id="697a2f8b3991484f03064614" tvg-chno="2" tvg-name="Super Mario Bros." tvg-logo="https://images.pluto.tv/channels/697a2f8b3991484f03064614/colorLogoPNG_1770830195618.png" group-title="KIDS", Super Mario Bros.
@@ -3146,21 +3095,16 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47804
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="DOCO",History Channel
 http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
 
-#EXTINF:-1 tvg-id="History (East).us"  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel 1
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel 1
  http://xxip25.top:8080/s5pPNV/514479/47302
 
-#EXTINF:-1 tvg-id="History (East).us"  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel 2
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel 2
 http://xxip25.top:8080/s5pPNV/514479/57272
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="DOCO",History Channel HD
-http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
 
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed"   tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel SD
 https://tvpass.org/live/HistoryEast/hd
 
 #EXTINF:-1  tvg-id="mjh-h2-fast" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="DOCO" , H2 HD
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/h2-fast.m3u8
 
 #EXTINF:-1 tvg-id="HLN HD.us" tvg-name="CA: HLN" tvg-logo="https://static.wixstatic.com/media/6048cf_af148ef549ac40dda68afc176adecea3~mv2.jpg/v1/fill/w_392,h_154,al_c,lg_1,q_80,enc_avif,quality_auto/hln%201).jpg" group-title="DOCO", HLN HD
@@ -3243,7 +3187,7 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129953
 
 
-#EXTINF:-1 tvg-id="Smithsonian Channel USA HD.us"  tvg-logo="https://static.wixstatic.com/media/6048cf_8348870b90e44cb29fe9e7ef39eae19b~mv2.jpg/v1/fill/w_276,h_206,al_c,lg_1,q_80,enc_avif,quality_auto/smith).jpg" group-title="DOCO",Smithsonian Channel 
+#EXTINF:-1 tvg-id="Smithsonian.Channel.ca2"  tvg-logo="https://static.wixstatic.com/media/6048cf_8348870b90e44cb29fe9e7ef39eae19b~mv2.jpg/v1/fill/w_276,h_206,al_c,lg_1,q_80,enc_avif,quality_auto/smith).jpg" group-title="DOCO",Smithsonian Channel 
 http://xxip25.top:8080/s5pPNV/514479/47369
 
 #EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="CA | BBC EARTH" tvg-logo="https://imageresizer.static9.net.au/Rc3CC94BjHA9E9BOLrSI22N81PI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648311%2Fgroup-61770.png" group-title="DOCO" , BBC Earth
