@@ -9,8 +9,6 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8249.jpg?77346" group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: FOX SOCCER PLUS HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325018&extension=ts&play_token=eqUxUV1JTF
 
 
 
@@ -867,6 +865,8 @@ http://cord-cutter.net:8080/bn80NG/909467/1847
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="SPORT/USA", Fox Sports 2 SD
 https://tvpass.org/live/FoxSports2/hd
 
+#EXTINF:-1 tvg-id=" Fox.Soccer.Plus.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8249.jpg?77346" group-title="SPORTS, US: FOX SOCCER PLUS HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325018&extension=ts&play_token=eqUxUV1JTF
 
 
 ###############     EUROSPORT  ?    PREMIER SPORT  ############################
