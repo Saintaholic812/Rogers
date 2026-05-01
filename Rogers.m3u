@@ -2321,291 +2321,224 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1855289&e
 #############################
 #############################
 
-####    FX     #####################
-
-#EXTINF:-1  tvg-id="FX.Movie.Channel.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="MOVIES",FX Movie Channel HD
-http://mytvstream.net:8080/live/30550113/30550113/10260.m3u8
-
-#EXTINF:-1  tvg-id="fx-movie-channel" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_d9c367cf935648a6a4e47ea5e12f6021~mv2.png/v1/fill/w_374,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/fx%20moviesd.png" group-title="MOVIES",FX Movie Channel SD
-https://tvpass.org/live/FXMovieChannel/hd
-
-#EXTINF:-1  tvg-id="FX.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="MOVIES",FX HD
-http://23.237.104.106:8080/USA_FX/index.m3u8
-
-#EXTINF:-1 tvg-id="fx.ca"  tvg-logo="https://static.wixstatic.com/media/6048cf_39d97abbbb99492ebda392fb695f4faf~mv2.png/v1/fill/w_413,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/fxd.png" group-title="MOVIES",FX HD Backup
-http://xxip25.top:8080/s5pPNV/514479/57268
-
-#EXTINF:-1  tvg-id="fx-networks-east-coast"   tvg-logo="https://static.wixstatic.com/media/6048cf_13afd85d5d934bb297f85918f43f9c7b~mv2.png/v1/fill/w_334,h_268,al_c,lg_1,q_85,enc_avif,quality_auto/fxnet.png" group-title="MOVIES",FX SD
-https://tvpass.org/live/FXEast/hd
-
-##########   SHOWTIME    ##############
-
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2"  tvg-logo="https://www.paramountpluswithshowtime.com/svg/showtime-plus.svg" group-title="MOVIES",Paramount+ with Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2"  tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES",Showtime HD
-http://xxip25.top:8080/s5pPNV/514479/46214
-
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed", tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png" group-title="MOVIES",Showtime SD
-https://tvpass.org/live/ShowtimeEast/hd
-
-#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES", Showtime 2
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
-
-#EXTINF:-1 tvg-id="showtime-2-eastern"  tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIES",Showtime 2 HD
-http://xxip25.top:8080/s5pPNV/514479/13219
-
-#EXTINF:-1  tvg-id="showtime-2-eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_849cf88ab11a4639bde0af0d0dee475f~mv2.png/v1/fill/w_486,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime2.png" group-title="MOVIES",Showtime 2 SD
-https://tvpass.org/live/Showtime2East/hd
-
-#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="http://iptvboss.xyz/logos/USA/SHOxBET.us.png" group-title="MOVIES",SHOxBET
-http://epicboss.live/bjune@teksavvy.com/5193594414/50999
-
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="MOVIES",Showtime Extreme
-http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
-
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2"  tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIES",Showtime Extreme
-http://xxip25.top:8080/s5pPNV/514479/13220
-
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="MOVIES",Showtime Extreme HD
-http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8
-
-#EXTINF:-1  tvg-id="Showtime.Extreme.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="MOVIES",Showtime Extreme
-http://mytvstream.net:8080/live/30550113/30550113/13220.m3u8
-
-#EXTINF:-1 tvg-id="Showtime Showcase HD  East.us;Showtime Showcase HD  East.us"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="MOVIES",Showtime Showcase
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
-
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="MOVIES",Showtime Next
-http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
-
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIES", Showtime NEXT
-http://xxip25.top:8080/s5pPNV/514479/9316
-
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-family-zone-us.png?raw=true" group-title="MOVIES",Showtime Family Zone
-http://1tv41.icu:8080/Y06DNq/295733/13481
-
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_b0be6c2848374203a1d1698bffa16692~mv2.png/v1/fill/w_515,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/showtime.png", group-title="MOVIES",Showtime Family Zone
-http://xxip25.top:8080/s5pPNV/514479/13481
-
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="MOVIES",Showtime Women
-http://1tv41.icu:8080/Y06DNq/295733/17778
-
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2"  tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIES",Showtime Women
-http://xxip25.top:8080/s5pPNV/514479/17778
-
-
-
-###############   HALLMARK   ###########
-
-#EXTINF:-1  tvg-id="hallmark-eastern-feed" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_ab5442a1c2794757ac34604ad5ffcaec~mv2.png/v1/fill/w_374,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hallmarkd.png" group-title="MOVIES",Hallmark SD
-https://tvpass.org/live/HallmarkChannelEast/hd
-
-#EXTINF:-1  tvg-id="hallmark-mystery-eastern-hd",   tvg-logo="https://static.wixstatic.com/media/6048cf_9cf445f38c0f4e92a6709d798361cf2a~mv2.png/v1/fill/w_511,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/hallmark%20mysteryd.png" group-title="MOVIES",Hallmark Mystery SD
-https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
-
-
-
-#######    HBO    ###############
-
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="MOVIES",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO 1 HD
-http://xxip25.top:8080/s5pPNV/514479/9264
-
-#EXTINF:-1 tvg-id="hbo-eastern-feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO 1 SD
-https://tvpass.org/live/HBOEast/hd
-
-#EXTINF:-1  tvg-id="HBO2.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="MOVIES",HBO 2 HD
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2 HD
-http://xxip25.top:8080/s5pPNV/514479/57438
-
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2 HD
-http://xxip25.top:8080/s5pPNV/514479/9816
-
-#EXTINF:-1  tvg-id="hbo-2-eastern-feed" ,   tvg-logo="https://static.wixstatic.com/media/6048cf_346acbf0540d48399760c3a0406c0cdf~mv2.png/v1/fill/w_514,h_187,al_c,lg_1,q_85,enc_avif,quality_auto/hbo2d.png" group-title="MOVIES",HBO 2 SD
-https://tvpass.org/live/HBO2East/hd
-
-#EXTINF:-1 tvg-id="HBO.Hits.us2"  tvg-logo="https://static.hbo.com/2025-09/HBO_Hits_Plex_Logo_bw.svg" group-title="MOVIES",HBO Hits
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.Drama.us2"  tvg-logo="https://static.hbo.com/2025-09/HBO_Drama_Plex_Logo_bw.svg" group-title="MOVIES",HBO Drama
-http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
-
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern"  tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIES",HBO SIGNATURE
-http://xxip25.top:8080/s5pPNV/514479/9266
-
-#EXTINF:-1  tvg-id="hbo-signature-hbo-3-eastern" ,  tvg-logo="https://logodix.com/logo/1111252.png"group-title="MOVIES",HBO Signature SD
-https://tvpass.org/live/HBOSignatureEast/hd
-
-#EXTINF:-1 tvg-id="hbo-zone-hd-east"  tvg-logo="https://static.hbo.com/2025-09/HBO_Movies_Plex_Logo_bw.svg" group-title="MOVIES",HBO Movie zONE
-http://kstv.us:8080/4VUyfZBQzk/95104974615/23299
-
-#EXTINF:-1 tvg-id="hbo-zone-hd-east"  tvg-logo="https://static.wixstatic.com/media/6048cf_e27bc70b8c284806b19f04d487000a56~mv2.png/v1/fill/w_384,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbo.png" group-title="MOVIES",HBO Zone 
-http://xxip25.top:8080/s5pPNV/514479/9265
-
-#EXTINF:-1  tvg-id="HBO.Zone.HD.us2"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES",HBO Zone HD
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2"  tvg-logo="https://static.hbo.com/2025-09/HBO_Comedy_Plex_Logo_bw_1.svg" group-title="MOVIES",HBO Comedy
-http://1tv41.icu:8080/live/Y06DNq/295733/17773.rtmp
-
-#EXTINF:-1  tvg-id="HBO.Comedy.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="MOVIES",HBO Comedy HD
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east"  tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIES",HBO Comedy 
-http://xxip25.top:8080/s5pPNV/514479/17773
-
-#EXTINF:-1  tvg-id="hbo-comedy-hd-east" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_b81e70d4384949ee9e302286940f1be5~mv2.png/v1/fill/w_282,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/hbocomedyd.png" group-title="MOVIES",HBO Comedy SD
-https://tvpass.org/live/HBOComedyEast/hd
-
-#EXTINF:-1  tvg-id="hbo-family-eastern-feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_5ea4e7d09f9e416a8a3a14a4042b02df~mv2.png/v1/fill/w_358,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/hbofamilyd.png" group-title="MOVIES",HBO Family SD
-https://tvpass.org/live/HBOFamilyEast/hd
-
-#EXTINF:-1  tvg-id="HBO.Drama.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="MOVIES",HBO Family
-http://mytvstream.net:8080/live/30550113/30550113/17772.m3u8
-
-
-##############    LIFETIME      ###################
-
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies HD  East.us" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIES", Lifetime Movies HD 
-http://xxip25.top:8080/s5pPNV/514479/20863
-
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies HD  East.us" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIES", Lifetime Movie Network
-http://xxip25.top:8080/s5pPNV/514479/57444 HD
-
-#EXTINF:-1  tvg-id="lifetime-movies-east" tvg-name="Lifetime Network US  Eastern Feed HD" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime Movies SD
-https://tvpass.org/live/LifetimeMoviesEast/sd
-
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US  Eastern Feed HD" tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime HD
-http://xxip25.top:8080/s5pPNV/514479/57271
-
-#EXTINF:-1  tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="MOVIES",Lifetime Movie Network HD
-http://23.237.104.106:8080/USA_LMN/index.m3u8
-
-#EXTINF:-1  tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US  Eastern Feed HD" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_47cd471126d54fe7b85e295d1bdfc4f3~mv2.png/v1/fill/w_414,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/lifetimemoviesd.png" group-title="MOVIES",Lifetime SD
-https://tvpass.org/live/LifetimeEast/hd
-
-
-
-
-############    STARZ     #####################
-
-#EXTINF:-1 tvg-id="Starz.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png" group-title="MOVIES",Starz
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14915
-
-#EXTINF:-1 tvg-id="starz-eastern"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz East
-http://xxip25.top:8080/s5pPNV/514479/9299
-
-#EXTINF:-1  tvg-id="Starz.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",Starz HD
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-
-#EXTINF:-1  tvg-id="starz-eastern" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz SD
-https://tvpass.org/live/StarzEast/hd
-
-#EXTINF:-1 tvg-id="starz-western"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz West
-http://xxip25.top:8080/s5pPNV/514479/21091
-
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png" group-title="MOVIES",Starz Cinema
-http://fastream.xyz:8080/998742589tv1/58520km/206
-
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz Cinema 
-http://xxip25.top:8080/s5pPNV/514479/17775
-
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz Cinema 
-http://xxip25.top:8080/s5pPNV/514479/9301
-
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/250px-Starz_Comedy_Logo_2022.svg.png" group-title="MOVIES",Starz Comedy
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14917
-
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="MOVIES",Starz Encore
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162587
-
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/250px-Starz_Encore_Action_Logo_2022.svg.png" group-title="MOVIES",Starz Encore Action
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
-
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/250px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="MOVIES",Starz Encore Suspense
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14924
-
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/250px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="MOVIES",Starz Encore Classic
-http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1  tvg-id="Starz.Encore.Classic.us2"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="MOVIES",Starz Encore Classic HD
-http://212.102.60.231/STARZ_ENCORE_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="Starz Encore Black HD  Eastern.us"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/250px-Starz_Encore_Black_Logo_2022.svg.png" group-title="MOVIES",Starz Encore Black
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216179
-
-#EXTINF:-1 tvg-id="Starz.Encore.Black.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",STARZ ENCORE Black
-http://xxip25.top:8080/s5pPNV/514479/16141
-
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/250px-Starz_Edge_Logo_2022.svg.png" group-title="MOVIES",Starz Edge
-http://1tv41.icu:8080/Y06DNq/295733/16143
-
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",STARZ EDGE 
-http://xxip25.top:8080/s5pPNV/514479/16143
-
-#EXTINF:-1 tvg-id="Starmax.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",StarMax
-http://xxip25.top:8080/s5pPNV/514479/13381
-
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2"  tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIES",Starz Encore Westerns 
-http://xxip25.top:8080/s5pPNV/514479/16263
-
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/250px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="MOVIES",Starz Encore Westerns
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14922
-
-
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/250px-Starz_in_Black_Logo_2022.svg.png" group-title="MOVIES",Starz in Black
-http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
-
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_e60e1f42e2224a998abfbb8a40e768ee~mv2.png/v1/fill/w_350,h_125,al_c,lg_1,q_85,enc_avif,quality_auto/starzd.png" group-title="MOVIES",Starz in Black (East) 
-http://xxip25.top:8080/s5pPNV/514479/17779
-
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/250px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="MOVIES",Starz Kids & Family
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14919
-
-#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/250px-Starz_Encore_Family_Logo_2022.svg.png" group-title="MOVIES",Starz Encore Family
-http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
-
-
-
 ###############    CINEMAX     ##########################
 
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="MOVIES",Cinemax
-http://1tv41.icu:8080/live/Y06DNq/295733/13380.rtmp
 
-#EXTINF:-1 tvg-id="cinemax-eastern-feed"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES", Cinemax
-http://xxip25.top:8080/s5pPNV/514479/13380
 
-#EXTINF:-1 tvg-id="Cinemax.HD.us2"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="MOVIES",Cinemax HD
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
-#EXTINF:-1   tvg-id="cinemax-eastern-feed", tvg-logo="https://static.wixstatic.com/media/6048cf_b12efa3befbb43d4a03b7c6871c80e0e~mv2.png/v1/fill/w_370,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/cinemax.png" group-title="MOVIES", Cinemax SD
-https://tvpass.org/live/CinemaxEast/hd
 
-#EXTINF:-1 tvg-id="Cinemax Hits  Eastern HD.us" tvg-logo="https://static.hbo.com/2025-09/Cinemax_Hits_Plex_Logo_bw.svg" group-title="MOVIES",Cinemax Hits
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax Action  Eastern HD.us"  tvg-logo="https://static.hbo.com/2025-09/Cinemax_Action_Plex_Logo_bw.svg" group-title="MOVIES",Cinemax Action
-http://1tv41.icu:8080/Y06DNq/295733/21013
+#EXTINF:-1 tvg-id="2 ActionMAX.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8298.jpg?40083" group-title="MOVIES", ACTION MAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325984&extension=ts&play_token=OMbnSjbfeO
 
-#EXTINF:-1 tvg-id="Cinemax Classics HD  Eastern.us"  tvg-logo="https://brandlogos.net/wp-content/uploads/2025/09/cinemax_classics-logo_brandlogos.net_nehp2.png" group-title="MOVIES",Cinemax Classics
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="AMC.Thrillers.HD.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1988.png?56007" group-title="MOVIES",  AMC THRILLERS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436157&extension=ts&play_token=XOAhf7nMKo
 
-#EXTINF:-1 tvg-id="Cinemax Outermax HD Eastern,us" , tvg-logo="https://static.wixstatic.com/media/6048cf_b12efa3befbb43d4a03b7c6871c80e0e~mv2.png/v1/fill/w_370,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/cinemax.png" group-title="MOVIES", Cinemax Outermax
-http://xxip25.top:8080/s5pPNV/514479/21012
+#EXTINF:-1 tvg-id="Antena.3.Internacional.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3972.jpg?80491" group-title="MOVIES",  ANTENA 3 INTERNACIONAL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436118&extension=ts&play_token=jv9n5iWzfo
 
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIES", More Max 
-http://xxip25.top:8080/s5pPNV/514479/17776
+#EXTINF:-1 tvg-id="Cine.Club.US.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3964.jpg?65530" group-title="MOVIES",  CINE CLUB
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436536&extension=ts&play_token=YahNFiCDno
 
-#EXTINF:-1  tvg-id="MovieMax.HD.us2" ,  tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png" group-title="MOVIES", MovieMax SD
-https://tvpass.org/live/MovieMaxEast/hd
+#EXTINF:-1 tvg-id="Cine.Probet.US.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?28959" group-title="MOVIES",  CINE PRO BET+
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=683990&extension=ts&play_token=LKXStxxuA9
 
-#EXTINF:-1 tvg-id="ActionMax.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_849024f558de47de9d1d698fe140f928~mv2.png/v1/fill/w_534,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/moremax1.png"" group-title="MOVIES", ActionMAX
-http://xxip25.top:8080/s5pPNV/514479/21013
+#EXTINF:-1 tvg-id="Cine.Sony.US.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6320.jpg?46408" group-title="MOVIES",  CINE SONY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436116&extension=ts&play_token=wmcAjwRqxR
+
+#EXTINF:-1 tvg-id="Cinema.Dinamita.(HD.Feed).us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6471.jpg?65377" group-title="MOVIES",  CINEMA DINAMITA 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436159&extension=ts&play_token=xA4jJGRLqA
+
+##########################   CINEMAX   #################################
+
+
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3327.jpg?67411" group-title="MOVIES",  CINEMAX 5 STAR MAX
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436537&extension=ts&play_token=gQEiXBMJHf
+
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3327.jpg?43623" group-title="MOVIES",  CINEMAX 5 STARMAX 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436158&extension=ts&play_token=55qXMMOI8V
+
+#EXTINF:-1 tvg-id="Action.Channel.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="MOVIES",  CINEMAX ACTION EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325983&extension=ts&play_token=UvZjzyHBYI
+
+#EXTINF:-1 tvg-id="Cinemax Hits Eastern HD.us"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="MOVIES",  CINEMAX EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325982&extension=ts&play_token=sVez1XIN1E
+
+#EXTINF:-1 tvg-id="Cinemax.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="MOVIES",  CINEMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325981&extension=ts&play_token=CNfv2jJ2KO
+
+#EXTINF:-1 tvg-id="MoreMax.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="MOVIES",  CINEMAX MOREMAX HDAR
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325980&extension=ts&play_token=zIBWytbSP2
+
+#EXTINF:-1 tvg-id="ThrillerMax.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="MOVIES",  CINEMAX THRILLERMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325979&extension=ts&play_token=0weT6Vbx6e
+
+#EXTINF:-1 tvg-id="Cinemax.West.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8281.jpg?41462" group-title="MOVIES",  CINEMAX WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325978&extension=ts&play_token=zqXClm1yPZ
+
+####################    EPIX    ####################################
+
+
+#EXTINF:-1 tvg-id="Epix.2.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="MOVIES",  EPIX 2
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325985&extension=ts&play_token=DGB7AoolwO
+
+#EXTINF:-1 tvg-id="Epix.Drivein.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="MOVIES",  EPIX DRIVE IN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325987&extension=ts&play_token=tYi9snbsVj
+
+#EXTINF:-1 tvg-id="Epix.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8204.jpg?46867" group-title="MOVIES",  EPIX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325977&extension=ts&play_token=HkybeTM2MN
+
+#EXTINF:-1 tvg-id="Epix.Hits.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="MOVIES",  EPIX HITS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325986&extension=ts&play_token=6cfPxCcRGv
+
+#EXTINF:-1 tvg-id="FETV.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8479.jpg?54418" group-title="MOVIES",  FETV HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1097696&extension=ts&play_token=9T2OB13O5U
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8234.jpg?57341" group-title="MOVIES",  FX MOVIES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436160&extension=ts&play_token=oX7E8muxM7
+
+#EXTINF:-1 tvg-id="HBO2.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4009.jpg?12996" group-title="MOVIES",  HBO 2 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325976&extension=ts&play_token=QvCr2PHt0M
+
+#EXTINF:-1 tvg-id="HBO.Family.HD.us2"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9729.png?22984" group-title="MOVIES",  HBO FAMILY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325974&extension=ts&play_token=blyOR5cd2k
+
+#EXTINF:-1 tvg-id="HBO.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?55933" group-title="MOVIES",  HBO HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325973&extension=ts&play_token=eIPuUNig4F
+
+#EXTINF:-1 tvg-id="HBO.Latino.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1916.jpg?29487" group-title="MOVIES",  HBO LATINO HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436156&extension=ts&play_token=HSkdbdeQLI
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9720.jpg?68846" group-title="MOVIES",  HBO SIGNATURE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325972&extension=ts&play_token=d7f2XNttF4
+
+#EXTINF:-1 tvg-id="HBO.West.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2279.jpg?19723" group-title="MOVIES",  HBO WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325990&extension=ts&play_token=sLKkEfi67w
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8216.jpg?30214" group-title="MOVIES",  HBO ZONE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325971&extension=ts&play_token=VTnue2zwG3
+
+#EXTINF:-1 tvg-id="MoreMax.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8206.jpg?40681" group-title="MOVIES",  MOREMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325970&extension=ts&play_token=6FfXb0ugRi
+
+#EXTINF:-1 tvg-id="MovieMax.HD.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8205.jpg?43144" group-title="MOVIES",  MOVIEMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325969&extension=ts&play_token=w9yCteNkDE
+
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3935.jpg?52272" group-title="MOVIES",  MOVIEPLEX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325968&extension=ts&play_token=pnO8jm8E4S
+
+#EXTINF:-1 tvg-id="OuterMax.HD.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7744.jpg?14030" group-title="MOVIES",  OUTERMAX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325967&extension=ts&play_token=XWVf0IjR4Q
+
+#EXTINF:-1 tvg-id="    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10988.jpg?37905" group-title="MOVIES",  PBS ARIZONA PHOENIX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=885774&extension=ts&play_token=P9a4zUNUOF
+
+#EXTINF:-1 tvg-id="    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7721.jpg?97480" group-title="MOVIES",  PETER GRIFFIN 24H
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325995&extension=ts&play_token=6klXWlEhwV
+
+#EXTINF:-1 tvg-id="ScreenPix.Action.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1967.png?10166" group-title="MOVIES",  SCREENPIX ACTION HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=326000&extension=ts&play_token=OAOQM1drgV
+
+#EXTINF:-1 tvg-id="ScreenPix.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1967.png?10166" group-title="MOVIES",  SCREENPIX HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=326002&extension=ts&play_token=A0WHhCfdH3
+
+#EXTINF:-1 tvg-id="ScreenPix.Voices.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1967.png?10166" group-title="MOVIES",  SCREENPIX VOICES HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325999&extension=ts&play_token=7z7DZa59xv
+
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?20531" group-title="MOVIES",  SHOWTIME 2 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325966&extension=ts&play_token=ltQzX190Jj
+
+#EXTINF:-1 tvg-id="Showtime.East.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?20531" group-title="MOVIES",  SHOWTIME EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325965&extension=ts&play_token=dYN3XGhgrj
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?7208" group-title="MOVIES",  SHOWTIME EXTREME HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325991&extension=ts&play_token=sZanegYkQD
+
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?7208" group-title="MOVIES",  SHOWTIME FAMILY ZONE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325992&extension=ts&play_token=87saksOnYb
+
+#EXTINF:-1 tvg-id="Showtime.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?20531" group-title="MOVIES",  SHOWTIME HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325964&extension=ts&play_token=G2aH8bTSDP
+
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?57891" group-title="MOVIES",  SHOWTIME NEXT HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325997&extension=ts&play_token=8VHOmmSe6I
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?20531" group-title="MOVIES",  SHOWTIME SHOWCASE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325963&extension=ts&play_token=BSoJL24zRJ
+
+#EXTINF:-1 tvg-id="Showtime.West.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?57891" group-title="MOVIES",  SHOWTIME WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325998&extension=ts&play_token=F1PrLE1qL6
+
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?57891" group-title="MOVIES",  SHOWTIME WOMEN HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325996&extension=ts&play_token=meVDKhsRqs
+
+#EXTINF:-1 tvg-id="Sony.us2tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12196.png?95561" group-title="MOVIES",  SONY MOVIE CHANNEL HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325988&extension=ts&play_token=stQZsgsFnH
+
+#EXTINF:-1 tvg-id="Start.TV.Network.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8204.jpg?6338" group-title="MOVIES",  START TV
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325989&extension=ts&play_token=Zx7ogmrVsu
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ BLACK HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325961&extension=ts&play_token=gFE8SQYn8N
+
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ CINEMA EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325960&extension=ts&play_token=P1tILQNYEk
+
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ CINEMA HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325959&extension=ts&play_token=ObyIEvil7h
+
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ COMEDY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325958&extension=ts&play_token=b0uu0Dpqzl
+
+#EXTINF:-1 tvg-id="Starz.East.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325957&extension=ts&play_token=w4t6yOOs3Y
+
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ EDGE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325956&extension=ts&play_token=DvC1E9v5qX
+
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE ACTION HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325955&extension=ts&play_token=GqgD1oYNNm
+
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE BLACK HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325954&extension=ts&play_token=qwDjO88OTa
+
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE CLASSIC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325953&extension=ts&play_token=LOlB4jfDZF
+
+#EXTINF:-1 tvg-id="Starz.Encore.East.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325952&extension=ts&play_token=KdOKpvzQHR
+
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE FAMILY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325951&extension=ts&play_token=uiPHqmOVBu
+
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325950&extension=ts&play_token=DbsyW5vDOr
+
+#EXTINF:-1 tvg-id="Starz.Encore.West.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ ENCORE WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325949&extension=ts&play_token=7oq7ufJ6II
+
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?6771" group-title="MOVIES",  STARZ ENCORE WESTERNS HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325994&extension=ts&play_token=QmscaMWmaS
+
+#EXTINF:-1 tvg-id="Starz.Family.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ FAMILY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325948&extension=ts&play_token=qFcYwsAqis
+
+#EXTINF:-1 tvg-id="Starz.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325947&extension=ts&play_token=Sm3JZnwOb7
+
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ KIDS & FAMILY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325946&extension=ts&play_token=hGrBjgnOLa
+
+#EXTINF:-1 tvg-id="Starz.West.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8109.jpg?10578" group-title="MOVIES",  STARZ WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325945&extension=ts&play_token=u6BFeFfaee
+
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2"    tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10161.jpg?62962" group-title="MOVIES",  THE MOVIE CHANNEL HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325993&extension=ts&play_token=eltmQbOCN5
+
+#EXTINF:-1 tvg-id="Zee.TV.us2"    tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10628.jpg?27108" group-title="MOVIES",  ZEE TV
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1910079&extension=ts&play_token=Z9WxAOoYzF
+
+
 
 #EXTINF:-1 tvg-id="MGM+.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="MOVIES",MGM+
 http://epicboss.live/bjune@teksavvy.com/5193594414/19074
@@ -2637,7 +2570,7 @@ http://xxip25.top:8080/s5pPNV/514479/12730
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2"  tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIES",MoviePlex
 http://xxip25.top:8080/s5pPNV/514479/1829
 
-#EXTINF:-1 tvg-id="MoviePlex.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/plex-movieplex-us.png?raw=true" group-title="MOVIES",MoviePlex
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/plex-movieplex-us.png?raw=true" group-title="MOVIES", MoviePlex
 http://1tv41.icu:8080/Y06DNq/295733/1829
 
 #EXTINF:-1 tvg-id="RETROplex HD.us2"  tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIES",RetroPlex
