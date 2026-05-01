@@ -572,181 +572,105 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1  tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS NEWS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441308&extension=ts&play_token=1JwNdXvLQg
 
-
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="SPORT/AUSTRALIA", Fox Sports News
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/76006
-
 #EXTINF:-1  tvg-id="FoxCricket.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/TEN-SPORTS.jpeg" group-title="SPORT/AUSTRALIA",AU: FOX CRICKET 501 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441368&extension=ts&play_token=GVPPeIsBWe
 
 #EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 501 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441307&extension=ts&play_token=yis3MEY4an
 
-#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="https://static.wixstatic.com/media/6048cf_6d49f335d73d4a9a957c3032628d41d2~mv2.png/v1/fill/w_280,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/foxsports501.png" group-title="SPORT/AUSTRALIA", Fox Sports 501 Cricket
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279034
-
-#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-501-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 501 Cricket
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6079
-
 #EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 502 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441306&extension=ts&play_token=MgZK07I9Gi
-
-
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 502 NRL
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6080
-
-#EXTINF:-1  tvg-id="FoxLeague.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 502 NRL
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/81784
 
 #EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 503 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441305&extension=ts&play_token=esjL1NFdf7
 
-
-#EXTINF:-1 tvg-id="FoxSports503.au" channel-id="FoxSports503.alt.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 503 
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280192
-
-#EXTINF:-1 tvg-id="FoxSports503.au" channel-id="FoxSports503.alt.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-503-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 503 
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6081
-
 #EXTINF:-1  tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 504 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441304&extension=ts&play_token=jO8pjMrmX0
-
-
-#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 504 AFL
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6082
-
-#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 504 AFL
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280193
-
-#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 504 AFL 
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306510
 
 #EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 505 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441360&extension=ts&play_token=jsgf3aXkjI
 
-
-#EXTINF:-1 tvg-id="FoxSports505.au" channel-id=FoxSports505alt.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 505
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144772
-
-#EXTINF:-1 tvg-id="FoxSports505.au" channel-id="FoxSports505alt.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-505-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 505
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6083
-
 #EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 506 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441302&extension=ts&play_token=ssxMpVgKhB
-
-#EXTINF:-1 tvg-id="FoxSports506.au" channel-id="FoxSports506.alt.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 506
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/279033
-
-#EXTINF:-1 tvg-id="FoxSports506.au" channel-id="FoxSports506.alt.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-506-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 506
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6084
 
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="SPORT/AUSTRALIA",AU: FOX SPORTS 507 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441301&extension=ts&play_token=xbIRkIX7cR
 
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 507
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
-
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 507
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/280194
-
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUSTRALIA", Fox Sports 507
-http://fr3d0m.tebasya.work:8080/JVanmci423/dncSExXxmS/6085
 
 
 #############     SKY SPORTS    NZ     ############################
 
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/dae380f0d060df927365c85b20f3b2f0.png" group-title="SPORT/AUSTRALIA", Sky Sport 1 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307979
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-1-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 1 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307979
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 1 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575140&extension=ts&play_token=HQePqmVEdr
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="SPORT/AUSTRALIA", Sky Sport 1 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302393
-
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/f9dcc00968bab49b9a4dada86dfae8ac.png" group-title="SPORT/AUSTRALIA", Sky Sport 2 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307980
-
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-2-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 2 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307980
-
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="SPORT/AUSTRALIA", Sky Sport 2 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302394
-
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/e0a22f15f02f61ad3addb8a6553b5dc1.png" group-title="SPORT/AUSTRALIA", Sky Sport 3 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307981
-
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-3-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 3 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307981
-
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="SPORT/AUSTRALIA", Sky Sport 3 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302395
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/6adf0e054eb43785159b3e764ede6115.png" group-title="SPORT/AUSTRALIA", Sky Sport 4 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307982
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-4-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 4 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307982
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/eb66040f6d5b2b1b68d081dd34668033.png" group-title="SPORT/AUSTRALIA", Sky Sport 4 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302396
-
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/defd8ac20c0c198ec2a3d1cea7015ac1.png" group-title="SPORT/AUSTRALIA", Sky Sport 5 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307983
-
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-5-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 5 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307983
-
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/773a17d6f9d31094cb82ed98f197cc96.png" group-title="SPORT/AUSTRALIA", Sky Sport 5 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302397
-
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/9a79baaf68455a25ac9a444036a64745.png" group-title="SPORT/AUSTRALIA", Sky Sport 6 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307984
-
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-6-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 6 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307984
-
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7d464629e0c6826c1afcae7478a2172d.png" group-title="SPORT/AUSTRALIA", Sky Sport 6 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302398
-
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/4e8019a9ed13a0be12fb823575c9d149.png" group-title="SPORT/AUSTRALIA", Sky Sport 7 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307985
-
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-7-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 7 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307985
-
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d8922f9133b9e38996ef277d5ce830a6.png" group-title="SPORT/AUSTRALIA", Sky Sport 7 
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302399
-
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT/AUSTRALIA", Sky Sport Premier League NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307986
-
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-8-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 8 Premier League NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307986
-
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/299061401984bbf6f42c7859bdd45ac3.png" group-title="SPORT/AUSTRALIA", Sky Sport Premier League NZ 
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302400
-
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT/AUSTRALIA", Sky Sport 9 NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307987
-
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 9 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307987
-
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/477f2e213e97c0b4f9ce144ea01d5cda.png" group-title="SPORT/AUSTRALIA", Sky Sport 9 
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304079
-
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/new-zealand/sky-sport-9-nz.png?raw=true" group-title="SPORT/AUSTRALIA", SKY Sport 9 NZ
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/307987
-
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-08/2da4886a0d1a731b6efc89f399acdba1.png" group-title="SPORT/AUSTRALIA", Sky Sport Select NZ
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307988
-
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/bf8f52fc298816f7327ffaae3105c7b0.png" group-title="SPORT/AUSTRALIA", Sky Sport Select Backup
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/302401
+#EXTINF:-1  tvg-id="Sky.Sport.1.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6442.jpg?44656" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 1 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670263&extension=ts&play_token=reWHxxPRdy
 
 
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 2 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575139&extension=ts&play_token=gWAyM8usNk
+
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11976.png?24388" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670262&extension=ts&play_token=CgaQzvHTAd
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 3 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575138&extension=ts&play_token=ikVyzDGn68
+
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?47713" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 3 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670261&extension=ts&play_token=jpv8ScxuD6
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 4 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575137&extension=ts&play_token=8Ky8wF9lh6
+
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6436.png?35051" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 4 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670260&extension=ts&play_token=BfWFdwwLRG
+
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 5 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575136&extension=ts&play_token=NYfPQb4ZG
+
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6435.png?31605" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 5 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670259&extension=ts&play_token=rrNLQ7dpj4
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 6 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575135&extension=ts&play_token=97eLFrJbpF
+
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6434.jpg?49942" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 6 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670258&extension=ts&play_token=QPqdBTDm1a
+
+
+#EXTINF:-1  tvg-id="Sky.Sport.7.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 7 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575134&extension=ts&play_token=AjSKOSi7eV
+
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6433.png?54332" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 7 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670257&extension=ts&play_token=FWkmP7CQ0V
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 8 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575133&extension=ts&play_token=xYpYznhNjm
+
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?88595" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS PREMIER LEAGUE 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670268&extension=ts&play_token=kZNCqiQSm5
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 9 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575132&extension=ts&play_token=1dxi9vagBp
+
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6421.jpg?49571" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS 9 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670256&extension=ts&play_token=rVfrSv7TjG
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUSTRALIA",NZ: SKY SPORT 10 SELECT HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575131&extension=ts&play_token=5CPfnpARCb
+
+#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?23641" group-title="SPORT/AUSTRALIA",NZ: SKY SPORTS SELECT 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670267&extension=ts&play_token=Z3enQ4eiKy
 
 
 ##############   TNT   SPORT    #####################
@@ -758,18 +682,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621639&ex
 #EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83167" group-title="SPORT/UK",UK: TNT SPORTS 1 HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621661&extension=ts&play_token=PZ7G3C3apD
 
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 1 UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47850
-
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?54855" group-title="SPORT/UK",UK: TNT SPORTS 2 HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621638&extension=ts&play_token=vZrK7Ms1I3
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?54855" group-title="SPORT/UK",UK: TNT SPORTS 2 HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621660&extension=ts&play_token=xbJ0r9Rnh5
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 2 UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?14563" group-title="SPORT/UK",UK: TNT SPORTS 3 HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621637&extension=ts&play_token=yUSVDGtfD2
@@ -777,23 +694,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621637&ex
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?67930" group-title="SPORT/UK",UK: TNT SPORTS 3 HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621659&extension=ts&play_token=Tg1WbrRw48
 
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 3 UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47852
-
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?41246" group-title="SPORT/UK",UK: TNT SPORTS 4 HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621636&extension=ts&play_token=kPyvCBJtIB
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT/UK",UK: TNT SPORTS 4 HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621658&extension=ts&play_token=b5msca01KP
-
-
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORT/UK", TNT Sports 4 UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47853
-
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-5-uk.png?raw=true" group-title="SPORT/UK", TNT SPORTS 5 UK
-http://vipkentken.top:8080/VIP01697172669118799/80fba95604f6/146591
 
 
 
@@ -813,19 +718,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621634&ex
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?58725" group-title="SPORT/UK",UK: SKY SPORTS MAIN EVENTS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621656&extension=ts&play_token=JN9wyEmA8Z
 
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Main Event UK
-http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/265926
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SkySports Main Event
-http://tvmate.icu:8080/69NpyV/884735/35243
-
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SPORTS MAIN EVENT HD
-http://185.160.192.64:80/mangin15/85784/215920
-
-#EXTINF:-1 tvg-id="SkySp+HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-plus-hz-uk.png?raw=true" group-title="SPORT/UK", Sky Sports+ UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47863
-
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-f1-uk.png?raw=true" group-title="SPORT/UK", Sky Sports F1 HD
 http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
 
@@ -841,24 +733,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621628&ex
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11981.jpg?91574" group-title="SPORT/UK",UK: SKY SPORTS CRICKET HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621652&extension=ts&play_token=GVCzoHXLKb
 
-
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47864
-
-#EXTINF:-1 tvg-id="SkySpCricket.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS CRICKET HD
-http://185.160.192.64:80/mangin15/85784/215914
-
 #EXTINF:-1  tvg-id="SkySp.Mix.HD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?67529" group-title="SPORT/UK",UK: SKY SPORTS MIX HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621626&extension=ts&play_token=1koTtFe4B5
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12262.jpg?27329" group-title="SPORT/UK",UK: SKY SPORTS MIX HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621648&extension=ts&play_token=vJhPFgZOsh
-
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-mix-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Mix
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
-
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS MIX HD
-http://185.160.192.64:80/mangin15/85784/215906
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12244.jpg?7716" group-title="SPORT/UK",UK: SKY SPORTS ACTION HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621630&extension=ts&play_token=Ko41spR8Hq
@@ -866,24 +745,18 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621630&ex
 #EXTINF:-1  tvg-id="SkySp.ActionHD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12244.jpg?54884" group-title="SPORT/UK",UK: SKY SPORTS ACTION HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621650&extension=ts&play_token=xIazU3uu6y
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS ACTION HD
-http://185.160.192.64:80/mangin15/85784/215908
-
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-action-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Action UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47862
-
 #EXTINF:-1  tvg-id="SkySp.DartsHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12415.jpg?89982" group-title="SPORT/UK",UK: SKY SPORTS DARTS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621629&extension=ts&play_token=BAulGSjuM5
 
 #EXTINF:-1  tvg-id="SkySp.DartsHD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12415.jpg?89982" group-title="SPORT/UK",UK: SKY SPORTS DARTS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621653&extension=ts&play_token=cMfvy7MVvs
 
+#EXTINF:-1 tvg-id="tvg-id="SkySp.PL.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?93655" group-title="SPORT/UK",UK: SKY SPORTS PREMIER LEAGUE HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621633&extension=ts&play_token=RNaTjEa1si
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORT/UK", Sky Sports Premier League UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47871
+#EXTINF:-1 tvg-id="tvg-id="SkySp.PL.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?49491" group-title="SPORT/UK",UK: SKY SPORTS PREMIER LEAGUE HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621655&extension=ts&play_token=ToayH2r6J7
 
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk"  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS PREMIER LEAGUE HD
-http://185.160.192.64:80/mangin15/85784/215918
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11978.png?58082" group-title="SPORT/UK",UK: SKY SPORTS FOOTBALL HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621632&extension=ts&play_token=OKVAGyxrTo
@@ -892,11 +765,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621632&ex
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621654&extension=ts&play_token=okNbL6BD7g
 
 
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk"    tvg-logo="https://static.wixstatic.com/media/6048cf_8fd7a1723f0348819766a37753a2d58d~mv2.jpg/v1/fill/w_260,h_260,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsfootball.jpg" group-title="SPORT/UK", Sky Sports Football UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47866
-
-#EXTINF:-1  tvg-id="Sky.Sports.Football.HD.uk"  tvg-logo="https://static.wixstatic.com/media/6048cf_8fd7a1723f0348819766a37753a2d58d~mv2.jpg/v1/fill/w_260,h_260,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsfootball.jpg" group-title="SPORT/UK", SKY SPORTS FOOTBALL HD
-http://185.160.192.64:80/mangin15/85784/215916
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12243.jpg?50901" group-title="SPORT/UK",UK: SKY SPORTS GOLF HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621625&extension=ts&play_token=n3RVL17Swn
@@ -905,14 +773,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621625&ex
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621647&extension=ts&play_token=LVVbWtgV2g
 
 
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"   tvg-logo="https://static.wixstatic.com/media/6048cf_633dc1d2112f45958ee68f0aa0c7f71d~mv2.jpg/v1/fill/w_272,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsgolf.jpg" group-title="SPORT/UK", SKY SPORTS GOLF HD
-http://185.160.192.64:80/mangin15/85784/215912
-
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"  tvg-logo="https://static.wixstatic.com/media/6048cf_633dc1d2112f45958ee68f0aa0c7f71d~mv2.jpg/v1/fill/w_272,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsgolf.jpg" group-title="SPORT/UK", Sky Sports Golf UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
-
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk"  tvg-logo="https://static.wixstatic.com/media/6048cf_633dc1d2112f45958ee68f0aa0c7f71d~mv2.jpg/v1/fill/w_272,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/skysportsgolf.jpg" group-title="SPORT/UK", SkySports Golf FHD 
-http://tvmate.icu:8080/69NpyV/884735/35240
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?24436" group-title="SPORT/UK",UK: SKY SPORTS NEWS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621635&extension=ts&play_token=sUJfoX7FqA
@@ -921,24 +781,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621635&ex
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621657&extension=ts&play_token=DcTTg27K4z
 
 
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk"   tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-news-uk.png?raw=true" group-title="SPORT/UK", Sky Sports News UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47870
-
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk"   tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="SPORT/UK", SKY SPORTS NEWS HD
-http://185.160.192.64:80/mangin15/85784/215904
-
-
 #EXTINF:-1 tvg-id="  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7872.jpg?50086" group-title="SPORT/UK",UK: SKY SPORTS + HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621631&extension=ts&play_token=MFLvhRjUDk
 
 #EXTINF:-1 tvg-id="  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7872.jpg?50086" group-title="SPORT/UK",UK: SKY SPORTS + HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621651&extension=ts&play_token=QV3r1pEYAk
-
-#EXTINF:-1 tvg-id="  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?93655" group-title="SPORT/UK",UK: SKY SPORTS PREMIER LEAGUE HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621633&extension=ts&play_token=RNaTjEa1si
-
-#EXTINF:-1 tvg-id="  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?49491" group-title="SPORT/UK",UK: SKY SPORTS PREMIER LEAGUE HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621655&extension=ts&play_token=ToayH2r6J7
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12265.jpg?95931" group-title="SPORT/UK",UK: SKY SPORTS RACING HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621649&extension=ts&play_token=ts3bdYGkVI
@@ -2818,292 +2665,292 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1
 #######################################
 #######################################
 
-#EXTINF:-1 tvg-id="Sky.Arts.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?90187" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY ARTS HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?90187" group-title="SKY CINEMA" , SKY ARTS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639170&extension=ts&play_token=ILJs5cmC4e
 
-#EXTINF:-1 tvg-id="Sky.Arts.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?99487" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY ARTS HEVC HD
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?99487" group-title="SKY CINEMA" ,  SKY ARTS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639190&extension=ts&play_token=BFd2KTCkSw
 
-#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?27181" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY ATLANTIC HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?27181" group-title="SKY CINEMA" ,  SKY ATLANTIC HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639165&extension=ts&play_token=IIs6X5c6Qf
 
-#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?96615" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY ATLANTIC HEVC HD
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?96615" group-title="SKY CINEMA" ,  SKY ATLANTIC HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639185&extension=ts&play_token=ovh2JVDEhf
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?982" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA ACTION HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?982" group-title="SKY CINEMA" ,  SKY CINEMA ACTION HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639174&extension=ts&play_token=qTKfepK7V6
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?77623" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA ACTION HEVC HD
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6475.jpg?77623" group-title="SKY CINEMA" ,  SKY CINEMA ACTION HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639194&extension=ts&play_token=mUQhn8dfeS
 
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?14567" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA ANIMATION HEVC 4K
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?14567" group-title="SKY CINEMA" ,  SKY CINEMA ANIMATION HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639173&extension=ts&play_token=Z48By6AQxc
 
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?34523" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA ANIMATION HEVC HD
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?34523" group-title="SKY CINEMA" ,  SKY CINEMA ANIMATION HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639193&extension=ts&play_token=qHDzJxpISj
 
-#EXTINF:-1 tvg-id=" Sky.Cinema.Comedy.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6492.jpg?46729" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA COMEDY HEVC 4K
+#EXTINF:-1 tvg-id=" Sky.Cinema.Comedy.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6492.jpg?46729" group-title="SKY CINEMA" ,  SKY CINEMA COMEDY HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639175&extension=ts&play_token=xbiHUys7WB
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6492.jpg?12384" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA COMEDY HEVC HD
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6492.jpg?12384" group-title="SKY CINEMA" ,  SKY CINEMA COMEDY HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639195&extension=ts&play_token=zyLwc5BJtp
 
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?43168" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA DRAMA/CHRISTMAS HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?43168" group-title="SKY CINEMA" ,  SKY CINEMA DRAMA/CHRISTMAS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639176&extension=ts&play_token=77RQo7gegF
 
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?49519" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA DRAMA/CHRISTMAS HEVC HD
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?49519" group-title="SKY CINEMA" ,  SKY CINEMA DRAMA/CHRISTMAS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639196&extension=ts&play_token=Qjlv2KXWpD
 
-#EXTINF:-1 tvg-id=" Sky.Family.HD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?55624" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA FAMILY HEVC 4K
+#EXTINF:-1 tvg-id=" Sky.Family.HD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?55624" group-title="SKY CINEMA" ,  SKY CINEMA FAMILY HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639177&extension=ts&play_token=wXb2gVgpUl
 
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?81084" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA FAMILY HEVC HD
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12184.jpg?81084" group-title="SKY CINEMA" ,  SKY CINEMA FAMILY HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639197&extension=ts&play_token=06g60bJpCl
 
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6466.png?24948" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA GREATS HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6466.png?24948" group-title="SKY CINEMA" ,  SKY CINEMA GREATS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639178&extension=ts&play_token=Kl7vJX6WwV
 
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6466.png?8010" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA GREATS HEVC HD
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6466.png?8010" group-title="SKY CINEMA" ,  SKY CINEMA GREATS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639198&extension=ts&play_token=hqxkTWV29j
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?22884" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA HITS HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?22884" group-title="SKY CINEMA" ,  SKY CINEMA HITS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639179&extension=ts&play_token=LwseSdr6za
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?61071" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA HITS HEVC HD
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12176.png?61071" group-title="SKY CINEMA" ,  SKY CINEMA HITS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639199&extension=ts&play_token=tueV2EY7hh
 
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?90528" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA PREMIER HEVC 4K
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?90528" group-title="SKY CINEMA" ,  SKY CINEMA PREMIER HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639180&extension=ts&play_token=wzVuJdgeme
 
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?52853" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA PREMIER HEVC HD
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?52853" group-title="SKY CINEMA" ,  SKY CINEMA PREMIER HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639200&extension=ts&play_token=QdjJQogKMM
 
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?62024" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA SCIFI/HORROR HEVC 4K
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?62024" group-title="SKY CINEMA" ,  SKY CINEMA SCIFI/HORROR HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639181&extension=ts&play_token=1zKJ8xUeSZ
 
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?6083" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA SCIFI/HORROR HEVC HD
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?6083" group-title="SKY CINEMA" ,  SKY CINEMA SCIFI/HORROR HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639201&extension=ts&play_token=a8I42mUbLe
 
-#EXTINF:-1 tvg-id=" Sky.Cinema.Select.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?92001" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA SELECT/FEEL GOOD HEVC 4K
+#EXTINF:-1 tvg-id=" Sky.Cinema.Select.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?92001" group-title="SKY CINEMA" ,  SKY CINEMA SELECT/FEEL GOOD HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639182&extension=ts&play_token=7tNdoQQoVI
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?5276" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA SELECT/FEEL GOOD HEVC HD
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?5276" group-title="SKY CINEMA" ,  SKY CINEMA SELECT/FEEL GOOD HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639202&extension=ts&play_token=FUXToZEBkV
 
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?8761" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA THRILLER HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?8761" group-title="SKY CINEMA" ,  SKY CINEMA THRILLER HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639183&extension=ts&play_token=Jmz3muE1IP
 
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?54085" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CINEMA THRILLER HEVC HD
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12182.jpg?54085" group-title="SKY CINEMA" ,  SKY CINEMA THRILLER HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639203&extension=ts&play_token=of9LQH83BT
 
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?50718" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY COMEDY HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?50718" group-title="SKY CINEMA" ,  SKY COMEDY HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639166&extension=ts&play_token=CNuFtbmVwV
 
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?45412" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY COMEDY HEVC HD
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?45412" group-title="SKY CINEMA" ,  SKY COMEDY HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639186&extension=ts&play_token=1kzqhIjYgn
 
-#EXTINF:-1 tvg-id="Sky.Crime.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?30654" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CRIME HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?30654" group-title="SKY CINEMA" ,  SKY CRIME HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639167&extension=ts&play_token=wDXFpNblSv
 
-#EXTINF:-1 tvg-id="Sky.Crime.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?55767" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY CRIME HEVC HD
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?55767" group-title="SKY CINEMA" ,  SKY CRIME HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639187&extension=ts&play_token=sJGZ4JEZTz
 
-#EXTINF:-1 tvg-id="Sky.Kids.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?48251" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY KIDS HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?48251" group-title="SKY CINEMA" ,  SKY KIDS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639172&extension=ts&play_token=5A4rdrwJ2K
 
-#EXTINF:-1 tvg-id="Sky.Kids.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?65195" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY KIDS HEVC HD
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6438.jpg?65195" group-title="SKY CINEMA" ,  SKY KIDS HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639192&extension=ts&play_token=75D8Nmtuma
 
-#EXTINF:-1 tvg-id="Sky.Nature.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12029.jpg?14491" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY NATURE HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12029.jpg?14491" group-title="SKY CINEMA" ,  SKY NATURE HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639171&extension=ts&play_token=K1AsbcdnKR
 
-#EXTINF:-1 tvg-id="Sky.Nature.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12029.jpg?68193" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY NATURE HEVC HD
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12029.jpg?68193" group-title="SKY CINEMA" ,  SKY NATURE HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639191&extension=ts&play_token=MwQMhWBP6P
 
-#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/12096.jpg?95486" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY ONE HEVC HD
+#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/12096.jpg?95486" group-title="SKY CINEMA" ,  SKY ONE HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1842564&extension=ts&play_token=7Tv7PWCQlx
 
-#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?29878" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY SHOWCASE  HEVC HD
+#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?29878" group-title="SKY CINEMA" ,  SKY SHOWCASE  HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639188&extension=ts&play_token=iGkrbEpzcc
 
-#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?67778" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY SHOWCASE HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?67778" group-title="SKY CINEMA" ,  SKY SHOWCASE HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639168&extension=ts&play_token=Qr8pZ4QAzg
 
-#EXTINF:-1 tvg-id="Sky.Witness.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12125.png?21748" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY WITNESS  HEVC HD
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12125.png?21748" group-title="SKY CINEMA" ,  SKY WITNESS  HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639189&extension=ts&play_token=eyfPa1Kir2
 
-#EXTINF:-1 tvg-id="Sky.Witness.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12125.png?48030" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: SKY WITNESS HEVC 4K
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12125.png?48030" group-title="SKY CINEMA" ,  SKY WITNESS HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639169&extension=ts&play_token=21GW2CcZeo
 
-#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/12096.jpg?95486" group-title="UK| SKY CINEMA ʰᵉᵛᶜ",UK: UK: SKY ONE HEVC 4K
+#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/12096.jpg?95486" group-title="SKY CINEMA" ,  SKY ONE HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1842565&extension=ts&play_token=WwN2mkzNrv
 
-#EXTINF:-1 tvg-id="247Box.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1068.png?13315" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: 247Box TV HD ◉
+#EXTINF:-1 tvg-id="247Box.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1068.png?13315" group-title="SKY CINEMA" ,  247Box TV HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=247101&extension=ts&play_token=xoZc2CwyiG
 
-#EXTINF:-1 tvg-id="5ACTION.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1400.png?74357" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: 5 ACTION HD ◉
+#EXTINF:-1 tvg-id="5ACTION.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1400.png?74357" group-title="SKY CINEMA" ,  5 ACTION HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405521&extension=ts&play_token=GTYDYSUm76
 
-#EXTINF:-1 tvg-id="GREAT!.tv+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: GREAT MOVIES +1 ◉
+#EXTINF:-1 tvg-id="GREAT!.tv+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="SKY CINEMA" ,  GREAT MOVIES +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405525&extension=ts&play_token=OG58rVUIre
 
-#EXTINF:-1 tvg-id="GREAT!action+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12174.jpg?33636" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: GREAT MOVIES ACTION +1 ◉
+#EXTINF:-1 tvg-id="GREAT!action+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12174.jpg?33636" group-title="SKY CINEMA" ,  GREAT MOVIES ACTION +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405523&extension=ts&play_token=79sZAM1lwZ
 
-#EXTINF:-1 tvg-id="GREAT!.action.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: GREAT MOVIES ACTION ◉
+#EXTINF:-1 tvg-id="GREAT!.action.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="SKY CINEMA" ,  GREAT MOVIES ACTION ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=339843&extension=ts&play_token=b63fzHARgT
 
-#EXTINF:-1 tvg-id="GREAT!.movies.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: GREAT MOVIES ◉
+#EXTINF:-1 tvg-id="GREAT!.movies.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="SKY CINEMA" ,  GREAT MOVIES ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=339842&extension=ts&play_token=i5M6tPi03M
 
-#EXTINF:-1 tvg-id="GREAT!.tv.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12187.jpg?10818" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: GREAT TV CHANNEL +1 ◉
+#EXTINF:-1 tvg-id="GREAT!.tv.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12187.jpg?10818" group-title="SKY CINEMA" ,  GREAT TV CHANNEL +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405524&extension=ts&play_token=AwW2QReTdt
 
-#EXTINF:-1 tvg-id="More4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: MOVIES4MEN ◉
+#EXTINF:-1 tvg-id="More4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="SKY CINEMA" ,  MOVIES4MEN ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162365&extension=ts&play_token=QYtBa3gBGX
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA ACTION 4K
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA ACTION 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162330&extension=ts&play_token=Li9Pnrtcq4
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA ACTION HD ◉
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA ACTION HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162329&extension=ts&play_token=o4wjtxs92E
 
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA ACTION ◉
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA ACTION ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162353&extension=ts&play_token=yZzGARvzdK
 
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA ANIMATION 4K
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA ANIMATION 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162337&extension=ts&play_token=Ds4zaecfjW
 
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?58266" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA ANIMATION 4K
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12173.jpg?58266" group-title="SKY CINEMA" ,  SKY CINEMA ANIMATION 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=336042&extension=ts&play_token=1vMKksgCwN
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA COMEDY 4K
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA COMEDY 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162331&extension=ts&play_token=CgGeN5dc8C
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA COMEDY 4K
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA COMEDY 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162332&extension=ts&play_token=kaLUuVUaRB
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA COMEDY ◉
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA COMEDY ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162354&extension=ts&play_token=Q3D2nlrDAt
 
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA DRAMA 4K
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA DRAMA 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162335&extension=ts&play_token=M81pLnl1BA
 
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA DRAMA 4K
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA DRAMA 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162336&extension=ts&play_token=sfrAPneiWq
 
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA DRAMA ◉
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA DRAMA ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162356&extension=ts&play_token=EDyKriL4Lb
 
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA FAMILY 4K
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA FAMILY 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162348&extension=ts&play_token=4Qf1zbtZfQ
 
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA FAMILY 4K
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA FAMILY 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162349&extension=ts&play_token=OHcvHVFisK
 
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA GREATS 4K
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109"group-title="SKY CINEMA" ,  SKY CINEMA GREATS 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162339&extension=ts&play_token=Dah1gzkLpN
 
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA GREATS 4K
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA GREATS 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162340&extension=ts&play_token=ykuTf8PW6O
 
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA GREATS ◉
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA GREATS ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162357&extension=ts&play_token=CVgX7J4k6R
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA HITS 4K
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA HITS 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162342&extension=ts&play_token=icdccOaf1D
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA HITS 4K
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA HITS 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162343&extension=ts&play_token=hm57XB8x0B
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA HITS ◉
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA HITS ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162358&extension=ts&play_token=vMRpq1Pd7Y
 
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA PREMIER 4K
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA PREMIER 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162345&extension=ts&play_token=BDiFpur7tg
 
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA PREMIERE 4K
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA PREMIERE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162344&extension=ts&play_token=ALrqNjlOtL
 
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA PREMIERE ◉
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA PREMIERE ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162359&extension=ts&play_token=b4diJjet3B
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Sci-Fi.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA SCI-FI 4K
+#EXTINF:-1 tvg-id="Sky.Cinema.Sci-Fi.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA SCI-FI 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162350&extension=ts&play_token=5vus063p02
 
-#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA SCI-FI ◉
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA SCI-FI ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162360&extension=ts&play_token=tEgexNsTlB
 
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA SCIFI HORROR 4K
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA SCIFI HORROR 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162351&extension=ts&play_token=daDP80ZuTt
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?ver=79267" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA SELECT HD ◉
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6469.jpg?ver=79267" group-title="SKY CINEMA" ,  SKY CINEMA SELECT HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=501280&extension=ts&play_token=VZCxZzvUcN
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6462.png?18198" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA SELECT HD ◉
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6462.png?18198" group-title="SKY CINEMA" ,  SKY CINEMA SELECT HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=362625&extension=ts&play_token=LQo0iJITqI
 
-#EXTINF:-1 tvg-id="Sky.Cinema.Superheroes.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA SUPERHEROES HD ◉
+#EXTINF:-1 tvg-id="Sky.Cinema.Superheroes.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA SUPERHEROES HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162341&extension=ts&play_token=TwtvApGaHz
 
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA THRILLER
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA THRILLER
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162361&extension=ts&play_token=b2FhOEXhCj
 
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA THRILLER 4K
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA THRILLER 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162346&extension=ts&play_token=bROnJ2qiFf
 
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CINEMA THRILLER 4K
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?42109" group-title="SKY CINEMA" ,  SKY CINEMA THRILLER 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162347&extension=ts&play_token=exKmA3MJwi
 
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?ver=13910" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY COMEDY 4K
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6428.png?ver=13910" group-title="SKY CINEMA" ,  SKY COMEDY 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=304723&extension=ts&play_token=bl2efhT99c
 
-#EXTINF:-1 tvg-id="Sky.Crime+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?40340" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CRIME +1 ◉
+#EXTINF:-1 tvg-id="Sky.Crime+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?40340" group-title="SKY CINEMA" ,  SKY CRIME +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405519&extension=ts&play_token=DC9wbFR7gG
 
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?40340" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY CRIME 4K ◉
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?40340" group-title="SKY CINEMA" ,  SKY CRIME 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162383&extension=ts&play_token=v8u9HYYotV
 
-#EXTINF:-1 tvg-id="Sky.Max.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3125.jpg?53054" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY MAX 4K
+#EXTINF:-1 tvg-id="Sky.Max.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3125.jpg?53054" group-title="SKY CINEMA" , SKY MAX 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=304727&extension=ts&play_token=g6RLwT0fML
 
-#EXTINF:-1 tvg-id="Sky.Max.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3125.jpg?53054" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY MAX ◉
+#EXTINF:-1 tvg-id="Sky.Max.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3125.jpg?53054" group-title="SKY CINEMA" ,  SKY MAX ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=304728&extension=ts&play_token=bYSms7cDi8
 
-#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12096.jpg?95486" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY ONE
+#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12096.jpg?95486" group-title="SKY CINEMA" ,  SKY ONE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1842547&extension=ts&play_token=dguZJoMkpl
 
-#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12096.jpg?95486" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY ONE 4K
+#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12096.jpg?95486" group-title="SKY CINEMA" ,  SKY ONE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1842545&extension=ts&play_token=tc1myikRZa
 
-#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12096.jpg?95486" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY ONE HD
+#EXTINF:-1 tvg-id="Sky.One.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12096.jpg?95486" group-title="SKY CINEMA" ,  SKY ONE HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1842546&extension=ts&play_token=nwBZGE2H0e
 
-#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?87020" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY SHOWCASE 4K
+#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?87020" group-title="SKY CINEMA" ,  SKY SHOWCASE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=304725&extension=ts&play_token=ZNh3a3AfdQ
 
-#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?87020" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SKY SHOWCASE ◉
+#EXTINF:-1 tvg-id="Sky.Showcase.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10141.jpg?87020" group-title="SKY CINEMA" ,  SKY SHOWCASE ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=304726&extension=ts&play_token=OaylhvZE1p
 
-#EXTINF:-1 tvg-id="SONY.ACTION.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SONY ACTION ◉
+#EXTINF:-1 tvg-id="SONY.ACTION.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="SKY CINEMA" ,  SONY ACTION ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162368&extension=ts&play_token=vo5J1wo7dM
 
-#EXTINF:-1 tvg-id="SONY.TV.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: SONY CHANNEL ◉
+#EXTINF:-1 tvg-id="SONY.TV.HD.uk  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7718.jpg?39454" group-title="SKY CINEMA" ,  SONY CHANNEL ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162370&extension=ts&play_token=naYDm8F1wq
 
-#EXTINF:-1 tvg-id="TalkingPictures.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11982.png?8683" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: TALKING PICTURES ◉
+#EXTINF:-1 tvg-id="TalkingPictures.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11982.png?8683" group-title="SKY CINEMA" ,  TALKING PICTURES ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=583338&extension=ts&play_token=hsOhT4aSBm
 
-#EXTINF:-1 tvg-id="True.Movies.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: TRUE MOVIES +1 ◉
+#EXTINF:-1 tvg-id="True.Movies.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="SKY CINEMA" ,  TRUE MOVIES +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162363&extension=ts&play_token=eMfXfxa4yh
 
-#EXTINF:-1 tvg-id="True.Movies.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="UK| SKY CINEMA ᴴᴰ/ᴿᴬᵂ",UK: TRUE MOVIES ◉
+#EXTINF:-1 tvg-id="True.Movies.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12200.jpg?77487" group-title="SKY CINEMA" ,  TRUE MOVIES ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162362&extension=ts&play_token=kNq7O7dvKh
 
 #####################   SKY STORE    #################################
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE MENU! ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ", SKY STORE MENU! ᴿᴬᵂ
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1519965&extension=ts&play_token=CYb5PohgL9
  
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 1 ᴿᴬᵂ
@@ -3197,9 +3044,258 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1519957&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1519956&extension=ts&play_token=nh2hpPDJ4k
 
 
+##################################################
+##################################################
+#############   MOVIES / ACTORS    ###############
+##################################################
+####################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ADAM DRIVER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601214&extension=ts&play_token=aKjhSjVvuF
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ADAM SANDLER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601213&extension=ts&play_token=T6rnsdmQBx
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ADAMSANDLER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601212&extension=ts&play_token=6dMB66D2lR
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   AL PACINO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601211&extension=ts&play_token=fq0EQaeFH9
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ALLISON JANNEY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601209&extension=ts&play_token=BXKanhbc3T
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   AMY ADAMS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601208&extension=ts&play_token=cFqqv2msvh
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ANNETTE BENING
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601207&extension=ts&play_token=eULFLRYRuM
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BEN FOSTER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601205&extension=ts&play_token=uLlfTQpS1g
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BEN MENDELSOHN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601204&extension=ts&play_token=YipF5md82J
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BRADLEY COOPER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601197&extension=ts&play_token=gANKHTgGkN
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BRIE LARSON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601196&extension=ts&play_token=DDOQMKOWD2
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BRUCE LEE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601195&extension=ts&play_token=s2OhCZep4l
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BRUCE WILLIS MOVIE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601194&extension=ts&play_token=Q0DCkQ57Bk
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   BRYAN CRANSTON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601193&extension=ts&play_token=Pmwgs20V8v
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   CARRIE COON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601192&extension=ts&play_token=FtT9r0bLdt
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   CATE BLANCHETT
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601191&extension=ts&play_token=OgQrbEIC5d
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   CHARLIZE THERON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601190&extension=ts&play_token=Chmyj2KxuM
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   CHRIS PINE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601188&extension=ts&play_token=eE1LNBUBsJ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   CHRISTIAN BALE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601187&extension=ts&play_token=Z186FR8BBu
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   CHRISTOPHER NOLAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601186&extension=ts&play_token=xbJTlp5iAa
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   DENZEL WASHINGTON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601182&extension=ts&play_token=HKDPGp4woU
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ELVIS PRESLEY MOVIE S
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601181&extension=ts&play_token=4FJ4L449Nw
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   GARY OLDMAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601176&extension=ts&play_token=ZF44oXlrUh
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   GINA RODRIGUEZ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601175&extension=ts&play_token=6bvJQyGOGW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   GUY RICHIE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601174&extension=ts&play_token=keHmeXBkyW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   HAILEE STEINFELD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601173&extension=ts&play_token=XULrKfcc8B
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   HUGH JACKMAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601171&extension=ts&play_token=Hvwjkr9SC3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JAKE GYLLENHAAL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601158&extension=ts&play_token=xoVb1Iyi23
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JANELLE MONAE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601156&extension=ts&play_token=PiTmmRFj3f
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JAVIER BARDEM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601155&extension=ts&play_token=IGkOmikqXW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JEAN CLAUDE VAN DAMME
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601154&extension=ts&play_token=qh42PEtyxm
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JEFFREY WRIGHT
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601153&extension=ts&play_token=Y3A06retni
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JENNIFER LAWRENCE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601152&extension=ts&play_token=AlOyLFBjtj
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JESSE PLEMONS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601151&extension=ts&play_token=Wl3mxvVL2p
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JOAQUIN PHOENIX
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601148&extension=ts&play_token=RTB2SiGAgg
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JOEL EDGERTON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601147&extension=ts&play_token=iskrBhI94e
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JOHN WAYNE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601146&extension=ts&play_token=iguHxR46q5
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JONAH HILL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601145&extension=ts&play_token=rx6Clxsoza
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JOSH BROLIN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601144&extension=ts&play_token=1dcUBSJTzk
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   JULIANNE MOORE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601143&extension=ts&play_token=8Lx4nHiYqe
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   KATE WINSLET
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601142&extension=ts&play_token=UpIHKRtNxF
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   KERI RUSSELL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601141&extension=ts&play_token=Edj4VsyESG
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   LEONARDO DICAPRIO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601137&extension=ts&play_token=UCUfWq74J2
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MARGOT ROBBIE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601131&extension=ts&play_token=uXSEkFEntu
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MARK RUFFALO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601130&extension=ts&play_token=mSCFQ1QDhk
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MARK RUFFALO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601129&extension=ts&play_token=EvSOINgkwc
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MARTIN FREEMAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601127&extension=ts&play_token=urXtVz26e3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MATT DAMON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601126&extension=ts&play_token=MsxJX42lbP
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MATTHEW RHYS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601125&extension=ts&play_token=Oe1lgCZDvb
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MERYL STREEP
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601124&extension=ts&play_token=FzUEwSbU18
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MICHAEL B JORDAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601123&extension=ts&play_token=v3NvCzNWOk
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MICHAEL FASSBENDER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601122&extension=ts&play_token=WkuDmnluU3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MICHAEL JACKSON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601121&extension=ts&play_token=uCI40dIRsl
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   MICHAEL KEATON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601120&extension=ts&play_token=Aef64JRqm5
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   NAOMIE HARRIS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601108&extension=ts&play_token=xHL5oHkz1a
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   NATALIE PORTMAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601107&extension=ts&play_token=qFexZ6TP9t
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   NICOLAS CAGE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601106&extension=ts&play_token=0WlzOrdVNu
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   RACHEL WEISZ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601102&extension=ts&play_token=FGXhz6SJ8w
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   RALPH FIENNES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601101&extension=ts&play_token=O623F70pkD
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   REESE WITHERSPOON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601100&extension=ts&play_token=1SnV44LKb9
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   RIZ AHMED
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601099&extension=ts&play_token=apSebqRDlN
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ROBERT DE NIRO MOVIES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601098&extension=ts&play_token=vjWky5j0Ss
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ROBERT DOWNEY JR
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601097&extension=ts&play_token=T2YqHrfbIq
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ROBIN WILLIAMS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601096&extension=ts&play_token=Io1xSFosUN
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   ROBIN WRIGHT
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601095&extension=ts&play_token=LUvRu11r0i
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   RYAN GOSLING
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601093&extension=ts&play_token=hzaiPyB3sh
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   SAM ROCKWELL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601092&extension=ts&play_token=SBKXMrnCu9
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   SAMUEL L JACKSON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601091&extension=ts&play_token=hlKDWtz29K
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   STEVE CARELL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601085&extension=ts&play_token=qORcFizIEB
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   STEVEN SEAGAL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601084&extension=ts&play_token=k1a6teZqBM
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TILDA SWINTON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601053&extension=ts&play_token=1OhYeLti3E
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TIMOTHEE CHALAMET
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601052&extension=ts&play_token=tBuR8MiNbn
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TOM CRUISE 1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601051&extension=ts&play_token=2AN36pmWUH
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TOM CRUISE 2
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601050&extension=ts&play_token=AgywxEMR08
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TOM HANKS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601049&extension=ts&play_token=aqat98Na36
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TOM HARDY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601048&extension=ts&play_token=CPvx8OONkQ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   TOM HIDDLESTON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601047&extension=ts&play_token=Vy1votyQd0
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   VIOLA DAVIS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601046&extension=ts&play_token=M9Jish5oh2
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 MOVIES/ACTORS" ,   WILL SMITH
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601045&extension=ts&play_token=EDoHKqgE8V
 
 ################     SKY MIX DOCS     ################################
-
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS MENU ᴿᴬᵂ
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1453198&extension=ts&play_token=UXapcM2zmI
@@ -3249,9 +3345,10 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1453190&e
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 9 ᴿᴬᵂ
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1453189&extension=ts&play_token=4zVCgp66XC
 
+
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES MENU ᴿᴬᵂ
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1428994&extension=ts&play_token=CyG06atKtg
-
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 1 ᴿᴬᵂ
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1428993&extension=ts&play_token=dofxDcOX3G
@@ -3300,10 +3397,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1428987&e
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 8 ᴿᴬᵂ
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1428986&extension=ts&play_token=fpHucLTjxL
-
-
-
-
 
 
 
@@ -4168,246 +4261,716 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600816&e
 
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" , ABSOLUTELY FABULOUS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , ABSOLUTELY FABULOUS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600629&extension=ts&play_token=3Ci4dchJZ4
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" , ACCORDING TO JIM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , ACCORDING TO JIM
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600627&extension=ts&play_token=eYc4sfm5L6
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" , ALF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , ALF
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600623&extension=ts&play_token=GBSmMnIaeW
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" , ANGER MANAGEMENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , ANGER MANAGEMENT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600618&extension=ts&play_token=3hBTM1a9dZ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" , BETTER CALL SAUL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , BETTER CALL SAUL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600607&extension=ts&play_token=yXJ4U91RX
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  BILL NYE SAVES THE WORLD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  BILL NYE SAVES THE WORLD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600602&extension=ts&play_token=RMtNegWnkR
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  BOSTON LEGAL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  BOSTON LEGAL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600596&extension=ts&play_token=jPcs91kb95
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  BOY MEETS GIRL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  BOY MEETS GIRL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600595&extension=ts&play_token=dqXaHmvwzE
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" , 24/7: BREEDERS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , 24/7: BREEDERS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600593&extension=ts&play_token=WQFt2LdRCv
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  BROOKLYN NINE NINE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  BROOKLYN NINE NINE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600589&extension=ts&play_token=1GXCWw82tR
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  BUFFY THE VAMPIRE SLAYER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  BUFFY THE VAMPIRE SLAYER
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600588&extension=ts&play_token=YQH6EQ7KOl
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  CELEBRITY FAMILY FEUD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  CELEBRITY FAMILY FEUD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600580&extension=ts&play_token=tYhMXJMJmu
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  DUCK DYNASTY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  DUCK DYNASTY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600538&extension=ts&play_token=5RsLgXVknn
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="SITCOMS" ,  ENTOURAGE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" ,  ENTOURAGE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600533&extension=ts&play_token=ENkOI0izyR
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: EVERYBODY HATES CHRIS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , EVERYBODY HATES CHRIS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600529&extension=ts&play_token=95UCZThRjr
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: EVERYBODY LOVES RAYMOND
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , EVERYBODY LOVES RAYMOND
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600528&extension=ts&play_token=t60ksdRc2B
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FULL HOUSE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , FULL HOUSE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600510&extension=ts&play_token=rx8Zv4JqXt
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GHOSTS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GHOSTS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600501&extension=ts&play_token=PMOtag9sbo
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GILMORE GIRLS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GILMORE GIRLS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600500&extension=ts&play_token=wD59aw1sXL
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GIRL MEETS WORLD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GIRL MEETS WORLD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600499&extension=ts&play_token=XQUT5RO3pb
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GLEE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GLEE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600496&extension=ts&play_token=uiN0T5EIfL
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GOSSIP GIRL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GOSSIP GIRL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600490&extension=ts&play_token=yCWOqpPYNA
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GRACE AND FRANKIE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GRACE AND FRANKIE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600489&extension=ts&play_token=AHAU2MKsDs
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GRACE AND FRANKIE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , GRACE AND FRANKIE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600488&extension=ts&play_token=vE0MZOyeS2
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HOW I MET YOUR MOTHER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , HOW I MET YOUR MOTHER
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600465&extension=ts&play_token=YscEwVXhsQ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HOW ITS MADE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , HOW ITS MADE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600464&extension=ts&play_token=8mVfutfrFL
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KEEPING UP APPEARANCES
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , KEEPING UP APPEARANCES
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600448&extension=ts&play_token=NRsWVR3QC0
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KEVIN CAN WAIT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , KEVIN CAN WAIT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600447&extension=ts&play_token=oJe6ZBA8v8
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LEAVE IT TO BEAVER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , LEAVE IT TO BEAVER
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600441&extension=ts&play_token=jz0qYdVPpF
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LIZZIE MCGUIRE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , LIZZIE MCGUIRE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600432&extension=ts&play_token=okeovFtlnf
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LOVE 101
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , LOVE 101
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600426&extension=ts&play_token=kHAHKC5ucf
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MAN SEEKING WOMAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MAN SEEKING WOMAN
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600419&extension=ts&play_token=Bl3rcIbXQO
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MEDICAL POLICE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MEDICAL POLICE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600415&extension=ts&play_token=6xRsCF0hoc
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MEN AT WORK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MEN AT WORK
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600414&extension=ts&play_token=boknXnTYYf
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MODERN FAMILY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MODERN FAMILY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600406&extension=ts&play_token=78JGIxXKsA
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MODERN FAMILY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MODERN FAMILY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600405&extension=ts&play_token=uTmV4B5Wwv
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MODERN LOVE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MODERN LOVE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600404&extension=ts&play_token=EmgA1PrzQu
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MOONLIGHTING
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MOONLIGHTING
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600403&extension=ts&play_token=afp01Fm8l5
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MUPPETS NOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MUPPETS NOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600400&extension=ts&play_token=B1iBmhsvRU
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MY NAME IS EARL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MY NAME IS EARL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600395&extension=ts&play_token=DhBInlTSoE
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MY WIFE AND KIDS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , MY WIFE AND KIDS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600394&extension=ts&play_token=6TnteHyoYn
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: PERFECT STRANGERS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , PERFECT STRANGERS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600373&extension=ts&play_token=lPop4FEjpi
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RED DWARF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , RED DWARF
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600353&extension=ts&play_token=xZurfwUqEc
 
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SATURDAY NIGHT LIVE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SATURDAY NIGHT LIVE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600343&extension=ts&play_token=vatg3lMhRB
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SAVED BY THE BELL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SAVED BY THE BELL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600342&extension=ts&play_token=EsqyH48An4
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SCHITT S CREEK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SCHITT S CREEK
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600341&extension=ts&play_token=4F6c4GQIDU
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SCHOOL OF ROCK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SCHOOL OF ROCK
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600340&extension=ts&play_token=d5bCr82wmB
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SCRUBS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SCRUBS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600337&extension=ts&play_token=HtIw79pbvo
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SEAN SAVES THE WORLD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SEAN SAVES THE WORLD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600336&extension=ts&play_token=gkYpb0Q23q
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SEX AND THE CITY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SEX AND THE CITY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600330&extension=ts&play_token=l6AT9n0hvi
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SEX EDUCATION
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SEX EDUCATION
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600329&extension=ts&play_token=fHrkNecews
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SHAUN MICALLEF'S MAD AS HELL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SHAUN MICALLEF'S MAD AS HELL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600328&extension=ts&play_token=ZsUn12dtDu
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SIRENS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SIRENS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600321&extension=ts&play_token=FiWIwDo2kY
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SOUTH PARK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SOUTH PARK
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600314&extension=ts&play_token=m4nkkVUuCW
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SUPERMARKET SWEEP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , SUPERMARKET SWEEP
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600302&extension=ts&play_token=dGMh7e2Y6W
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TAXI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , TAXI
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600297&extension=ts&play_token=6Z6Kp47QFB
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THAT '70S SHOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THAT '70S SHOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600290&extension=ts&play_token=9WZK8CcSb4
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE BIG BANG THEORY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE BIG BANG THEORY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600286&extension=ts&play_token=nXwlob1OaA
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE CONNERS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE CONNERS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600279&extension=ts&play_token=I8JD5CozO7
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE DREW CAREY SHOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE DREW CAREY SHOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600273&extension=ts&play_token=JWjvQzOFtV
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE GOLDBERGS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE GOLDBERGS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600269&extension=ts&play_token=m3wb5xlpRP
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE GORBURGER SHOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE GORBURGER SHOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600268&extension=ts&play_token=CS9dpdOWjC
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE GRAHAM NORTON SHOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE GRAHAM NORTON SHOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600267&extension=ts&play_token=9RlOs2bxyP
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE INVISIBLE MAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE INVISIBLE MAN
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600259&extension=ts&play_token=nF4j0S7rSo
 
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE JIM JEFFERIES SHOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE JIM JEFFERIES SHOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600256&extension=ts&play_token=mIoXiqWPaQ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE KIDS ARE ALRIGHT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE KIDS ARE ALRIGHT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600255&extension=ts&play_token=6ShrLrfz7g
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE KING OF QUEENS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE KING OF QUEENS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600254&extension=ts&play_token=AJUXO5yMcc
 
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE MARY TYLER MOORE SHOW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE MARY TYLER MOORE SHOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600250&extension=ts&play_token=iXCBWL83Zh
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE MICK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE MICK
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600249&extension=ts&play_token=sUmnzH2tDD
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE MIDDLE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE MIDDLE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600248&extension=ts&play_token=xBqEheZ8Bm
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE MILLERS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE MILLERS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600247&extension=ts&play_token=Wdiy22TkFH
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE MINDY PROJECT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE MINDY PROJECT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600246&extension=ts&play_token=YRI0HmVrrV
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE NANNY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE NANNY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600243&extension=ts&play_token=liXPWftB25
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE OFFICE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , THE OFFICE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600240&extension=ts&play_token=Z98fIDmiez
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TRAILER PARK BOYS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , TRAILER PARK BOYS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600231&extension=ts&play_token=Cf9yXcJDiy
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TWO AND A HALF MEN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , TWO AND A HALF MEN
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600227&extension=ts&play_token=nku6pkf32m
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: WILL & GRACE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , WILL & GRACE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600214&extension=ts&play_token=ZW1LabI65L
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: WINGS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , WINGS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600213&extension=ts&play_token=kg2zGllklB
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: YOUNG SHELDON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SITCOMS" , YOUNG SHELDON
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600209&extension=ts&play_token=g91qWznFiB
 
+
+
+
+###################################################
+###################################################
+############   CRIME     #########################
+####################################################
+###################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" , BLUE BLOODS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600200&extension=ts&play_token=4NsT7yTZwL
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  BODYGUARD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600199&extension=ts&play_token=UCDiBbyFFQ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  BONES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600198&extension=ts&play_token=b6Eum3iCnb
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  BROADCHURCH
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600197&extension=ts&play_token=ZagfV9pklm
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  CHICAGO JUSTICE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600195&extension=ts&play_token=WW017c9BIf
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  COLD CASE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600193&extension=ts&play_token=dCvdu8RygQ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  COMPLICATIONS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600192&extension=ts&play_token=y89ZVGcIk3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  CRIMINAL MINDS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600191&extension=ts&play_token=UQG9SkbLN7
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  DEADWOOD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600187&extension=ts&play_token=nqoZ9WktaJ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  DEXTER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600186&extension=ts&play_token=g5XoVhJodn
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  DIRTY MONEY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600185&extension=ts&play_token=XdB3DuwqbE
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  FARGO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600181&extension=ts&play_token=4oH4OV2oMU
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  FBI
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600180&extension=ts&play_token=hBlwZnDWxE
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  FORENSIC FILES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600179&extension=ts&play_token=9jMgGa8Eg2
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  HOW TO GET AWAY WITH MURDER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600168&extension=ts&play_token=rCkr0hTVXA
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  HOW TO GET AWAY WITH MURDER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600167&extension=ts&play_token=Mc3O27V6qg
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  LAW & ORDER: SPECIAL VICTIMS UNIT
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600160&extension=ts&play_token=9llPhk0Fih
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  LONGMIRE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600155&extension=ts&play_token=Lo5xcT2iNn
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  MEDIUM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600148&extension=ts&play_token=kkqvWKf8Rm
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  MIAMI VICE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600147&extension=ts&play_token=m1mVYJzAsK
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  MIDSOMER MURDERS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600146&extension=ts&play_token=niwv2H2Ewa
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  OZARK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600141&extension=ts&play_token=1Lnybfwx1q
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  PARANOID
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600140&extension=ts&play_token=LWe9epg0aU
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  RANSOM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600132&extension=ts&play_token=EnV58MRNsu
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  SONS OF ANARCHY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600124&extension=ts&play_token=6uEUrYC6y9
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  THE ROOKIE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600112&extension=ts&play_token=y2DFMQSB2C
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  THE SHIELD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600111&extension=ts&play_token=gsm8ZTFUsp
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  VERA
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600103&extension=ts&play_token=2vHSrb7edg
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  WARRIOR
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600102&extension=ts&play_token=oIw4VRt0QL
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CRIME" ,  WHITE COLLAR
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600101&extension=ts&play_token=CxRApTkT7K
+
+
+##############################################
+##############################################
+##############   DISNEY    ##################
+#############################################
+##############################################
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" , A THOUSAND BLOWS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835430&extension=ts&play_token=PO7QNRBJP1
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  AGATHA ALL ALONG ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835431&extension=ts&play_token=1cYchSsgAW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  AHSOKA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835432&extension=ts&play_token=JMdNSY6Fw3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  AMERICAN BORN CHINESE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835433&extension=ts&play_token=vHyGsVEt6B
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  ANDOR ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835434&extension=ts&play_token=s5MGnjIXVO
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  BAYMAX ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835435&extension=ts&play_token=bnD6RW8Dm0
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  BULLET BULLET ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835436&extension=ts&play_token=HM6K63eikS
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  CARS ON THE ROAD ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835437&extension=ts&play_token=86mm16Uc9q
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  CROSSOVER ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835438&extension=ts&play_token=mFxiF4pmzH
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  CULPRITS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835439&extension=ts&play_token=cn7GMu4kza
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  DAREDEVIL BORN AGAIN ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835440&extension=ts&play_token=uKJnTKWtYy
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  EYES OF WAKANDA ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835441&extension=ts&play_token=7LeZf6J3ln
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  GOOSEBUMPS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835442&extension=ts&play_token=JkX8rGwcRo
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  HAWKEYE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835443&extension=ts&play_token=BjhWSIJeRz
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  HYPER KNIFE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835444&extension=ts&play_token=Y89BxFbtE1
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  ICE AGE SCRAT TALES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835445&extension=ts&play_token=emuiVENxK1
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  IRONHEART ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835446&extension=ts&play_token=QCy3k6yDCK
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  IWAJU ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835447&extension=ts&play_token=SnAQvyOAIP
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  LOKI ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835448&extension=ts&play_token=11sblzv0uN
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  MARVEL STUDIOS LEGENDS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835449&extension=ts&play_token=cwCvB1OBOJ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  MARVEL ZOMBIES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835450&extension=ts&play_token=hW3r27SIjZ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  MONSTERS AT WORK ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835451&extension=ts&play_token=pleMTOqP4E
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  MOON KNIGHT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835452&extension=ts&play_token=X5y0K9kbPz
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  MS MARVEL ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835453&extension=ts&play_token=zisAqgKr42
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  NATIONAL TREASURE EDGE OF HISTORY ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835454&extension=ts&play_token=q0Sg4KdWMt
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  OBI-WAN KENOBI ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835455&extension=ts&play_token=LixnArPyRH
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  PERCY JACKSON AND THE OLYMPIANS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835456&extension=ts&play_token=2oVQXi8w9s
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  RENEGADE NELL ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835457&extension=ts&play_token=gJUzIH1LcY
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  RIVALS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835458&extension=ts&play_token=hOLpTHNtnf
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  SECRET INVASION ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835459&extension=ts&play_token=iBaK1mHLrZ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  SHARDLAKE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835460&extension=ts&play_token=oRybJlNycF
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  SHE-HULK ATTORNEY AT LAW ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835461&extension=ts&play_token=SYgJHwRllC
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  STAR WARS SKELETON CREW ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835462&extension=ts&play_token=hQGMbicqCM
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  STAR WARS TALES OF THE EMPIRE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835463&extension=ts&play_token=PNCuPaUBrf
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  STAR WARS THE BAD BATCH ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835464&extension=ts&play_token=k8lHwBIxhR
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  STAR WARS THE CLONE WARS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835465&extension=ts&play_token=nc2XltsUdL
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  STAR WARS VISIONS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835466&extension=ts&play_token=WC0h1fNt97
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  STAR WARS YOUNG JEDI ADVENTURES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835467&extension=ts&play_token=A925n9RzV8
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE ACOLYTE ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835468&extension=ts&play_token=gI7EXUwGcD
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE BOOK OF BOBA FETT ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835469&extension=ts&play_token=0itkXKkHLv
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE BRESLAU MURDERS ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835470&extension=ts&play_token=BTCfiWtPxW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE CLEARING ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835471&extension=ts&play_token=ciCKD0eurp
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE FALCON AND THE WINTER SOLDIER ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835472&extension=ts&play_token=qs2RjTyYJh
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE FULL MONTY ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835473&extension=ts&play_token=iN1cz53EnP
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE MANDALORIAN ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835474&extension=ts&play_token=XyYrvXud6y
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  THE SANTA CLAUSES ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835475&extension=ts&play_token=qlfHEvhTkc
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  WANDAVISION ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835476&extension=ts&play_token=NsIqxJtoCP
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  WHAT IF... ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835477&extension=ts&play_token=KmIQ5AyrLY
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  X-MEN 97 ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835478&extension=ts&play_token=hMEcagpDiB
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="24/7 DISNEY+" ,  YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN ᴿᴬᵂ
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1835479&extension=ts&play_token=rFNq5ICoKe
+
+
+
+
+
+
+
+
+
+
+#####################################################
+#####################################################
+###########   ACTION / ADVENTURE   ####################
+#####################################################
+####################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" ,  24
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601042&extension=ts&play_token=4zxlIahoAX
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , AMAZING STORIES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601040&extension=ts&play_token=vle17QbNc6
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , AUSSIE GOLD HUNTERS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601036&extension=ts&play_token=CDUdMGLFpY
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , BATWOMAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601035&extension=ts&play_token=WIkYR8H92e
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , BEWARE THE BATMAN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601033&extension=ts&play_token=Yf2OHobeC2
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , CLEANERS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601029&extension=ts&play_token=OHmbIad5hk
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , COBRA KAI
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601028&extension=ts&play_token=Ll4l3hQhQE
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DANIEL BOONE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601022&extension=ts&play_token=1FG40PcxK5
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DARK ANGEL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601021&extension=ts&play_token=2ycpFMAS1j
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DARK ANGEL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601020&extension=ts&play_token=YVrULVq9tD
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DARKWING DUCK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601019&extension=ts&play_token=0CrCPgIno8
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DARKWING DUCK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601018&extension=ts&play_token=EAS2Bw2xbg
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DC'S LEGENDS OF TOMORROW
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601017&extension=ts&play_token=1FarufNFVr
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , DOCTOR WHO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601014&extension=ts&play_token=eYP8R16jBW
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , FANBOY AND CHUM CHUM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601010&extension=ts&play_token=3GWI9Qo80t
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , FARSCAPE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601009&extension=ts&play_token=F3Hy4jIsOE
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , FEAR THE WALKING DEAD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601008&extension=ts&play_token=rypCqXbvZf
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , FEAR THE WALKING DEAD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601007&extension=ts&play_token=HpiioUfhWH
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , HANNA
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601006&extension=ts&play_token=tTpqGCO3KD
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , HELL ON WHEELS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601004&extension=ts&play_token=gAJKI2n89l
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , HERCULES: THE LEGENDARY JOURNEYS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1601003&extension=ts&play_token=M8ALzY994P
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , JACK OF ALL TRADES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600998&extension=ts&play_token=K8ox8OTpnL
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , JACKIE CHAN ADVENTURES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600997&extension=ts&play_token=hMA1RFRADX
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , JERICHO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600996&extension=ts&play_token=UGY1votfUG
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , KIM POSSIBLE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600991&extension=ts&play_token=gYD1XoFwSY
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , KNIGHTFALL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600990&extension=ts&play_token=xmc4HaYPxA
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , KRYPTON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600989&extension=ts&play_token=u8LLyCqRp4
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , LEGO NEXO KNIGHTS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600986&extension=ts&play_token=A9g9EvgHnj
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , LETHAL WEAPON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600985&extension=ts&play_token=hQZgxribLT
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , LOST
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600984&extension=ts&play_token=yTAtzmI4MC
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , MARVEL'S THE PUNISHER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600981&extension=ts&play_token=4wgh81OxB4
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , MERLIN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600980&extension=ts&play_token=xihIdOr9o6
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , MISFITS OF SCIENCE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600979&extension=ts&play_token=OdXnXtR4xd
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , NCIS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600978&extension=ts&play_token=XOtOpseufM
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , NCIS: LOS ANGELES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600977&extension=ts&play_token=eh8IF9MMIC
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , NCIS: NEW ORLEANS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600976&extension=ts&play_token=NOjDomb4X4
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , PRISON BREAK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600972&extension=ts&play_token=M073yYTgGB
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , QUANTUM LEAP
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600971&extension=ts&play_token=KRawx5gJ7N
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , RIVER MONSTERS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600969&extension=ts&play_token=BXQfzy8bL3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SAMURAI JACK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600966&extension=ts&play_token=i5wruQySN5
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SANCTUARY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600965&extension=ts&play_token=mmi16Xw4TC
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SCARECROW AND MRS. KING
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600964&extension=ts&play_token=mcJP2Qn9si
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SCORPION
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600963&extension=ts&play_token=p5M3zorxms
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SEAL TEAM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600962&extension=ts&play_token=Yt55yrq5WH
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SINBAD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600961&extension=ts&play_token=Q40AXj8l9h
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SLIDERS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600960&extension=ts&play_token=Ha31otcFou
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SMALLVILLE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600959&extension=ts&play_token=1DarMZ4jPw
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , SONIC BOOM
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600958&extension=ts&play_token=wYBStLBpUT
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STAR TREK: DEEP SPACE NINE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600957&extension=ts&play_token=NSrsbJuAw9
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STAR TREK: ENTERPRISE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600956&extension=ts&play_token=4VNmK8TW9D
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STAR WARS REBELS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600955&extension=ts&play_token=yPQuuuW4Ry
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STAR WARS: THE CLONE WARS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600954&extension=ts&play_token=tv8UTbHxCO
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STARGATE ATLANTIS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600953&extension=ts&play_token=z4gyUFvAce
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STARGATE SG-1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600952&extension=ts&play_token=ujIvDzG0ie
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , STARGIRL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600951&extension=ts&play_token=jhpI8KK38D
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , TAKEN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600948&extension=ts&play_token=0Ja7bBBtSG
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , TEENAGE BOUNTY HUNTERS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600947&extension=ts&play_token=agWRFIkn36
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , TEXAS RANGER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600925&extension=ts&play_token=uOj0euLqV4
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , THE LEGEND OF BRUCE LEE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600941&extension=ts&play_token=79P3ndXKfT
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , THE WILD WILD WEST
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600936&extension=ts&play_token=pVd3U2Csd3
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , VIKINGS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600929&extension=ts&play_token=OPSVy7jtD4
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , WICKED TUNA
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600928&extension=ts&play_token=axGBNObqse
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , WYNONNA EARP
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600927&extension=ts&play_token=h3vOrTuckG
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 ACTION/ADVENTURE" , YOUNG JUSTICE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1600926&extension=ts&play_token=2quWXaYWyJ
 
 
 
