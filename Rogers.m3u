@@ -1684,14 +1684,23 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717711&ex
 #EXTINF:-1 tvg-id="Discovery.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?13591" group-title="DOCUMENTARY" , UK:  DISCOVERY HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717720&extension=ts&play_token=YaMlIagANW
 
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"   tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCUMENTARY", USA History Channel SD
+https://tvpass.org/live/HistoryEast/hd
+
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: HISTORY 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162378&extension=ts&play_token=ybNDb27Fu1
+
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366" group-title="DOCUMENTARY" ,  UK: HISTORY HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717707&extension=ts&play_token=xMlb2EdxXg
+
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: HISTORY 2 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162379&extension=ts&play_token=mpLgyCBpmn
+
 #EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338" group-title="DOCUMENTARY" , UK:  HISTORY 2 HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717706&extension=ts&play_token=iXluhBkFpo
 
 #EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?7924" group-title="DOCUMENTARY" ,  UK: HISTORY 2 HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717717&extension=ts&play_token=iXMDhC2mn6
-
-#EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366" group-title="DOCUMENTARY" ,  UK: HISTORY HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717707&extension=ts&play_token=xMlb2EdxXg
 
 #EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?77583" group-title="DOCUMENTARY" ,  UK: HISTORY HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717718&extension=ts&play_token=fZ0WWM1PhO
@@ -1744,12 +1753,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402152&ex
 #EXTINF:-1 tvg-id="Disc.Turbo.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY TURBO ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162392&extension=ts&play_token=ZjtqbECr2n
 
-#EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: HISTORY 2 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162379&extension=ts&play_token=mpLgyCBpmn
-
-#EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: HISTORY 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162378&extension=ts&play_token=ybNDb27Fu1
-
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="DOCUMENTARY" ,  UK: INVESTIGATION DISCOVERY +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402153&extension=ts&play_token=gymH52O8un
 
@@ -1764,11 +1767,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162384&ex
 
 #EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" group-title="DOCUMENTARY" ,  UK:: NATIONAL GEOGRAPHIC 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162380&extension=ts&play_token=PSRzmDiDrp
-
-
-
-
-
 
 
 ###################################################
@@ -7084,329 +7082,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="US Discovery Family " tvg-logo="https://static.wixstatic.com/media/6048cf_127e9d6a0435490fa31cf275b40138ab~mv2.png/v1/fill/w_360,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/discoveryd.png" group-title="KIDS",Discovery Family 
 http://xxip25.top:8080/s5pPNV/514479/57347
 
-
-############################################
-#############################################
-##########      DOCUMENTARY     ##############
-##############################################
-############################################3
-
-#EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-uk.png?raw=true" group-title="DOCO",Sky History UK
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215971
-
-#EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-history-2-uk.png?raw=true" group-title="DOCO",Sky History 2 UK
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/215957
-
-#EXTINF:-1 tvg-id="Sky.Crime.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-crime-uk.png?raw=true" group-title="DOCO",Sky Crime UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47826
-
-#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk"  UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-documentaries-uk.png?raw=true" group-title="DOCO",Sky Documentaries UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47827
-
-#EXTINF:-1 tvg-id="Sky.Nature.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-nature-uk.png?raw=true" group-title="DOCO",Sky Nature UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47830
-
-#EXTINF:-1 tvg-id="QUEST.HD.uk"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/quest-uk.png?raw=true" group-title="DOCO",QUEST UK
-http://kstv.us:8080/4VUyfZBQzk/95104974615/47804
-
-
-
-#############   HISTORY   ###############
-
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/330px-History_%282021%29.svg.png" group-title="DOCO",History Channel
-http://mytvstream.net:8080/live/30550113/30550113/15017.m3u8
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel 1
- http://xxip25.top:8080/s5pPNV/514479/47302
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel 2
-http://xxip25.top:8080/s5pPNV/514479/57272
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"   tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel SD
-https://tvpass.org/live/HistoryEast/hd
-
-#EXTINF:-1  tvg-id="mjh-h2-fast" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="DOCO" , H2 HD
-https://i.mjh.nz/.r/h2-fast.m3u8
-
-#EXTINF:-1 tvg-id="HLN HD.us" tvg-name="CA: HLN" tvg-logo="https://static.wixstatic.com/media/6048cf_af148ef549ac40dda68afc176adecea3~mv2.jpg/v1/fill/w_392,h_154,al_c,lg_1,q_80,enc_avif,quality_auto/hln%201).jpg" group-title="DOCO", HLN HD
-http://xxip25.top:8080/s5pPNV/514479/57441
-
-
-#################    NAT GEO     #################
-
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="DOCO",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-
-
-#EXTINF:-1 tvg-id="national-geographic-us-eastern"  group-title="DOCO", National Geographic SD
-https://tvpass.org/live/NationalGeographicEast/sd
-
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA National Geographic Wild " tvg-logo="https://static.wixstatic.com/media/6048cf_2e07797c74784f5698e4a1311cc8b4e6~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/natwild.png" group-title="DOCO", National Geographic Wild HD
-http://xxip25.top:8080/s5pPNV/514479/57280
-
-
-#EXTINF:-1  tvg-id="national-geographic-wild" tvg-name="National Geographic Wild",  tvg-logo="https://static.wixstatic.com/media/6048cf_2e07797c74784f5698e4a1311cc8b4e6~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/natwild.png"    group-title="DOCO", National Geographic Wild SD
-https://tvpass.org/live/NationalGeographicWildEast/hd
-
-
-##############   ANIMAL PLANET    ##################
-
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="DOCO",Animal Planet
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-
-
-#EXTINF:-1  tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East",  tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png"    group-title="DOCO",Animal Planet SD
-https://tvpass.org/live/AnimalPlanetEast/hd
-
-
-################    DISCOVERY    ####################
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCO",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Discovery HD (US)  Pacific.us",  tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel 
-http://xxip25.top:8080/s5pPNV/514479/57252
-
-#EXTINF:-1 tvg-id="Discovery HD (US)  Pacific.us" tvg-name="CA Discovery Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel  HD
-http://xxip25.top:8080/s5pPNV/514479/57252
-
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed"  tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="DOCO",Discovery Channel
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-
-#EXTINF:-1  tvg-id="discovery-channel-us-eastern-feed" , tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel SD
-https://tvpass.org/live/DiscoveryChannelEast/hd
-
-#EXTINF:-1 tvg-id="Discovery HD (US)  Eastern.us"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="DOCO", Discovery Science HD
-http://mytvstream.net:8080/live/30550113/30550113/20866.m3u8
-
-#EXTINF:-1 tvg-chno="40" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="DOCO",Discovery Family Channel
-http://mytvstream.net:8080/live/30550113/30550113/57347.m3u8
-
-#EXTINF:-1  tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel", tvg-logo="https://static.wixstatic.com/media/6048cf_bbaddf22850e4b2885e28a4a0f9c5836~mv2.png/v1/fill/w_418,h_134,al_c,lg_1,q_85,enc_avif,quality_auto/discoveryfamily.png"   group-title="DOCO",Discovery Family Channel SD
-https://tvpass.org/live/DiscoveryFamily/hd
-
-#EXTINF:-1 tvg-chno="41" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="DOCO",Discovery Life HD
-http://mytvstream.net:8080/live/30550113/30550113/9861.m3u8
-
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel",  tvg-logo="https://static.wixstatic.com/media/6048cf_1b750d7537e04a19876fe9f1c7439ecd~mv2.png/v1/fill/w_254,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/discoverylifed.png"   group-title="DOCO",Discovery Life Channel SD
-https://tvpass.org/live/DiscoveryLife/hd
-
-#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA documentary HD (B)" tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",documentary HD
-http://xxip25.top:8080/s5pPNV/514479/148610
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/500px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCO",Investigation Discovery
-http://1tv41.icu:8080/live/Y06DNq/295733/46810.rtmp
-
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern",   tvg-logo="https://static.wixstatic.com/media/6048cf_b714d2c187524b349d7bf5f611528bab~mv2.jpg/v1/fill/w_254,h_266,al_c,lg_1,q_80,enc_avif,quality_auto/investigation1).jpg", group-title="DOCO",Investigation Discovery
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
-
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DOCO",Crime & Investigation
-http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
-
-
-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="DOCO",Smithsonian Channel
-http://hardcoremedia.xyz/ymgiaxkw/5Hr5ZQuVfU/129953
-
-
-#EXTINF:-1 tvg-id="Smithsonian.Channel.ca2"  tvg-logo="https://static.wixstatic.com/media/6048cf_8348870b90e44cb29fe9e7ef39eae19b~mv2.jpg/v1/fill/w_276,h_206,al_c,lg_1,q_80,enc_avif,quality_auto/smith).jpg" group-title="DOCO",Smithsonian Channel 
-http://xxip25.top:8080/s5pPNV/514479/47369
-
-#EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="CA | BBC EARTH" tvg-logo="https://imageresizer.static9.net.au/Rc3CC94BjHA9E9BOLrSI22N81PI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648311%2Fgroup-61770.png" group-title="DOCO" , BBC Earth
-http://xxip25.top:8080/s5pPNV/514479/99621
-
-#EXTINF:-1 channel-id="mjh-bbc-earth-fast" tvg-id="mjh-bbc-earth-fast" tvg-logo="https://imageresizer.static9.net.au/Rc3CC94BjHA9E9BOLrSI22N81PI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648311%2Fgroup-61770.png" group-title="DOCO" , BBC Earth
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/bbc-earth-fast.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Science Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/500px-Science_Channel_2016.png" group-title="DOCO",Science Channel
-http://epicboss.live/bjune@teksavvy.com/5193594414/134148
-
-
-
-
-
-#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/500px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="DOCO",Oxygen True Crime
-http://89.105.221.127/Oxygen/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hln-us.png?raw=true" group-title="DOCO",HLN
-http://23.237.104.106:8080/USA_HLN/index.m3u8
-
-#EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="REELZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/500px-Reelz.svg.png" group-title="DOCO",REELZ
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
-
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Court_TV_2019.svg/500px-Court_TV_2019.svg.png" group-title="DOCO",Court TV
-https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/ts-us-w2-n2/playlist/amg01438-ewscrippscompan-courttv-tablo/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2c95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e4484b962711e3805fc8804dea9dd55ac8429b27a317998ff18dd2178182c432f801e3643b69480ef132919cb33f9ef1d80011937f2f06355ae8a4e191245ea77433977c62a9c501de00c7885fe12a57e945f0c7e3414de3824738c01880d444830ef5c34ef87b2b4981f6a98bb41d3cb361c489e6d3744648977e6d6ac677d12e2739dfa88544c48b3897b52a8ba0660e309bd16c9589b78faf9d8c49dc0af987ccd86c127132513dd114e2bb7dcb25d84fadcc3828480211fecd1b97d099161b4a7babac12941f12b2decba4da0d30c5295b79e072d65600239d603932b563a9d46c2cba270c842734b40d66d70cafee5e9acdbfca357b8daca013af50bee035858c45c30b1b560db4fe292d206d6dc0e263775d5acb57ebdecfa13a492fdfb7f5bca7773d1432035d1c8181b620c86ea1dbeebe6c35ae77d381bec7ce4ef0ae61894f303a0b/103/1920x1080_5058864/index.m3u8
-
-#EXTINF:-1 tvg-id="99951195" tvg-name="PBS Nature" tvg-logo="https://image.xumo.com/v1/channels/channel/99951195/168x168.png?type=color_onBlack" group-title="DOCO",PBS Nature
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://d2irko5f9gt1c5.cloudfront.net/10008/99951195/hls/playlist.m3u8?ads.xumo_channelId=99951195&ads.csid=xumo_web_PBSNature_ssai&ads._fw_app_bundle=web.xumo.com&ads.ifa_type=&ads.did=9aff75eb-ded8-436d-bec5-b1c03b08f26a&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=&ads.xumo_contentName=PBSNature&ads.xumo_providerName=&ads._fw_content_language=en&ads.assetId=&ads._fw_content_genre=&ads.xumo_providerId=&ads._fw_content_rating=&ads.channelId=99951195&ads.xumo_platform=web&ads.site_id=22453
-
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-65721f23b10e9d22a882bde0" tvg-name="PBS History" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/PBS_History_LG_Channel_Logo_800x200.png" group-title="DOCO",PBS History
-https://amg02333-pbs-amg02333c3-lg-gb-1988.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02333-pbsdistributionfast-pbshistory-lggb/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d8eb3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a51c1a9d2d16b38441d4d549b8d3c95a9f15876ba01dc9c4ed8382138586c763ab54b06751025c17f5817d80875fa3d49e653c95755a287439dd82a3ce711eb3696770ddc291fb0f9312ca9a6b956125bc058c4e8042fe01d83293c07c87888ffe667e1888e874560284d8faf8915232b975b5abefdc011bf3932f5161e8508257415091f9d85a83ca0398c44aefd3523317eeb260a6c7c0e988b18959d229cbd386ff5727754f2936bb07d2f00bda2dce36a1de614736297f84aa689ef2b33631665cc8875ac40169d1b1edb8f82a0bf85d4120820bd85f1622cf3b7972f13fe0e85706e01d29aa0013cf6a0cbd18bdd242f4a3c8ab023ea3d7c447f26ee4b078bd9c6f9249196f2b90d71372646758edb41e675d78c756aad7c5ef781d13e9fbc18ca7395d3c1d396131d19f8d1c9a8ad3671913d75a25657d1465fb6ebd52fb257f290dec21fa88342efe6c4a2ce2b471545c6d82d1a184f5baa02e8e56f5eec20d160b7c5ee7486f4d6fd7a5c358ed28457f7758f2630e2986266a72d5bbe8c8bcbd348ff60aab3c715a67c0e61e420c466a730fe9ff02ba65c6b62b90b8ef63f8d6bd3778df4cc967119ac39279f99fe7ad2b34a58b6a4324fdbc26c16063c013c4398bdd7ecbb55b126e4c2a26f9a970cf6d86fcb5e918bf029972590c801fba98f0fdd0655d95f62056082f763c42080a4660b9dec62a1672e9ab34ef47e39939c3286f051662e9b12964a3d52d63f6587f64b6eede98bdd80a06cb6ded07a70a6f9d623e11d1fe11dca291cac7dd2e3e6ed8b2b802bab19897c9c4d92f71051e5ff1ac647447e819c6a935d2843252d2d3c88fb56f9366ac31be92bf2de131afcfb902dce0f790c05332687374d9fedad530fe90371ff811b44c290bd28bf4e476efd5ae026df85192f56d00951f4e6df698cf2bfa0e8dd41517d5870321bdf5995c82854429fb66ca153c74e5c8852e08dbc21b965ee9ed9d6d62ad78d360da3c1bc152f595ab612fc0b1161258ee0a7dec3de49a9f34d115df11a3de8e4d8c3729a8d86faf21c57e9dbaf88bc3bc6d3287028b401cb770acc350a898dd8f99d1dea1ff3169abf64343bc5fa7439422cdd081ec37b75b3aea419f0e67aa9ff1ffcbace8848fe75e0b48a915ce369f3fdae7b98179033d7fdc24325e67a94e94455a05d48c7ee2936040ca9ef10ac803146207173bc050febf1d5a4a2e8ca92cc9882432273c7eb88335b615b55702cb0224ea543c446d6838258da48d23ac4e8d278ea50c3fb2fff0c840c0a330d9908394df6818d25e233425babf9d9edd4475b1d4a5a27550c38c41b0037e2d2492d0c01f6d22a4ceb9530feb347f40e320f925103e46f269b0a3ab57/86/1920x1080_6046040/index.m3u8
-
-#EXTINF:-1 tvg-id="697140a85d851f5e69414688-66469eecdad45e1759c1c06b" tvg-name="PBS Science" tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png" group-title="DOCO",PBS Science
-https://amg02333-pbs-amg02333c10-lg-gb-3238.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg02333-pbsdistributionfast-pbsscience-lggb/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d8eb3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a51f1a9c2c10b68446d4d549b8d3c95a9f15876bf84694c3eddad51280d2986ba85eb76050025817f2817d80875eb9cf947d2b8503432c776ec58ca6d07a0ebf7a191d9291cabb76b112de9933847224b20f963deb5ae7508b3997de78859f88f66d6f04febc310c26a4f6ee8ef43b3ca975feaee5af1416fccd305674f437a448473994ee85028dc60285bf3980c6057752fba76cbeaa81aad595b010df4fa5c6f08b73454a7316018953b19f63cf5bad12c6f534056c7f7b8eb57bf7a3f76a0d383fece65fd00055acdaf9e5b56a00ff4126009a0abe5a017f82326f77974a93ff074aaa0d37df4a57965931930ce9ab3ce7aecde40522c7b0ad2ec45adc8a3ae0df34884e056458f098435e415f33d1fe761e2476d140f1c1c69307636ed7d6fdceff600c280b32673ea7dfbd31f1e0c12d0e58c556306977151a970fd31bb06a243b0aec28fa8f2c4ba8270a08dbfd7b37366d92dbff9586c4cd41a17ed7bd89535d006d428f1420124ff789ac75d1177c5b5e60da4c0e2cbc03490cee90dfec9a8563c19861a64a127e0dfed432772071565c27b4b44dfb63b8e177de9ace4f82e68b1337e256c63a39b8f1e136b987efc64b1cdeae520f6e94d633dc6328b578be46b3f655ee99762323087978e7b30e8d35dede9ed465962db93d64148f4397b1d78e8c1b3c8b904e207d0d50017651732508cab7bf0f3b5fc98a0ec578d9c271941821595746da914e598ffe796ef55f195b8b8fe5a888f75964a006f571da2e04a2471f5c89a65ed1a496c3c8ba352f6ab2b7af5ff5a09891c2d7c7230c67065aa0e06f6548f607dda93abbd37710ee8d98abd87b9971ee30b280c4408e509bea8c3e91b2a8d0df5b3263002796a7f6fe0795b51a37dd11bf760428a1d09f9e0efadeaf4971ec5cf49c176bdc521437f282dd25f71f81d61c17d5870321bdf5995c82854429fb66ca153c74e5c8852e08dbc21b965ee9ed9d6d62ad78d360da3c1bc152f595ab612fc0b1161258ee0a7dec3de49a9f34d115df11a3de8e4d8c3729a8d86faf21c57e9dbaf88bc3bc6d3287028b401cb770acc350a898dd8f99d1dea1ff3169abf64343bc5fa7439422cdd081ec37b75b3aea419f0e67aa9ff1ffcbace8848fe75e0b48a915ce369f3fdae7b98179033d7fdc24325e67a94e94455a05d48c7ee2936040ca9ef10ac803146207173bc050febf1d5a4a2e8ca92cc9882432273c7eb88335b615b55702cb0224ea543c446d6838258da48d23ac4e8d278ea50c3fb2fff0c840c0a330d9908394df6818d25e233425babf9d9edd4475b1d4a5a27550c38c41b0037e2d2492d0c0166f22a49fb9530feb3c46ebcf60cb9793b0e0f4f698f47bcc/14/1920x1080_6046040/index.m3u8
-
-#EXTINF:-1 tvg-id="99951387" tvg-name="CNN Originals" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7FB77F4A-D412-4C48-8F49-0D6D6D8F60FA/3-1x1.png" group-title="DOCO",CNN Originals
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=&ads._fw_did=f6d638d0-af21-48b8-b64c-c266b2fd55b9&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951387&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1 tvg-id="99951392" tvg-name="How To" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0533EDE3-0FB3-444E-8AEB-D7307D4EB5FA/3-1x1.png" group-title="DOCO",How To
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://dbrb49pjoymg4.cloudfront.net/10001/99951392/hls/playlist.m3u8?ads.xumo_channelId=99951392&ads._fw_ifa_type=&ads._fw_did=984c6324-a982-40d2-ab59-2494a84bae6f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDHowTo&ads.csid=xumo_web_WBDHowTo_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4200&ads.xumo_contentName=WBDHowTo&ads.xumo_providerId=4200&ads.xumo_providerName=WBDHowTo&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951392&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-
-#EXTINF:-1 tvg-id="LN_0D984558-B866-4F2E-A424-3CEE79AC0A67" tvg-name="MagellanTV Wildest" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0D984558-B866-4F2E-A424-3CEE79AC0A67/3-1x1.png" group-title="DOCO",MagellanTV Wildest
-https://s8host3.localnow.api.cms.amdvids.com/v1/manifest/c189661feba961c19bc5fb60b57879ee9b84548a/config10/fdc864bc-5776-4756-90d6-b0902043c249/0.m3u8
-
-#EXTINF:-1 tvg-id="ebb810a8868251f18ac64056834c749a" tvg-name="FilmRise True Crime" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ebb810a8868251f18ac64056834c749a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001493945_RokuChannel_FilmRiseTrueCrime_HUD_Logo_260x147.png" group-title="DOCO",FilmRise True Crime
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https%3A%2F%2Fjmp2.uk%2Frok-ebb810a8868251f18ac64056834c749a.m3u8
-
-#EXTINF:-1 tvg-id="62945e18ab825bfd8b4995d9bd14917b" tvg-name="FilmRise Forensic Files" tvg-logo="https://canvas-lb.tubitv.com/opts/zLoOXSCJ53buRQ==/cede5a8f-240c-4790-bd37-e1e51583cd0c/CHgQeDoFMS4xLjlAAQ==" group-title="DOCO",FilmRise Forensic Files
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https%3A%2F%2Fjmp2.uk%2Frok-62945e18ab825bfd8b4995d9bd14917b.m3u8
-
-#EXTINF:-1 tvg-id="16722bc43ef05012afa2297def830266" tvg-name="FilmRise Mysteries" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/16722bc43ef05012afa2297def830266/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1766001466359_RokuChannel_FilmRiseMysteries_HUD_Logo_260x147.png" group-title="DOCO",FilmRise Mysteries
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https%3A%2F%2Fjmp2.uk%2Frok-16722bc43ef05012afa2297def830266.m3u8
-
-#EXTINF:-1 tvg-id="BBC.Earth.ca2" tvg-name="BBC Earth UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-title="DOCO",BBC Earth UK
-https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
-
-#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd" tvg-name="BBC Travel UK" tvg-logo="https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="DOCO",BBC Travel UK
-https://fast-tv-proxy.sharewithyou.dpdns.org/?play=https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd/?X-Plex-Token=zPQn-mNFH5sitpJ_6wKf
-
-
-
-
-##########    SPACE     ###########################
-
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1684/lg/c19d5e/LG-Logo-PNG-100x100_v2.png"group-title="DOCO",AIR & SPACE
-https://72bef70a5699464f8d36a31f9234825c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_AIRandSPACE/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"group-title="DOCO",Pluto TV Space
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png"group-title="DOCO",Space Live
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
-
-
-
-############################################################
-
-#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png" group-title="DOCO" ,5 Minutes Craft
-https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTINF:-1 tvg-id="Wild TV HD.us" tvg-logo="https://static.wixstatic.com/media/6048cf_75e75f90fd7e4a98a303c419fdb7aaec~mv2.png/v1/fill/w_292,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/wild.png" group-title="DOCO",WILD TV 
-http://xxip25.top:8080/s5pPNV/514479/100456
-
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature HD " tvg-logo="" group-title="DOCO",Love Nature HD 
-http://xxip25.top:8080/s5pPNV/514479/47324
-
-#EXTINF:-1  tvg-id="hln" tvg-name="HLN", tvg-logo="https://static.wixstatic.com/media/6048cf_9e822e1a17ad41468699afa780916467~mv2.png/v1/fill/w_264,h_266,al_c,lg_1,q_85,enc_avif,quality_auto/hln1.png" group-title="DOCO",HLN
-https://tvpass.org/live/HLN/hd
-
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US",   tvg-logo="https://static.wixstatic.com/media/6048cf_27fed807427c41feaea7a174e49a21f6~mv2.png/v1/fill/w_392,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/outdoor.png"    group-title="DOCO",Outdoor Channel
-https://tvpass.org/live/OutdoorChannel/hd
-
-#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="DOCO"  tvg-logo="https://static.wixstatic.com/media/6048cf_06ac66e451bd449c839ed2f7a55955dd~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/oxygen.png"    ,Oxygen Eastern Feed
-https://tvpass.org/live/OxygenEast/sd
-
-#EXTINF:-1  tvg-id="science" tvg-name="Science",  tvg-logo="https://static.wixstatic.com/media/6048cf_4a395edba1a74358bf7f9f42bb56f3d4~mv2.png/v1/fill/w_392,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/scienced.png"    group-title="DOCO",Science
-https://tvpass.org/live/Science/hd
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/blueant/nature_time_text_white_transparent_400x200.png"  group-title="DOCO",Nature Time
-https://amg01576-amg01576c3-lg-gb-10769.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaenglish-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.coppa=[COPPA]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/RWILD/RealWild_Logo.png"group-title="DOCO",Real Wild
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984001/600x200.png?type=white_cropped" group-title="DOCO",Go Wild
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.xumo_streamId=99984001&ads.channelId=99984001&ads.ad_tag_id=16821&ads.csid=lgchannels_uk_indigeniusgowild_ssai&ads.channelName=indigeniusgowild_uk&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.xumo_providerName=indigeniusgowild&ads.xumo_providerId=1103&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=bbfc-12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 tvg-logo="https://d2rx6itp6voihr.cloudfront.net/WE_LOGO_LIGHT_LGPlus.png"group-title="DOCO",wildearth
-https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1299/lg/d458b8/LG-Logo-PNG-100x100_v3.png"group-title="DOCO",Adventure Earth
-https://1d7d59fa677247f28aecb46346c0caeb.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_AdventureEarth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Wonder.png"group-title="DOCO",Wonder
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250925/channel_600x200_0e17139c-4c34-4d72-b7ee-3bd00b501e88.png"group-title="DOCO",WaterBear
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984038/600x200.png?type=white_cropped"group-title="DOCO",EarthDay 365
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984038&ads.xumo_streamId=99984038&ads.channelId=99984038&ads.ad_tag_id=120197&ads.csid=lgchannels_uk_earthday365_ssai&ads.channelName=earthday365_uk&ads.xumo_contentName=StingrayEarthDay365&ads.xumo_contentId=4241&ads.xumo_providerName=StingrayEarthDay365&ads.xumo_providerId=4241&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"group-title="DOCO",Pluto TV Animals
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1501/lg/3fe535/LG-Logo-PNG-100x100_v2.png"group-title="DOCO",Autentic History
-https://b964b70ba343416aab54f1d990e55d04.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-gb_AutenticHistory/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/PBS_History_LG_Channel_Logo_800x200.png"group-title="DOCO",PBS History
-https://amg02333-pbs-amg02333c3-lg-gb-1988.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png" group-title="DOCO",PBS Science
-https://amg02333-pbs-amg02333c10-lg-gb-3238.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsscience-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_25442dfc33494b5291ca59aedeb2973b~mv2.png/v1/fill/w_254,h_342,al_c,lg_1,q_85,enc_avif,quality_auto/reelzd.png" group-title="DOCO",ReelzChannel
-https://tvpass.org/live/Reelz/hd
-
-#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="DOCO" , Drive
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/drive-fast.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/outdoor/TypeA_White_400x200_Transparent_logo.png"group-title="DOCO" ,OutDoorTV
-https://amg00718-amg00718c1-lg-au-9364.playouts.now.amagi.tv/playlist/amg00718-outdoorchannelfast-outdoor-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-Logo-PNG-100x100_v3.png" group-title="DOCO" ,The Pet Collective
-https://ec8e82aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfVGhlUGV0Q29sbGVjdGl2ZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/PETCLUB_TV_400x200.png",492 Pet Club TV
-https://amg01076-lightning-amg01076c10-lg-au-7796.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/RWILD/RealWild_Logo.png" group-title="DOCO" ,Real Wild
-https://amg00426-lds-amg00426c8-lg-au-2372.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-realwildcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTINF:-1 tvg-logo="https://dbbafpr18dnj5.cloudfront.net/Images/S3/AMG01823C1/ETTV_Logo_White.png" group-title="DOCO" ,earthtouch
-https://amg01823-earthtouch-amg01823c1-lg-au-612.playouts.now.amagi.tv/playlist/amg01823-earthtouch-earthtouch-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250617/channel_600x200_e79e6ffa-7e5d-42ce-8fdf-2b057d601abc.png" group-title="DOCO" ,Waterbear
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1299/lg/d458b8/LG-Logo-PNG-100x100_v3.png" group-title="DOCO" ,Adventure Earth
-https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/LG_FTM_LogoWhite_200x400px.png",498 Terra Mater WILD
-https://amg01775-amg01775c1-amgplt0049.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0049/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/DOCSVILLE400x200.png" group-title="DOCO" ,Docsville
-https://amg01076-lightning-amg01076c9-lg-au-7786.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/lightning/WildStuff/Wild_Stuff_LG_Artworks/Wild%20Stuff_400x200.png" group-title="DOCO" ,Wild Stuff
-https://amg01076-lightning-amg01076c8-lg-au-7792.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/TIMLN/HistoryHit_Logo.png" group-title="DOCO" ,History Hit
-https://amg00426-lds-amg00426c5-lg-au-2370.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-historyhitcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/TIMLN/HistoryHit_Logo.png"group-title="DOCO",History Hit
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/PBS_History_LG_Channel_Logo_800x200.png" group-title="DOCO" ,PBS History
-https://amg02333-pbs-amg02333c3-lg-au-4538.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png" group-title="DOCO" ,PBS Science
-https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsscience-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1635-LG-Logo-PNG-100x100_v4.png" group-title="DOCO" ,Modern Marvels
-https://9763a5ac.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/Logo-Inwonder.png" group-title="DOCO" ,InWonder HD
-https://amg00861-terncloud-amg00861c9-lg-au-3098.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderhd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Wonder.png" group-title="DOCO" ,Wonder
-https://amg00426-lds-amg00426c6-lg-au-2369.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-wonder-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 
 ######################################
