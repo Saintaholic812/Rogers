@@ -7,6 +7,9 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/canada5.xml.gz"
+
 
 ##############################
 ##############################
@@ -571,11 +574,12 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?33312" group-title="ENTERTAINMENT", US: A&E HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325830&extension=ts&play_token=9O4dsQRo99
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="ENTERTAINMENT",GO: A&E
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568884&extension=ts&play_token=alziW2mtts
+
+
 #EXTINF:-1 tvg-id="ACC.Network.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8230.png?74859" group-title="ENTERTAINMENT", US: ACC NETWORK HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325834&extension=ts&play_token=QIwaRK2uAs
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13978.png?35931" group-title="ENTERTAINMENT", US: AFV FAMILY
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1123570&extension=ts&play_token=lHnTpooZE0
 
 #EXTINF:-1 tvg-id="AMC.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6164.png?84800" group-title="ENTERTAINMENT", US: AMC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325778&extension=ts&play_token=4FlvnjrQ5E
@@ -583,14 +587,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325778&ex
 #EXTINF:-1 tvg-id="AMC+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1114.png?6385" group-title="ENTERTAINMENT", US: AMC PLUS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325934&extension=ts&play_token=iwH5fyKLF8
 
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11036.png?16340" group-title="ENTERTAINMENT", US: AMERICA HEROES HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325828&extension=ts&play_token=eGIlxx9z5g
-
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?14808" group-title="ENTERTAINMENT", US: ANIMAL PLANET HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325780&extension=ts&play_token=lNSUwJcKxA
-
-#EXTINF:-1 tvg-id="Animal.Planet.wEST.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?93518" group-title="ENTERTAINMENT", US: ANIMAL PLANET WEST HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325844&extension=ts&play_token=XwPQc2zSsC
 
 #EXTINF:-1 tvg-id="Antenna.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12454.jpg?13787" group-title="ENTERTAINMENT", US: ANTENNA TV
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325933&extension=ts&play_token=tmJdoDa97m
@@ -604,7 +600,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325913&ex
 #EXTINF:-1 tvg-id="AXS.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1901.jpg?42221" group-title="ENTERTAINMENT", US: AXS TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325843&extension=ts&play_token=jl3NNaBmCk
 
-#EXTINF:-1 tvg-id="AXS.TV.Now.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1901.jpg?42221" group-title="ENTERTAINMENT", US: AXS TV NOW
+#EXTINF:-1 tvg-id="AXS.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1901.jpg?42221" group-title="ENTERTAINMENT", US: AXS TV NOW
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1044446&extension=ts&play_token=a2HJu0BQ61
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/192.png?52355" group-title="ENTERTAINMENT", US: BBC AMERICA HD
@@ -625,37 +621,16 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325848&ex
 #EXTINF:-1 tvg-id="BET.Soul.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?93571" group-title="ENTERTAINMENT", US: BET SOUL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325850&extension=ts&play_token=RWXm7S1kEw
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14407.png?91697" group-title="ENTERTAINMENT", US: BIG BROTHER 1 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1499274&extension=ts&play_token=p9WLIp0ZUY
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14407.png?91697" group-title="ENTERTAINMENT", US: BIG BROTHER 2 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1499275&extension=ts&play_token=2F5Yb0fW6U
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14407.png?91697" group-title="ENTERTAINMENT", US: BIG BROTHER 3 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1499276&extension=ts&play_token=NnM5XXwQ95
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14407.png?91697" group-title="ENTERTAINMENT", US: BIG BROTHER 4 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1499277&extension=ts&play_token=Mezlp1L4Ye
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14407.png?91697" group-title="ENTERTAINMENT", US: BIG BROTHER QUAD VIEW 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1499278&extension=ts&play_token=BR5hIG8l9g
-
 #EXTINF:-1 tvg-id="Blaze.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11264.jpg?88095" group-title="ENTERTAINMENT", US: BLAZE TV
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436664&extension=ts&play_token=yGrjt5H6Uy
 
 #EXTINF:-1   tvg-id="Bounce.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2280.jpg?28409" group-title="ENTERTAINMENT", US: BOUNCE TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325851&extension=ts&play_token=MpCQmh3KoN
 
-#EXTINF:-1 tvg-id="Bounce.XL.TV.us2"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2280.jpg?28409" group-title="ENTERTAINMENT", US: BOUNCE XL
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325938&extension=ts&play_token=Y9qrhyrfSj
-
-#EXTINF:-1 tvg-id="Bravo.East.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?64792" group-title="ENTERTAINMENT", US: BRAVO EAST HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1714382&extension=ts&play_token=X2OQlrMgCM
-
 #EXTINF:-1 tvg-id="Bravo.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?30928" group-title="ENTERTAINMENT", US: BRAVO HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325779&extension=ts&play_token=wjQpZ296j9
 
-#EXTINF:-1 tvg-id="Bravo.West.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?14072" group-title="ENTERTAINMENT", US: BRAVO WEST HD
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?14072" group-title="ENTERTAINMENT", US: BRAVO WEST HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325852&extension=ts&play_token=C8oZYf05MG
 
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8511.jpg?47723" group-title="ENTERTAINMENT", US: BUZZR
@@ -688,9 +663,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325909&ex
 #EXTINF:-1 tvg-id="Comet.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3064.jpg?1960" group-title="ENTERTAINMENT", US: COMET HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325853&extension=ts&play_token=wKpepEZS7N
 
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8272.jpg?22708" group-title="ENTERTAINMENT", US: COOKING CHANNEL HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325825&extension=ts&play_token=aZGR87A0Ur
-
 #EXTINF:-1 tvg-id="Court.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13520.jpg?65798" group-title="ENTERTAINMENT", US: COURT TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325916&extension=ts&play_token=H4XcAkI1Ob
 
@@ -700,32 +672,12 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325912&ex
 #EXTINF:-1 tvg-id="COZI.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8271.jpg?74385" group-title="ENTERTAINMENT", US: COZI
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325824&extension=ts&play_token=QRPLNTUpYA
 
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32238" group-title="ENTERTAINMENT", US: CRIME & INVESTIGATION HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325832&extension=ts&play_token=41uuGqE5PH
 
 #EXTINF:-1 tvg-id="Dabl.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14258.jpg?49744" group-title="ENTERTAINMENT", US: DABL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1465505&extension=ts&play_token=INx0IspFCM
 
 #EXTINF:-1 tvg-id="Daystar.Television.Network.HD.[CHARTER].us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12077.jpg?97025" group-title="ENTERTAINMENT", US: DAYSTAR HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325854&extension=ts&play_token=VbVbzFjklc
-
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="ENTERTAINMENT", US: DISCOVERY EAST HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1453212&extension=ts&play_token=LWreqlpX7S
-
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="ENTERTAINMENT", US: DISCOVERY FAMILY HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325776&extension=ts&play_token=uzq8vMot3F
-
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?82800" group-title="ENTERTAINMENT", US: DISCOVERY HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325775&extension=ts&play_token=rK84ntwj3T
-
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?12232" group-title="ENTERTAINMENT", US: DISCOVERY LIFE HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=326358&extension=ts&play_token=AD54RQqAHN
-
-#EXTINF:-1 tvg-id="Discovery.Science.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" group-title="ENTERTAINMENT", US: DISCOVERY SCIENCE HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325774&extension=ts&play_token=4ax1gI7Jby
-
-#EXTINF:-1 tvg-id="Discovery.West.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="ENTERTAINMENT", US: DISCOVERY WEST HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325855&extension=ts&play_token=DeEgOoKWRB
 
 #EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13320.jpg?53931" group-title="ENTERTAINMENT", US: DIY HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325823&extension=ts&play_token=wQAhtuC0sZ
@@ -739,21 +691,15 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1426446&e
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?14243" group-title="ENTERTAINMENT", US: E! ENTERTAINMENT HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325822&extension=ts&play_token=kd0ryVRumW
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.Pacific.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?63659" group-title="ENTERTAINMENT", US: E! ENTERTAINMENT WEST HD
+#EXTINF:-1 tvg-id="E! Entertainment USA HD  Pacific.us;E! Entertainment USA HD  Pacific.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?63659" group-title="ENTERTAINMENT", US: E! ENTERTAINMENT WEST HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325857&extension=ts&play_token=zj35W49lhf
 
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5999.jpg?16296" group-title="ENTERTAINMENT", US: FASHION ONE ᵁᴴᴰ 3840P
+#EXTINF:-1 tvg-id="Fashion Box HD.us;Fashion Box HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5999.jpg?16296" group-title="ENTERTAINMENT", US: FASHION ONE 3840P
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=436155&extension=ts&play_token=RaZRlnSDLr
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8479.jpg?91876" group-title="ENTERTAINMENT", US: FETV
+#EXTINF:-1 tvg-id="Family.Entertainment.Television.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8479.jpg?91876" group-title="ENTERTAINMENT", US: FETV
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325942&extension=ts&play_token=Wxa9o8envg
-
-#EXTINF:-1 tvg-id="Food.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?98103" group-title="ENTERTAINMENT", US: FOOD NETWORK HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325821&extension=ts&play_token=o7S6VBU8XH
-
-#EXTINF:-1 tvg-id="Food.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?36329" group-title="ENTERTAINMENT", US: FOOD NETWORK WEST HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325859&extension=ts&play_token=VuDKBNUc8T
 
 #EXTINF:-1 tvg-id="FOX.SOUL.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/593.png?26616" group-title="ENTERTAINMENT", US: FOX SOUL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325936&extension=ts&play_token=1PeTBAgxmd
@@ -785,10 +731,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325820&ex
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8476.png?99560" group-title="ENTERTAINMENT", US: Game Show Central
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=698885&extension=ts&play_token=hYoC7Wlbl7
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1962.jpg?20194" group-title="ENTERTAINMENT", US: GAME TV HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325802&extension=ts&play_token=MSEviM9YWu
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7701.png?2212" group-title="ENTERTAINMENT", US: GET TV
+#EXTINF:-1 tvg-id="get.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7701.png?2212" group-title="ENTERTAINMENT", US: GET TV
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325917&extension=ts&play_token=c6bXvUx98d
 
 #EXTINF:-1 tvg-id="Great.American.Adventures.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7724.jpg?88806" group-title="ENTERTAINMENT", US: GREAT AMERICAN COUNTRY 4K
@@ -799,9 +742,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1426448&e
 
 #EXTINF:-1 tvg-id="Grit.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3934.jpg?52653" group-title="ENTERTAINMENT", US: GRIT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325863&extension=ts&play_token=rvlyIeBnK9
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8231.png?87144" group-title="ENTERTAINMENT", US: GSN HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325819&extension=ts&play_token=AattxDxGg5
 
 #EXTINF:-1 tvg-id="Hallmark.Family.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8225.jpg?68352" group-title="ENTERTAINMENT", US: HALLMARK DRAMA HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325835&extension=ts&play_token=bvimMRNFhS
@@ -821,13 +761,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325975&ex
 #EXTINF:-1 tvg-id="HDNet.Movies.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/897.jpg?45827" group-title="ENTERTAINMENT", US: HD NET MOVIES HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325885&extension=ts&play_token=7PYxcpg14B
 
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8293.jpg?69210" group-title="ENTERTAINMENT", US: HEROES & ICONS
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325918&extension=ts&play_token=yw9jl3RTpi
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?52942" group-title="ENTERTAINMENT", US: HGTV HD
+#EXTINF:-1 tvg-id="HGTV USA HD  Eastern.us;HGTV USA HD  Eastern.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?52942" group-title="ENTERTAINMENT", US: HGTV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325791&extension=ts&play_token=cBoruMHvij
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?2756" group-title="ENTERTAINMENT", US: HGTV WEST HD
+#EXTINF:-1 tvg-id="HGTV USA HD  Pacific Feed.us;HGTV USA HD  Pacific Feed.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?2756" group-title="ENTERTAINMENT", US: HGTV WEST HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325901&extension=ts&play_token=RV3OOvwF3Q
 
 #EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?7885" group-title="ENTERTAINMENT", US: HISTORY HD
@@ -836,19 +774,13 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325777&ex
 #EXTINF:-1 tvg-id="HLN.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7862.jpg?27877" group-title="ENTERTAINMENT", US: HLN HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325864&extension=ts&play_token=oNwXVbpsPc
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/622.jpg?59027" group-title="ENTERTAINMENT", US: ID INVESTIGATION DISCOVERY HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325865&extension=ts&play_token=PbwLorGzk0
-
 #EXTINF:-1 tvg-id="IFC.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8212.png?29092" group-title="ENTERTAINMENT", US: IFC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325817&extension=ts&play_token=M04sFssNXH
 
 #EXTINF:-1 tvg-id="IndiePlex.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8220.jpg?56570" group-title="ENTERTAINMENT", US: INDIEPLEX HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325816&extension=ts&play_token=uTcKxdaHPW
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3898.jpeg?69913" group-title="ENTERTAINMENT", US: INFOWARS TV HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325931&extension=ts&play_token=LG0IfAkDYn
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4005.png?48560" group-title="ENTERTAINMENT", US: INSP HD
+#EXTINF:-1 tvg-id="INSP.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4005.png?48560" group-title="ENTERTAINMENT", US: INSP HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325896&extension=ts&play_token=ZiSCgVdkqd
 
 #EXTINF:-1 tvg-id="ION.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14273.jpg?86176" group-title="ENTERTAINMENT", US: ION
@@ -857,7 +789,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1468062&e
 #EXTINF:-1 tvg-id="ION.Mystery.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14273.jpg?86176" group-title="ENTERTAINMENT", US: ION MYSTERY
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1468061&extension=ts&play_token=SOTWqcRywv
 
-#EXTINF:-1 tvg-id="ION.Plus.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14273.jpg?86176" group-title="ENTERTAINMENT", US: ION PLUS
+#EXTINF:-1 tvg-id="ION+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14273.jpg?86176" group-title="ENTERTAINMENT", US: ION PLUS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1468060&extension=ts&play_token=BnWjLoo2vi
 
 #EXTINF:-1 tvg-id="Jewelry.Television.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12149.jpg?93627" group-title="ENTERTAINMENT", US: JEWELRY tv
@@ -866,25 +798,25 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=510968&ex
 #EXTINF:-1 tvg-id="Justice.Central.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3252.jpg?88743" group-title="ENTERTAINMENT", US: JUSTICE CENTRAL HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325908&extension=ts&play_token=GACldVFlpj
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10073.jpg?68710" group-title="ENTERTAINMENT", US: KTLA LOS ANGELES HD
+#EXTINF:-1 tvg-id="KTLA Los Angeles, CA HD.us;KTLA Los Angeles, CA HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10073.jpg?68710" group-title="ENTERTAINMENT", US: KTLA LOS ANGELES HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=620130&extension=ts&play_token=0dTBd8CKH9
 
 #EXTINF:-1 tvg-id="Laff.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8332.png?53229" group-title="ENTERTAINMENT", US:  LAFF TV  HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=624002&extension=ts&play_token=GiREOTaRE1
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13981.png?25579" group-title="ENTERTAINMENT", US: LAW & CRIME
+#EXTINF:-1 tvg-id="Law.and.Crime.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13981.png?25579" group-title="ENTERTAINMENT", US: LAW & CRIME
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1426450&extension=ts&play_token=luaRk6pC7S
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?31619" group-title="ENTERTAINMENT", US: LIFETIME HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325815&extension=ts&play_token=F5A9eFe86O
 
-#EXTINF:-1 tvg-id="Lifetime.Movie.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?90786" group-title="ENTERTAINMENT", US: LIFETIME MOVIE NETWORK HD
+#EXTINF:-1 tvg-id="Lifetime Movies HD  East.us;Lifetime Movies HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?90786" group-title="ENTERTAINMENT", US: LIFETIME MOVIE NETWORK HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325788&extension=ts&play_token=oKOrQJk1NV
 
 #EXTINF:-1 tvg-id="Lifetime.Real.Women.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?18452" group-title="ENTERTAINMENT", US: LIFETIME REAL WOMEN HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325920&extension=ts&play_token=Mx4njfYHXl
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/925.jpg?35651" group-title="ENTERTAINMENT", US: LOCAL NOW HD
+#EXTINF:-1 tvg-id="Local 3 (KCDO) Sterling, CO HD.us;Local 3 (KCDO) Sterling, CO HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/925.jpg?35651" group-title="ENTERTAINMENT", US: LOCAL NOW HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325892&extension=ts&play_token=80F3xJbIDn
 
 #EXTINF:-1 tvg-id="Logo.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3138.jpg?91685" group-title="ENTERTAINMENT", US: LOGO HD
@@ -893,7 +825,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325867&ex
 #EXTINF:-1 tvg-id="Magnolia.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8469.png?89503" group-title="ENTERTAINMENT", US: Magnolia Network West HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=510969&extension=ts&play_token=mNEOJ1QE4f
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2351.jpg?11102" group-title="ENTERTAINMENT", US: MAV TV HD
+#EXTINF:-1 tvg-id="MAVTVSelect.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2351.jpg?11102" group-title="ENTERTAINMENT", US: MAV TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325887&extension=ts&play_token=8RkHqy82Wt
 
 #EXTINF:-1 tvg-id="Me.TV.Network.us2
@@ -909,8 +841,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=861894&ex
 #EXTINF:-1 tvg-id="MGM+.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8527.png?46535" group-title="ENTERTAINMENT", US: MGM HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325886&extension=ts&play_token=Opul7CvWKS
 
-#EXTINF:-1 tvg-id="Military.History.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?2038" group-title="ENTERTAINMENT", US: MILITARY HISTORY
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325869&extension=ts&play_token=z93P8I1Azw
 
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6265.jpg?83501" group-title="ENTERTAINMENT", US: MOTORTREND HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325836&extension=ts&play_token=ybfwqaIwO3
@@ -934,20 +864,10 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325793&ex
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325792&extension=ts&play_token=SLRezeDqJH
 
 
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6151.png?10667" group-title="ENTERTAINMENT", US: : NATIONAL GEOGRAPHIC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325786&extension=ts&play_token=Lqi3WmBDpE
-
-#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?40753" group-title="ENTERTAINMENT", US: : NATIONAL GEOGRAPHIC WILD HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325785&extension=ts&play_token=4SeA9HZxql
 
 #EXTINF:-1 tvg-id="NBC.Chicago.(Live.Stream).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3321.png?61186" group-title="ENTERTAINMENT", US: NBC 4 LITTLE ROCK AR (KARK)
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=417450&extension=ts&play_token=x4as1URqIM
 
-#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/765.png?59653" group-title="ENTERTAINMENT", US: OUTDOOR CHANNEL HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325838&extension=ts&play_token=EerR0x5OfU
-
-#EXTINF:-1 tvg-id="Outside.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7886.jpg?9567" group-title="ENTERTAINMENT", US: OUTSIDE TV HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325872&extension=ts&play_token=tORxhBZKP5
 
 #EXTINF:-1 tvg-id="Ovation.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13980.png?41458" group-title="ENTERTAINMENT", US: OVATION
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1426451&extension=ts&play_token=0vwf5w5jvl
@@ -988,7 +908,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325839&ex
 #EXTINF:-1 tvg-id="Real.Americas.Voice.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8229.png?76673" group-title="ENTERTAINMENT", US: REAL AMERICA'S VOICE HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=802401&extension=ts&play_token=tynEGXWTlw
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12074.jpg?46020" group-title="ENTERTAINMENT", US: RED BULL TV HD
+#EXTINF:-1 tvg-id="RedbullTV.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12074.jpg?46020" group-title="ENTERTAINMENT", US: RED BULL TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325921&extension=ts&play_token=F8ygoVdEGH
 
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8131.jpg?80047" group-title="ENTERTAINMENT", US: REELZ FAMUS HD
@@ -1003,25 +923,17 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325808&ex
 #EXTINF:-1 tvg-id="Revolt.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11536.jpg?54750" group-title="ENTERTAINMENT", US: REVOLT HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325897&extension=ts&play_token=76C8MV5Fpv
 
-#EXTINF:-1 tvg-id="RFD.TV.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12806.png?38504" group-title="ENTERTAINMENT", US: RFD TV HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325875&extension=ts&play_token=tBpuxAyDKC
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13058.jpg?76754" group-title="ENTERTAINMENT", US: RIDE TV HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325876&extension=ts&play_token=rGTlVFDm7E
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3898.jpeg?32640" group-title="ENTERTAINMENT", US: RT DOCUMENTARY HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325929&extension=ts&play_token=cZ2DFXOYi5
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8132.jpg?74220" group-title="ENTERTAINMENT", US: SEC NETWORK HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325807&extension=ts&play_token=kjxodhfq3r
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?86612" group-title="ENTERTAINMENT", US: SHOWTIME BET HD
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?86612" group-title="ENTERTAINMENT", US: SHOWTIME BET HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325932&extension=ts&play_token=aUMKKuJcRh
 
 #EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3051.png?79749" group-title="ENTERTAINMENT", US: SMITHSONIAN CHANNEL HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325877&extension=ts&play_token=mC9NUnrbN3
 
-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3051.png?53674" group-title="ENTERTAINMENT", US: SMITHSONIAN CHANNEL WEST HD
+#EXTINF:-1 tvg-id="Smithsonian Channel USA  Pacific HD.us;Smithsonian Channel USA  Pacific HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3051.png?53674" group-title="ENTERTAINMENT", US: SMITHSONIAN CHANNEL WEST HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325902&extension=ts&play_token=1t7ilgnhqa
 
 #EXTINF:-1 tvg-id="Spectrum.News+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10715.jpg?56020" group-title="ENTERTAINMENT", US: SPECTRUM BAY NEWS 9 HD
@@ -1036,9 +948,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325804&ex
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?46941" group-title="ENTERTAINMENT", US: SYFY WEST HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325878&extension=ts&play_token=OdlPZclsdV
 
-#EXTINF:-1 tvg-id="Tastemade.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3066.png?67764" group-title="ENTERTAINMENT", US: TASTEMADE HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325923&extension=ts&play_token=LBr4eRoYwf
-
 #EXTINF:-1 tvg-id="TBN.Inspire.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6120.jpg?95296" group-title="ENTERTAINMENT", US: TBN
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325926&extension=ts&play_token=vbcJu4dRJZ
 
@@ -1048,7 +957,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325803&ex
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3274.jpg?ver=34257" group-title="ENTERTAINMENT", US: TBS WEST
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325943&extension=ts&play_token=fB0dUJmLub
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6339.jpg?31830" group-title="ENTERTAINMENT", US: TCM HD
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6339.jpg?31830" group-title="ENTERTAINMENT", US: TCM HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325841&extension=ts&play_token=d1AIvp3zXt
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13346.jpg?68674" group-title="ENTERTAINMENT", US: TEEN NICK
@@ -1072,22 +981,16 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325894&ex
 #EXTINF:-1 tvg-id="TNT.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?37560" group-title="ENTERTAINMENT", US: TNT 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=716522&extension=ts&play_token=rnKerQ2bfC
 
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?37560" group-title="ENTERTAINMENT", US: TNT EAST 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=716491&extension=ts&play_token=EVQ1WtOKqn
-
 #EXTINF:-1 tvg-id="TNT.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?71765" group-title="ENTERTAINMENT", US: TNT HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325799&extension=ts&play_token=0BeauoQwTU
-
-#EXTINF:-1 tvg-id="TNT.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?71765" group-title="ENTERTAINMENT", US: TNT SD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325800&extension=ts&play_token=rszHJFjcRe
 
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?37560" group-title="ENTERTAINMENT", US: TNT WEST 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325881&extension=ts&play_token=CEBaGsZdv7
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?12958" group-title="ENTERTAINMENT", US: TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="Travel US HD  East.us;Travel US HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?12958" group-title="ENTERTAINMENT", US: TRAVEL CHANNEL HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325772&extension=ts&play_token=ZCEbLhUoOe
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?83728" group-title="ENTERTAINMENT", US: TRAVEL CHANNEL WEST HD
+#EXTINF:-1 tvg-id="Travel US HD  West.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?83728" group-title="ENTERTAINMENT", US: TRAVEL CHANNEL WEST HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325882&extension=ts&play_token=y5hyIKaBIT
 
 #EXTINF:-1 tvg-id="truTV.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1876.jpg?90056" group-title="ENTERTAINMENT", US: TRUTV 4K
@@ -1101,12 +1004,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325797&ex
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1288.jpg?13049" group-title="ENTERTAINMENT", US: TV ONE HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325842&extension=ts&play_token=KmyeQcw5tG
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8321.jpg?11432" group-title="ENTERTAINMENT", US: TVG NETWORK
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325906&extension=ts&play_token=4zHnOxNecG
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8321.jpg?11432" group-title="ENTERTAINMENT", US: TVG NETWORK 2
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325907&extension=ts&play_token=eeMWYh40Ey
 
 #EXTINF:-1 tvg-id="UPtv.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7883.jpg?753" group-title="ENTERTAINMENT", US: UP TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325883&extension=ts&play_token=uTc6uaZS8g
@@ -1138,14 +1035,8 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=668549&ex
 #EXTINF:-1 tvg-id="WE.tv.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8090.png?96298" group-title="ENTERTAINMENT", US: WE TV HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325794&extension=ts&play_token=dnrt9fCzRm
 
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6141.jpg?93806" group-title="ENTERTAINMENT", US: WGN9
+#EXTINF:-1 tvg-id="WGN Chicago (LOCAL) HD.us;WGN Chicago (LOCAL) HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6141.jpg?93806" group-title="ENTERTAINMENT", US: WGN9
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325930&extension=ts&play_token=5RGq3r0FVu
-
-#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7649.jpg?4485" group-title="ENTERTAINMENT", US: WORLD FISHING NETWORK HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325891&extension=ts&play_token=KcWDi68cge
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8169.jpg?12086" group-title="ENTERTAINMENT", US: WTRF Wheeling WV 7 HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1097797&extension=ts&play_token=zhnrgJsbqd
 
 #EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13979.jpg?29205" group-title="ENTERTAINMENT", US: A WEALTH OF ENTERTAINMENT (AWE)
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1426452&extension=ts&play_token=RCB8h46UdX
@@ -1176,18 +1067,14 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162295&ex
 #EXTINF:-1 tvg-id="5.USA.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12147.jpg?30724" group-title="ENTERTAINMENT" , UK: 5 USA ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162294&extension=ts&play_token=X911er3mKb
 
-#EXTINF:-1 tvg-id="alibi.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?30493" group-title="ENTERTAINMENT" , UK: ALIBI HEVC 4K
+#EXTINF:-1 tvg-id="U.and.alibi.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?30493" group-title="ENTERTAINMENT" , UK: ALIBI HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717652&extension=ts&play_token=iJ64pfbyTt
 
-#EXTINF:-1 tvg-id="alibi.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42541" group-title="ENTERTAINMENT" , UK: ALIBI HEVC HD
+#EXTINF:-1 tvg-id="U.and.alibi.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42541" group-title="ENTERTAINMENT" , UK: ALIBI HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717668&extension=ts&play_token=nb8MafdIAj
-
 
 #EXTINF:-1 tvg-id="alibi+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42058" group-title="ENTERTAINMENT" , UK: ALIBI +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162134&extension=ts&play_token=3vJhP7qpu0
-
-#EXTINF:-1 tvg-id="alibi+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12114.jpg?42058" group-title="ENTERTAINMENT" , UK: ALIBI 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162118&extension=ts&play_token=c0xCeRxqp1
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1114.png?4817" group-title="ENTERTAINMENT" , UK: AMC 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162273&extension=ts&play_token=Hy7kmzsgmJ
@@ -1217,7 +1104,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717681&ex
 #EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/728.png?ver=74237" group-title="ENTERTAINMENT" , UK: BBC Brit HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414041&extension=ts&play_token=l4j618qHdz
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3982.png?33746" group-title="ENTERTAINMENT" , UK: BBC Earth HD ◉
+#EXTINF:-1 tvg-id="BBC.Earth.ca2"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3982.png?33746" group-title="ENTERTAINMENT" , UK: BBC Earth HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414042&extension=ts&play_token=5V9MvK5R5a
 
 
@@ -1250,16 +1137,16 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717672&ex
 #EXTINF:-1 tvg-id="CBBC.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13012.jpg?83523" group-title="ENTERTAINMENT" , UK: CBBC 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162116&extension=ts&play_token=n1cpLOIccE
 
-#EXTINF:-1 tvg-id="CBS.Drama.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS DRAMA ◉
+#EXTINF:-1 tvg-id="True.Crime.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS DRAMA ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162297&extension=ts&play_token=p972qMJsin
 
 #EXTINF:-1 tvg-id="CBS.Justice.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS JUSTICE ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162296&extension=ts&play_token=raTBe4TNYz
 
-#EXTINF:-1 tvg-id="CBS.Reality.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS REALITY +1 ◉
+#EXTINF:-1 tvg-id="True.Crime.+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS REALITY +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162299&extension=ts&play_token=MVRvUWBrNv
 
-#EXTINF:-1 tvg-id="CBS.Reality.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS REALITY ◉
+#EXTINF:-1 tvg-id="True.Crime.Xtra.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8290.jpg?37614" group-title="ENTERTAINMENT" , UK: CBS REALITY ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162298&extension=ts&play_token=WO1Ja0SPV6
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3873.jpg?65237" group-title="ENTERTAINMENT" , UK: CBS REALITY ◉
@@ -1286,9 +1173,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162114&ex
 #EXTINF:-1 tvg-id="Channel.5.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12126.jpg?14506" group-title="ENTERTAINMENT" , UK: CHANNEL 5 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162136&extension=ts&play_token=pvbvb2bBX8
 
-#EXTINF:-1 tvg-id="CITV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?78648" group-title="ENTERTAINMENT" , UK: CITV ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162133&extension=ts&play_token=XgDjrcUhyR
-
 #EXTINF:-1 tvg-id="ComedyXtra.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?81881" group-title="ENTERTAINMENT" , UK: COMEDY CENT XTRA+1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162278&extension=ts&play_token=DiRnrXjAg3
 
@@ -1301,19 +1185,14 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162277&ex
 #EXTINF:-1 tvg-id="Court.TV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13520.jpg?17706" group-title="ENTERTAINMENT" , UK: COURT TV ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342033&extension=ts&play_token=YsnAlBMrVp
 
-#EXTINF:-1 tvg-id="Craft.Extra.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13017.jpg?81719" group-title="ENTERTAINMENT" , UK: CRAFT EXTRA ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162318&extension=ts&play_token=XmbOvujhO2
-
-#EXTINF:-1 tvg-id="Create.and.CraftHD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8563.jpg?36094" group-title="ENTERTAINMENT" , UK: CREATE AND CRAFT 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402180&extension=ts&play_token=yuuUTryPgf
 
 #EXTINF:-1 tvg-id="Crime+Inv.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="ENTERTAINMENT" , UK: CRIME INVESTIGATION 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162377&extension=ts&play_token=nhlftY4JSl
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="ENTERTAINMENT" , UK: DAVE 4K ◉
+#EXTINF:-1 tvg-id="U.and.Dave.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="ENTERTAINMENT" , UK: DAVE 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162267&extension=ts&play_token=uAr5NXDYaG
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="ENTERTAINMENT" , UK: DAVE ◉
+#EXTINF:-1 tvg-id="U.and.Dave.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12135.jpg?71252" group-title="ENTERTAINMENT" , UK: DAVE ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162284&extension=ts&play_token=sOw31Aa2X9
 
 #EXTINF:-1 tvg-id="DAYSTAR.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12077.jpg?76070" group-title="ENTERTAINMENT" , UK: DAYSTAR HD ◉
@@ -1325,13 +1204,13 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162314&ex
 #EXTINF:-1 tvg-id="DMAX.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/812.jpg?92844" group-title="ENTERTAINMENT" , UK: DMAX ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162313&extension=ts&play_token=LEYuEQu6T9
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3947.jpg?67791" group-title="ENTERTAINMENT" , UK: DRAMA + 1 ◉
+#EXTINF:-1 tvg-id="U.and.Drama+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3947.jpg?67791" group-title="ENTERTAINMENT" , UK: DRAMA + 1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=764559&extension=ts&play_token=KlVG5TfXNC
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12158.jpg?93807" group-title="ENTERTAINMENT" , UK: DRAMA ◉
+#EXTINF:-1 tvg-id="U.and.Drama.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12158.jpg?93807" group-title="ENTERTAINMENT" , UK: DRAMA ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162300&extension=ts&play_token=1ZUTwJQ1Yc
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?40398" group-title="ENTERTAINMENT" , UK: E! ENTERTAINMENT ◉
+#EXTINF:-1 tvg-id="E!.Entertaiment.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?40398" group-title="ENTERTAINMENT" , UK: E! ENTERTAINMENT ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162287&extension=ts&play_token=30GR6J0IXK
 
 #EXTINF:-1 tvg-id="E4+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="ENTERTAINMENT" , UK: E4 +1 ◉
@@ -1346,59 +1225,35 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=646004&ex
 #EXTINF:-1 tvg-id="E4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?43604" group-title="ENTERTAINMENT" , UK: E4 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162135&extension=ts&play_token=oHBF0QdLLw
 
-#EXTINF:-1 tvg-id="E4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?57654" group-title="ENTERTAINMENT" , UK: E4  HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717658&extension=ts&play_token=BHTNbAadXs
-
-#EXTINF:-1 tvg-id="E4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12134.jpg?30711" group-title="ENTERTAINMENT" , UK: E4 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717674&extension=ts&play_token=gDhiG21fXG
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="ENTERTAINMENT" , UK: EDEN +1 ◉
+#EXTINF:-1 tvg-id="U.and.Eden+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="ENTERTAINMENT" , UK: EDEN +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162286&extension=ts&play_token=UDIAnsLQCL
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="ENTERTAINMENT" , UK: EDEN 4K ◉
+#EXTINF:-1 tvg-id="U.and.Eden.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="ENTERTAINMENT" , UK: EDEN 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162258&extension=ts&play_token=bxbnxwGpr4
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="ENTERTAINMENT" , UK: EDEN ◉
+#EXTINF:-1 tvg-id="U.and.Eden.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12142.jpg?17672" group-title="ENTERTAINMENT" , UK: EDEN ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162285&extension=ts&play_token=3WVCG5WdwB
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11099.jpg?85811" group-title="ENTERTAINMENT" , UK: FANDUEL OHIO
+#EXTINF:-1 tvg-id="FanDuel Sports Network Ohio HD.us;FanDuel Sports Network Ohio HD.us"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11099.jpg?85811" group-title="ENTERTAINMENT" , UK: FANDUEL OHIO
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=336320&extension=ts&play_token=KAYRg6Fp20
 
 #EXTINF:-1 tvg-id="Film4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1929.jpg?34588" group-title="ENTERTAINMENT" , UK: FILM 4 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162266&extension=ts&play_token=PjbeTSxVYc
 
-#EXTINF:-1 tvg-id="Film4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12111.png?99257" group-title="ENTERTAINMENT" , UK: FILM 4 HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717657&extension=ts&play_token=Ej2v0WjKIF
-
 #EXTINF:-1 tvg-id="Film4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12111.png?94248" group-title="ENTERTAINMENT" , UK: FILM 4 HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717671&extension=ts&play_token=9t4YPzeh4V
 
-#EXTINF:-1 tvg-id="Food.Netwrk+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="ENTERTAINMENT" , UK: FOOD NETWORK +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162160&extension=ts&play_token=DCwIj6iaEq
-
-#EXTINF:-1 tvg-id="Food.Network.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="ENTERTAINMENT" , UK: FOOD NETWORK ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162159&extension=ts&play_token=mXXd9tqRsU
-
-#EXTINF:-1 tvg-id="Gems.TV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1236.jpg?81694" group-title="ENTERTAINMENT" , UK: GEMS TV ◉
+#EXTINF:-1 tvg-id="GemsTV.uk;Gems TV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1236.jpg?81694" group-title="ENTERTAINMENT" , UK: GEMS TV ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162319&extension=ts&play_token=3DONeu83w3
 
-#EXTINF:-1 tvg-id="GOD.Channel.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8461.jpg?62245" group-title="ENTERTAINMENT" , UK: GOD CHANNEL ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405368&extension=ts&play_token=MNlLnhYKs0
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12104.jpg?90036" group-title="ENTERTAINMENT" , UK: GOLD +1 ◉
+#EXTINF:-1 tvg-id="U.and.GOLD+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12104.jpg?90036" group-title="ENTERTAINMENT" , UK: GOLD +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162281&extension=ts&play_token=3nYfMnVQXN
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12104.jpg?90036" group-title="ENTERTAINMENT" , UK: GOLD 4K ◉
+#EXTINF:-1 tvg-id="U.and.GOLD.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12104.jpg?90036" group-title="ENTERTAINMENT" , UK: GOLD 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162260&extension=ts&play_token=7VDrKwQJJb
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/823.jpg?74563" group-title="ENTERTAINMENT" , UK: GOLD HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717653&extension=ts&play_token=BKqq29pNss
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/823.jpg?33065" group-title="ENTERTAINMENT" , UK: GOLD HEVC HD
+#EXTINF:-1 tvg-id="U.and.GOLD.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/823.jpg?33065" group-title="ENTERTAINMENT" , UK: GOLD HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717670&extension=ts&play_token=LEs6ByjU6J
-
-#EXTINF:-1 tvg-id="GREAT!.classic.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="ENTERTAINMENT" , UK: GREAT CLASSIC ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=339841&extension=ts&play_token=6yWs7Ft67h
 
 #EXTINF:-1 tvg-id="GREAT!.tv.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13491.jpg?19855" group-title="ENTERTAINMENT" , UK: GREAT TV ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=339840&extension=ts&play_token=JbGgXXo9wh
@@ -1421,12 +1276,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342021&ex
 #EXTINF:-1 tvg-id="High.Street.TV.4.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="ENTERTAINMENT" , UK: HIGH STREET TV 4 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342020&extension=ts&play_token=lssmJpgwty
 
-#EXTINF:-1 tvg-id="High.Street.TV.5.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13515.png?64018" group-title="ENTERTAINMENT" , UK: HIGH STREET TV 5 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342019&extension=ts&play_token=Ts526LsiP0
-
-#EXTINF:-1 tvg-id="HobbyMaker.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13485.jpg?93581" group-title="ENTERTAINMENT" , UK: HOBBY MAKER ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=336317&extension=ts&play_token=ae7MHxCBQv
-
 #EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12148.jpg?13628" group-title="ENTERTAINMENT" , UK: HORROR CHANNEL +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162290&extension=ts&play_token=AO210vURs6
 
@@ -1442,82 +1291,36 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162400&ex
 #EXTINF:-1 tvg-id="Ideal.World.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13519.png?27008" group-title="ENTERTAINMENT" , UK: IDEAL WORLD 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342032&extension=ts&play_token=whpOcM4qqT
 
-#EXTINF:-1 tvg-id="Ideal.World.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13519.png?27008" group-title="ENTERTAINMENT" , UK: IDEAL WORLD HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342031&extension=ts&play_token=2ky9UnkFjO
-
-#EXTINF:-1 tvg-id="Ideal.World.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13519.png?27008" group-title="ENTERTAINMENT" , UK: IDEAL WORLD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342030&extension=ts&play_token=3evqHaJRIM
-
 #EXTINF:-1 tvg-id="ITV1+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12013.jpg?20593" group-title="ENTERTAINMENT" , UK: ITV 1 +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=283547&extension=ts&play_token=XdFT89pTet
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="ENTERTAINMENT" , UK: ITV 1 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162105&extension=ts&play_token=N8BRt21dwS
 
-#EXTINF:-1 tvg-id="ITV1.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?8392" group-title="ENTERTAINMENT" , UK: ITV 1 HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162104&extension=ts&play_token=AAnjulrN87
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12019.jpg?42491" group-title="ENTERTAINMENT" , UK: ITV 1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162124&extension=ts&play_token=WimLzRPFT1
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?8441" group-title="ENTERTAINMENT" , UK: ITV 1 HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717664&extension=ts&play_token=u2zLOxF2ry
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12012.jpg?69431" group-title="ENTERTAINMENT" , UK: ITV 1 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717680&extension=ts&play_token=fm7ZkaNhW5
-
 #EXTINF:-1 tvg-id="ITV2.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="ENTERTAINMENT" , UK: ITV 2 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=852426&extension=ts&play_token=8fMgXQ9Pja
-
-#EXTINF:-1 tvg-id="ITV2.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?96832" group-title="ENTERTAINMENT" , UK: ITV 2 HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162106&extension=ts&play_token=Mi920i3040
-
-#EXTINF:-1 tvg-id="ITV2.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?34141" group-title="ENTERTAINMENT" , UK: ITV 2 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162125&extension=ts&play_token=7XBvmRsooJ
 
 #EXTINF:-1 tvg-id="ITV2+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?34141" group-title="ENTERTAINMENT" , UK: ITV 2+1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162126&extension=ts&play_token=kDc9qCmgF6
 
-#EXTINF:-1 tvg-id="ITV2.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12001.jpg?36811" group-title="ENTERTAINMENT" , UK: ITV 2 HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717663&extension=ts&play_token=yIowzaQmtV
-
-#EXTINF:-1 tvg-id="ITV2.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12020.jpg?72300" group-title="ENTERTAINMENT" , UK: ITV 2 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717679&extension=ts&play_token=KibzgPoEk9
-
 #EXTINF:-1 tvg-id="ITV3.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?42932" group-title="ENTERTAINMENT" , UK: ITV 3 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162127&extension=ts&play_token=JV2Orng50p
 
-#EXTINF:-1 tvg-id="ITV3.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?8727" group-title="ENTERTAINMENT" , UK: ITV 3 HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162108&extension=ts&play_token=tnfScTFnr1
 
 #EXTINF:-1 tvg-id="ITV3+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?42932" group-title="ENTERTAINMENT" , UK: ITV 3+1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162128&extension=ts&play_token=z2qjOjR9Fo
 
-#EXTINF:-1 tvg-id="ITV3.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?98063" group-title="ENTERTAINMENT" , UK: ITV 3 HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717662&extension=ts&play_token=ZG2hhu5rMZ
-
-#EXTINF:-1 tvg-id="ITV3.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12021.jpg?57850" group-title="ENTERTAINMENT" , UK: ITV 3 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717678&extension=ts&play_token=aaVE847hgC
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?51320" group-title="ENTERTAINMENT" , UK: ITV 4 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162129&extension=ts&play_token=1jOVdu1Yj7
 
-#EXTINF:-1 tvg-id="ITV4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?5226" group-title="ENTERTAINMENT" , UK: ITV 4 HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162110&extension=ts&play_token=GywubQtlrr
-
 #EXTINF:-1 tvg-id="ITV4+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?51320" group-title="ENTERTAINMENT" , UK: ITV 4+1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162130&extension=ts&play_token=VeGo8xsAYd
-
-#EXTINF:-1 tvg-id="ITV4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?16719" group-title="ENTERTAINMENT" , UK: ITV 4 HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717661&extension=ts&play_token=y8PQCKbxzu
-
-#EXTINF:-1 tvg-id="ITV4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12022.jpg?69435" group-title="ENTERTAINMENT" , UK: ITV 4 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717677&extension=ts&play_token=1VfzHu1B7e
 
 #EXTINF:-1 tvg-id="ITV.Quiz.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14685.png?50962" group-title="ENTERTAINMENT" , UK : ITV QUIZ 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1692712&extension=ts&play_token=79seGAHBFm
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13018.jpg?19240" group-title="ENTERTAINMENT" , UK: JML DIRECT ◉
+#EXTINF:-1 tvg-id="True.Crime.Xtra.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13018.jpg?19240" group-title="ENTERTAINMENT" , UK: TRUE CRIME XTRA
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162320&extension=ts&play_token=Ya0OtQaQcO
 
 #EXTINF:-1 tvg-id="Legend.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12537.png?55310" group-title="ENTERTAINMENT" , UK: LEGEND ◉
@@ -1535,28 +1338,13 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162268&ex
 #EXTINF:-1 tvg-id="More4+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="ENTERTAINMENT" , UK: MORE 4+1
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=904776&extension=ts&play_token=dXui7ZWAkv
 
-#EXTINF:-1 tvg-id="More4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?92704" group-title="ENTERTAINMENT" , UK: MORE4 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162282&extension=ts&play_token=81Gmni166i
-
-#EXTINF:-1 tvg-id="More4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?70719" group-title="ENTERTAINMENT" , UK: MORE 4 HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717655&extension=ts&play_token=rr4hkMQl9z
-
-#EXTINF:-1 tvg-id="More4.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12118.jpg?ver=36147" group-title="ENTERTAINMENT" , UK: MORE 4 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717673&extension=ts&play_token=Fq3xqepfD3
-
 #EXTINF:-1 tvg-id="New.Vision.TV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12034.jpg?43505" group-title="ENTERTAINMENT" , UK: New Vision / ARY WORLD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=751633&extension=ts&play_token=gzlOnJ8uG8
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6334.png?34921" group-title="ENTERTAINMENT" , UK: Oireachtas ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=751621&extension=ts&play_token=NCZUnaav2u
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/766.png?53355" group-title="ENTERTAINMENT" , UK: PARAMOUNT HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162274&extension=ts&play_token=Qj5J6t78Qf
 
 #EXTINF:-1 tvg-id="PBS.America.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12149.jpg?1808" group-title="ENTERTAINMENT" , UK: PBS AMERICA ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162315&extension=ts&play_token=A4AqRgdwWH
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12136.png?10088" group-title="ENTERTAINMENT" , UK: PICK TV ◉
+#EXTINF:-1 tvg-id="Pick.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12136.png?10088" group-title="ENTERTAINMENT" , UK: PICK TV ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=304722&extension=ts&play_token=2drpdmmZJO
 
 #EXTINF:-1 tvg-id="QUEST+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12026.jpg?96614" group-title="ENTERTAINMENT" , UK: QUEST +1 ◉
@@ -1583,17 +1371,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162312&ex
 #EXTINF:-1 tvg-id="QVC.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12354.jpg?8211" group-title="ENTERTAINMENT" , UK: QVC UK ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162309&extension=ts&play_token=10Soh5vm2r
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3873.jpg?ver=17148" group-title="ENTERTAINMENT" , UK: REALITY XTRA IE ◉
+#EXTINF:-1 tvg-id="Reality.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3873.jpg?ver=17148" group-title="ENTERTAINMENT" , UK: REALITY XTRA IE ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=483648&extension=ts&play_token=xqVyDvoeor
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13014.jpg?67123" group-title="ENTERTAINMENT" , UK: REALLY ◉
+#EXTINF:-1  tvg-id="Really.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13014.jpg?67123" group-title="ENTERTAINMENT" , UK: REALLY ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162307&extension=ts&play_token=gmyquEycBG
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/427.png?94255" group-title="ENTERTAINMENT" , UK: RT DOCUMENTRY HD ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162152&extension=ts&play_token=p4iAK3FeMV
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12023.jpg?42966" group-title="ENTERTAINMENT" , UK: RTE ONE +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402157&extension=ts&play_token=aVgFwGF7ri
 
 #EXTINF:-1 tvg-id="S4C.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12157.jpg?21465" group-title="ENTERTAINMENT" , UK: S4C ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162306&extension=ts&play_token=mhAJxqObif
@@ -1607,12 +1389,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162253&ex
 #EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?45779" group-title="ENTERTAINMENT" , UK: SKY DOCUMENTARIES 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162382&extension=ts&play_token=IKT6Y5x3S6
 
-#EXTINF:-1 tvg-id="Sky.History+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12188.jpg?19713" group-title="ENTERTAINMENT" , UK: SKY HISTORY +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=751652&extension=ts&play_token=1e0eItphcl
-
-#EXTINF:-1 tvg-id="Sky.Replay.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3127.jpg?86882" group-title="ENTERTAINMENT" , UK: SKY REPLAY ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342016&extension=ts&play_token=JsVXEPaFNS
-
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?34714" group-title="ENTERTAINMENT" , UK: SKY WITNESS HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162255&extension=ts&play_token=JND7aeiDS1
 
@@ -1622,13 +1398,13 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162270&ex
 #EXTINF:-1 tvg-id="STV.North.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3112.jpg?83316" group-title="ENTERTAINMENT" , UK: STV NORTH ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405365&extension=ts&play_token=iBzGPL8zPj
 
-#EXTINF:-1 tvg-id=""   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?66168" group-title="ENTERTAINMENT" , UK: SYFY 4K ◉
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?66168" group-title="ENTERTAINMENT" , UK: SYFY 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162262&extension=ts&play_token=g2mXNTcPf2
 
-#EXTINF:-1 tvg-id="TalkTV.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?63955" group-title="ENTERTAINMENT" , UK: Talk TV 4K ◉
+#EXTINF:-1 tvg-id="Talk.uk;Talk.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6275.jpg?63955" group-title="ENTERTAINMENT" , UK: Talk TV 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=813352&extension=ts&play_token=OuzN2frdFq
 
-#EXTINF:-1 tvg-id="TCM.Movies+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7881.jpg?64415" group-title="ENTERTAINMENT" , UK: TCM 4K ◉
+#EXTINF:-1 tvg-id="TCM.Movies.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7881.jpg?64415" group-title="ENTERTAINMENT" , UK: TCM 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162264&extension=ts&play_token=tLsZI5kiMJ
 
 #EXTINF:-1 tvg-id="TJC.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8376.jpg?99203" group-title="ENTERTAINMENT" , UK: TJC ◉
@@ -1649,19 +1425,14 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162271&ex
 #EXTINF:-1 tvg-id="UTV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8316.jpg?19907" group-title="ENTERTAINMENT" , UK: UTV HD ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=588744&extension=ts&play_token=FDmUiM9z6h
 
-#EXTINF:-1 tvg-id="W!.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13514.jpg?94136" group-title="ENTERTAINMENT" , UK: W! - WATCH 4K ◉
+#EXTINF:-1 tvg-id="U.and.W.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13514.jpg?94136" group-title="ENTERTAINMENT" , UK: W! - WATCH 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=342017&extension=ts&play_token=zpwo4HYTwD
 
-#EXTINF:-1 tvg-id="Watch.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13514.jpg?84168" group-title="ENTERTAINMENT" , UK: WATCH +1 ◉
+#EXTINF:-1 tvg-id="U.and.W+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13514.jpg?84168" group-title="ENTERTAINMENT" , UK: WATCH +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=405367&extension=ts&play_token=2Oejpehgbu
 
-#EXTINF:-1 tvg-id="Watch.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13629.png?79339" group-title="ENTERTAINMENT" , UK: WATCH HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717654&extension=ts&play_token=LWddpmKMot
 
-#EXTINF:-1 tvg-id="Watch.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13629.png?69598" group-title="ENTERTAINMENT" , UK: WATCH HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717669&extension=ts&play_token=ZfFLjhYSKB
-
-#EXTINF:-1 tvg-id="Yesterday.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12140.jpg?5862" group-title="ENTERTAINMENT" , UK: YESTERDAY ◉
+#EXTINF:-1 tvg-id="U.and.YESTERDAY.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12140.jpg?5862" group-title="ENTERTAINMENT" , UK: YESTERDAY ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162301&extension=ts&play_token=ykguLMz8Cl
 
 ###############################################
@@ -1672,11 +1443,77 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162301&ex
 
 
 
+#EXTINF:-1 tvg-id="American.Crimes.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US AMERICAN CRIMES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568871&extension=ts&play_token=G64h5dZHNN
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11036.png?16340" group-title="DOCUMENTARY" ,US AMERICAN HEROES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568870&extension=ts&play_token=O0URZ5PEeC
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11036.png?16340" group-title="DOCUMENTARY" , US: AMERICA HEROES HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325828&extension=ts&play_token=eGIlxx9z5g
+
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US ANIMAL PLANET
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568868&extension=ts&play_token=ncYhTjXCKy
+
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?14808" group-title="DOCUMENTARY" , US: ANIMAL PLANET HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325780&extension=ts&play_token=lNSUwJcKxA
+
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?10765" group-title="DOCUMENTARY" ,CA  ANIMAL PLANET HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414083&extension=ts&play_token=gsHwUQkI38
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.West.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?93518" group-title="DOCUMENTARY", US: ANIMAL PLANET WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325844&extension=ts&play_token=XwPQc2zSsC
+
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32238" group-title="DOCUMENTARY", US: CRIME & INVESTIGATION HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325832&extension=ts&play_token=41uuGqE5PH
+
 #EXTINF:-1  tvg-id="Crime+Inv.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?53935" group-title="DOCUMENTARY" , UK:  CRIME INVESTIGATION HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717710&extension=ts&play_token=IMhJ1bDOl5
 
 #EXTINF:-1 tvg-id="Crime+Inv.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?79027" group-title="DOCUMENTARY" , UK:  CRIME INVESTIGATION HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717719&extension=ts&play_token=DayAgWkZr2
+
+#EXTINF:-1 tvg-id="Crime + Investigation Canada.ca;Crime + Investigation Canada.ca"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?7537" group-title="DOCUMENTARY",CA  CRIME + INVERSTIGATION
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414073&extension=ts&play_token=Qvq6rDACP5
+
+
+
+#EXTINF:-1 tvg-id="Crime+Inv.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="DOCUMENTARY" ,  UK: CRIME INVESTIGATION +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402156&extension=ts&play_token=Zr2E2LZCEB
+
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="DOCUMENTARY", US: DISCOVERY EAST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1453212&extension=ts&play_token=LWreqlpX7S
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="DOCUMENTARY", US: DISCOVERY FAMILY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325776&extension=ts&play_token=uzq8vMot3F
+
+#EXTINF:-1 tvg-id="2 Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="DOCUMENTARY" ,US DISCOVERY FAMILY CHANNEL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568810&extension=ts&play_token=vyv3CN6XPc
+
+
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?82800" group-title="DOCUMENTARY", US: DISCOVERY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325775&extension=ts&play_token=rK84ntwj3T
+
+#EXTINF:-1 tvg-id="Discovery.Channel.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?24942" group-title="DOCUMENTARY",CA  DISCOVERY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414076&extension=ts&play_token=I9UlSOaKuh
+
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?12232" group-title="DOCUMENTARY" ,US DISCOVERY LIFE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568809&extension=ts&play_token=LUF1wMzCh2
+
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?12232" group-title="DOCUMENTARY", US: DISCOVERY LIFE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=326358&extension=ts&play_token=AD54RQqAHN
+
+#EXTINF:-1 tvg-id="Discovery.Science.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49458" group-title="DOCUMENTARY",CA  DISCOVERY SCIENCE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414077&extension=ts&play_token=z5ikFbYlhy
+
+#EXTINF:-1 tvg-id="Discovery.Science.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" group-title="DOCUMENTARY", US: DISCOVERY SCIENCE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325774&extension=ts&play_token=4ax1gI7Jby
+
+#EXTINF:-1 tvg-id="Discovery.Pacific.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="DOCUMENTARY", US: DISCOVERY WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325855&extension=ts&play_token=DeEgOoKWRB
 
 #EXTINF:-1 tvg-id="Discovery.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" group-title="DOCUMENTARY" , UK:  DISCOVERY HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717711&extension=ts&play_token=SCFP22gBEk
@@ -1684,14 +1521,42 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717711&ex
 #EXTINF:-1 tvg-id="Discovery.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?13591" group-title="DOCUMENTARY" , UK:  DISCOVERY HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717720&extension=ts&play_token=YaMlIagANW
 
+#EXTINF:-1 tvg-id="Discovery.Velocity.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8269.jpg?3946" group-title="DOCUMENTARY",CA  DISCOVERY VELOCITY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414078&extension=ts&play_token=mZDG8GBEMd
+
+
+#EXTINF:-1 tvg-id="Documentary+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US DOCUMENTARY+
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568805&extension=ts&play_token=ZBpI0QnDAU
+
+#EXTINF:-1 tvg-id="Great.American.Adventures.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US GREAT AMERICAN ADVENTURES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568759&extension=ts&play_token=ul63ZUdtYN
+
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US HEROES & ICONS
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568750&extension=ts&play_token=qCo5Fx0Ht0
+
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,US HISTORY & WARFARE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568746&extension=ts&play_token=irAnvf4Dq2
+
+
+
+#EXTINF:-1 tvg-id="History.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/733.jpg?36560" group-title="DOCUMENTARY",CA  HISTORY HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414091&extension=ts&play_token=D9YOzDWv8W
+
+#EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,US HISTORY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568747&extension=ts&play_token=pdCGkAw85R
+
+
+#EXTINF:-1 tvg-id="History 2 Canada.ca;History 2 Canada.ca"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?76403" group-title="DOCUMENTARY",CA  H2 HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414090&extension=ts&play_token=MdKQpkrvAY
+
+
 #EXTINF:-1 tvg-id="history-channel-us-eastern-feed"   tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCUMENTARY", USA History Channel SD
 https://tvpass.org/live/HistoryEast/hd
 
 #EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: HISTORY 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162378&extension=ts&play_token=ybNDb27Fu1
 
-#EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366" group-title="DOCUMENTARY" ,  UK: HISTORY HEVC 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717707&extension=ts&play_token=xMlb2EdxXg
 
 #EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: HISTORY 2 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162379&extension=ts&play_token=mpLgyCBpmn
@@ -1699,11 +1564,25 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162379&ex
 #EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338" group-title="DOCUMENTARY" , UK:  HISTORY 2 HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717706&extension=ts&play_token=iXluhBkFpo
 
-#EXTINF:-1 tvg-id="SkyHistory2HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?7924" group-title="DOCUMENTARY" ,  UK: HISTORY 2 HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717717&extension=ts&play_token=iXMDhC2mn6
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US INVESTIGATION DISCOVERY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568736&extension=ts&play_token=gVWiJrCfTN
 
-#EXTINF:-1 tvg-id="Sky.HistoryHD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?77583" group-title="DOCUMENTARY" ,  UK: HISTORY HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717718&extension=ts&play_token=fZ0WWM1PhO
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US INWONDER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568735&extension=ts&play_token=DaCmZ5lw2P
+
+#EXTINF:-1 tvg-id="Love Nature HD.us;Love Nature HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US LOVE NATURE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568724&extension=ts&play_token=AZCuOd8LVU
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US MILITARY HEROES
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568715&extension=ts&play_token=co1hxAuFck
+
+
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US NAT GEO WILD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568696&extension=ts&play_token=yAA9IXVjzA
+
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US NATIONAL GEOGRAPHIC CHANNEL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568695&extension=ts&play_token=y4aeb2Kqn6
+
 
 #EXTINF:-1 tvg-id="NatGeoWild.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?11908" group-title="DOCUMENTARY" ,  UK: NAT GEO WILD HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717709&extension=ts&play_token=MXoNesqVQf
@@ -1711,11 +1590,27 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717709&ex
 #EXTINF:-1 tvg-id="NatGeoWild.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6658.png?24469" group-title="DOCUMENTARY" ,  UK: NAT GEO WILD HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717716&extension=ts&play_token=stDbOsLzTD
 
+#EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.HD.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713" group-title="DOCUMENTARY" ,CA  NATIONAL GEOGRAPHIC WILD HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414081&extension=ts&play_token=pXiH3rK5UK
+
+#EXTINF:-1 tvg-id="National.Geographic.Wild.Canada.HD.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?10713" group-title="DOCUMENTARY" ,CA  NATIONAL GEOGRAPHIC WILD HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414081&extension=ts&play_token=pXiH3rK5UK
+
+
 #EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?60971" group-title="DOCUMENTARY" ,  UK: NATIONAL GEO HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717708&extension=ts&play_token=94SYMTVCKS
 
-#EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?4690" group-title="DOCUMENTARY" ,  UK: NATIONAL GEO HEVC HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717715&extension=ts&play_token=sMcjnP6FFC
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" group-title="DOCUMENTARY" ,  UK:: NATIONAL GEOGRAPHIC 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162380&extension=ts&play_token=PSRzmDiDrp
+
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556" group-title="DOCUMENTARY" ,  UK: : NATIONAL GEOGRAPHIC +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402155&extension=ts&play_token=vrBAsJEy3J
+
+#EXTINF:-1 tvg-id="National.Geographic.Canada.HD.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?97881" group-title="DOCUMENTARY" ,CA  NATIONAL GEOGRAPHIC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=414080&extension=ts&play_token=IB4aNZqbpP
+
+
+
 
 #EXTINF:-1 tvg-id="TLC.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?33829" group-title="DOCUMENTARY" ,  UK: TLC HEVC 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717704&extension=ts&play_token=KvC0dNxZnE
@@ -1723,23 +1618,11 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717704&ex
 #EXTINF:-1 tvg-id="TLC.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?44351" group-title="DOCUMENTARY" ,  UK: TLC HEVC HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=717713&extension=ts&play_token=golSc24w3t
 
-#EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556" group-title="DOCUMENTARY" ,  UK: : NATIONAL GEOGRAPHIC +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402155&extension=ts&play_token=vrBAsJEy3J
-
-#EXTINF:-1 tvg-id=NatGeoWild.HD.uk""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005" group-title="DOCUMENTARY" ,  UK: : NATIONAL GEOGRAPHIC WILD 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162381&extension=ts&play_token=fPBgBLE6mA
-
-#EXTINF:-1 tvg-id="Crime+Inv.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="DOCUMENTARY" ,  UK: CRIME INVESTIGATION +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402156&extension=ts&play_token=Zr2E2LZCEB
-
-#EXTINF:-1 tvg-id="Discovery.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162387&extension=ts&play_token=rD8DpFae59
+#EXTINF:-1 tvg-id="Discovery.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY 4K ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162375&extension=ts&play_token=QT7tOARaWk
 
 #EXTINF:-1 tvg-id="Discovery+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY +1 ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162393&extension=ts&play_token=LMPVXMOnoj
-
-#EXTINF:-1 tvg-id="Discovery.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162375&extension=ts&play_token=QT7tOARaWk
 
 #EXTINF:-1 tvg-id="Disc.History.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY" ,  UK: DISCOVERY HISTORY ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162388&extension=ts&play_token=7MVOyMy64C
@@ -1747,26 +1630,37 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162388&ex
 #EXTINF:-1 tvg-id="Disc.Science.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY SCIENCE ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162390&extension=ts&play_token=YVpAAV1Wf2
 
-#EXTINF:-1 tvg-id="Disc.Turbo+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY TURBO +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402152&extension=ts&play_token=BqVfPmf8tU
-
 #EXTINF:-1 tvg-id="Disc.Turbo.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY TURBO ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162392&extension=ts&play_token=ZjtqbECr2n
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="DOCUMENTARY" ,  UK: INVESTIGATION DISCOVERY +1 ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402153&extension=ts&play_token=gymH52O8un
+#EXTINF:-1 tvg-id="Disc.Turbo+1.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY" ,  UK: DISCOVERY TURBO +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402152&extension=ts&play_token=BqVfPmf8tU
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="DOCUMENTARY" ,  UK: INVESTIGATION DISCOVERY ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162396&extension=ts&play_token=bZX18UgFaC
 
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="DOCUMENTARY" ,  UK: INVESTIGATION DISCOVERY +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=402153&extension=ts&play_token=gymH52O8un
+
 #EXTINF:-1 tvg-id="Love.Nature.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673" group-title="DOCUMENTARY" ,  UK: LOVE NATURE 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162385&extension=ts&play_token=tCLK0mD3u8
+
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US SCIENCE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568653&extension=ts&play_token=ETJb1JLGSn
+
+#EXTINF:-1 tvg-id="Scientology.Media.Productions.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US SCIENTOLOGY NETWORK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568652&extension=ts&play_token=mzR2DT3KMh
 
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263" group-title="DOCUMENTARY" ,  UK: SKY NATURE 4K ◉
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162384&extension=ts&play_token=qYfuGn2VvQ
 
-#EXTINF:-1 tvg-id="Nat.Geo.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" group-title="DOCUMENTARY" ,  UK:: NATIONAL GEOGRAPHIC 4K ◉
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162380&extension=ts&play_token=PSRzmDiDrp
+#EXTINF:-1 tvg-id="Smithsonian.Channel.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US SMITHSONIAN CHANNEL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568647&extension=ts&play_token=NJaudsTVwW
+
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY" ,US TORQUE BY HISTORY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568601&extension=ts&play_token=lXsh71cJu2
+
+
 
 
 ###################################################
@@ -2683,6 +2577,10 @@ https://amg26268-amg26268c13-freelivesports-emea-10224.playouts.now.amagi.tv/ts-
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/anglersparadise-fast.m3u8
+
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7649.jpg?4485" group-title="FISHING/CAMPING", US: WORLD FISHING NETWORK HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325891&extension=ts&play_token=KcWDi68cge
+
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/500px-WFN_2014_logo.svg.png" group-title="FISHING/CAMPING",World Fishing Network
 http://kstv.us:8080/4VUyfZBQzk/95104974615/23203
@@ -7496,22 +7394,53 @@ https://s2host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 ###################################
 
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="COOKING", JAMIE OLIVER
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568733&extension=ts&play_token=DhTavNUNZA
+
+
+
 #EXTINF:1,    tvg-logo="https://static.wixstatic.com/media/6048cf_e514f782835c434d8c65f94084a669f5~mv2.png/v1/fill/w_284,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/jamiechd.png"   group-title="COOKING",Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-chno="3470" tvg-name="The Jamie Oliver Channel" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="COOKING", The Jamie Oliver Channel
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
 
+#EXTINF:-1 channel-id="  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="COOKING",GO: BIZARRE FOODS WITH ANDREW ZIMMERN
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1568850&extension=ts&play_token=0r6m6TrqeB
 
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/500px-Cooking_Channel.svg.png" group-title="COOKING",Cooking Channel
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
 
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" group-title="COOKING",Food Network
+#EXTINF:-1 tvg-id="Food.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?98103" group-title="COOKING", US: FOOD NETWORK HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325821&extension=ts&play_token=o7S6VBU8XH
+
+#EXTINF:-1 tvg-id="Food Network USA HD  Pacific Feed.us;Food Network USA HD  Pacific Feed.us" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" group-title="COOKING",Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="COOKING" , UK: FOOD NETWORK ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162159&extension=ts&play_token=mXXd9tqRsU
+
+#EXTINF:-1 tvg-id="Food.Netwrk+1.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="COOKING" , UK: FOOD NETWORK +1 ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162160&extension=ts&play_token=DCwIj6iaEq
+
+
+#EXTINF:-1 tvg-id="GemsTV.uk;Gems TV.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1236.jpg?81694" group-title="COOKING" , UK: GEMS TV ◉
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=162319&extension=ts&play_token=3DONeu83w3
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_c59246dd61e94ffe8ff9e92ce4c5f8ef~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/cooking%20channeld.png" group-title="COOKING",Food Network
 https://tvpass.org/live/FoodNetworkEast/hd
+
+#EXTINF:-1 tvg-id="Tastemade.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3066.png?67764" group-title="COOKING", US: TASTEMADE HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325923&extension=ts&play_token=LBr4eRoYwf
+
+
+#EXTINF:-1 tvg-id="Food.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?36329" group-title="COOKING", US: FOOD NETWORK WEST HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325859&extension=ts&play_token=VuDKBNUc8T
+
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8272.jpg?22708" group-title="COOKING", US: COOKING CHANNEL HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325825&extension=ts&play_token=aZGR87A0Ur
+
+
+
 
 #EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="COOKING" , SBS Food
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -7645,6 +7574,9 @@ https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c2
 ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8231.png?87144" group-title="GAMESHOW", US: GSN HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325819&extension=ts&play_token=AattxDxGg5
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e8bc9371eb1249b391d4c9e25dde8842~mv2.png/v1/fill/w_264,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/gameshow.png" group-title="GAMESHOW", Game Show Network
 https://tvpass.org/live/game-show-network-east/sd
 
@@ -7658,12 +7590,14 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999228
 #EXTINF:-1 tvg-id="400000196" tvg-logo="https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Family Feud
 https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR" tvg-logo="https://image.xumo.com/v1/channels/channel/99951124/168x168.png?type=color_onBlack" group-title="Entertainment" ,BUZZR
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR" tvg-logo="https://image.xumo.com/v1/channels/channel/99951124/168x168.png?type=color_onBlack" group-title="GAMESHOW" ,BUZZR
 https://buzzrota-web.amagi.tv/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="Entertainment",Game Show Network
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-us.png?raw=true" group-title="GAMESHOW",Game Show Network
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10404
 
+#EXTINF:-1 tvg-id="Game TV HD.us;Game TV HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1962.jpg?20194" group-title="GAMESHOW", US: GAME TV HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=325802&extension=ts&play_token=MSEviM9YWu
 
 
 
@@ -8098,6 +8032,90 @@ https://tvpass.org/live/CNBC/hd
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/ausbiz-fast.m3u8
 
+##################################################################
+###################################################################
+####################    RELAX     ################################
+##################################################################
+####################################################################
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 1 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=779155&extension=ts&play_token=tEXN3F9imZ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 10 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790886&extension=ts&play_token=xjK1EIRabl
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 11 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790885&extension=ts&play_token=FNQ5xfAypo
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 12 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790884&extension=ts&play_token=X5rY0PotfP
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 13 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790883&extension=ts&play_token=k7ERUj6EQ0
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 14 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790882&extension=ts&play_token=BWA8OigoOp
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 15 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790881&extension=ts&play_token=iPec4bzMIS
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 2 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=781817&extension=ts&play_token=dhLMf9WQ8Z
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 3 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=781816&extension=ts&play_token=uK2wf2d4fR
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 4 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=782795&extension=ts&play_token=Bm6Ffcu9UX
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 5 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=782794&extension=ts&play_token=RUTHUFjRl2
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 6 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790890&extension=ts&play_token=PI8UH6g3XX
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 7 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790889&extension=ts&play_token=NkKIG18JBA
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 8 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790888&extension=ts&play_token=Z0es8cdXus
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX 9 ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=790887&extension=ts&play_token=wUki4hXSXh
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX ALGERIA ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1008543&extension=ts&play_token=p6UFXsMy08
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX AUSTRALIA ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791176&extension=ts&play_token=ZmlOiduAaQ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX EARTH NATURE ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791175&extension=ts&play_token=ovuChbvsfq
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX FOREST ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791174&extension=ts&play_token=yjbubXQFlR
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX ICELAND ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791179&extension=ts&play_token=Z9Snqzmb9I
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791173&extension=ts&play_token=Fr3H6XCked
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX MOROCCO ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791180&extension=ts&play_token=E5UuZy2z64
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX NORWAY ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791178&extension=ts&play_token=5r4KnBbJHK
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX THE OCEAN ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791172&extension=ts&play_token=KAnNjXsyKW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="RELAX", RELAX TROPICAL BEACH ᵁᴴᴰ 3840P
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=791171&extension=ts&play_token=RU8yp2TVN6
+
+
+
 
 ############################################
 ############################################
@@ -8383,134 +8401,134 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=607052&ex
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: TNT SPORTS BOX OFFICE SD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=607053&extension=ts&play_token=0X2c9nYp92
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing  2 : Fury v Makhmudov 19:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing  2 : 
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632401&extension=ts&play_token=D1GbJUcnYV
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 1:   Fury v Makhmudov 19:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 1:  
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632402&extension=ts&play_token=T82GItcaDg
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 3 : Fury v Makhmudov 19:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 3 :
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632400&extension=ts&play_token=lWf4byXp1E
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 4: Fury v Makhmudov 19:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 4:
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632399&extension=ts&play_token=cS8vurv3xv
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 5: Fury v Makhmudov 19:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 5:
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632398&extension=ts&play_token=ym51Luyckc
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 6: Fury v Makhmudov 19:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 6: 
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632397&extension=ts&play_token=TdtFxDMsVZ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 7: Jake Paul vs Anthony Joshua
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 7:
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632396&extension=ts&play_token=NwpFCP6xVa
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 8: Jake Paul vs Anthony Joshua
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Boxing 8:
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=632395&extension=ts&play_token=JLJu1T5aWi
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 1 15.45-17.00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=885469&extension=ts&play_token=W8AG7z4iZM
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 2025 event 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=885468&extension=ts&play_token=8NSxAFriRG
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 3 19.00-12.30am
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=885467&extension=ts&play_token=hBmFNJfn9a
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",Glastonbury 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=885466&extension=ts&play_token=3ZPsGnTKup
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 01 - No Event
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 01
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605787&extension=ts&play_token=sZdbaDx4ph
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 02
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605786&extension=ts&play_token=7TYFmMwUUk
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 03 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 03
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605785&extension=ts&play_token=0LpejyeHHq
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 04 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 04
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605784&extension=ts&play_token=YixlT7tntQ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 05 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 05
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605783&extension=ts&play_token=SyFGum2eZs
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 06 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 06
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605781&extension=ts&play_token=KISvpyVfC6
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 07 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 07
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605780&extension=ts&play_token=qTicEF8HGJ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 08 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 08
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605779&extension=ts&play_token=nCCup5e3D3
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 09 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 09
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605778&extension=ts&play_token=ZYJnGCIiRl
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 10 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 10
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605782&extension=ts&play_token=6fOaET0aPb
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 11 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 11
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605777&extension=ts&play_token=dNAORNJZ5j
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 12 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 12
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605776&extension=ts&play_token=OJls7wi9Te
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 13 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 13
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605775&extension=ts&play_token=DxwRZwwM1v
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 14 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 14
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605774&extension=ts&play_token=EKe2TOm4E1
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 15 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 15
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605773&extension=ts&play_token=Rx304FHAdS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 16 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 16
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605772&extension=ts&play_token=CIvEmedKOb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 17 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 17
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605771&extension=ts&play_token=x17vGIbMP2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 18 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 18
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605770&extension=ts&play_token=cV5hPheDGa
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 19 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 19
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605769&extension=ts&play_token=LXnTfbKT5v
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 20 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 20
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605768&extension=ts&play_token=vynsKCuAR8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 21 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 21
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605767&extension=ts&play_token=6snYuJbYpQ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 22 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 22
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605766&extension=ts&play_token=HwMvglzYj8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 23 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 23
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605765&extension=ts&play_token=alKVbWakwr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 24 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 24
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605764&extension=ts&play_token=B3fnZfhGjf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 25 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 25
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605763&extension=ts&play_token=edOiQ0hexg
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 26
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605762&extension=ts&play_token=rh6UayCzWE
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 27 - OUTDOOR THEATRE Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 27
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605761&extension=ts&play_token=O9OVDnGLZ6
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 28 - YUMA Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 28
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605760&extension=ts&play_token=EhIYDaY8eC
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 29 - SAHARA Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 29
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605759&extension=ts&play_token=bbbVKYKLDm
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 30 - MOJAVE Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 30
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605758&extension=ts&play_token=Wp1oE1f8Ge
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 31 - GOBI Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 31
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605757&extension=ts&play_token=BC8x8mmuRF
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 32 - QUASAR Live From Coachella 2026
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 32
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605756&extension=ts&play_token=Y2eNZ59R5j
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 33 -
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 33
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605755&extension=ts&play_token=gVw0dfZ2AT
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 34 -
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 34
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=605754&extension=ts&play_token=emS0jGSqRt
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: ITV PPV HD 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 35
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=408188&extension=ts&play_token=hWtzni71HU
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV FIGHTING
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 36
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=408187&extension=ts&play_token=bLvIF0AzXg
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",UK: PPV MMA 1
@@ -8957,40 +8975,40 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1831619&e
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",| US: DAZN PPV 1
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899901&extension=ts&play_token=qaEUNCnvLk
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW -  | 8K EXCLUSIVE | US: DAZN PPV 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 2
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899900&extension=ts&play_token=d2eKIttkF3
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 3
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899899&extension=ts&play_token=Viv7eUkmyy
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 4
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899898&extension=ts&play_token=93RYPHHMvT
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 5
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899897&extension=ts&play_token=4f6m7YVPRy
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 6
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899896&extension=ts&play_token=3VVWt0C5kj
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 7
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899895&extension=ts&play_token=nFi5FVeeIq
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 8
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899894&extension=ts&play_token=ZHMYcWR8hm
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 9
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899893&extension=ts&play_token=aYiZOjF0px
 
 
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 10
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899892&extension=ts&play_token=XR1Q8ZWa4L
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 11
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 11
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899891&extension=ts&play_token=lHuWbAVLCD
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 12
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",US: DAZN PPV 12
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899890&extension=ts&play_token=5hKFtO0nXR
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="US| DAZN PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | US: DAZN PPV 13
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899889&extension=ts&play_token=nZBpwV85Ru
@@ -9192,28 +9210,28 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899803&e
 #############################    PARAMOUNT    PPV    ###########################################
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+  01
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   01
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501737&extension=ts&play_token=r2gQY2hY6p
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+  02
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   02
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501736&extension=ts&play_token=FGsgnd91o0
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+  03
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   03
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501735&extension=ts&play_token=Wq0Ryx2o7R
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+  04
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   04
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501734&extension=ts&play_token=aQez7ukaz7
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+  05
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   05
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501733&extension=ts&play_token=MCRuHaVVAr
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+  06
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   06
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501732&extension=ts&play_token=KHwJMguWJn
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 07
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   07
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501731&extension=ts&play_token=Yp99Vo93Yi
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 08
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   08
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501730&extension=ts&play_token=DS88qtuFMj
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  09
@@ -9243,7 +9261,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501721&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501720&extension=ts&play_token=9lkMsCfvox
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  19
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501719&extension=ts&play_token=ExpGqMy5s1
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 20 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   20 
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501718&extension=ts&play_token=PJHkfNF9Ud
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  21
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501717&extension=ts&play_token=MCJpj0piyw
@@ -9253,7 +9271,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501716&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501715&extension=ts&play_token=61lfR0BV71
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  24
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501714&extension=ts&play_token=1F5aCDhIHy
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 25 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   25
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501713&extension=ts&play_token=qQGcHZvmkv
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  26
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501712&extension=ts&play_token=9HoMatq7rv
@@ -9265,9 +9283,9 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501710&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501709&extension=ts&play_token=DVE1agHJzb
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  30
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501708&extension=ts&play_token=Em7hwLUMFF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 31 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   31
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501707&extension=ts&play_token=LXPZS8HdFg
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 32 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   32
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501706&extension=ts&play_token=DTc8gycgCZ
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  33
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501705&extension=ts&play_token=E9V7IO6HgZ
@@ -9283,7 +9301,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501701&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501700&extension=ts&play_token=gLkZgn410S
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  39
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501699&extension=ts&play_token=pRVUUWvER9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 40 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   40
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501698&extension=ts&play_token=EAoJDoKJrb
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  41
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501697&extension=ts&play_token=Jd0rTtOL7n
@@ -9291,9 +9309,9 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501697&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501696&extension=ts&play_token=eTN8JbbZ8Q
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  43
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501695&extension=ts&play_token=UipAGXVImr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 44 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   44
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501694&extension=ts&play_token=ONWg4Bw6A9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 45 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   45
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501693&extension=ts&play_token=wX9FEI8JpC
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  46
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501692&extension=ts&play_token=uwnlMqJONd
@@ -9303,7 +9321,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501691&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501690&extension=ts&play_token=NL3QKH4T2e
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  49
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501689&extension=ts&play_token=zlhupBiGZ4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 50 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   50
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501688&extension=ts&play_token=ooGQrlJ5LN
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  51
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501687&extension=ts&play_token=ERel0KZ0tf
@@ -9323,7 +9341,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501681&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501680&extension=ts&play_token=uuIHMlgeI2
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  59
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501679&extension=ts&play_token=DlAYx0vNx3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 60 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   60 
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501678&extension=ts&play_token=LGDwMNI3Gd
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  61
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501677&extension=ts&play_token=6GhMir9IH1
@@ -9375,7 +9393,7 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501655&e
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501654&extension=ts&play_token=IBulak6ouT
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  85
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501653&extension=ts&play_token=qHPNB3a9ng
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+ 86 :
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",Paramount+   86 
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501652&extension=ts&play_token=wHupWWoJdC
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  87
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1501651&extension=ts&play_token=jalAtgE1D0
