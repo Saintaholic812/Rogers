@@ -2433,6 +2433,37 @@ http://kstv.us:8080/4VUyfZBQzk/95104974615/47872
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/racingwa-fast.m3u8
 
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894440.png" group-title="HORSERACING" , ATG LIVE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894440&extension=ts&play_token=e0giT8KVpG
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894436.png" group-title="HORSERACING" , DUBAI RACING 1 TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894436&extension=ts&play_token=n0gMsrUYI3
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894437.png" group-title="HORSERACING" , DUBAI RACING 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894437&extension=ts&play_token=MnUh94gzqG
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894438.png" group-title="HORSERACING" , DUBAI RACING 3 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894438&extension=ts&play_token=oHgmhvIKzi
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894433.png" group-title="HORSERACING" , EQUIDIA LIVE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894433&extension=ts&play_token=NmZx5Z16i3
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894432.png" group-title="HORSERACING" , EQUIDIA LIVE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894432&extension=ts&play_token=1HDqy3W7Z7
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894435.png" group-title="HORSERACING" , ERC EUROPEAN RACING CHANNEL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894435&extension=ts&play_token=dooR2ixAkW
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899881.png" group-title="HORSERACING" , RACING TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=899881&extension=ts&play_token=NjgWi6X6VZ
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899880.png" group-title="HORSERACING" , SKY SPORTS RACING HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=899880&extension=ts&play_token=nRTBrDnr3i
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WILLIAM-HILL-LIVE.png" group-title="HORSERACING" , HORSE RACING"[LIVE EVENT]
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894439&extension=ts&play_token=Cgtn2qAUhr
+
+
 #EXTINF:-1 tvg-name="HorseandCountry.uk;Horse And Country.uk"   tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/hnc_logo.png" group-title="HORSERACING" ,Horse & Country
 https://amg00810-hnc-amg00810c1-lg-au-6140.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
@@ -2446,66 +2477,374 @@ https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sport
 ##############################################
 ###########################################
 
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV MAIN ENGLISH
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920203&extension=ts&play_token=aKJuUBmeyr
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| F1 TV FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317187&extension=ts&play_token=yFYbXbStl
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317781&extension=ts&play_token=ziFsDbOTUW
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317779&extension=ts&play_token=IcX0cX21mj
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SKY SPORTS F1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317782&extension=ts&play_token=p5aW9KjePd
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| DATA
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920180&extension=ts&play_token=q9fga8oZq0
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 DATA
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317208&extension=ts&play_token=iOpEhWZRbG
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 DRIVER
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317210&extension=ts&play_token=C5NjmdlR9L
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 PIT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317209&extension=ts&play_token=nFEfFjCbPq
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TRACKER
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317808&extension=ts&play_token=ZzHMBAfeJ6
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR F1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317783&extension=ts&play_token=bRXaL1p6cu
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| MOVISTAR FORMULA 1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317784&extension=ts&play_token=ZygsTfBKhj
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| ALB ALBON WILLIAMS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317807&extension=ts&play_token=DJ9jmE8wBN
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| ALO ALONSO ASTON MARTIN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317806&extension=ts&play_token=h4tNa6runM
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| BOT BOTTAS ALFAROMEO
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317805&extension=ts&play_token=rtcVfBSMvI
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| DEV DE VRIES ALPHA TAURI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1142815&extension=ts&play_token=9tTiIxLKAP
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| GAS GASLY ALPINE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317802&extension=ts&play_token=BOKzEPy0Jp
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| HAM HAMILTON MERCEDES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317804&extension=ts&play_token=MRRYJUddYC
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| HULK HULKENBURG HAAS F1 TEAM
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317799&extension=ts&play_token=noVvSLBUTS
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| LEC LECLERC FERRARI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317801&extension=ts&play_token=nO7o6EAHgn
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| MAG MAGNUSSEN HAAS F1 TEAM
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317800&extension=ts&play_token=u6ipaQ3Sah
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| NOR NORRIS MCLAREN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317798&extension=ts&play_token=29wrFjd2dN
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| OCO OCON ALPINE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317797&extension=ts&play_token=YYitc32rx0
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| PER PEREZ REDBULLRACING
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317796&extension=ts&play_token=rHwF7mceJO
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| PIA PIASTRY MCLAREN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317795&extension=ts&play_token=NKyLTmVrJb
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| RUS RUSSELL MERCEDES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317794&extension=ts&play_token=0nfq8GLSYW
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SAI SAINZ FERRARI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317793&extension=ts&play_token=ISLG4Mn5R5
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| SAR SARGEANT WILLIAMS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317803&extension=ts&play_token=PVKOehiX99
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| STR STROLL ASTONMARTIN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317792&extension=ts&play_token=HiPxp2bGTF
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TSU TSUNODA ALPHATAURI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317791&extension=ts&play_token=oEM4GPFFRs
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| VER VERSTAPPEN REDBULLRACING
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317790&extension=ts&play_token=VsIytdrY21
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| ZHO ZHOU ALFAROMEO
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317789&extension=ts&play_token=j5IahI1ClF
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TV DRIVER TRACKER
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920208&extension=ts&play_token=vpxQwrKWWc
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317188&extension=ts&play_token=UCDWCiJQQA
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317189&extension=ts&play_token=76MQx3NexJ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317190&extension=ts&play_token=fmDEwCjt6s
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317191&extension=ts&play_token=u6pHy3svRH
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 5
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317192&extension=ts&play_token=Z3fVJIDk5N
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 6
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317193&extension=ts&play_token=WJJZSrtNQl
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 7
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317194&extension=ts&play_token=wWAyFsMYmL
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 8
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317195&extension=ts&play_token=XpUcFLEK71
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 9
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317196&extension=ts&play_token=ZkKvspSiLX
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 10
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317197&extension=ts&play_token=EZSZcFgkXr
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 11
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317198&extension=ts&play_token=adz2VAztZV
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 12
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317199&extension=ts&play_token=6MCtfmyrGZ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 13
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317200&extension=ts&play_token=5C8xHjpfAV
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 14
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317201&extension=ts&play_token=1DPyPgbE1R
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 15
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317202&extension=ts&play_token=P3ikXe3zfS
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 16
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317203&extension=ts&play_token=hyoq3RqgBq
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 17
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317204&extension=ts&play_token=IzkEuA0XGt
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 18
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317205&extension=ts&play_token=mKnIqYVlBz
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 19
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317206&extension=ts&play_token=AR5OZ1n1vc
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| FORMULA 1 EVENT 20
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317207&extension=ts&play_token=NKc6YtKSQ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TV FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920185&extension=ts&play_token=0ODasG9nex
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| TV PIT LANE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920207&extension=ts&play_token=1kiwSTvIbE
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| VIAPLAY 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920209&extension=ts&play_token=uLlo1UDo1x
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIAPLAY%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",F1| VIAPLAY 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920210&extension=ts&play_token=AqGJrrkBvJ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP 360
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920218&extension=ts&play_token=u1jutKVZBu
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP AMBIENT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920216&extension=ts&play_token=8KTEx6rxzh
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP COMMENTARY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920215&extension=ts&play_token=FPyTbbyH5p
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP EVENT 1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317813&extension=ts&play_token=GInwsg44WX
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP EVENT 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920211&extension=ts&play_token=0M5KjE8NFQ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP EVENT 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920212&extension=ts&play_token=nU7xcKVnic
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP HELICOPTER
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920217&extension=ts&play_token=3gCl8sFNNx
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP LIVE TIMING
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920213&extension=ts&play_token=XkokOmuauV
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP LIVE TRACKING
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=920214&extension=ts&play_token=yzIgRD4r2f
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317809&extension=ts&play_token=qLKPVJ3vwV
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317810&extension=ts&play_token=m7KNdyj8nT
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317811&extension=ts&play_token=ryvtDdSqCM
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MOTOGP%20-%20Copie.png" group-title="FORMULA 1 + MOTO GP",MG| MOTOGP ON BOARD 4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=317812&extension=ts&play_token=nieKuhpEaW
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 1
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899415&extension=ts&play_token=lXt5yFpqnK
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 2
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899414&extension=ts&play_token=GaT1HNIRcO
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 3
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899413&extension=ts&play_token=uMPoIBUnV5
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 4
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899412&extension=ts&play_token=JD7DlWyW5S
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 5
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899411&extension=ts&play_token=AXb0xxQLt8
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 6
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899410&extension=ts&play_token=Ui8aBcT5cA
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT |  8K EXCLUSIVE | UK: APPLE TV F1 PPV 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT |  8K EXCLUSIVE | UK: APPLE TV F1 PPV 7
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899409&extension=ts&play_token=zb2rrmPI5l
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 8
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899408&extension=ts&play_token=RiO2Ddy801
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT |  8K EXCLUSIVE | UK: APPLE TV F1 PPV 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT |  8K EXCLUSIVE | UK: APPLE TV F1 PPV 9
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899407&extension=ts&play_token=9dxfovVy9s
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 10
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899406&extension=ts&play_token=wx6ekGXHT2
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 11
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 11
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899405&extension=ts&play_token=gQ9Wql3Af4
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 12
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 12
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899404&extension=ts&play_token=2AkjYyFnGo
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 13
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 13
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899403&extension=ts&play_token=5g0a4XmjYg
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 14
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 14
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899402&extension=ts&play_token=QbSqjWnlJ9
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 15
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 15
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899401&extension=ts&play_token=BD3qc5EYTF
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 16
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 16
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899400&extension=ts&play_token=Ymd3qJRhCG
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 17
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 17
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899399&extension=ts&play_token=aIebd7xjKD
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 18
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 18
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899398&extension=ts&play_token=zLcIal0T8X
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 19
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 19
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899397&extension=ts&play_token=GuLEMDXNOI
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title=" F1 PPV",  NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 20
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14426.png?ver=1517" group-title="FORMULA 1 + MOTO GP",NEXT | 8K EXCLUSIVE | 8K EXCLUSIVE | UK: APPLE TV F1 PPV 20
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1899396&extension=ts&play_token=g2F4ovvlR9
+
+############################    MOTO GP & MX     ########################################################
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", 8K EXCLUSIVE MXGP PPV 
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921391&extension=ts&play_token=hJUIGiUknk
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921390&extension=ts&play_token=9k2yrYX6sm
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921389&extension=ts&play_token=mUvAm7IEbd
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921388&extension=ts&play_token=zBINvRNm8W
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 5
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921387&extension=ts&play_token=6IOjyDDbl1
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 6
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921386&extension=ts&play_token=zrUs4fC0DO
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 7
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921385&extension=ts&play_token=QY8HtgNeG9
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 8
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921384&extension=ts&play_token=6ZvNwMUhJf
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 9
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921383&extension=ts&play_token=zu7qWI52fB
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" ggroup-title="FORMULA 1 + MOTO GP", MXGP PPV 10
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921382&extension=ts&play_token=yCcNunIheD
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 11
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921381&extension=ts&play_token=iaCSWRvOUr
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 12
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921380&extension=ts&play_token=P7csfZYJLG
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 13
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921379&extension=ts&play_token=kSbdrBhWwJ
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 14
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921378&extension=ts&play_token=h6g5MT3Kxu
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 15
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921377&extension=ts&play_token=WSFxyOL7GA
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 16
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921376&extension=ts&play_token=yYv6fFJjmx
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 17
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921375&extension=ts&play_token=BInCBEK1Ss
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 18
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921374&extension=ts&play_token=vSBdgMoC7i
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 19
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921373&extension=ts&play_token=PDP9G9TXKb
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 20
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921372&extension=ts&play_token=M5XJa7nGZ4
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 21
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921371&extension=ts&play_token=qbWLQQE1Tb
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 22
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921370&extension=ts&play_token=P7fozEMLXA
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 23
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921369&extension=ts&play_token=vYkZ46VF4D
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 24
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921368&extension=ts&play_token=nzSg53AUWH
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 25
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921367&extension=ts&play_token=jPxshFcwpb
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 26
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921366&extension=ts&play_token=KnNxXYVqC9
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 27
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921365&extension=ts&play_token=gBFlY2eKIh
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 28
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921364&extension=ts&play_token=rjef0O44UT
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 29
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921363&extension=ts&play_token=BC4D3iA7Pl
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="FORMULA 1 + MOTO GP", MXGP PPV 30
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921362&extension=ts&play_token=NIzjcCHJJQ
+
+
+
+
+
+
 
 ##############################################
 ###############################################
@@ -3569,9 +3908,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1474907&e
 #####################################################
 ##################################################3
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 Movie Franchises",  A CHRISTMAS CAROL
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013475&extension=ts&play_token=dBEnazW4L6
-
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 Movie Franchises",   ANT-MAN
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013604&extension=ts&play_token=dGC8vRNl9y
 
@@ -3669,7 +4005,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1520050&e
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 Movie Franchises",   HARRY POTTER
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013373&extension=ts&play_token=baJxb5V4Ik
 
-
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 Movie Franchises",   ICE AGE
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013485&extension=ts&play_token=J0k4zEQCzS
 
@@ -3723,7 +4058,6 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013376&e
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 Movie Franchises",   JURASSIC WORLD/PARK
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013589&extension=ts&play_token=HGrmZimzPN
-
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 Movie Franchises",   JEEPERS CREEPERS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013620&extension=ts&play_token=wfDhVHGFzn
@@ -4496,6 +4830,143 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=695958&ex
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="CINEMANIA HOLLYWOOD",  CINEMANIA HOLLYWOOD 50 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=695957&extension=ts&play_token=imxqxz9Yxn
+
+
+###################################################################################
+####################################################################################
+###########################   CHRISTMAS    MOVIES     ##############################
+#####################################################################################
+#####################################################################################
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="CHRISTMAS",  CHRISTMAS:  A CHRISTMAS CAROL
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1013475&extension=ts&play_token=dBEnazW4L6
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?43168" group-title="CHRISTMAS",  SKY CINEMA DRAMA/CHRISTMAS HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639176&extension=ts&play_token=77RQo7gegF
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12172.jpg?49519" group-title="CHRISTMAS",  SKY CINEMA DRAMA/CHRISTMAS HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=639196&extension=ts&play_token=Qjlv2KXWpD
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978715.png" group-title="CHRISTMAS",  CHRISTMAS 1 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978715&extension=ts&play_token=j8cSpI29Wh
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978705.png" group-title="CHRISTMAS",   CHRISTMAS 10 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978705&extension=ts&play_token=gq2hs8qH6K
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978714.png" group-title="CHRISTMAS",   CHRISTMAS 2 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978714&extension=ts&play_token=27X1CK7XHl
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978713.png" group-title="CHRISTMAS",   CHRISTMAS 3 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978713&extension=ts&play_token=iTMbOg9uV4
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978712.png" group-title="CHRISTMAS",   CHRISTMAS 4 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978712&extension=ts&play_token=w9MN6mHvSD
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978710.png" group-title="CHRISTMAS",   CHRISTMAS 5 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978710&extension=ts&play_token=VdPt5kgabX
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978709.png" group-title="CHRISTMAS",   CHRISTMAS 6 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978709&extension=ts&play_token=t12txOfpHd
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978708.png" group-title="CHRISTMAS",   CHRISTMAS 7 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978708&extension=ts&play_token=L8mnFrKf2U
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978707.png" group-title="CHRISTMAS",   CHRISTMAS 8 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978707&extension=ts&play_token=J4W6SMrR5q
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978706.png" group-title="CHRISTMAS",   CHRISTMAS 9 4K
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978706&extension=ts&play_token=KDLMkZa3kw
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369601.png" group-title="CHRISTMAS",   CHRISTMAS CARTOONS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369601&extension=ts&play_token=vX4q2snpUz
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369600.png" group-title="CHRISTMAS",   CHRISTMAS COOKIE CHALLENGE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369600&extension=ts&play_token=rZTnxmqWbb
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369598.png" group-title="CHRISTMAS",   CHRISTMAS GREAT LIGHT FIGHT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369598&extension=ts&play_token=xJtpxbygkb
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369597.png" group-title="CHRISTMAS",   CHRISTMAS HOLIDAY WARS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369597&extension=ts&play_token=rq6xiEhg3F
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369596.png" group-title="CHRISTMAS",   CHRISTMAS HOLIDAY YULE LOG
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369596&extension=ts&play_token=xc8xp9CcIl
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369599.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369599&extension=ts&play_token=EFqsibyJWO
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066682.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES 1 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066682&extension=ts&play_token=aoFjBImroU
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066681.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066681&extension=ts&play_token=rfJgI3zKXS
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066680.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES 3 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066680&extension=ts&play_token=WNpHfXqYOR
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066679.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES 4 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066679&extension=ts&play_token=RflxBb3quh
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066678.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES 5 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066678&extension=ts&play_token=IitbjkiyKK
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066677.png" group-title="CHRISTMAS",   CHRISTMAS MOVIES 6 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066677&extension=ts&play_token=xMKAkW8Lti
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729370.png" group-title="CHRISTMAS",   XMAS MOVIES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729370&extension=ts&play_token=oKT8tfdtjr
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369595.png" group-title="CHRISTMAS",   CHRISTMAS NAILED IT! HOLIDAY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369595&extension=ts&play_token=Cqh0E9AvNv
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369603.png" group-title="CHRISTMAS",   CHRISTMAS THE CAROLER CHALLENGE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369603&extension=ts&play_token=ZEcp88MfvE
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369604.png" group-title="CHRISTMAS",   CHRISTMAS VEVO BEST HITS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369604&extension=ts&play_token=Uda9UxZdOR
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729383.png" group-title="CHRISTMAS",   FUBO XMAS MOVIES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729383&extension=ts&play_token=rWmYd5jrnn
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1369602.png" group-title="CHRISTMAS",   SUGAR RUSH
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1369602&extension=ts&play_token=Xe1jUSZpNN
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729368.png" group-title="CHRISTMAS",   XMAS CARTOONS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729368&extension=ts&play_token=AUFYLManbr
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729381.png" group-title="CHRISTMAS",   XMAS CHRISTMAS PLUS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729381&extension=ts&play_token=YytJ2Hfd3m
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729369.png" group-title="CHRISTMAS",   XMAS COOKIE CHALLENGE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729369&extension=ts&play_token=p2sq6JSGHN
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729371.png" group-title="CHRISTMAS",   XMAS GREAT LIGHT FIGHT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729371&extension=ts&play_token=Z3xlgzNOW7
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729372.png" group-title="CHRISTMAS",   XMAS HOLIDAY WARS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729372&extension=ts&play_token=barf3FTC3S
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729373.png" group-title="CHRISTMAS",   XMAS HOLIDAY YULE LOG
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729373&extension=ts&play_token=1CPhBjrmKL
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729374.png" group-title="CHRISTMAS",   XMAS NAILED IT! HOLIDAY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729374&extension=ts&play_token=2wCQvNSlks
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729375.png" group-title="CHRISTMAS",   XMAS SUGAR RUSH
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729375&extension=ts&play_token=dBt4BNLJ8W
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729376.png" group-title="CHRISTMAS",   XMAS THE CAROLER CHALLENGE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729376&extension=ts&play_token=QWzEA6NoG9
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729377.png" group-title="CHRISTMAS",   XMAS VEVO BEST HITS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729377&extension=ts&play_token=fMNUpVCjis
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729378.png" group-title="CHRISTMAS",   XMAS VEVO HIP HOP
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729378&extension=ts&play_token=WvsIpqDSGx
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1729379.png" group-title="CHRISTMAS",   XMAS VEVO MUSIC
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729379&extension=ts&play_token=R0ODESLfXt
+
 
 
 ##############################################
