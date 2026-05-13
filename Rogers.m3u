@@ -2335,82 +2335,103 @@ http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307987
 #EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT HD
 http://aflaxtv.xyz:8080/F36591/3f1a2b5c/307988
 
-
-#############     SKY SPORTS    NZ     ############################
-
-
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575140&extension=ts&play_token=EeinL7lV5q
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 1 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575140&extension=ts&play_token=HQePqmVEdr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6442.jpg?44656" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 1 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670263&extension=ts&play_token=VnU3chgeOY
 
-#EXTINF:-1  tvg-id="Sky.Sport.1.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6442.jpg?44656" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 1 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670263&extension=ts&play_token=reWHxxPRdy
-
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575139&extension=ts&play_token=P1VF3fkqfd
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 2 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575139&extension=ts&play_token=gWAyM8usNk
-
 #EXTINF:-1 tvg-id="Sky.Sport.2.nz"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11976.png?24388" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 2 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670262&extension=ts&play_token=CgaQzvHTAd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11976.png?24388" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 2 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670262&extension=ts&play_token=WJpaRYYiDt
 
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575138&extension=ts&play_token=LFGPdbKC5B
 #EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 3 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575138&extension=ts&play_token=ikVyzDGn68
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?47713" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 3 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670261&extension=ts&play_token=6ska10NGoU
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575137&extension=ts&play_token=9Hr0EKLddu
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6436.png?35051" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 4 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670260&extension=ts&play_token=T8glo3cLCy
 #EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?47713" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 3 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670261&extension=ts&play_token=jpv8ScxuD6
 
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 4 HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575137&extension=ts&play_token=8Ky8wF9lh6
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6436.png?35051" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 4 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670260&extension=ts&play_token=BfWFdwwLRG
-
-
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 5 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575136&extension=ts&play_token=UfdZE1sXOK
 #EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 5 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575136&extension=ts&play_token=NYfPQb4ZG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6435.png?31605" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 5 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670259&extension=ts&play_token=atoFsBqme0
 
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6435.png?31605" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 5 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670259&extension=ts&play_token=rrNLQ7dpj4
 
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 6 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575135&extension=ts&play_token=bFxKWQZ2iX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6434.jpg?49942" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 6 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670258&extension=ts&play_token=s1gVDJDH3e
 #EXTINF:-1 tvg-id="Sky.Sport.6.nz"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 6 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575135&extension=ts&play_token=97eLFrJbpF
 
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6434.jpg?49942" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 6 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670258&extension=ts&play_token=QPqdBTDm1a
 
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 7 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575134&extension=ts&play_token=FUrS6WYXrn
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6433.png?54332" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 7 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670257&extension=ts&play_token=nUPTf2ZlMA
 #EXTINF:-1  tvg-id="Sky.Sport.7.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 7 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575134&extension=ts&play_token=AjSKOSi7eV
-
 #EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6433.png?54332" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 7 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670257&extension=ts&play_token=FWkmP7CQ0V
 
 
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 8 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575133&extension=ts&play_token=YiYjmn1bYe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?88595" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS PREMIER LEAGUE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670268&extension=ts&play_token=BLLinmRkky
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 8 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575133&extension=ts&play_token=xYpYznhNjm
-
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?88595" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS PREMIER LEAGUE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670268&extension=ts&play_token=kZNCqiQSm5
 
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 9 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575132&extension=ts&play_token=Lb8vibEtLN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6421.jpg?49571" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 9 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670256&extension=ts&play_token=1FZAW2yZRZ
 #EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 9 HD
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575132&extension=ts&play_token=1dxi9vagBp
-
 #EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6421.jpg?49571" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 9 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670256&extension=ts&play_token=rVfrSv7TjG
 
 
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT HD
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575131&extension=ts&play_token=5CPfnpARCb
-
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?23641" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS SELECT 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670267&extension=ts&play_token=hgsh5znDpi
 #EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?23641" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS SELECT 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670267&extension=ts&play_token=Z3enQ4eiKy
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575131&extension=ts&play_token=ZAH2tj5Wee
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575131&extension=ts&play_token=5CPfnpARCb
 
+
+
+
+#############     SKY SPORTS    NZ     ############################
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?19797" group-title="SPORT/AUST & NZ",NZ: SKY ESPN 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670265&extension=ts&play_token=YpzCHYdwLe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?19797" group-title="SPORT/AUST & NZ",NZ: SKY ESPN 2 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670264&extension=ts&play_token=kKVLhiSBi5
 
 #EXTINF:-1 group-title="SPORT/AUST & NZ", tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 🇦🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
