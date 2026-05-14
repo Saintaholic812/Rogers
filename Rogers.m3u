@@ -951,51 +951,29 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944047&exten
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?33312" group-title="ENTERTAINMENT", US: A&E
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45619&extension=ts&play_token=oexyGBEhGN
-
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45439.png" group-title="ENTERTAINMENT", US| ABC HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45439&extension=ts&play_token=Upe57MwcHh
-
 #EXTINF:-1 tvg-id="AccuWeather.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91946.png" group-title="ENTERTAINMENT", US| ACCUWEATHER HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91946&extension=ts&play_token=X2ZW560G7n
-
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/150345.png" group-title="ENTERTAINMENT", US| ADULT SWIM HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150345&extension=ts&play_token=aUAUQ6edit
-
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1131979.png" group-title="ENTERTAINMENT", US| ADULT SWIM WEST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1131979&extension=ts&play_token=X9pREDEQsX
-
 #EXTINF:-1 tvg-id="AMC.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6164.png?84800" group-title="ENTERTAINMENT", US: AMC HD
-
 #EXTINF:-1 tvg-id="AMC+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1114.png?6385" group-title="ENTERTAINMENT", US: AMC PLUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=534381&extension=ts&play_token=RWRSYKNl0N
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45613.png" group-title="ENTERTAINMENT", US| AMERICA HEROES HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45613&extension=ts&play_token=9HT5HIkf9N
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45447.png" group-title="ENTERTAINMENT", US| ANIMAL PLANET HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45447&extension=ts&play_token=EyXHnK4BVW
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/91762.png" group-title="ENTERTAINMENT", US| ANIMAL PLANET WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91762&extension=ts&play_token=LDmyIZpNqy
-
 #EXTINF:-1 tvg-id="Antenna.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12454.jpg?13787" group-title="ENTERTAINMENT", US: ANTENNA TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=398879&extension=ts&play_token=kqjIN07QQO
-
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3317.jpg?45592" group-title="ENTERTAINMENT", US: ASPIRE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91763&extension=ts&play_token=wGtcobyUtx
-
 #EXTINF:-1 tvg-id="AWE.A.Wealth.of.Entertainment.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8443.jpg?63479" group-title="ENTERTAINMENT", US: AWE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91955&extension=ts&play_token=9D0VCkPj66
-
 #EXTINF:-1 tvg-id="AXS.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1901.jpg?42221" group-title="ENTERTAINMENT", US| AXS TV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91760&extension=ts&play_token=VXH6jhFUJ7
-
 #EXTINF:-1 tvg-id="BBC.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/192.png?52355" group-title="ENTERTAINMENT", US| BBC AMERICA HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45612&extension=ts&play_token=QWrTE84W48
-
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1783055.png" group-title="ENTERTAINMENT", US| BEACH TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1783055&extension=ts&play_token=o3WjdzQSXU
-
 #EXTINF:-1 tvg-id="BET.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?2640" group-title="ENTERTAINMENT", US: BET HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45610&extension=ts&play_token=5eTschkunp
 
@@ -1076,9 +1054,6 @@ http://xxip25.top:8080/s5pPNV/514479/57322
 
 #EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" tvg-logo="" group-title="ENTERTAINMENT", CRAVE 4 HD
 http://xxip25.top:8080/s5pPNV/514479/57311
-
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90938.png" group-title="ENTERTAINMENT", US| CRIME & INVESTIGATION HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90938&extension=ts&play_token=J7GOXz17e5
 
 #EXTINF:-1 tvg-id="Dabl.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14258.jpg?49744" group-title="ENTERTAINMENT", US| DABL TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1139730&extension=ts&play_token=xSV38BwHXK
@@ -1166,18 +1141,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45457&extensi
 #EXTINF:-1 tvg-id="HDNet.Movies.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/897.jpg?45827" group-title="ENTERTAINMENT", US| HD NET MOVIES HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91885&extension=ts&play_token=88oF76xCE4
 
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/150351.png" group-title="ENTERTAINMENT", US| HEROES & ICONS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150351&extension=ts&play_token=woQu1d3039
-
-#EXTINF:-1 tvg-id="HGTV USA HD  Eastern.us;HGTV USA HD  Eastern.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?52942" group-title="ENTERTAINMENT", US| HGTV HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1350074&extension=ts&play_token=A1MCb1Wi2k
-
-#EXTINF:-1 tvg-id="HGTV USA HD  Pacific Feed.us;HGTV USA HD  Pacific Feed.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?2756" group-title="ENTERTAINMENT", US| HGTV WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91925&extension=ts&play_token=nf0dYSsDgt
-
-#EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?7885" group-title="ENTERTAINMENT", US| HISTORY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45444&extension=ts&play_token=5R8daLStXV
-
 #EXTINF:-1 tvg-id="HLN.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7862.jpg?27877" group-title="ENTERTAINMENT", US| HLN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91857&extension=ts&play_token=U9tnuPlpjy
 
@@ -1186,12 +1149,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1580639&exten
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/150352.png" group-title="ENTERTAINMENT", US| HUNT CHANNEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150352&extension=ts&play_token=CTPTcXyE5V
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45545.png" group-title="ENTERTAINMENT", US| ID HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45545&extension=ts&play_token=YbWf6JRDMo
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/91858.png" group-title="ENTERTAINMENT", US| ID WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91858&extension=ts&play_token=VXwcUxW8qj
 
 #EXTINF:-1 tvg-id="IFC.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8212.png?29092" group-title="ENTERTAINMENT", US| IFC HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45544&extension=ts&play_token=reYIx6yhkO
@@ -1250,9 +1207,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91863&extensi
 #EXTINF:-1 tvg-id="MGM+.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8527.png?46535" group-title="ENTERTAINMENT", US| MGM HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91886&extension=ts&play_token=wlgXPZRbL7
 
-#EXTINF:-1 tvg-id="Military.History.Channel.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91864.png" group-title="ENTERTAINMENT", US| MILITARY HISTORY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91864&extension=ts&play_token=ZiQAshlx4S
-
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6265.jpg?83501" group-title="ENTERTAINMENT", US| MOTORTREND HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90962&extension=ts&play_token=UI2ds37vFK
 
@@ -1271,24 +1225,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45460&extensi
 #EXTINF:-1   tvg-id="mtv-U.us2" tvg-logo="http://51.158.145.100/picons/logos/USA/91913.png" group-title="ENTERTAINMENT", US| MTV U
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91913&extension=ts&play_token=sE73YPweAU
 
-
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45453.png" group-title="ENTERTAINMENT", US| NAT GEO HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45453&extension=ts&play_token=PD2wA4frkS
-
-#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45452.png" group-title="ENTERTAINMENT", US| NAT GEO WILD HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45452&extension=ts&play_token=28b4RcaBtA
-
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1105820.png" group-title="ENTERTAINMENT", US| NBT HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1105820&extension=ts&play_token=TmXdELVgkD
-
-#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90964.png" group-title="ENTERTAINMENT", US| OUTDOOR CHANNEL HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90964&extension=ts&play_token=MW9ep8X9HU
-
-#EXTINF:-1 tvg-id="Outside.Television.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91866.png" group-title="ENTERTAINMENT", US| OUTSIDE TV HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91866&extension=ts&play_token=CdKYwh8ZAS
-
-#EXTINF:-1 tvg-id="Ovation.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13980.png?41458" group-title="ENTERTAINMENT", US| OVATION HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91867&extension=ts&play_token=AO18FS1Rjt
 
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8197.jpg?1638" group-title="ENTERTAINMENT", US| OWN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45518&extension=ts&play_token=xAZvZ5COBD
@@ -1344,9 +1282,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91870&extensi
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/91871.png" group-title="ENTERTAINMENT", US| RIDE TV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91871&extension=ts&play_token=Uu01pJ13ma
-
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/233242.png" group-title="ENTERTAINMENT", US| RT DOCUMENTARY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=233242&extension=ts&play_token=7PboGFIbOi
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/91935.png" group-title="ENTERTAINMENT", US| RT NEWS HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91935&extension=ts&play_token=UV6nBXJgAC
@@ -1423,12 +1358,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91879&extensi
 
 ##EXTINF:-1 tvg-id="TNT.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?37560" group-title="ENTERTAINMENT", US| TNT(BK)
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1198205&extension=ts&play_token=ZsiZwgk6h0
-
-#EXTINF:-1 tvg-id="Travel US HD  East.us;Travel US HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?12958" group-title="ENTERTAINMENT", US| TRAVEL CHANNEL HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45437&extension=ts&play_token=6exzgnzCAZ
-
-#EXTINF:-1 tvg-id="Travel US HD  West.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?83728" group-title="ENTERTAINMENT", US| TRAVEL CHANNEL WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91880&extension=ts&play_token=3DGyfFXbiC
 
 #EXTINF:-1 tvg-id="truTV.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1876.jpg?90056" group-title="ENTERTAINMENT", US| TRUTV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45468&extension=ts&play_token=5H1bxgFR92
@@ -1791,384 +1720,260 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458784&exten
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?75615" group-title="ENTERTAINMENT" , UK: SKY ATLANTIC 4K ◉
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458783&extension=ts&play_token=VVl0JzP1bz
 
-############################################
-#############################################
-##########      DOCUMENTARY     ##############
-##############################################
-############################################3
-
-
-#############   HISTORY   ###############
-
-#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY " tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel
- 
-http://xxip25.top:8080/s5pPNV/514479/47302
-
-#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA HISTORY (E)" tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel
-
-http://xxip25.top:8080/s5pPNV/514479/57272
-
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed",  tvg-logo="https://static.wixstatic.com/media/6048cf_0776d0aef27d48d09710b1c3b3e73ad2~mv2.jpg/v1/fill/w_298,h_278,al_c,lg_1,q_80,enc_avif,quality_auto/history32).jpg"   group-title="DOCO",History Channel
-https://tvpass.org/live/HistoryEast/hd
-
-#EXTINF:-1 channel-id="mjh-h2-fast" tvg-id="mjh-h2-fast" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="DOCO" , H2
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/h2-fast.m3u8
-
-
-
-#EXTINF:-1 tvg-id="history2.ca" tvg-name="CA H2 HD " tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="DOCO" , H2
-http://xxip25.top:8080/s5pPNV/514479/210450
-
-
-
-
-#################    NAT GEO     #################
-
-#EXTINF:-1  tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern",  tvg-logo="https://static.wixstatic.com/media/6048cf_1ca671c8f33644eab95fb06e66fde4ed~mv2.png/v1/fill/w_523,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/natgeo2d.png"   group-title="DOCO",National Geographic
-https://tvpass.org/live/NationalGeographicEast/hd
-
-#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA: National Geographics" tvg-logo="https://static.wixstatic.com/media/6048cf_1ca671c8f33644eab95fb06e66fde4ed~mv2.png/v1/fill/w_523,h_186,al_c,lg_1,q_85,enc_avif,quality_auto/natgeo2d.png" group-title="DOCO",National Geographics
-http://xxip25.top:8080/s5pPNV/514479/57281
-
-
-
-#EXTINF:-1  tvg-id="national-geographic-wild" tvg-name="National Geographic Wild",  tvg-logo="https://static.wixstatic.com/media/6048cf_2e07797c74784f5698e4a1311cc8b4e6~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/natwild.png"    group-title="DOCO",National Geographic Wild
-https://tvpass.org/live/NationalGeographicWildEast/hd
-
-
-#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA National Geographic Wild " tvg-logo="https://static.wixstatic.com/media/6048cf_2e07797c74784f5698e4a1311cc8b4e6~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/natwild.png" group-title="DOCO",National Geographic Wild 
-http://xxip25.top:8080/s5pPNV/514479/57280
-
-##############   ANIMAL PLANET    ##################
-
-
-#EXTINF:-1  tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East",  tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png"    group-title="DOCO",Animal Planet
-https://tvpass.org/live/AnimalPlanetEast/hd
-
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: Animal Planet" tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png" group-title="DOCO", Animal Planet
-http://xxip25.top:8080/s5pPNV/514479/57377
-
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA: Animal Planet" tvg-logo="https://static.wixstatic.com/media/6048cf_9846ea34b48b4f4aa1c60b31cfde6c55~mv2.png/v1/fill/w_402,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/animald.png" group-title="DOCO", Animal Planet
-http://xxip25.top:8080/s5pPNV/514479/57377
-
-
-################    DISCOVERY    ####################
-
-#EXTINF:-1  tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel
-https://tvpass.org/live/DiscoveryChannelEast/hd
-
-#EXTINF:-1  tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel", tvg-logo="https://static.wixstatic.com/media/6048cf_bbaddf22850e4b2885e28a4a0f9c5836~mv2.png/v1/fill/w_418,h_134,al_c,lg_1,q_85,enc_avif,quality_auto/discoveryfamily.png"   group-title="DOCO",Discovery Family Channel
-https://tvpass.org/live/DiscoveryFamily/hd
-
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel",  tvg-logo="https://static.wixstatic.com/media/6048cf_1b750d7537e04a19876fe9f1c7439ecd~mv2.png/v1/fill/w_254,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/discoverylifed.png"   group-title="DOCO",Discovery Life Channel
-https://tvpass.org/live/DiscoveryLife/hd
-
-
-#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA documentary HD (B)" tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",documentary HD
-http://xxip25.top:8080/s5pPNV/514479/148610
-
-#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA Discovery Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO",Discovery Channel 
-http://xxip25.top:8080/s5pPNV/514479/57252
-
-#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA: Discovery Science" tvg-logo="https://static.wixstatic.com/media/6048cf_43f8879ca10a41e88231775b994c544e~mv2.png/v1/fill/w_418,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/discovery2.png" group-title="DOCO", Discovery Science
-http://xxip25.top:8080/s5pPNV/514479/5741
-
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern",   tvg-logo="https://static.wixstatic.com/media/6048cf_b714d2c187524b349d7bf5f611528bab~mv2.jpg/v1/fill/w_254,h_266,al_c,lg_1,q_80,enc_avif,quality_auto/investigation1).jpg"    group-title="DOCO",Investigation Discovery
-https://tvpass.org/live/InvestigationDiscoveryEast/sd
-
-##########    SPACE     ###########################
-
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1684/lg/c19d5e/LG-Logo-PNG-100x100_v2.png"group-title="DOCO",AIR & SPACE
-https://72bef70a5699464f8d36a31f9234825c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_AIRandSPACE/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"group-title="DOCO",Pluto TV Space
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/itv/channels/1224-400x200.png"group-title="DOCO",Space Live
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=[APP_NAME]&ads.app_store_url=[APP_STOREURL]&ads.gdpr=[GDPR]&ads.consent=[GDPR_CONSENT]&ads.us_privacy=[US_PRIVACY]&ads.lmt=[LMT]&ads.device_make=[DEVICE_MAKE]&ads.device_model=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.ifa_type=[IFA_TYPE]&ads.device_id=[DEVICE_ID]&ads.viewsize=[VIEWSIZE]&ads.fck=[FCK]&ads.pcs=[PCS]&ads.nonce=[NONCE]
-
-
-
-############################################################
-
-#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png" group-title="DOCO" ,5 Minutes Craft
-https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="CA | BBC EARTH" tvg-logo="https://imageresizer.static9.net.au/Rc3CC94BjHA9E9BOLrSI22N81PI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648311%2Fgroup-61770.png" group-title="DOCO" , BBC Earth
-http://xxip25.top:8080/s5pPNV/514479/99621
-
-#EXTINF:-1 channel-id="mjh-bbc-earth-fast" tvg-id="mjh-bbc-earth-fast" tvg-logo="https://imageresizer.static9.net.au/Rc3CC94BjHA9E9BOLrSI22N81PI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648311%2Fgroup-61770.png" group-title="DOCO" , BBC Earth
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/bbc-earth-fast.m3u8
-
-#EXTINF:-1 tvg-id="wild.ca" tvg-name="CA WILD TV " tvg-logo="https://static.wixstatic.com/media/6048cf_75e75f90fd7e4a98a303c419fdb7aaec~mv2.png/v1/fill/w_292,h_292,al_c,lg_1,q_85,enc_avif,quality_auto/wild.png" group-title="DOCO",WILD TV 
-http://xxip25.top:8080/s5pPNV/514479/100456
-
-#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA Smithsonian Channel (B)" tvg-logo="https://static.wixstatic.com/media/6048cf_8348870b90e44cb29fe9e7ef39eae19b~mv2.jpg/v1/fill/w_276,h_206,al_c,lg_1,q_80,enc_avif,quality_auto/smith).jpg" group-title="DOCO",Smithsonian Channel 
-http://xxip25.top:8080/s5pPNV/514479/47369
-
-#EXTINF:-1 tvg-id="lovenature.ca" tvg-name="CA Love Nature HD " tvg-logo="" group-title="DOCO",Love Nature HD 
-http://xxip25.top:8080/s5pPNV/514479/47324
-
-#EXTINF:-1   tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed", tvg-logo="https://static.wixstatic.com/media/6048cf_0d06d6d01c774e7b8481058722780bd8~mv2.png/v1/fill/w_406,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/hgtvd.png"   group-title="DOCO",HGTV USA
-https://tvpass.org/live/HGTVEast/hd
-
-#EXTINF:-1  tvg-id="hln" tvg-name="HLN", tvg-logo="https://static.wixstatic.com/media/6048cf_9e822e1a17ad41468699afa780916467~mv2.png/v1/fill/w_264,h_266,al_c,lg_1,q_85,enc_avif,quality_auto/hln1.png" group-title="DOCO",HLN
-https://tvpass.org/live/HLN/hd
-
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US",   tvg-logo="https://static.wixstatic.com/media/6048cf_27fed807427c41feaea7a174e49a21f6~mv2.png/v1/fill/w_392,h_220,al_c,lg_1,q_85,enc_avif,quality_auto/outdoor.png"    group-title="DOCO",Outdoor Channel
-https://tvpass.org/live/OutdoorChannel/hd
-
-#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="DOCO"  tvg-logo="https://static.wixstatic.com/media/6048cf_06ac66e451bd449c839ed2f7a55955dd~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/oxygen.png"    ,Oxygen Eastern Feed
-https://tvpass.org/live/OxygenEast/sd
-
-#EXTINF:-1  tvg-id="science" tvg-name="Science",  tvg-logo="https://static.wixstatic.com/media/6048cf_4a395edba1a74358bf7f9f42bb56f3d4~mv2.png/v1/fill/w_392,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/scienced.png"    group-title="DOCO",Science
-https://tvpass.org/live/Science/hd
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/blueant/nature_time_text_white_transparent_400x200.png"  group-title="DOCO",Nature Time
-https://amg01576-amg01576c3-lg-gb-10769.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueantmediacanadafast-naturetimeemeaenglish-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.coppa=[COPPA]
-
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/RWILD/RealWild_Logo.png"group-title="DOCO",Real Wild
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED
-
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984001/600x200.png?type=white_cropped" group-title="DOCO",Go Wild
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984001&ads.xumo_streamId=99984001&ads.channelId=99984001&ads.ad_tag_id=16821&ads.csid=lgchannels_uk_indigeniusgowild_ssai&ads.channelName=indigeniusgowild_uk&ads.xumo_contentName=indigeniusgowild&ads.xumo_contentId=1103&ads.xumo_providerName=indigeniusgowild&ads.xumo_providerId=1103&ads.content_category=IAB1-7&ads.content_genre=lifestyle&ads.content_language=en&ads.content_rating=bbfc-12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-
-#EXTINF:-1 tvg-logo="https://d2rx6itp6voihr.cloudfront.net/WE_LOGO_LIGHT_LGPlus.png"group-title="DOCO",wildearth
-https://wildearth-lg.amagi.tv/hls/amagi_hls_data_wildearth-wildearth-lgAA/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1299/lg/d458b8/LG-Logo-PNG-100x100_v3.png"group-title="DOCO",Adventure Earth
-https://1d7d59fa677247f28aecb46346c0caeb.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-gb_AdventureEarth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Wonder.png"group-title="DOCO",Wonder
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wonder-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250925/channel_600x200_0e17139c-4c34-4d72-b7ee-3bd00b501e88.png"group-title="DOCO",WaterBear
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984038/600x200.png?type=white_cropped"group-title="DOCO",EarthDay 365
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984038&ads.xumo_streamId=99984038&ads.channelId=99984038&ads.ad_tag_id=120197&ads.csid=lgchannels_uk_earthday365_ssai&ads.channelName=earthday365_uk&ads.xumo_contentName=StingrayEarthDay365&ads.xumo_contentId=4241&ads.xumo_providerName=StingrayEarthDay365&ads.xumo_providerId=4241&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png"group-title="DOCO",Pluto TV Animals
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45-a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1501/lg/3fe535/LG-Logo-PNG-100x100_v2.png"group-title="DOCO",Autentic History
-https://b964b70ba343416aab54f1d990e55d04.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-gb_AutenticHistory/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/PBS_History_LG_Channel_Logo_800x200.png"group-title="DOCO",PBS History
-https://amg02333-pbs-amg02333c3-lg-gb-1988.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png" group-title="DOCO",PBS Science
-https://amg02333-pbs-amg02333c10-lg-gb-3238.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsscience-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_25442dfc33494b5291ca59aedeb2973b~mv2.png/v1/fill/w_254,h_342,al_c,lg_1,q_85,enc_avif,quality_auto/reelzd.png" group-title="DOCO",ReelzChannel
-https://tvpass.org/live/Reelz/hd
-
-#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="DOCO" , Drive
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/drive-fast.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/outdoor/TypeA_White_400x200_Transparent_logo.png"group-title="DOCO" ,OutDoorTV
-https://amg00718-amg00718c1-lg-au-9364.playouts.now.amagi.tv/playlist/amg00718-outdoorchannelfast-outdoor-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-Logo-PNG-100x100_v3.png" group-title="DOCO" ,The Pet Collective
-https://ec8e82aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfVGhlUGV0Q29sbGVjdGl2ZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/PETCLUB_TV_400x200.png",492 Pet Club TV
-https://amg01076-lightning-amg01076c10-lg-au-7796.playouts.now.amagi.tv/playlist/amg01076-lightning-petclub-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/RWILD/RealWild_Logo.png" group-title="DOCO" ,Real Wild
-https://amg00426-lds-amg00426c8-lg-au-2372.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-realwildcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTINF:-1 tvg-logo="https://dbbafpr18dnj5.cloudfront.net/Images/S3/AMG01823C1/ETTV_Logo_White.png" group-title="DOCO" ,earthtouch
-https://amg01823-earthtouch-amg01823c1-lg-au-612.playouts.now.amagi.tv/playlist/amg01823-earthtouch-earthtouch-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250617/channel_600x200_e79e6ffa-7e5d-42ce-8fdf-2b057d601abc.png" group-title="DOCO" ,Waterbear
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1299/lg/d458b8/LG-Logo-PNG-100x100_v3.png" group-title="DOCO" ,Adventure Earth
-https://afccca840d324b2b82b2100e5743f061.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AdventureEarth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/LG_FTM_LogoWhite_200x400px.png",498 Terra Mater WILD
-https://amg01775-amg01775c1-amgplt0049.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01775-amg01775c1-amgplt0049/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/DOCSVILLE400x200.png" group-title="DOCO" ,Docsville
-https://amg01076-lightning-amg01076c9-lg-au-7786.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/lightning/WildStuff/Wild_Stuff_LG_Artworks/Wild%20Stuff_400x200.png" group-title="DOCO" ,Wild Stuff
-https://amg01076-lightning-amg01076c8-lg-au-7792.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/TIMLN/HistoryHit_Logo.png" group-title="DOCO" ,History Hit
-https://amg00426-lds-amg00426c5-lg-au-2370.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-historyhitcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/TIMLN/HistoryHit_Logo.png"group-title="DOCO",History Hit
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timeline-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED
-
-
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/PBS_History_LG_Channel_Logo_800x200.png" group-title="DOCO" ,PBS History
-https://amg02333-pbs-amg02333c3-lg-au-4538.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://d2oxbdk5z4sczk.cloudfront.net/PBSSC/artwork/PBS-Science_LG_Channel_Logo_800x200.png" group-title="DOCO" ,PBS Science
-https://amg02333-pbs-amg02333c10-lg-au-4537.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsscience-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1635-LG-Logo-PNG-100x100_v4.png" group-title="DOCO" ,Modern Marvels
-https://9763a5ac.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/Logo-Inwonder.png" group-title="DOCO" ,InWonder HD
-https://amg00861-terncloud-amg00861c9-lg-au-3098.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-inwonderhd-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://d11hei8e1dyf6i.cloudfront.net/WONDR/Wonder.png" group-title="DOCO" ,Wonder
-https://amg00426-lds-amg00426c6-lg-au-2369.playouts.now.amagi.tv/playlist/amg00426-littledotstudiofast-wonder-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 ##################################################################################################
-#####################    UNITED KINGDOM DISCOVERY     ############################################
+#####################   DOCUMENTARY    ############################################
 ##################################################################################################
 
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ANIMALPLANET.png" group-title="UK| DISCOVERY +",D+| ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="American.Crimes.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  AMERICAN CRIMES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568871&extension=ts&play_token=Eb4YR0dXFz
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  AMERICAN HEROES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568870&extension=ts&play_token=lQeUxjaq72
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11036.png?16340" group-title="DOCUMENTARY", US:  AMERICA HEROES HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325828&extension=ts&play_token=Ex6Vjox9XB
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  ANIMAL PLANET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568868&extension=ts&play_token=iPFPpwoQzl
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?14808" group-title="DOCUMENTARY", US:  ANIMAL PLANET HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325780&extension=ts&play_token=F59yeQlVOR
+#EXTINF:-1 tvg-id="Animal.Planet.West.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?93518" group-title="DOCUMENTARY", US:  ANIMAL PLANET WEST HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325844&extension=ts&play_token=OdcHCUU1GZ
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32238" group-title="DOCUMENTARY", US:  CRIME & INVESTIGATION HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325832&extension=ts&play_token=mZwlj8PNdQ
+#EXTINF:-1 tvg-id="Destination.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DESTINATION AMERICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568812&extension=ts&play_token=pTWhdl52K5
+#EXTINF:-1 tvg-id="Destination.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12523.png?16017" group-title="DOCUMENTARY", US:  DESTINATION AMERICA HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325833&extension=ts&play_token=yUQIyZGuqN
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?82800" group-title="DOCUMENTARY", US:  DISCOVERY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325775&extension=ts&play_token=4L9EWhrvt4
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DISCOVERY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568811&extension=ts&play_token=Eiv4izNho1
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="DOCUMENTARY", US:  DISCOVERY EAST HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1453212&extension=ts&play_token=BbQj4lH2dC
+#EXTINF:-1 tvg-id="Discovery.Channel.West.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="DOCUMENTARY", US:  DISCOVERY WEST HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325855&extension=ts&play_token=2vErL7DnTl
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DISCOVERY FAMILY CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568810&extension=ts&play_token=hgA9k2MLuE
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="DOCUMENTARY", US:  DISCOVERY FAMILY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325776&extension=ts&play_token=TrHqlj9aaj
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DISCOVERY LIFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568809&extension=ts&play_token=lQ6byHADwh
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?12232" group-title="DOCUMENTARY", US:  DISCOVERY LIFE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=326358&extension=ts&play_token=XQ12Joukiu
+#EXTINF:-1 tvg-id="Discovery.Science.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" group-title="DOCUMENTARY", US:  DISCOVERY SCIENCE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325774&extension=ts&play_token=18zYtDhJUN
+#EXTINF:-1 tvg-id="Documentary+.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DOCUMENTARY+
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568805&extension=ts&play_token=kLYQdmZBl4
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DOG WHISPERER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568804&extension=ts&play_token=hnycn37tV8
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  EARTH TOUCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568797&extension=ts&play_token=TQvrt4eNv3
+#EXTINF:-1 tvg-id="EarthX.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  EARTHX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568796&extension=ts&play_token=Wk3tysOInf
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  HGTV
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568748&extension=ts&play_token=wxz4ummAL6
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?52942" group-title="DOCUMENTARY", US:  HGTV HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325791&extension=ts&play_token=MUadNg1azV
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8224.png?2756" group-title="DOCUMENTARY", US:  HGTV WEST HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325901&extension=ts&play_token=AcEvI27G3n
+#EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  HISTORY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568747&extension=ts&play_token=mWO7CZNk6t
+#EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?7885" group-title="DOCUMENTARY", US:  HISTORY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325777&extension=ts&play_token=3XlYW4JNzf
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  HISTORY & WARFARE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568746&extension=ts&play_token=h3nvs07AS6
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  INVESTIGATION DISCOVERY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568736&extension=ts&play_token=v3SeAUyylc
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/622.jpg?59027" group-title="DOCUMENTARY", US:  ID INVESTIGATION DISCOVERY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325865&extension=ts&play_token=o0nZVk8fLU
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45545.png" group-title="DOCUMENTARY", US:  ID HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45545&extension=ts&play_token=YbWf6JRDMo
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91858.png" group-title="DOCUMENTARY", US:  ID WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91858&extension=ts&play_token=VXwcUxW8qj
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  INWONDER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568735&extension=ts&play_token=VsKT7R46l4
+#EXTINF:-1 tvg-id="Love.Nature.ca2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  LOVE NATURE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568724&extension=ts&play_token=AyVSm3yUva
+#EXTINF:-1 tvg-id="Military.History.Channel.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91864.png" group-title="DOCUMENTARY", US:  MILITARY HISTORY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91864&extension=ts&play_token=ZiQAshlx4S
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  MYTHBUSTERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568697&extension=ts&play_token=t33GMPWTwD
+#EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  NAT GEO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568695&extension=ts&play_token=MvdSiVgUEg
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45453.png" group-title="DOCUMENTARY", US:  NAT GEO HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45453&extension=ts&play_token=PD2wA4frkS
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6151.png?10667" group-title="DOCUMENTARY", US:  NATIONAL GEOGRAPHIC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325786&extension=ts&play_token=dVQyfdjzWh
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?40753" group-title="DOCUMENTARY", US:  NATIONAL GEOGRAPHIC WILD HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325785&extension=ts&play_token=9QqUu3MuAe
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45452.png" group-title="DOCUMENTARY", US:  NAT GEO WILD HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45452&extension=ts&play_token=28b4RcaBtA
+#EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  NAT GEO WILD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568696&extension=ts&play_token=XuVxN5mEUE
+#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90964.png" group-title="DOCUMENTARY", US:  OUTDOOR CHANNEL HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90964&extension=ts&play_token=MW9ep8X9HU
+#EXTINF:-1 tvg-id="Outside.Television.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91866.png" group-title="DOCUMENTARY", US:  OUTSIDE TV HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91866&extension=ts&play_token=CdKYwh8ZAS
+#EXTINF:-1 tvg-id="Ovation.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13980.png?41458" group-title="DOCUMENTARY", US:  OVATION HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91867&extension=ts&play_token=AO18FS1Rjt
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  OXYGEN TRUE CRIME
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568679&extension=ts&play_token=DPbPrWJpq4
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  OXYGEN TRUE CRIME ARCHIVES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568678&extension=ts&play_token=V1gN5Hxkay
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/233242.png" group-title="DOCUMENTARY", US:  RT DOCUMENTARY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=233242&extension=ts&play_token=7PboGFIbOi
+#EXTINF:-1 tvg-id="Science.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  SCIENCE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568653&extension=ts&play_token=o8NPh5kpCY
+#EXTINF:-1 tvg-id="Scientology.Media.Productions.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  SCIENTOLOGY NETWORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568652&extension=ts&play_token=4NaYiGxqwp
+#EXTINF:-1 tvg-id="Syfy.HD.us2"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?80387" group-title="DOCUMENTARY", US:  SYFY HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325804&extension=ts&play_token=lTy4w85fCd
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?46941" group-title="DOCUMENTARY", US:  SYFY WEST HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325878&extension=ts&play_token=LWO7zyAzb5
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1421.png?59529" group-title="DOCUMENTARY", US:  TLC HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325801&extension=ts&play_token=lwW7233sWo
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1421.png?86039" group-title="DOCUMENTARY", US:  TLC WEST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325894&extension=ts&play_token=RmPLv6UYjk
+#EXTINF:-1 tvg-id="Travel US HD  East.us;Travel US HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?12958" group-title="DOCUMENTARY", US:  TRAVEL CHANNEL HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325772&extension=ts&play_token=dJ7Xde3mTD
+#EXTINF:-1 tvg-id="Travel US HD  West.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?83728" group-title="DOCUMENTARY", US:  TRAVEL CHANNEL WEST HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325882&extension=ts&play_token=IkDKwfHKgx
+#EXTINF:-1 tvg-id="Travel US HD  East.us;Travel US HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?12958" group-title="DOCUMENTARY", US:  TRAVEL CHANNEL HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45437&extension=ts&play_token=6exzgnzCAZ
+#EXTINF:-1 tvg-id="Travel US HD  West.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3081.jpg?83728" group-title="DOCUMENTARY", US:  TRAVEL CHANNEL WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91880&extension=ts&play_token=3DGyfFXbiC
+#EXTINF:-1 tvg-id="Tastemade.Travel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  TASTEMADE TRAVEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568622&extension=ts&play_token=EkgMRM77BC
+#EXTINF:-1 tvg-id="Travel US HD  East.us;Travel US HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  TRAVEL CHANNEL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568599&extension=ts&play_token=87Jyz9uVv
+#EXTINF:-1 tvg-id="Animal.Planet.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ANIMALPLANET.png" group-title="DOCUMENTARY", UK| ANIMAL PLANET FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549398&extension=ts&play_token=h0KubFgg32
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYHISTORY.png" group-title="UK| DISCOVERY +",D+| DISCOVERY HISTORY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549400&extension=ts&play_token=8O6r9TzWPP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYSCIENCE.png" group-title="UK| DISCOVERY +",D+| DISCOVERY SCIENCE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549401&extension=ts&play_token=bf498o1jv7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYTURBO.png" group-title="UK| DISCOVERY +",D+| DISCOVERY TURBO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549402&extension=ts&play_token=tI3oOqHpVG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DMAX.png" group-title="UK| DISCOVERY +",D+| DMAX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549403&extension=ts&play_token=P4lrUhSGue
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" group-title="UK| DISCOVERY +",D+| FOOD NETWORK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549404&extension=ts&play_token=4BP1qERKzn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HGTV.png" group-title="UK| DISCOVERY +",D+| HGTV
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549405&extension=ts&play_token=lXqHGZQaM0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ID.png" group-title="UK| DISCOVERY +",D+| ID
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549406&extension=ts&play_token=SkO84OTIcS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUEST.png" group-title="UK| DISCOVERY +",D+| QUEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549397&extension=ts&play_token=4eGEYVS8PL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUESTRED.png" group-title="UK| DISCOVERY +",D+| QUEST RED HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549407&extension=ts&play_token=bhZuotphmd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALLY.png" group-title="UK| DISCOVERY +",D+| REALLY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549408&extension=ts&play_token=5hFCPnswDx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" group-title="UK| DISCOVERY +",D+| TLC FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549409&extension=ts&play_token=nihN98Tx3G
-
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164005.png" group-title="DOCUMENTARY",UK| 5 SELECT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164005&extension=ts&play_token=wuVAPCEvQC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" group-title="DOCUMENTARY",UK| ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="Animal.Planet.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" group-title="DOCUMENTARY", UK| ANIMAL PLANET FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30582&extension=ts&play_token=Vx1ztqV92S
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164033.png" group-title="DOCUMENTARY",UK| ANIMAL PLNT +1
+#EXTINF:-1 tvg-id="Animal.Plnt+1.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164033.png" group-title="DOCUMENTARY", UK| ANIMAL PLANET +1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164033&extension=ts&play_token=Ks0O7Es8st
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014333.png" group-title="DOCUMENTARY",UK| CRIME INVESTIGATION +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014333&extension=ts&play_token=5JL4xgBWHW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30551.png" group-title="DOCUMENTARY",UK| CRIME INVESTIGATION FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30551&extension=ts&play_token=0OLctQbJtZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164044.png" group-title="DOCUMENTARY",UK| DISCOVERY +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164044&extension=ts&play_token=sXnxVIsNjC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" group-title="DOCUMENTARY",UK| DISCOVERY FHD
+#EXTINF:-1 tvg-id="Disc.Science.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYSCIENCE.png" group-title="DOCUMENTARY", UK| DISCOVERY SCIENCE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549401&extension=ts&play_token=bf498o1jv7
+#EXTINF:-1 tvg-id="Disc.Turbo.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYTURBO.png" group-title="DOCUMENTARY", UK| DISCOVERY TURBO
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549402&extension=ts&play_token=tI3oOqHpVG
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DMAX.png" group-title="DOCUMENTARY", UK| DMAX
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549403&extension=ts&play_token=P4lrUhSGue
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HGTV.png" group-title="DOCUMENTARY", UK| HGTV
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549405&extension=ts&play_token=lXqHGZQaM0
+#EXTINF:-1 tvg-id="ID.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ID.png" group-title="DOCUMENTARY", UK| ID
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549406&extension=ts&play_token=SkO84OTIcS
+#EXTINF:-1 tvg-id="QUEST.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUEST.png" group-title="DOCUMENTARY", UK| QUEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549397&extension=ts&play_token=4eGEYVS8PL
+#EXTINF:-1 tvg-id="Quest.Red.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUESTRED.png" group-title="DOCUMENTARY", UK| QUEST RED HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549407&extension=ts&play_token=bhZuotphmd
+#EXTINF:-1 tvg-id="Really.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALLY.png" group-title="DOCUMENTARY", UK| REALLY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549408&extension=ts&play_token=5hFCPnswDx
+#EXTINF:-1 tvg-id="TLC.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" group-title="DOCUMENTARY", UK| TLC FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549409&extension=ts&play_token=nihN98Tx3G
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164005.png" group-title="DOCUMENTARY", UK| 5 SELECT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164005&extension=ts&play_token=wuVAPCEvQC
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" group-title="DOCUMENTARY", UK| DISCOVERY FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30549&extension=ts&play_token=9JOpVwv6A2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074678.png" group-title="DOCUMENTARY",UK| DISCOVERY HD
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1074678.png" group-title="DOCUMENTARY", UK| DISCOVERY HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074678&extension=ts&play_token=GHNLEpuQVG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45283.png" group-title="DOCUMENTARY",UK| DISCOVERY HISTORY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45283&extension=ts&play_token=Hr7LEwWIYz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45281.png" group-title="DOCUMENTARY",UK| DISCOVERY SCIENCE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45281&extension=ts&play_token=xPlYNA6hyD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074679.png" group-title="DOCUMENTARY",UK| DISCOVERY SD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074679&extension=ts&play_token=GhV754jpP1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45279.png" group-title="DOCUMENTARY",UK| DISCOVERY TURBO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45279&extension=ts&play_token=Cu2ItQX6dj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014338.png" group-title="DOCUMENTARY",UK| DISCOVERY TURBO +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014338&extension=ts&play_token=iYyWpnCpoO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164004.png" group-title="DOCUMENTARY",UK| DMAX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164004&extension=ts&play_token=LqQYMjjV5e
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164042.png" group-title="DOCUMENTARY",UK| DMAX +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164042&extension=ts&play_token=ORPjdkzjX1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1283923.png" group-title="DOCUMENTARY",UK| EARTHX TV
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1283923&extension=ts&play_token=U0RKO2ZYbn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" group-title="DOCUMENTARY",UK| HISTORY 2 FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30535&extension=ts&play_token=bcAVP1M0LT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" group-title="DOCUMENTARY",UK| HISTORY FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30534&extension=ts&play_token=PRUU3agD8o
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164051.png" group-title="DOCUMENTARY",UK| ID +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164051&extension=ts&play_token=L8UIPvAdOZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45270.png" group-title="DOCUMENTARY",UK| INVESTIGATION DISCOVERY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45270&extension=ts&play_token=DbrqMFySxj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" group-title="DOCUMENTARY",UK| NAT GEO +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014334&extension=ts&play_token=lTyRxNbcmg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30526.png" group-title="DOCUMENTARY",UK| NAT GEO FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30526&extension=ts&play_token=vJMut2LXF6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057011.png" group-title="DOCUMENTARY",UK| NAT GEO HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057011&extension=ts&play_token=jrufG5kasP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057012.png" group-title="DOCUMENTARY",UK| NAT GEO SD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057012&extension=ts&play_token=6QwgbhXsFF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30525.png" group-title="DOCUMENTARY",UK| NAT GEO WILD FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30525&extension=ts&play_token=jwqw4jU8H3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057013.png" group-title="DOCUMENTARY",UK| NAT GEO WILD HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057013&extension=ts&play_token=hWlOdBgATQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057014.png" group-title="DOCUMENTARY",UK| NAT GEO WILD SD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057014&extension=ts&play_token=YL8iQm1w14
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164073.png" group-title="DOCUMENTARY",UK| SKY CRIME FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164073&extension=ts&play_token=13UBDBoP89
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" group-title="DOCUMENTARY",UK| SKY DOCUMENTARIES FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164072&extension=ts&play_token=9osBRExmpi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074676.png" group-title="DOCUMENTARY",UK| SKY DOCUMENTARIES HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074676&extension=ts&play_token=DqsfLf4BUK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074677.png" group-title="DOCUMENTARY",UK| SKY DOCUMENTARIES SD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074677&extension=ts&play_token=9meUaTzZKN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014335.png" group-title="DOCUMENTARY",UK| SKY HISTORY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014335&extension=ts&play_token=2JHEa7m72I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014336.png" group-title="DOCUMENTARY",UK| SKY HISTORY/H2 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014336&extension=ts&play_token=ujXAlL0QF8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" group-title="DOCUMENTARY",UK| SKY NATURE FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164071&extension=ts&play_token=kgcXkpvkqc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/79718.png" group-title="DOCUMENTARY",UK| TRAVEL CHANNEL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79718&extension=ts&play_token=vjlH741JQa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CRIMEINVESTIGATION.png" group-title="DOCUMENTARY",UK| CRIME INVESTIGATION  FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458757&extension=ts&play_token=GLyeZ2HCc5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CRIMEINVESTIGATION.png" group-title="DOCUMENTARY",UK| CRIME INVESTIGATION  HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458763&extension=ts&play_token=ZbloljbsHq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" group-title="DOCUMENTARY",UK| DISCOVERY HEVC FHD
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" group-title="DOCUMENTARY", UK| DISCOVERY FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458756&extension=ts&play_token=ETVatgYWA8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" group-title="DOCUMENTARY",UK| DISCOVERY  HD
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" group-title="DOCUMENTARY", UK| DISCOVERY  HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458759&extension=ts&play_token=ehrQIsZOVM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="DOCUMENTARY",UK| Nat Geo WIld FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458748&extension=ts&play_token=SpgKwMlIcM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="DOCUMENTARY",UK| NAT GEO WIld HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458745&extension=ts&play_token=DGIhwHH8jr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" group-title="DOCUMENTARY",UK| NATIONAL GEO FHD
+#EXTINF:-1 tvg-id="Discovery+1.uk" tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UK/164044.png" group-title="DOCUMENTARY", UK| DISCOVERY +1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164044&extension=ts&play_token=sXnxVIsNjC
+#EXTINF:-1 tvg-id="Disc.Science.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/45281.png" group-title="DOCUMENTARY", UK| DISCOVERY SCIENCE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45281&extension=ts&play_token=xPlYNA6hyD
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1074679.png" group-title="DOCUMENTARY", UK| DISCOVERY SD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074679&extension=ts&play_token=GhV754jpP1
+#EXTINF:-1 tvg-id="Disc.Turbo.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/45279.png" group-title="DOCUMENTARY", UK| DISCOVERY TURBO
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45279&extension=ts&play_token=Cu2ItQX6dj
+#EXTINF:-1 tvg-id="Disc.Turbo+1.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1014338.png" group-title="DOCUMENTARY",UK| DISCOVERY TURBO +1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014338&extension=ts&play_token=iYyWpnCpoO
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164004.png" group-title="DOCUMENTARY", UK| DMAX
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164004&extension=ts&play_token=LqQYMjjV5e
+#EXTINF:-1 tvg-id="DMAX+1.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164042.png" group-title="DOCUMENTARY", UK| DMAX +1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164042&extension=ts&play_token=ORPjdkzjX1
+#EXTINF:-1 tvg-id="EarthxTV.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1283923.png" group-title="DOCUMENTARY", UK| EARTHX TV
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1283923&extension=ts&play_token=U0RKO2ZYbn
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" group-title="DOCUMENTARY", UK| NATIONAL GEO FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458749&extension=ts&play_token=qNrQAvVMCQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" group-title="DOCUMENTARY",UK| NATIONAL GEO HD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" group-title="DOCUMENTARY", UK| NATIONAL GEO HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458746&extension=ts&play_token=fGYM7zODS9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="DOCUMENTARY",UK| SKY CRIME  FHD
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/30526.png" group-title="DOCUMENTARY", UK| NAT GEO FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30526&extension=ts&play_token=vJMut2LXF6
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1057011.png" group-title="DOCUMENTARY", UK| NAT GEO HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057011&extension=ts&play_token=jrufG5kasP
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1057012.png" group-title="DOCUMENTARY", UK| NAT GEO SD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057012&extension=ts&play_token=6QwgbhXsFF
+#EXTINF:-1 tvg-id="Nat.Geo+1.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" group-title="DOCUMENTARY", UK| NAT GEO +1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014334&extension=ts&play_token=lTyRxNbcmg
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UK/30525.png" group-title="DOCUMENTARY", UK| NAT GEO WILD FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30525&extension=ts&play_token=jwqw4jU8H3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057013.png" group-title="DOCUMENTARY", UK| NAT GEO WILD HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057013&extension=ts&play_token=hWlOdBgATQ
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="DOCUMENTARY", UK| Nat Geo WIld FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458748&extension=ts&play_token=SpgKwMlIcM
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="DOCUMENTARY", UK| NAT GEO WIld HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458745&extension=ts&play_token=DGIhwHH8jr
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1057014.png" group-title="DOCUMENTARY", UK| NAT GEO WILD SD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057014&extension=ts&play_token=YL8iQm1w14
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UK/30551.png" group-title="DOCUMENTARY", UK| CRIME INVESTIGATION FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30551&extension=ts&play_token=0OLctQbJtZ
+#EXTINF:-1 tvg-id="Crime+Inv.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CRIMEINVESTIGATION.png" group-title="DOCUMENTARY", UK| CRIME INVESTIGATION  FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458757&extension=ts&play_token=GLyeZ2HCc5
+#EXTINF:-1 tvg-id="Crime+Inv.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CRIMEINVESTIGATION.png" group-title="DOCUMENTARY", UK| CRIME INVESTIGATION  HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458763&extension=ts&play_token=ZbloljbsHq
+#EXTINF:-1 tvg-id="Crime+Inv+1.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1014333.png" group-title="DOCUMENTARY", UK| CRIME INVESTIGATION +1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014333&extension=ts&play_token=5JL4xgBWHW
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164073.png" group-title="DOCUMENTARY", UK| SKY CRIME FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164073&extension=ts&play_token=13UBDBoP89
+#EXTINF:-1 tvg-id="ID.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/45270.png" group-title="DOCUMENTARY", UK| INVESTIGATION DISCOVERY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45270&extension=ts&play_token=DbrqMFySxj
+#EXTINF:-1 tvg-id="ID+1.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164051.png" group-title="DOCUMENTARY", UK| INVESTIGATION DISCOVERY +1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164051&extension=ts&play_token=L8UIPvAdOZ
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="DOCUMENTARY", UK| SKY CRIME  FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458761&extension=ts&play_token=0hYYZWlspC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="DOCUMENTARY",UK| SKY CRIME HD
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="DOCUMENTARY", UK| SKY CRIME HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458760&extension=ts&play_token=WpcOW6gFsZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" group-title="DOCUMENTARY",UK| SKY HISTORY 2 FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458752&extension=ts&play_token=H2TCAANKnW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" group-title="DOCUMENTARY",UK| SKY HISTORY 2 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458750&extension=ts&play_token=vgYvbfF5DB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" group-title="DOCUMENTARY",UK| SKY HISTORY FHD
+#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" group-title="DOCUMENTARY", UK| SKY DOCUMENTARIES FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164072&extension=ts&play_token=9osBRExmpi
+#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1074676.png" group-title="DOCUMENTARY", UK| SKY DOCUMENTARIES HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074676&extension=ts&play_token=DqsfLf4BUK
+#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1074677.png" group-title="DOCUMENTARY", UK| SKY DOCUMENTARIES SD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074677&extension=ts&play_token=9meUaTzZKN
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" group-title="DOCUMENTARY", UK| HISTORY FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30534&extension=ts&play_token=PRUU3agD8o
+#EXTINF:-1 tvg-id="Disc.History.uk" " tvg-logo="http://51.158.145.100/picons/logos/UK/45283.png" group-title="DOCUMENTARY", UK| DISCOVERY HISTORY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45283&extension=ts&play_token=Hr7LEwWIYz
+#EXTINF:-1 tvg-id="Disc.History.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYHISTORY.png" group-title="DOCUMENTARY", UK| DISCOVERY HISTORY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549400&extension=ts&play_token=8O6r9TzWPP
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" group-title="DOCUMENTARY", UK| SKY HISTORY FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458753&extension=ts&play_token=RHzsqHqkOo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" group-title="DOCUMENTARY",UK| SKY HISTORY HD
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" group-title="DOCUMENTARY", UK| SKY HISTORY HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458751&extension=ts&play_token=bUyFJTjdaU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" group-title="DOCUMENTARY",UK| SKY NATURE FHD
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1014335.png" group-title="DOCUMENTARY", UK| SKY HISTORY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014335&extension=ts&play_token=2JHEa7m72I
+#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" group-title="DOCUMENTARY", UK| HISTORY 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30535&extension=ts&play_token=bcAVP1M0LT
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1014336.png" group-title="DOCUMENTARY", UK| SKY HISTORY/H2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014336&extension=ts&play_token=ujXAlL0QF8
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" group-title="DOCUMENTARY", UK| SKY HISTORY 2 FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458752&extension=ts&play_token=H2TCAANKnW
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" group-title="DOCUMENTARY", UK| SKY HISTORY 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458750&extension=ts&play_token=vgYvbfF5DB
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" group-title="DOCUMENTARY", UK| SKY NATURE FHD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164071&extension=ts&play_token=kgcXkpvkqc
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" group-title="DOCUMENTARY", UK| SKY NATURE FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458747&extension=ts&play_token=Y0RuwIMy0O
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" group-title="DOCUMENTARY",UK| SKY NATURE HD
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" group-title="DOCUMENTARY", UK| SKY NATURE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458758&extension=ts&play_token=kKYocnUoRj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SYFY.png" group-title="DOCUMENTARY",UK| SYFY FHD
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SYFY.png" group-title="DOCUMENTARY", UK| SYFY FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458754&extension=ts&play_token=Cgjy2qfpzn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SYFY.png" group-title="DOCUMENTARY",UK| SYFY HD
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SYFY.png" group-title="DOCUMENTARY", UK| SYFY HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458755&extension=ts&play_token=3sD38guaBD
+#EXTINF:-1 tvg-id="Travelxp.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/79718.png" group-title="DOCUMENTARY", UK| TRAVEL CHANNEL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79718&extension=ts&play_token=vjlH741JQa
+
 
 
 ##########################
@@ -8224,16 +8029,16 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999306
 ##################################
 ###################################
 
-
+#EXTINF:-1 tvg-id="64dab9df3d48f40008868091"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="COOKING" JAMIE OLIVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568733&extension=ts&play_token=YAtS5eNaxh
 #EXTINF:1,    tvg-logo="https://static.wixstatic.com/media/6048cf_e514f782835c434d8c65f94084a669f5~mv2.png/v1/fill/w_284,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/jamiechd.png"   group-title="COOKING",Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 channel-id="64dab9df3d48f40008868091" tvg-id="64dab9df3d48f40008868091" tvg-chno="3470" tvg-name="The Jamie Oliver Channel" tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="COOKING", The Jamie Oliver Channel
 https://jmp2.uk/plu-64dab9df3d48f40008868091.m3u8
-
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" group-title="COOKING", UK| FOOD NETWORK
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549404&extension=ts&play_token=4BP1qERKzn
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_c59246dd61e94ffe8ff9e92ce4c5f8ef~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/cooking%20channeld.png" group-title="COOKING",Food Network
 https://tvpass.org/live/FoodNetworkEast/hd
-
 #EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="COOKING" , SBS Food
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
