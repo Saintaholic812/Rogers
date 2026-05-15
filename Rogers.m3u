@@ -2759,7 +2759,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45570&extensi
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SOCCER PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429583&extension=ts&play_token=yMs1mNKHsh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/FOXSOCCERPLUS.png" group-title="SPORT/USA", FOX SOCCER PLUS
+#EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/FOXSOCCERPLUS.png" group-title="SPORT/USA", FOX SOCCER PLUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1968452&extension=ts&play_token=cZ4vg81u7g
 
 #EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT/USA",ESPN News
