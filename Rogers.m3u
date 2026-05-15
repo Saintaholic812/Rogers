@@ -2532,27 +2532,19 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966258&exte
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 1 4K
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905820&extension=ts&play_token=NSeT9ncA9D
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 1 4K
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905819&extension=ts&play_token=AQ6Fnv92IM
 #EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 1 HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905817&extension=ts&play_token=p12GR7qa4V
 #EXTINF:-1  tvg-id="TNT.Sports.1.HD.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905818&extension=ts&play_token=ujsaAAID6y
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 2  4K
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905816&extension=ts&play_token=rg578KqvW6
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 2
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905814&extension=ts&play_token=wrE5ebm08k
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 2
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905815&extension=ts&play_token=y7xNLesDRk
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 3 4k
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905813&extension=ts&play_token=fQU42jS4kn
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 3
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905811&extension=ts&play_token=z84vjDbQJW
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 3
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905812&extension=ts&play_token=0cELQElTGr
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 4 4K
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905810&extension=ts&play_token=UsdpH0S3Dt
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 4
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905808&extension=ts&play_token=vubwRtz1jf
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="SPORT / UK", TNT SPORTS 4
@@ -2758,25 +2750,17 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=712990&exten
 #############################################################################################
 
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SPORTS 1
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429586&extension=ts&play_token=ACWR0sQoSW
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SPORTS 1 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429590&extension=ts&play_token=CwQy5PdoFt
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SPORTS 1
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429588&extension=ts&play_token=cgE5BMr2FI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45571&extension=ts&play_token=1c3gMMnvzu
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png" group-title="SPORT/USA",Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SPORTS 2
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429585&extension=ts&play_token=4HZ6Uie4gM
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SPORTS 2 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429589&extension=ts&play_token=2q0LlC0yDc
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SPORTS 2
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429587&extension=ts&play_token=EiHTFFtMxK
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45570&extension=ts&play_token=Op3H3pbK5X
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="SPORT/USA", Fox Sports 2 SD
 https://tvpass.org/live/FoxSports2/hd
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="SPORT/USA", US: FOX SOCCER PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429583&extension=ts&play_token=yMs1mNKHsh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/FOXSOCCERPLUS.png" group-title="SPORT/USA", AMP: FOX SOCCER PLUS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1847445&extension=ts&play_token=hA6LqBNpCJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/FOXSOCCERPLUS.png" group-title="SPORT/USA", FOX SOCCER PLUS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1968452&extension=ts&play_token=cZ4vg81u7g
 
 #EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT/USA",ESPN News
 https://tvpass.org/live/ESPNews/sd
