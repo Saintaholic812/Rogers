@@ -3012,14 +3012,30 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048243&exten
 
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388610.png" group-title="F1 PPV",   FORMULA 1 TV FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388610&extension=ts&play_token=syR2ksulY5
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388611.png" group-title="F1 PPV",   DATA
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388611&extension=ts&play_token=SB1op7CEla
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388613.png" group-title="F1 PPV",   TRACKER
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388613&extension=ts&play_token=zkK63y75gl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388607.png" group-title="F1 PPV",   SKY SPORTS F1 1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388607&extension=ts&play_token=ExgiiPpU10
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388604.png" group-title="F1 PPV",   SKY SPORTS F1 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388604&extension=ts&play_token=blb1GwFpcB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388605.png" group-title="F1 PPV",   SKY SPORTS F1 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388605&extension=ts&play_token=F4Q4PcR757
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388603.png" group-title="F1 PPV",   SKY SPORTS F1 4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388603&extension=ts&play_token=A1gztgO5aW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388608.png" group-title="F1 PPV",   SKY SPORTS F1 5
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388608&extension=ts&play_token=5egl3VklMB
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388606.png" group-title="F1 PPV",   SKY SPORTS F1 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388606&extension=ts&play_token=6mEkDg6Sd3
+
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388633.png" group-title="F1 PPV",   ALBON WILLIAMS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388633&extension=ts&play_token=6trNxNHaI8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388614.png" group-title="F1 PPV",   ALONSO ALPINE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388614&extension=ts&play_token=3YXsWxdyKR
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388617.png" group-title="F1 PPV",   BOTTAS ALFA ROMEO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388617&extension=ts&play_token=tGp6WZJsfD
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388611.png" group-title="F1 PPV",   DATA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388611&extension=ts&play_token=SB1op7CEla
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388612.png" group-title="F1 PPV",   DEVRIES ALPHA TAURI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388612&extension=ts&play_token=eEVAvzT7zj
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388616.png" group-title="F1 PPV",   GASLY ALPHA TAURI
@@ -3050,8 +3066,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388629&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388620&extension=ts&play_token=xjO2NpsEPa
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388630.png" group-title="F1 PPV",   STROLL ASTON MARTIN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388630&extension=ts&play_token=nkHtY7FwwX
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388613.png" group-title="F1 PPV",   TRACKER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388613&extension=ts&play_token=zkK63y75gl
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388631.png" group-title="F1 PPV",   TSUNODA ALPHA TAURI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388631&extension=ts&play_token=78WNnvIDd3
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388632.png" group-title="F1 PPV",   VERSTAPPEN REDBULL RACING
@@ -3059,18 +3073,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388632&exten
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388626.png" group-title="F1 PPV",   ZHOU ALFA ROMEO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388626&extension=ts&play_token=NGNooQN9S8
 
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388607.png" group-title="F1 PPV",   SKY SPORTS F1 1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388607&extension=ts&play_token=ExgiiPpU10
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388604.png" group-title="F1 PPV",   SKY SPORTS F1 2
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388604&extension=ts&play_token=blb1GwFpcB
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388605.png" group-title="F1 PPV",   SKY SPORTS F1 3
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388605&extension=ts&play_token=F4Q4PcR757
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388603.png" group-title="F1 PPV",   SKY SPORTS F1 4
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388603&extension=ts&play_token=A1gztgO5aW
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388608.png" group-title="F1 PPV",   SKY SPORTS F1 5
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388608&extension=ts&play_token=5egl3VklMB
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388606.png" group-title="F1 PPV",   SKY SPORTS F1 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388606&extension=ts&play_token=6mEkDg6Sd3
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1541479.png" group-title="F1 PPV",   TT RACES01
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1541479&extension=ts&play_token=TiHvDS5BD4
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1541478.png" group-title="F1 PPV",   TT RACES02
@@ -3084,19 +3086,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1541477&exten
 ####################################################################################################
 
 
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388602.png" group-title="UK| MXGP PPV",UK: MOTOGP AMBIENT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388602&extension=ts&play_token=qmNKtcHRjY
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388600.png" group-title="UK| MXGP PPV",UK: MOTOGP HELI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388600&extension=ts&play_token=sncvVBCisD
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388599.png" group-title="UK| MXGP PPV",UK: MOTOGP OB1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388599&extension=ts&play_token=rGIL6tfE9w
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388598.png" group-title="UK| MXGP PPV",UK: MOTOGP OB2
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388598&extension=ts&play_token=M0za3GRSUy
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388597.png" group-title="UK| MXGP PPV",UK: MOTOGP OB3
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388597&extension=ts&play_token=u5y5wZPKmC
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1388596.png" group-title="UK| MXGP PPV",UK: MOTOGP OB4
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388596&extension=ts&play_token=SNqkluj6ps
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",UK: MXGP PPV 1  8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",-  MXGP PPV 1 
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921391&extension=ts&play_token=hJUIGiUknk
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",-  MXGP PPV 2
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921390&extension=ts&play_token=9k2yrYX6sm
@@ -3156,6 +3146,18 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921364&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921363&extension=ts&play_token=BC4D3iA7Pl
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",-  MXGP PPV 30
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1921362&extension=ts&play_token=NIzjcCHJJQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",  MOTOGP AMBIENT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388602&extension=ts&play_token=qmNKtcHRjY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",  MOTOGP HELI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388600&extension=ts&play_token=sncvVBCisD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",  MOTOGP OB1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388599&extension=ts&play_token=rGIL6tfE9w
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",  MOTOGP OB2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388598&extension=ts&play_token=M0za3GRSUy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",  MOTOGP OB3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388597&extension=ts&play_token=u5y5wZPKmC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/mxgp.png" group-title="UK| MXGP PPV",  MOTOGP OB4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388596&extension=ts&play_token=SNqkluj6ps
 
 
 ##############################################
@@ -7408,7 +7410,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920825&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920824&extension=ts&play_token=vSlJ8MH0Uo
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920823.png" group-title="PRIME",PRIME| TINY HOUSE NATION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920823&extension=ts&play_token=YwzzEayJKX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920822.png" group-title="UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME| TLC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920822.png" group-title="PRIME",PRIME| TLC
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920822&extension=ts&play_token=gGKorbkUvE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920821.png" group-title="PRIME",PRIME| TNT SPORTS 1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920821&extension=ts&play_token=zI99tTTGWU
@@ -7769,11 +7771,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1919715&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1919714.png" group-title="GENERAL",UK| VERA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1919714&extension=ts&play_token=4qFxyD06u9
 
-
-
-
-
-
 ###############################
 ##############################
 ######      MUSIC    ##########
@@ -8081,14 +8078,12 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1372122&exten
 #EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au", tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png", group-title="NEWS" ,Sky News Australia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
-
 #EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NEWS" , 7NEWS Spotlight
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas32-fast.m3u8
 
 ###############   CNN   ######################
-
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_41d1ab2d17a0445f89226b66ed8880df~mv2.png/v1/fill/w_320,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/cnnd.png" group-title="NEWS",CNN US
 https://tvpass.org/live/CNN/hd
@@ -8104,7 +8099,6 @@ http://xxip25.top:8080/s5pPNV/514479/57398
 
 #EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA CNN " tvg-logo="" group-title="NEWS", CNN 
 http://xxip25.top:8080/s5pPNV/514479/47213
-
 
 ##################    FOX     #####################
 
@@ -8127,7 +8121,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA FOX NEWS" tvg-logo="" group-title="NEWS",FOX NEWS
 http://xxip25.top:8080/s5pPNV/514479/47281
 
-
 ##################    BBC     #############################
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_66a1f98c14d340a39a96c22eb5ba84fe~mv2.jpg/v1/fill/w_338,h_188,al_c,lg_1,q_80,enc_avif,quality_auto/bbc%20(1).jpg" group-title="NEWS",BBC America East
@@ -8146,8 +8139,6 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/am
 
 #EXTINF:-1 tvg-id="" tvg-name="CA: BBC World News" tvg-logo="" group-title="NEWS",BBC World News
 http://xxip25.top:8080/s5pPNV/514479/139752
-
-
 
 ######################   NBC/ABC/CBS   ###########################
 
@@ -8184,9 +8175,6 @@ https://tvpass.org/live/WCBSDT1/hd
 ###################################################################################
 ##################     NEWS       ##################################################
 ####################################################################################
-
-
-
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ALJAZEERA.png" group-title="NEWS",AL JAZEERA EN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=229460&extension=ts&play_token=vMmqnHqHp0
@@ -8239,10 +8227,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014202&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/WION.png" group-title="NEWS",WION FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014198&extension=ts&play_token=Qb1hkxt4I4
 
-
-
-
-
 ##############    STOCKS    ########################
 
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="CA MSNBC (R)" tvg-logo="" group-title="NEWS",MSNBC
@@ -8272,8 +8256,6 @@ http://xxip25.top:8080/s5pPNV/514479/57358
 
 
 ###########################    RED BUTTON IPLAYER    #################################
-
-
 
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1014241.png" group-title="UK| SKY SPORTS RED BUTTON",UK| SKY SPORTS RED BUTTON 01
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014241&extension=ts&play_token=bQGZiLqWAl
@@ -8318,7 +8300,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014259&exten
 ########################     PPV       #################################################
 #########################################################################################
 
-
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12620.jpg?ver=4006" group-title="UK| UFC PPV",UFC 00 :
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=605936&extension=ts&play_token=9nA8d8hDM2
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12620.jpg?ver=4006" group-title="UK| UFC PPV",UFC 01 :
@@ -8341,8 +8322,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=605928&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=605927&extension=ts&play_token=F5c3XF9KqN
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12620.jpg?ver=4006" group-title="UK| UFC PPV",UFC 10:
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=605926&extension=ts&play_token=0BR2kb10dX
-
-
 
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="UK| MAX PPV",ENDED | PPV 1
