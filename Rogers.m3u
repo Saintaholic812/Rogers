@@ -4744,7 +4744,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1337318&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DISNEYPLUS.png" group-title="DISNEY+ ", US| DISNEY+ SERIES 10
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1337317&extension=ts&play_token=Q18TDA1wxQ
 
-
+#########################################     HULU      ############################################################
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14862.jpg?ver=67258" group-title="HULU NETWORK",US: HULU ORIGINALS INFO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671017&extension=ts&play_token=qnpvY3MnJv
@@ -4788,57 +4788,98 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670999&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670998&extension=ts&play_token=ozwBrhQ7vj
 
 
+#######################################      HBO       ############################################################
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474951&extension=ts&play_token=mkiUMsTyjC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474950&extension=ts&play_token=HrMjpzRGCf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474949&extension=ts&play_token=3B6pxe04Hb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474948&extension=ts&play_token=DYVamta0gi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474947&extension=ts&play_token=Nku25mlPaY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474946&extension=ts&play_token=jm1I5Vp8Ya
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474945&extension=ts&play_token=e2dWXl0Rug
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474944&extension=ts&play_token=PBFUU3GCaz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474943&extension=ts&play_token=xC1hUkTVKW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474942&extension=ts&play_token=WqQHdchtjD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474941&extension=ts&play_token=TzHzUrJS2n
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 11
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474940&extension=ts&play_token=R5O8QWjx4B
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 12
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474939&extension=ts&play_token=1E1iCT7ra7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 13
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474938&extension=ts&play_token=XoyeMFZMYZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 14
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474937&extension=ts&play_token=DRRUxwbwaZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 15
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474936&extension=ts&play_token=69xfSRFEOi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 16
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474935&extension=ts&play_token=vJHwfJvKq3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 17
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474934&extension=ts&play_token=0iGgOsn0uz
+
+
+
 ############################################     PEACOCK     ################################################
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL info ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL info
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095511&extension=ts&play_token=dcxFVXtcZ2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095510&extension=ts&play_token=8hTXLs03ue
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 2
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095509&extension=ts&play_token=vO9jRv39Zh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 3
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095508&extension=ts&play_token=oP3FLai33U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 4
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095507&extension=ts&play_token=2sdPHxM5Bz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 5 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 5
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095506&extension=ts&play_token=XqOBjs9dJQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 6 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 6
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095505&extension=ts&play_token=4gd7jT7kTU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 7 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 7
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095504&extension=ts&play_token=Agim6kWMPz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 9 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 9
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095502&extension=ts&play_token=XegK2NSKbD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 10 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 10
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095501&extension=ts&play_token=PXNxUinOpt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 11 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 11
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095500&extension=ts&play_token=pPB6crl4sD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 12 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK NETWORK", PEACOCK ORIGINAL 12
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1095499&extension=ts&play_token=ONX2deoKtE
 
 
 ####################################    PRIME      ####################################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES INFO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES INFO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535015&extension=ts&play_token=RG31ih9EY3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535014&extension=ts&play_token=GWF7ABZuYR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535013&extension=ts&play_token=UHeZcO6Enc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535012&extension=ts&play_token=qiAakvlKef
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535011&extension=ts&play_token=BLeCVMCE9d
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535010&extension=ts&play_token=7zbzYHWXgW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535009&extension=ts&play_token=hdEIRn4AWo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535008&extension=ts&play_token=lJp9ZBniGj
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535007&extension=ts&play_token=eLLWEhMShe
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535006&extension=ts&play_token=opPbPA4Yom
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME VIDEO SERIES",UK: PRIME SERIES 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="PRIME SERIES",UK: PRIME SERIES 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535005&extension=ts&play_token=vNRollkAhP
 
 
@@ -4864,6 +4905,35 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535030&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1535029&extension=ts&play_token=AQ2f2kAko6
 
 #################################     ONEPLAY ANIME       #####################################################
+
+#EXTINF:-1 tvg-logo="https://iili.io/HPnrC6g.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME info
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916793&extension=ts&play_token=LcQzUxSykn
+#EXTINF:-1 tvg-logo="https://iili.io/HPnvuUl.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 1 
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916792&extension=ts&play_token=OG34YIHOAQ
+#EXTINF:-1 tvg-logo="https://iili.io/HPnvEfj.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916791&extension=ts&play_token=qZuG9LrSBb
+#EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916790&extension=ts&play_token=FXzQLNSl4Q
+#EXTINF:-1 tvg-logo="https://iili.io/HPn8C7V.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916789&extension=ts&play_token=hlJiT2YzDb
+#EXTINF:-1 tvg-logo="https://iili.io/HPn8EhX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 5
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916788&extension=ts&play_token=OtvVA8JL5B
+#EXTINF:-1 tvg-logo="https://iili.io/HPn8Nv2.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 6
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916787&extension=ts&play_token=ykb3IFUU1r
+#EXTINF:-1 tvg-logo="https://iili.io/HPnvEfj.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 7
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916786&extension=ts&play_token=oBdDCDoI7N
+#EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 8
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916785&extension=ts&play_token=ow4t8FxXsI
+#EXTINF:-1 tvg-logo="https://iili.io/HPnSDR2.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 9
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916784&extension=ts&play_token=jgtwmtUtK5
+#EXTINF:-1 tvg-logo="https://iili.io/HPnUuUv.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 10
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916783&extension=ts&play_token=JeUF86ehIs
+#EXTINF:-1 tvg-logo="https://iili.io/HPnUuUv.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 11
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916782&extension=ts&play_token=eZC0nFNcQg
+#EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 12
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916781&extension=ts&play_token=XjDDVJZVnI
+
+
 
 #EXTINF:-1 tvg-logo="https://iili.io/HPnrC6g.md.png" group-title="ONEPLAY",US: ONEPLAY ANIME info
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1519985&extension=ts&play_token=eBSdwPKFNl
@@ -4891,6 +4961,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1519975&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1519974&extension=ts&play_token=NVm1s0FX3N
 #EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",US: ONEPLAY ANIME 12
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1519973&extension=ts&play_token=li50MBSwtK
+
 #EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",US: ONEPLAY ADVENTURE info
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1520077&extension=ts&play_token=QuGZoSLorS
 #EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",US: ONEPLAY ADVENTURE 1
@@ -4934,129 +5005,111 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1520058&exte
 #EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",US: ONEPLAY ADVENTURE 20
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1520057&extension=ts&play_token=5cLBGukq5v
 
-#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY 123 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916842&extension=ts&play_token=edbuYuAGT1
-#EXTINF:-1 tvg-logo="https://iili.io/JV1HemQ.md.png" group-title="ONEPLAY",EN| ONEPLAY 90s ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916891&extension=ts&play_token=04YXFr7b1C
-#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY ABC ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916843&extension=ts&play_token=XU73Oaxwzl
-#EXTINF:-1 tvg-logo="https://iili.io/JV19ASj.md.png" group-title="ONEPLAY",EN| ONEPLAY ACTION ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916901&extension=ts&play_token=wpJrsYsGzk
-#EXTINF:-1 tvg-logo="https://iili.io/JV19ASj.md.png" group-title="ONEPLAY",EN| ONEPLAY ACTION+1 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916900&extension=ts&play_token=vg9CSXiT5d
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 1 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916884&extension=ts&play_token=mCbiTikiTL
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 10 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916875&extension=ts&play_token=hPOJEciAkE
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 11 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916874&extension=ts&play_token=VQqoawVuKj
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 12 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916873&extension=ts&play_token=NqGQdRf5Mu
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 13 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916872&extension=ts&play_token=lQKzErsP9O
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 14 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916871&extension=ts&play_token=pHKWIeaZ6X
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 15 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916870&extension=ts&play_token=y5UZDjMLl1
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 16 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916869&extension=ts&play_token=p4mbIgigSZ
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 17 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916868&extension=ts&play_token=VT3tsDdEFX
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 18 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916867&extension=ts&play_token=N2KA1pDAhx
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 19 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916866&extension=ts&play_token=VBlCdPhSMC
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 2 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916883&extension=ts&play_token=WZ3Oa1sJIA
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 20 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916865&extension=ts&play_token=bHjT5t0W39
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 3 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916882&extension=ts&play_token=mFiizN7gSz
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 4 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916881&extension=ts&play_token=D38RlFQDeG
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 5 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916880&extension=ts&play_token=VfcyJ1uA6Z
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 6 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916879&extension=ts&play_token=tFYdJxOoI3
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 7 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916878&extension=ts&play_token=A9l1VFDZUt
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 8 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916877&extension=ts&play_token=vlE1EEW0KE
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 9 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916876&extension=ts&play_token=zeFKcriUcU
-#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE info ᴴᴰ
+
+#####################################       ONEPLAYY       ##############################################
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE info
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916885&extension=ts&play_token=1IYv4rMnDa
-#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY Alvinn Chipmunks ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916884&extension=ts&play_token=mCbiTikiTL
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 2
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916883&extension=ts&play_token=WZ3Oa1sJIA
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 3
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916882&extension=ts&play_token=mFiizN7gSz
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 4
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916881&extension=ts&play_token=D38RlFQDeG
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 5
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916880&extension=ts&play_token=VfcyJ1uA6Z
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 6
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916879&extension=ts&play_token=tFYdJxOoI3
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 7
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916878&extension=ts&play_token=A9l1VFDZUt
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 8
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916877&extension=ts&play_token=vlE1EEW0KE
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 9
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916876&extension=ts&play_token=zeFKcriUcU
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 10
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916875&extension=ts&play_token=hPOJEciAkE
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 11
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916874&extension=ts&play_token=VQqoawVuKj
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 12
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916873&extension=ts&play_token=NqGQdRf5Mu
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 13
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916872&extension=ts&play_token=lQKzErsP9O
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 14
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916871&extension=ts&play_token=pHKWIeaZ6X
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 15
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916870&extension=ts&play_token=y5UZDjMLl1
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 16
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916869&extension=ts&play_token=p4mbIgigSZ
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 17
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916868&extension=ts&play_token=VT3tsDdEFX
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 18
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916867&extension=ts&play_token=N2KA1pDAhx
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 19
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916866&extension=ts&play_token=VBlCdPhSMC
+#EXTINF:-1 tvg-logo="https://iili.io/J7gUjMF.md.png" group-title="ONEPLAY",EN| ONEPLAY ADVENTURE 20
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916865&extension=ts&play_token=bHjT5t0W39
+
+#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY 123
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916842&extension=ts&play_token=edbuYuAGT1
+#EXTINF:-1 tvg-logo="https://iili.io/JV1HemQ.md.png" group-title="ONEPLAY",EN| ONEPLAY 90s
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916891&extension=ts&play_token=04YXFr7b1C
+#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY ABC
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916843&extension=ts&play_token=XU73Oaxwzl
+#EXTINF:-1 tvg-logo="https://iili.io/JV19ASj.md.png" group-title="ONEPLAY",EN| ONEPLAY ACTION
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916901&extension=ts&play_token=wpJrsYsGzk
+#EXTINF:-1 tvg-logo="https://iili.io/JV19ASj.md.png" group-title="ONEPLAY",EN| ONEPLAY ACTION+1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916900&extension=ts&play_token=vg9CSXiT5d
+
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY Alvinn Chipmunks
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916806&extension=ts&play_token=SNkWpLsCIH
-#EXTINF:-1 tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="ONEPLAY",EN| ONEPLAY Angry Birds ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="ONEPLAY",EN| ONEPLAY Angry Birds
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916805&extension=ts&play_token=2D3whHba7j
-#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY AngryBirds Blue ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY AngryBirds Blue
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916804&extension=ts&play_token=3RxAdI6JHB
-#EXTINF:-1 tvg-logo="https://iili.io/HPnvuUl.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 1 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916792&extension=ts&play_token=OG34YIHOAQ
-#EXTINF:-1 tvg-logo="https://iili.io/HPnUuUv.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 10 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916783&extension=ts&play_token=JeUF86ehIs
-#EXTINF:-1 tvg-logo="https://iili.io/HPnUuUv.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 11 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916782&extension=ts&play_token=eZC0nFNcQg
-#EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 12 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916781&extension=ts&play_token=XjDDVJZVnI
-#EXTINF:-1 tvg-logo="https://iili.io/HPnvEfj.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 2 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916791&extension=ts&play_token=qZuG9LrSBb
-#EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 3 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916790&extension=ts&play_token=FXzQLNSl4Q
-#EXTINF:-1 tvg-logo="https://iili.io/HPn8C7V.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 4 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916789&extension=ts&play_token=hlJiT2YzDb
-#EXTINF:-1 tvg-logo="https://iili.io/HPn8EhX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 5 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916788&extension=ts&play_token=OtvVA8JL5B
-#EXTINF:-1 tvg-logo="https://iili.io/HPn8Nv2.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 6 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916787&extension=ts&play_token=ykb3IFUU1r
-#EXTINF:-1 tvg-logo="https://iili.io/HPnvEfj.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 7 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916786&extension=ts&play_token=oBdDCDoI7N
-#EXTINF:-1 tvg-logo="https://iili.io/HPnvizX.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 8 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916785&extension=ts&play_token=ow4t8FxXsI
-#EXTINF:-1 tvg-logo="https://iili.io/HPnSDR2.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME 9 ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916784&extension=ts&play_token=jgtwmtUtK5
-#EXTINF:-1 tvg-logo="https://iili.io/HPnrC6g.md.png" group-title="ONEPLAY",EN| ONEPLAY ANIME info ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916793&extension=ts&play_token=LcQzUxSykn
-#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY BabyShark ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY BabyShark
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916822&extension=ts&play_token=vmSuWd7A1Q
-#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY BabyTV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY BabyTV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916819&extension=ts&play_token=XgulYiT6W3
-#EXTINF:-1 tvg-logo="https://iili.io/JV19FSf.md.png" group-title="ONEPLAY",EN| ONEPLAY BESTOFF ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JV19FSf.md.png" group-title="ONEPLAY",EN| ONEPLAY BESTOFF
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916902&extension=ts&play_token=XK8f8YYRVo
-#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY Blippi ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY Blippi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916837&extension=ts&play_token=00HMPwadGk
-#EXTINF:-1 tvg-logo="https://iili.io/JVI5WHG.md.png" group-title="ONEPLAY",EN| ONEPLAY Bloopies ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JVI5WHG.md.png" group-title="ONEPLAY",EN| ONEPLAY Bloopies
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916830&extension=ts&play_token=6lUxqkQRjB
-#EXTINF:-1 tvg-logo="https://iili.io/HiS85NI.md.png" group-title="ONEPLAY",EN| ONEPLAY Bluey ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/HiS85NI.md.png" group-title="ONEPLAY",EN| ONEPLAY Bluey
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916799&extension=ts&play_token=yMbFqZCOXt
-#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY Bob The Builder ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY Bob The Builder
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916823&extension=ts&play_token=k1FMcKatDq
-#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY Boss-Baby ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY Boss-Baby
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916818&extension=ts&play_token=2SO1eZrQcB
-#EXTINF:-1 tvg-logo="https://iili.io/JV1HgB1.md.png" group-title="ONEPLAY",EN| ONEPLAY CLASSICS ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JV1HgB1.md.png" group-title="ONEPLAY",EN| ONEPLAY CLASSICS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916890&extension=ts&play_token=1pwVsFmZ4k
-#EXTINF:-1 tvg-logo="https://iili.io/JVI5WHG.md.png" group-title="ONEPLAY",EN| ONEPLAY CloudBabies ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JVI5WHG.md.png" group-title="ONEPLAY",EN| ONEPLAY CloudBabies
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916821&extension=ts&play_token=xikFIE1iLP
-#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY Cocomelon ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Jl7UoT7.md.png" group-title="ONEPLAY",EN| ONEPLAY Cocomelon
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916820&extension=ts&play_token=jaIg2f2p9V
-#EXTINF:-1 tvg-logo="https://iili.io/JV19VUJ.md.png" group-title="ONEPLAY",EN| ONEPLAY COMEDY ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JV19VUJ.md.png" group-title="ONEPLAY",EN| ONEPLAY COMEDY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916899&extension=ts&play_token=8GCvKjf8EH
-#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY CupHeadShow ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Lj76dP.md.png" group-title="ONEPLAY",EN| ONEPLAY CupHeadShow
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916802&extension=ts&play_token=0TP6C1mPq3
-#EXTINF:-1 tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="ONEPLAY",EN| ONEPLAY CuriousGeorge ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="ONEPLAY",EN| ONEPLAY CuriousGeorge
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916810&extension=ts&play_token=0C2pOdZCIg
-#EXTINF:-1 tvg-logo="https://iili.io/JVI5WHG.md.png" group-title="ONEPLAY",EN| ONEPLAY Diana Show ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JVI5WHG.md.png" group-title="ONEPLAY",EN| ONEPLAY Diana Show
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916839&extension=ts&play_token=cbpeRlMhGU
-#EXTINF:-1 tvg-logo="https://iili.io/boRnCF.md.png" group-title="ONEPLAY",EN| ONEPLAY DISNEY+ ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/boRnCF.md.png" group-title="ONEPLAY",EN| ONEPLAY DISNEY+
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916889&extension=ts&play_token=k6Gv8yvDiL
-#EXTINF:-1 tvg-logo="https://iili.io/JV0yi6g.md.png" group-title="ONEPLAY",EN| ONEPLAY EXTRA ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JV0yi6g.md.png" group-title="ONEPLAY",EN| ONEPLAY EXTRA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916903&extension=ts&play_token=zk7I2YpbLt
-#EXTINF:-1 tvg-logo="https://iili.io/JV1HdzB.md.png" group-title="ONEPLAY",EN| ONEPLAY FAMILY ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JV1HdzB.md.png" group-title="ONEPLAY",EN| ONEPLAY FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916895&extension=ts&play_token=SUHoOPcK5s
-#EXTINF:-1 tvg-logo="https://iili.io/JV1HoeR.md.png" group-title="ONEPLAY",EN| ONEPLAY FANTASY ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/JV1HoeR.md.png" group-title="ONEPLAY",EN| ONEPLAY FANTASY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916893&extension=ts&play_token=uyfKA8ZO81
-#EXTINF:-1 tvg-logo="https://iili.io/LjYFhG.md.png" group-title="ONEPLAY",EN| ONEPLAY Fireman Sam ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iili.io/LjYFhG.md.png" group-title="ONEPLAY",EN| ONEPLAY Fireman Sam
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916807&extension=ts&play_token=hKxeY09Geg
 #EXTINF:-1 tvg-logo="https://iili.io/LjYFhG.md.png" group-title="ONEPLAY",EN| ONEPLAY Garfield Show ᴴᴰ
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916813&extension=ts&play_token=YhsmIyAdTd
@@ -5157,107 +5210,107 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1787982&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1448707&extension=ts&play_token=rKKpAeOgIZ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976578.png" group-title="24/7 SERIES",  ARROW 4k
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976578&extension=ts&play_token=TUofEef1JL
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976613.png" group-title="24/7 SERIES",  BETTER CALL SAUL 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976613.png" group-title="24/7 SERIES",  BETTER CALL SAUL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976613&extension=ts&play_token=Eq9DSXRe8Q
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049064.png" group-title="24/7 SERIES",  BUFFY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049064&extension=ts&play_token=xdBVdZi1rI
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976579.png" group-title="24/7 SERIES",  CALIFORNICATION 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976579.png" group-title="24/7 SERIES",  CALIFORNICATION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976579&extension=ts&play_token=pNmWNDxu2h
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976614.png" group-title="24/7 SERIES",  CHAPPELLES SHOW 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976614.png" group-title="24/7 SERIES",  CHAPPELLES SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976614&extension=ts&play_token=ymqmXUXzJn
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978704.png" group-title="24/7 SERIES",  CHAPPELLES SHOW 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978704.png" group-title="24/7 SERIES",  CHAPPELLES SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978704&extension=ts&play_token=3LYOHSE9d1
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976580.png" group-title="24/7 SERIES",  CHUCK 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976580.png" group-title="24/7 SERIES",  CHUCK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976580&extension=ts&play_token=4zca98CKy4
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976581.png" group-title="24/7 SERIES",  COBRA KAI 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976581.png" group-title="24/7 SERIES",  COBRA KAI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976581&extension=ts&play_token=BZ63Kl3G5G
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049065.png" group-title="24/7 SERIES",  CSI MIAMI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049065&extension=ts&play_token=gVzGzMWxtG
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1811976.png" group-title="24/7 SERIES",  DRAGNET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811976&extension=ts&play_token=KKCQvFJhIt
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976552.png" group-title="24/7 SERIES",  EVERYBODY LOVES RAYMOND 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976552.png" group-title="24/7 SERIES",  EVERYBODY LOVES RAYMOND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976552&extension=ts&play_token=TbXzhy2rRC
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503123.png" group-title="24/7 SERIES",  FAMILY MATTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503123&extension=ts&play_token=Y8TvyKMyGq
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976553.png" group-title="24/7 SERIES",  FRASIER 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976553.png" group-title="24/7 SERIES",  FRASIER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976553&extension=ts&play_token=tZ25o1sRXJ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976554.png" group-title="24/7 SERIES",  FRIENDS 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976554.png" group-title="24/7 SERIES",  FRIENDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976554&extension=ts&play_token=FQKPxiYQiJ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976532.png" group-title="24/7 SERIES",  GAME OF THRONES 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976532.png" group-title="24/7 SERIES",  GAME OF THRONES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976532&extension=ts&play_token=Tay1PouLid
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1041933.png" group-title="24/7 SERIES",  GHOST WHISPERER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1041933&extension=ts&play_token=rHIemxMDGC
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976555.png" group-title="24/7 SERIES",  HOW I MET YOUR MOTHER 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976555.png" group-title="24/7 SERIES",  HOW I MET YOUR MOTHER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976555&extension=ts&play_token=sBbi2JTbIb
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976533.png" group-title="24/7 SERIES",  KEVIN CAN WAIT 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976533.png" group-title="24/7 SERIES",  KEVIN CAN WAIT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976533&extension=ts&play_token=pI4Myu4txt
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049066.png" group-title="24/7 SERIES",  LAST MAN STANDING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049066&extension=ts&play_token=oM0QzouZsB
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976534.png" group-title="24/7 SERIES",  LAST MAN STANDING 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976534.png" group-title="24/7 SERIES",  LAST MAN STANDING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976534&extension=ts&play_token=74bI8wjNDB
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/994884.png" group-title="24/7 SERIES",  LAW AND ORDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=994884&extension=ts&play_token=vAsHphwPaW
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976557.png" group-title="24/7 SERIES",  LOST 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976557.png" group-title="24/7 SERIES",  LOST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976557&extension=ts&play_token=d4ZutPwQVJ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976559.png" group-title="24/7 SERIES",  MACGYVER 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976559.png" group-title="24/7 SERIES",  MACGYVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976559&extension=ts&play_token=RL0hf8ka6u
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976560.png" group-title="24/7 SERIES",  MALCOLM IN THE MIDDLE 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976560.png" group-title="24/7 SERIES",  MALCOLM IN THE MIDDLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976560&extension=ts&play_token=2OdjLvpYu9
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1811974.png" group-title="24/7 SERIES",  MARRIED WITH CHILDREN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811974&extension=ts&play_token=xrqUUk5XTg
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060647.png" group-title="24/7 SERIES",  MIAMI VICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060647&extension=ts&play_token=zggzhklwiy
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976561.png" group-title="24/7 SERIES",  MIKE AND MOLLY 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976561.png" group-title="24/7 SERIES",  MIKE AND MOLLY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976561&extension=ts&play_token=WVG0fl0BcY
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1041931.png" group-title="24/7 SERIES",  MODERN FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1041931&extension=ts&play_token=EFV7nVW0H8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976562.png" group-title="24/7 SERIES",  MODERN FAMILY 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976562.png" group-title="24/7 SERIES",  MODERN FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976562&extension=ts&play_token=RcHimoIKwH
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060648.png" group-title="24/7 SERIES",  NYPD BLUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060648&extension=ts&play_token=EEb14zsH2U
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976563.png" group-title="24/7 SERIES",  PARKS AND RECREATION 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976563.png" group-title="24/7 SERIES",  PARKS AND RECREATION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976563&extension=ts&play_token=qMR5fsbdGP
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503140.png" group-title="24/7 SERIES",  PAW PATROL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503140&extension=ts&play_token=XAIoyK1SI8
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976564.png" group-title="24/7 SERIES",  PRISON BREAK 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976564.png" group-title="24/7 SERIES",  PRISON BREAK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976564&extension=ts&play_token=jyJpR98fhT
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060649.png" group-title="24/7 SERIES",  REBA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060649&extension=ts&play_token=5vokajmnXG
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976566.png" group-title="24/7 SERIES",  ROSEANNE 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976566.png" group-title="24/7 SERIES",  ROSEANNE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976566&extension=ts&play_token=S1jvoW49Mw
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976567.png" group-title="24/7 SERIES",  SCORPION 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976567.png" group-title="24/7 SERIES",  SCORPION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976567&extension=ts&play_token=qiLJEedpxh
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976568.png" group-title="24/7 SERIES",  SCRUBS 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976568.png" group-title="24/7 SERIES",  SCRUBS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976568&extension=ts&play_token=pTB18hvlO9
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976569.png" group-title="24/7 SERIES",  SEINFELD 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976569.png" group-title="24/7 SERIES",  SEINFELD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976569&extension=ts&play_token=LjdsdqltEy
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976539.png" group-title="24/7 SERIES",  SHAMELESS  4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976539.png" group-title="24/7 SERIES",  SHAMELESS 
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976539&extension=ts&play_token=sRFgIw4f3p
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976570.png" group-title="24/7 SERIES",  THAT 70S SHOW 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976570.png" group-title="24/7 SERIES",  THAT 70S SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976570&extension=ts&play_token=P7WYllOpRn
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503141.png" group-title="24/7 SERIES",  THE A-TEAM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503141&extension=ts&play_token=pntKlDiujD
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060650.png" group-title="24/7 SERIES",  THE BIG BANG THEORY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060650&extension=ts&play_token=VTOM6ypKqM
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976644.png" group-title="24/7 SERIES",  THE BIG BANG THEORY 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976644.png" group-title="24/7 SERIES",  THE BIG BANG THEORY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976644&extension=ts&play_token=ehW7nJbcOP
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976544.png" group-title="24/7 SERIES",  THE BLACKLIST 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976544.png" group-title="24/7 SERIES",  THE BLACKLIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976544&extension=ts&play_token=9DHLQWJrVi
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/978676.png" group-title="24/7 SERIES",  THE FRESH PRINCE OF BEL-AIR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978676&extension=ts&play_token=LiGmNo8To7
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976572.png" group-title="24/7 SERIES", THE FRESH PTINCE OF BEL AIR 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976572.png" group-title="24/7 SERIES", THE FRESH PTINCE OF BEL AIR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976572&extension=ts&play_token=oaYq4sShbp
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976545.png" group-title="24/7 SERIES",  THE KING OF QUEENS 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976545.png" group-title="24/7 SERIES",  THE KING OF QUEENS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976545&extension=ts&play_token=6ipQYw6Iwx
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060651.png" group-title="24/7 SERIES",  THE MENTALIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060651&extension=ts&play_token=o7tpd4AT48
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976574.png" group-title="24/7 SERIES",  THE MUPPET SHOW 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976574.png" group-title="24/7 SERIES",  THE MUPPET SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976574&extension=ts&play_token=KGB9xOfr7A
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976575.png" group-title="24/7 SERIES",  THE OFFICE 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976575.png" group-title="24/7 SERIES",  THE OFFICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976575&extension=ts&play_token=BG5k4aW321
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503144.png" group-title="24/7 SERIES",  THE PARKERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503144&extension=ts&play_token=9X65O8vrRZ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978711.png" group-title="24/7 SERIES",  THE SIMPSONS 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978711.png" group-title="24/7 SERIES",  THE SIMPSONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978711&extension=ts&play_token=oxK7ZLhbHC
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1448722.png" group-title="24/7 SERIES",  THE SMURFS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1448722&extension=ts&play_token=qOaAljf3Z1
@@ -5265,7 +5318,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1448722&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503146&extension=ts&play_token=23OG5IOz3c
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1069436.png" group-title="24/7 SERIES",  TOP GEAR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1069436&extension=ts&play_token=yHVkNXHU8o
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976576.png" group-title="24/7 SERIES",  TWO AND A HALF MEN 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976576.png" group-title="24/7 SERIES",  TWO AND A HALF MEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976576&extension=ts&play_token=rBDG2Q6cAr
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/559543.png" group-title="24/7 SERIES",  24/7  MR BEAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559543&extension=ts&play_token=gFwzKYh4wA
@@ -5293,7 +5346,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478535&extens
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559554&extension=ts&play_token=6xVcJin8em
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/478565.png" group-title="24/7 SERIES",  24/7 THE NANNY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478565&extension=ts&play_token=1BVmbjR9Uq
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976647.png" group-title="24/7 SERIES",  THE NANNY 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976647.png" group-title="24/7 SERIES",  THE NANNY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976647&extension=ts&play_token=fuKqrmZ1MY
 
 #####################################################################
@@ -5314,7 +5367,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943294&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943293&extension=ts&play_token=YTheaKMBGe
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BATMAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943292&extension=ts&play_token=4exCTcpKGX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BERNIE MACK 2001
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BERNIE MACK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943291&extension=ts&play_token=UB3k8IkEGJ
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BEVERLY HILLS, 90210
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943290&extension=ts&play_token=bPAOQUQyy4
@@ -5330,7 +5383,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478595&extens
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943286&extension=ts&play_token=LvYqdAbT9s
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BULLETPROOF
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943285&extension=ts&play_token=Kn1vo4yhLr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CAGNEY AND LACEY 1982
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CAGNEY AND LACEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943284&extension=ts&play_token=DSG5jv4WPE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CHARLIE'S ANGELS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943283&extension=ts&play_token=xeVmEPsnLz
@@ -5344,7 +5397,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943281&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943280&extension=ts&play_token=dYLqhKfoB1
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  COLUMBO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943279&extension=ts&play_token=ChWGd9JN9x
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976615.png" group-title="24/7 CLASSIC SHOWS",  COLUMBO MR PETER FALK 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976615.png" group-title="24/7 CLASSIC SHOWS",  COLUMBO MR PETER FALK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976615&extension=ts&play_token=VY30eFUAAY
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  COUSIN SKEETER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943278&extension=ts&play_token=l1NOJYuNK0
@@ -5736,9 +5789,6 @@ https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandc
 https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1516&wurl_name=CourtTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 
-
-
-
 #######################   ACTION/ADVENTURE    ##############################################
 
 
@@ -5979,10 +6029,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944200&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",TEXAS RANGER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944203&extension=ts&play_token=wUQkFmASpI
 
-
-
 #################################    DRAMA     #############################################
-
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ALL RISE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942126&extension=ts&play_token=CSHpsd3UDI
@@ -8583,6 +8630,15 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=844551&exten
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: TNT SPORTS BOX OFFICE SD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=844553&extension=ts&play_token=NjTGA2iIuG
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 01 EVENTS ONLY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831617&extension=ts&play_token=zo5bRXPE1A
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 02 USA EVENTS ONLY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831616&extension=ts&play_token=lF0eKbcZ05
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 03 INTERNATIONAL EVENTS ONLY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831615&extension=ts&play_token=TqBqiA3j9U
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14423.png?ver=34634" group-title="UK| NETFLIX PPV",NF: NETFLIX 04 (LATIN) EVENTS ONLY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831614&extension=ts&play_token=W5WZsxHFvW
+
 
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  01
@@ -8785,6 +8841,54 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1501640&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1501639&extension=ts&play_token=QYSPvTJkwM
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2274.jpg?ver=37581" group-title="US| PARAMOUNT+ PPV",:Paramount+  100
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1501638&extension=ts&play_token=0EancnF6UX
+
+#####################################################################################################
+###############################        HBO       #####################################################
+#####################################################################################################
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918673&extension=ts&play_token=I7PagYFmjI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918672&extension=ts&play_token=KO1TWumdwF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918671&extension=ts&play_token=OaxNQdRUTb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918670&extension=ts&play_token=AJe6Dwd3Qm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918669&extension=ts&play_token=Am3PByxns7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918668&extension=ts&play_token=a3GN5PtbaJ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918667&extension=ts&play_token=Tmir1Xoj4k
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918666&extension=ts&play_token=GjtSnQ6vBU
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918665&extension=ts&play_token=CJgCGL9PkB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918664&extension=ts&play_token=UAGL4uZMlh
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 11
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918663&extension=ts&play_token=EmbbVob5Sb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 12
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918662&extension=ts&play_token=oQkhucmlGs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 13
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918661&extension=ts&play_token=7ruOQJXu6p
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 14
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918660&extension=ts&play_token=4EP6dx6MWZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 15
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918659&extension=ts&play_token=mOiFu8Mm2R
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 16
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918658&extension=ts&play_token=84a7gGiBxf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 17
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918657&extension=ts&play_token=9JKctTdqkO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 18
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918656&extension=ts&play_token=OVuqTAolSA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918655&extension=ts&play_token=Vm4TLfNl7P
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO MAX PPV",UK: HBO MAX PPV 20
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1918654&extension=ts&play_token=WEc9zoDYvr
+
 
 
 ##############################################################################
@@ -9245,3 +9349,13 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1910778&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png" group-title="PEACOCK PPV",US (Peacock 100)
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1910777&extension=ts&play_token=6CXUP7qwZU
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="UK| TT RACES PPV",UK: TT RACES EVENT 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456087&extension=ts&play_token=tWLutuBjNH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="UK| TT RACES PPV",UK: TT RACES EVENT 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456086&extension=ts&play_token=ohkUAbPHa7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="UK| TT RACES PPV",UK: TT RACES EVENT 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456085&extension=ts&play_token=e9zNk5NtKn
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="UK| TT RACES PPV",UK: TT RACES EVENT 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456084&extension=ts&play_token=0CseaRMikR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="UK| TT RACES PPV",UK: TT RACES EVENT 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456083&extension=ts&play_token=dQ7YvJP7KL
