@@ -4292,68 +4292,237 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944321&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 GROUP MOVIES",24/7 ZOMBIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944321&extension=ts&play_token=JDY1U9vNmk
 
-
-################################################    24/7    MOVIE FRANCHISES     ##############################################
-
-
-
-
-
-
-
-
 ########################################################################################
 ####################   24/7 MOVIE FRANCHISES     ########################################################
 ########################################################################################
 
-
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - 007
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_cedd292e80c54a2ba613bb3dfd45627f~mv2.jpg/v1/fill/w_496,h_196,al_c,lg_1,q_80,enc_avif,quality_auto/iceage.jpg" group-title="24/7 MOVIE FRANCHISES",  ICE AGE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013485&extension=ts&play_token=IatPHVzIlv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_0bab7de14db747019a532521ffe9a2d0~mv2.jpg/v1/fill/w_310,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/spykids.jpg" group-title="24/7 MOVIE FRANCHISES",  SPY KIDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013575&extension=ts&play_token=aIEuco4THS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2747045847c244909d00d0e252ce4aca~mv2.png/v1/fill/w_534,h_174,al_c,lg_1,q_85,enc_avif,quality_auto/mrbeand.png" group-title="24/7 MOVIE FRANCHISES",   MR BEAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485223&extension=ts&play_token=VW0aFzVDup
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2747045847c244909d00d0e252ce4aca~mv2.png/v1/fill/w_534,h_174,al_c,lg_1,q_85,enc_avif,quality_auto/mrbeand.png" group-title="24/7 MOVIE FRANCHISES",  MR BEAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013403&extension=ts&play_token=IhFa2HBFQo
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_dc14320e50444dd5b2e4dc76944bc27e~mv2.jpg/v1/fill/w_416,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/nightmuseum.jpg" group-title="24/7 MOVIE FRANCHISES",  NIGHT AT THE MUSEUM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013584&extension=ts&play_token=XQ7JD3oZib
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e3fb584ed42b38c595371ea2ebf57~mv2.jpg/v1/fill/w_566,h_168,al_c,lg_1,q_80,enc_avif,quality_auto/007325.jpg" group-title="24/7 MOVIE FRANCHISES",007 JAMES BOND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916863&extension=ts&play_token=dGfJbtWP58
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - 007classic ᴴᴰ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e3fb584ed42b38c595371ea2ebf57~mv2.jpg/v1/fill/w_566,h_168,al_c,lg_1,q_80,enc_avif,quality_auto/007325.jpg" group-title="24/7 MOVIE FRANCHISES",007 JAMES BOND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916862&extension=ts&play_token=9vqXJ5VYah
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Avengers ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916861&extension=ts&play_token=sqnlb2CGcZ
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Fast&Furious ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916860&extension=ts&play_token=aydlG6Xrs0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 MOVIE FRANCHISES", FAST AND FURIOUS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944453&extension=ts&play_token=7aoHyIK16y
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - FinalDestination ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916859&extension=ts&play_token=LeqFDHLm5E
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - HarryPotter ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916858&extension=ts&play_token=fLOmg9tTic
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - MissionImpossible ᴴᴰ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e3fb584ed42b38c595371ea2ebf57~mv2.jpg/v1/fill/w_566,h_168,al_c,lg_1,q_80,enc_avif,quality_auto/007325.jpg" group-title="24/7 MOVIE FRANCHISES",007 JAMES BOND
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485224&extension=ts&play_token=aUhZP7jZqY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e3fb584ed42b38c595371ea2ebf57~mv2.jpg/v1/fill/w_566,h_168,al_c,lg_1,q_80,enc_avif,quality_auto/007325.jpg" group-title="24/7 MOVIE FRANCHISES",007 JAMES BOND
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013507&extension=ts&play_token=VnBNuNWQvU
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e60e3fb584ed42b38c595371ea2ebf57~mv2.jpg/v1/fill/w_566,h_168,al_c,lg_1,q_80,enc_avif,quality_auto/007325.jpg" group-title="24/7 MOVIE FRANCHISES",007 JAMES BOND
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013409&extension=ts&play_token=o0Zc0FYxRy
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_efd284e755e949be8b4f4d9bece395a1~mv2.png/v1/fill/w_416,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/diehard.png" group-title="24/7 MOVIE FRANCHISES",DIE HARD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485168&extension=ts&play_token=kdEYRTLFTh
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_efd284e755e949be8b4f4d9bece395a1~mv2.png/v1/fill/w_416,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/diehard.png" group-title="24/7 MOVIE FRANCHISES",DIE HARD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013594&extension=ts&play_token=7EXXca29DD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_efd284e755e949be8b4f4d9bece395a1~mv2.png/v1/fill/w_416,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/diehard.png" group-title="24/7 MOVIE FRANCHISES",DIE HARD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013394&extension=ts&play_token=EpldX0Qi8v
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ec0c53976ccb46749a9b2ec77af33a50~mv2.jpg/v1/fill/w_408,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/mi.jpg" group-title="24/7 MOVIE FRANCHISES",MISSION IMPOSSIBLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916857&extension=ts&play_token=qWfcdIZ3Pd
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Ocean's ᴴᴰ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ec0c53976ccb46749a9b2ec77af33a50~mv2.jpg/v1/fill/w_408,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/mi.jpg" group-title="24/7 MOVIE FRANCHISES",MISSION IMPOSSIBLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013488&extension=ts&play_token=KRnYRQa47k
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ec0c53976ccb46749a9b2ec77af33a50~mv2.jpg/v1/fill/w_408,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/mi.jpg" group-title="24/7 MOVIE FRANCHISES",MISSION IMPOSSIBLE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916857&extension=ts&play_token=qWfcdIZ3Pd
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2d55d2c2e17649438358cdebab751319~mv2.jpg/v1/fill/w_406,h_234,al_c,lg_1,q_80,enc_avif,quality_auto/bourne.jpg" group-title="24/7 MOVIE FRANCHISES",JASON BOURNE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013486&extension=ts&play_token=ku1jxazzYN
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2d55d2c2e17649438358cdebab751319~mv2.jpg/v1/fill/w_406,h_234,al_c,lg_1,q_80,enc_avif,quality_auto/bourne.jpg" group-title="24/7 MOVIE FRANCHISES",JASON BOURNE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013410&extension=ts&play_token=Mop2DhzFIK
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2c69008df62c4640981e84d988252fe6~mv2.png/v1/fill/w_445,h_223,al_c,lg_1,q_85,enc_avif,quality_auto/jasonb.png" group-title="24/7 MOVIE FRANCHISES",JASON BOURNE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485221&extension=ts&play_token=pXT42DIhHn
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b40f4c35e7964932a66563a9a5ebcc36~mv2.jpg/v1/fill/w_448,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/johnwick.jpg" group-title="24/7 MOVIE FRANCHISES",JOHN WICK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013565&extension=ts&play_token=yKWdJXsAZo
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7ec8876c6639427d89a533eeb39743fc~mv2.png/v1/fill/w_510,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/avengers2e.png" group-title="24/7 MOVIE FRANCHISES", AVENGERS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916861&extension=ts&play_token=sqnlb2CGcZ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e6032805722e478eba5eee2a755197c0~mv2.png/v1/fill/w_574,h_172,al_c,lg_1,q_85,enc_avif,quality_auto/fastfuriousng.png" group-title="24/7 MOVIE FRANCHISES", FAST & FURIOUS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916860&extension=ts&play_token=aydlG6Xrs0
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e6032805722e478eba5eee2a755197c0~mv2.png/v1/fill/w_574,h_172,al_c,lg_1,q_85,enc_avif,quality_auto/fastfuriousng.png" group-title="24/7 MOVIE FRANCHISES", FAST AND FURIOUS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944453&extension=ts&play_token=7aoHyIK16y
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d9e8965f4cc44501b6045728ff6ed62a~mv2.jpg/v1/fill/w_610,h_162,al_c,lg_1,q_80,enc_avif,quality_auto/oceansd.jpg" group-title="24/7 MOVIE FRANCHISES", OCEAN'S
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916849&extension=ts&play_token=NXQSy7Bkqy
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - PiratesCaribbean ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916856&extension=ts&play_token=AHilpaY7zU
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Planet of Apes ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916853&extension=ts&play_token=XnoDLOabkq
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Rambo ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916846&extension=ts&play_token=ndJmadij4e
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 MOVIE FRANCHISES", ROCKY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944370&extension=ts&play_token=ahEp0jQ1dH
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Saw ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916855&extension=ts&play_token=n4AMWvvOLg
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Scream ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916852&extension=ts&play_token=d8LU78ckBY
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES",- SpiderMan ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916847&extension=ts&play_token=k3fe7Oafs2
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Star Wars ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916851&extension=ts&play_token=aCfTI63OPM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 MOVIE FRANCHISES", THE GODFATHER
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1db7a322d008482b83cef61a2bd9b10b~mv2.png/v1/fill/w_604,h_161,al_c,lg_1,q_85,enc_avif,quality_auto/godfaterblack.png" group-title="24/7 MOVIE FRANCHISES", THE GODFATHER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944332&extension=ts&play_token=C4xNvI53cB
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - The Dark Knight ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916845&extension=ts&play_token=YPhtcxfH2b
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 MOVIE FRANCHISES", THE EQUALIZER
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1db7a322d008482b83cef61a2bd9b10b~mv2.png/v1/fill/w_604,h_161,al_c,lg_1,q_85,enc_avif,quality_auto/godfaterblack.png" group-title="24/7 MOVIE FRANCHISES",  THE GODFATHER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013568&extension=ts&play_token=vHuW0HrDi4
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e4a6ec51ae60463ca14b133ec1bb0abd~mv2.png/v1/fill/w_574,h_172,al_c,lg_1,q_85,enc_avif,quality_auto/EQUALIZER.png" group-title="24/7 MOVIE FRANCHISES", THE EQUALIZER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944333&extension=ts&play_token=RzJwcdPXbQ
-
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - The Expendables ᴴᴰ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9bea94f8180c4e0b800935de34c5829e~mv2.jpg/v1/fill/w_420,h_235,al_c,lg_1,q_80,enc_avif,quality_auto/expendblejpg.jpg" group-title="24/7 MOVIE FRANCHISES", - THE EXPENDABLES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916848&extension=ts&play_token=M9xRQimMNy
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - The Twilight ᴴᴰ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916850&extension=ts&play_token=KSNk13b9kS
-#EXTINF:-1 tvg-logo="https://iili.io/bnvmPe.md.png" group-title="24/7 MOVIE FRANCHISES", - Transformers ᴴᴰ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_397037c9b35a49e2bcd248f8e08d6266~mv2.jpg/v1/fill/w_505,h_196,al_c,lg_1,q_80,enc_avif,quality_auto/transformersd.jpg" group-title="24/7 MOVIE FRANCHISES", - TRANSFORMERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916854&extension=ts&play_token=aHVp9eceFL
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1b1ff96545e44e2ba7bf42366d0776dc~mv2.png/v1/fill/w_552,h_312,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/The%20Lord%20of%20the%20Rings%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  LORD OF THE RINGS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013378&extension=ts&play_token=r1fQk4dXFc
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1b1ff96545e44e2ba7bf42366d0776dc~mv2.png/v1/fill/w_552,h_312,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/The%20Lord%20of%20the%20Rings%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  LORD OF THE RINGS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1601135&extension=ts&play_token=dtJvpdrnzo
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_911aeb9f324843b4b962b16af6fb333f~mv2.jpg/v1/fill/w_378,h_212,al_c,lg_1,q_80,enc_avif,quality_auto/harryblack.jpg" group-title="24/7 MOVIE FRANCHISES",  HARRY POTTER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013484&extension=ts&play_token=PVl5Qqt3US
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_911aeb9f324843b4b962b16af6fb333f~mv2.jpg/v1/fill/w_378,h_212,al_c,lg_1,q_80,enc_avif,quality_auto/harryblack.jpg" group-title="24/7 MOVIE FRANCHISES", - HARRY POTTER
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916858&extension=ts&play_token=fLOmg9tTic
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_911aeb9f324843b4b962b16af6fb333f~mv2.jpg/v1/fill/w_378,h_212,al_c,lg_1,q_80,enc_avif,quality_auto/harryblack.jpg" group-title="24/7 MOVIE FRANCHISES",  HARRY POTTER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013373&extension=ts&play_token=HplsbJ37Qw
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_317f9c5c7b1346ac8a92c4569b544715~mv2.jpg/v1/fill/w_503,h_190,al_c,lg_1,q_80,enc_avif,quality_auto/hobbit.jpg" group-title="24/7 MOVIE FRANCHISES",  THE HOBBIT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013492&extension=ts&play_token=In6h5R9ocs
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_806af7396f60460697f66507a80d766c~mv2.png/v1/fill/w_590,h_332,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Back%20to%20the%20Future%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  BACK TO THE FUTURE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1601206&extension=ts&play_token=OaCOzPuwVg
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e2ad59dc134e48dcaaa9aff84bac77a5~mv2.jpg/v1/fill/w_378,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/american.jpg" group-title="24/7 MOVIE FRANCHISES",  AMERICAN PIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485277&extension=ts&play_token=LX3Vc66Fpa
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6f972b0b23e64b8290f08f1aa8c1e816~mv2.png/v1/fill/w_574,h_172,al_c,lg_1,q_85,enc_avif,quality_auto/police.png" group-title="24/7 MOVIE FRANCHISES",  POLICE ACADEMY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013385&extension=ts&play_token=nonvxg1xuY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6f972b0b23e64b8290f08f1aa8c1e816~mv2.png/v1/fill/w_574,h_172,al_c,lg_1,q_85,enc_avif,quality_auto/police.png" group-title="24/7 MOVIE FRANCHISES",  POLICE ACADEMY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485179&extension=ts&play_token=JFgeFKKVAq
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_268eef140dc04e10bc3622af1ad1f18c~mv2.jpg/v1/fill/w_703,h_137,al_c,lg_1,q_80,enc_avif,quality_auto/hangover.jpg" group-title="24/7 MOVIE FRANCHISES",  THE HANGOVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013567&extension=ts&play_token=4saCwO9bSk
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_892774ae27af422f87ccdc0fbe31a531~mv2.png/v1/fill/w_507,h_195,al_c,lg_1,q_85,enc_avif,quality_auto/CROCODILEd.png" group-title="24/7 MOVIE FRANCHISES",  THE CROCODILE DUNDEE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013571&extension=ts&play_token=h0jaJv1PUG
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e2b6b9bc748141f88ea81dcdb0a52897~mv2.jpg/v1/fill/w_315,h_315,al_c,lg_1,q_80,enc_avif,quality_auto/RUSH%20HOUR.jpg" group-title="24/7 MOVIE FRANCHISES",  RUSH HOUR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013580&extension=ts&play_token=5wRyblcRtt
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e2b6b9bc748141f88ea81dcdb0a52897~mv2.jpg/v1/fill/w_315,h_315,al_c,lg_1,q_80,enc_avif,quality_auto/RUSH%20HOUR.jpg" group-title="24/7 MOVIE FRANCHISES",  RUSH HOUR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013388&extension=ts&play_token=vEvnLBSvqC
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2a347aaba25d4ee696bb11f7e5970d11~mv2.jpg/v1/fill/w_416,h_234,al_c,lg_1,q_80,enc_avif,quality_auto/fifty.jpg" group-title="24/7 MOVIE FRANCHISES", FIFTY SHADES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485193&extension=ts&play_token=cnPyWdtglr
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_2a347aaba25d4ee696bb11f7e5970d11~mv2.jpg/v1/fill/w_416,h_234,al_c,lg_1,q_80,enc_avif,quality_auto/fifty.jpg" group-title="24/7 MOVIE FRANCHISES", FIFTY SHADES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013371&extension=ts&play_token=QC3TmYIhpB
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_73fb1262bdd445429eeaff4633bcde99~mv2.jpg/v1/fill/w_496,h_196,al_c,lg_1,q_80,enc_avif,quality_auto/pitch%20perfect.jpg" group-title="24/7 MOVIE FRANCHISES", PITCH PERFECT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013490&extension=ts&play_token=mQyhmM5oKu
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6c10451d07f745e190b24d2d73de6b5b~mv2.png/v1/fill/w_613,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/bridgetd.png" group-title="24/7 MOVIE FRANCHISES", BRIDGET JONES DIARY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013599&extension=ts&play_token=VvBFLiYnr6
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1522c832453642cc87c980c56ba37aac~mv2.jpg/v1/fill/w_459,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/twilight.jpg" group-title="24/7 MOVIE FRANCHISES", TWILIGHT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013494&extension=ts&play_token=J20rav8yod
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_dc27fd8e9e7e4734830a329323f0f05c~mv2.jpg/v1/fill/w_418,h_192,al_c,lg_1,q_80,enc_avif,quality_auto/twilight).jpg" group-title="24/7 MOVIE FRANCHISES", THE TWILIGHT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916850&extension=ts&play_token=KSNk13b9kS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e7ed76d959c4bfdb4182fd5b940aa54~mv2.jpg/v1/fill/w_446,h_221,al_c,lg_1,q_80,enc_avif,quality_auto/grease.jpg" group-title="24/7 MOVIE FRANCHISES",  GREASE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013372&extension=ts&play_token=hKXdpjbkmt
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d9634d5aecb0461cb9667cffbd73a043~mv2.jpg/v1/fill/w_419,h_237,al_c,lg_1,q_80,enc_avif,quality_auto/JUMUNJI.jpg" group-title="24/7 MOVIE FRANCHISES",  JUMANJI 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013487&extension=ts&play_token=9kplt6dWmg
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6bf5b6d0937d433c959cae4a557dfcb4~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jurassic-Park.png" group-title="24/7 MOVIE FRANCHISES",  JURASSIC PARK 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013376&extension=ts&play_token=NXLOGWarVv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6bf5b6d0937d433c959cae4a557dfcb4~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jurassic-Park.png" group-title="24/7 MOVIE FRANCHISES",  JURASSIC WORLD/PARK 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013589&extension=ts&play_token=fhV1vxvAjQ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6bf5b6d0937d433c959cae4a557dfcb4~mv2.png/v1/fill/w_450,h_450,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Jurassic-Park.png" group-title="24/7 MOVIE FRANCHISES",  JURASSIC PARK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485188&extension=ts&play_token=uat8HgHjg2
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b0eb6a1948454756a6dbb629d8b646a8~mv2.png/v1/fill/w_580,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Indiana%20Jones%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  INDIANA JONES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013592&extension=ts&play_token=tQJdUG8oct
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b0eb6a1948454756a6dbb629d8b646a8~mv2.png/v1/fill/w_580,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Indiana%20Jones%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  INDIANA JONES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013374&extension=ts&play_token=yQb5Tfcwvd
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_b0eb6a1948454756a6dbb629d8b646a8~mv2.png/v1/fill/w_580,h_328,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Indiana%20Jones%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  INDIANA JONES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485190&extension=ts&play_token=3gTkIo2Nnc
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3320e3e6837a446e97ed0321ab207e3c~mv2.jpg/v1/fill/w_426,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/PIRATES6d.jpg" group-title="24/7 MOVIE FRANCHISES",  PIRATES OF THE CARIBBEAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013489&extension=ts&play_token=7rV8Qf818T
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3320e3e6837a446e97ed0321ab207e3c~mv2.jpg/v1/fill/w_426,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/PIRATES6d.jpg" group-title="24/7 MOVIE FRANCHISES", - PIRATES OF THE CARIBBEAN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916856&extension=ts&play_token=AHilpaY7zU
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3320e3e6837a446e97ed0321ab207e3c~mv2.jpg/v1/fill/w_426,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/PIRATES6d.jpg" group-title="24/7 MOVIE FRANCHISES",  PIRATES OF THE CARIBBEAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013382&extension=ts&play_token=wlAOSSHUyy
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3320e3e6837a446e97ed0321ab207e3c~mv2.jpg/v1/fill/w_426,h_232,al_c,lg_1,q_80,enc_avif,quality_auto/PIRATES6d.jpg" group-title="24/7 MOVIE FRANCHISES",  PIRATES OF THE CARIBBEAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485182&extension=ts&play_token=jtwuzYKr6Q
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6c76f34b565f4db2ab7f15bfdaeaba16~mv2.png/v1/fill/w_347,h_286,al_c,lg_1,q_85,enc_avif,quality_auto/MONEYHEIST.png" group-title="24/7 MOVIE FRANCHISES",  MONEY HEIST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013426&extension=ts&play_token=vKGyWeM00v
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e821faf440b94d2482a88fbbf23123f5~mv2.png/v1/fill/w_595,h_165,al_c,lg_1,q_85,enc_avif,quality_auto/rambopng.png" group-title="24/7 MOVIE FRANCHISES",  RAMBO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013407&extension=ts&play_token=4ezR3hnyrO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e821faf440b94d2482a88fbbf23123f5~mv2.png/v1/fill/w_595,h_165,al_c,lg_1,q_85,enc_avif,quality_auto/rambopng.png" group-title="24/7 MOVIE FRANCHISES", RAMBO
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916846&extension=ts&play_token=ndJmadij4e
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3565fa42d2c1454b8837de09b21fbac3~mv2.png/v1/fill/w_450,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Rocky%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  ROCKY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1601094&extension=ts&play_token=QQig6aKDsj
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3565fa42d2c1454b8837de09b21fbac3~mv2.png/v1/fill/w_450,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Rocky%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  ROCKY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3565fa42d2c1454b8837de09b21fbac3~mv2.png/v1/fill/w_450,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Rocky%20Logo.png" group-title="24/7 MOVIE FRANCHISES", ROCKY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944370&extension=ts&play_token=ahEp0jQ1dH
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3565fa42d2c1454b8837de09b21fbac3~mv2.png/v1/fill/w_450,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Rocky%20Logo.png" group-title="24/7 MOVIE FRANCHISES", ROCKY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013491&extension=ts&play_token=Z2Xli1mXOd
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3565fa42d2c1454b8837de09b21fbac3~mv2.png/v1/fill/w_450,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Rocky%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  ROCKY 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013386&extension=ts&play_token=4aZEFMH16q
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_413d9b2acde4435e8ae10b4f87957c2a~mv2.png/v1/fill/w_322,h_244,al_c,lg_1,q_85,enc_avif,quality_auto/meninblack.png" group-title="24/7 MOVIE FRANCHISES",  MEN IN BLACK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013586&extension=ts&play_token=JW6MqhhSOW
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_413d9b2acde4435e8ae10b4f87957c2a~mv2.png/v1/fill/w_322,h_244,al_c,lg_1,q_85,enc_avif,quality_auto/meninblack.png" group-title="24/7 MOVIE FRANCHISES",  MEN IN BLACK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013380&extension=ts&play_token=dzZUUpAfiO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_413d9b2acde4435e8ae10b4f87957c2a~mv2.png/v1/fill/w_322,h_244,al_c,lg_1,q_85,enc_avif,quality_auto/meninblack.png" group-title="24/7 MOVIE FRANCHISES",  MEN IN BLACK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485184&extension=ts&play_token=LoEGBA2OQr
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_11069d9802d04ac3a473d6900af71d1b~mv2.png/v1/fill/w_363,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/planetapes.png" group-title="24/7 MOVIE FRANCHISES",  PLANET OF THE APES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013582&extension=ts&play_token=AxEsmGrg09
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_11069d9802d04ac3a473d6900af71d1b~mv2.png/v1/fill/w_363,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/planetapes.png" group-title="24/7 MOVIE FRANCHISES", - Planet of Apes
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916853&extension=ts&play_token=XnoDLOabkq
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_11069d9802d04ac3a473d6900af71d1b~mv2.png/v1/fill/w_363,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/planetapes.png" group-title="24/7 MOVIE FRANCHISES",  PLANET OF THE APES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013383&extension=ts&play_token=i9Hq4KJZiF
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_11069d9802d04ac3a473d6900af71d1b~mv2.png/v1/fill/w_363,h_272,al_c,lg_1,q_85,enc_avif,quality_auto/planetapes.png" group-title="24/7 MOVIE FRANCHISES",  PLANET OF THE APES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485181&extension=ts&play_token=82xSWCcmvA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_f60c4d1ee2164534b9e8d2e59af3a1c8~mv2.jpg/v1/fill/w_420,h_235,al_c,lg_1,q_80,enc_avif,quality_auto/RESIDENT%20EVIL.jpg" group-title="24/7 MOVIE FRANCHISES",  RESIDENT EVIL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013581&extension=ts&play_token=qvGYU3bSpA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_67bf4e4ab42e4c4fa902d89a8e7975db~mv2.png/v1/fill/w_580,h_171,al_c,lg_1,q_85,enc_avif,quality_auto/ALIENS.png" group-title="24/7 MOVIE FRANCHISES",  PREDATOR/ALIEN MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013384&extension=ts&play_token=aCzEsHGoJG
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1aa16a106b7c47589af16f1e42bc1445~mv2.png/v1/fill/w_420,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/TERMINATORpng.png" group-title="24/7 MOVIE FRANCHISES",  TERMINATOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013562&extension=ts&play_token=ao7Y30q89d
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7a0e324cb06b49b88b49375e9888d4ce~mv2.jpg/v1/fill/w_420,h_235,al_c,lg_1,q_80,enc_avif,quality_auto/STAR%20TREK.jpg" group-title="24/7 MOVIE FRANCHISES",STAR TREK MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485171&extension=ts&play_token=kDjpqzKTnX
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7a0e324cb06b49b88b49375e9888d4ce~mv2.jpg/v1/fill/w_420,h_235,al_c,lg_1,q_80,enc_avif,quality_auto/STAR%20TREK.jpg" group-title="24/7 MOVIE FRANCHISES",STAR TREK MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013392&extension=ts&play_token=e9G5pq6slW
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d19a4a9a9a3249cd8e5f3d0d2f7ecb14~mv2.jpg/v1/fill/w_444,h_223,al_c,lg_1,q_80,enc_avif,quality_auto/starwars.jpg" group-title="24/7 MOVIE FRANCHISES",STAR WARS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013573&extension=ts&play_token=WSwM87ZN2i
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d19a4a9a9a3249cd8e5f3d0d2f7ecb14~mv2.jpg/v1/fill/w_444,h_223,al_c,lg_1,q_80,enc_avif,quality_auto/starwars.jpg" group-title="24/7 MOVIE FRANCHISES",STAR WARS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013393&extension=ts&play_token=qgSkNbT6Lf
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1d9ec7f716c6426e9a71d24c05544bac~mv2.png/v1/fill/w_382,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/starwars2d.png" group-title="24/7 MOVIE FRANCHISES",STAR WARS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916851&extension=ts&play_token=aCfTI63OPM
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_0665cbf25b89481a87064446afeb7400~mv2.jpg/v1/fill/w_420,h_230,al_c,lg_1,q_80,enc_avif,quality_auto/batmanjpg.jpg" group-title="24/7 MOVIE FRANCHISES",BATMAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013497&extension=ts&play_token=NTszjyBQ1I
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_70484534e4614598a481cb489b61baf4~mv2.jpg/v1/fill/w_363,h_272,al_c,lg_1,q_80,enc_avif,quality_auto/darkknight.jpg" group-title="24/7 MOVIE FRANCHISES",THE DARK KNIGHT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916845&extension=ts&play_token=YPhtcxfH2b
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_0665cbf25b89481a87064446afeb7400~mv2.jpg/v1/fill/w_420,h_230,al_c,lg_1,q_80,enc_avif,quality_auto/batmanjpg.jpg" group-title="24/7 MOVIE FRANCHISES",  BATMAN MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485164&extension=ts&play_token=NpG1il1WQf
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1b02f579436c4f36945b2dbf96a31104~mv2.jpg/v1/fill/w_418,h_237,al_c,lg_1,q_80,enc_avif,quality_auto/BLADEd.jpg" group-title="24/7 MOVIE FRANCHISES",  BLADE MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485194&extension=ts&play_token=L37DwEQPBZ
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_77859dc3febf40d88b61c869220b3753~mv2.png/v1/fill/w_704,h_134,al_c,lg_1,q_85,enc_avif,quality_auto/spiderman2png.png" group-title="24/7 MOVIE FRANCHISES",  SPIDER MAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013576&extension=ts&play_token=lQ9wlfav4C
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_094d6663041147c6be04c75e3d1e0757~mv2.jpg/v1/fill/w_294,h_222,al_c,lg_1,q_80,enc_avif,quality_auto/spidyd.jpg" group-title="24/7 MOVIE FRANCHISES",SPIDERMAN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916847&extension=ts&play_token=k3fe7Oafs2
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4f73a086b0964f4bb75ea7ca60f3871c~mv2.jpg/v1/fill/w_481,h_204,al_c,lg_1,q_80,enc_avif,quality_auto/ANTMAN.jpg" group-title="24/7 MOVIE FRANCHISES",  ANT-MAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013604&extension=ts&play_token=grQqVyo1iU
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ae6f9355bbc84feb95092e1a7155a73a~mv2.jpg/v1/fill/w_398,h_248,al_c,lg_1,q_80,enc_avif,quality_auto/CAPTAINAMERICAd.jpg" group-title="24/7 MOVIE FRANCHISES",  CAPTAIN AMERICA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013605&extension=ts&play_token=JzANL6BOdF
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ec398dedca114cc09cc4355eeccc741d~mv2.png/v1/fill/w_375,h_262,al_c,lg_1,q_85,enc_avif,quality_auto/DRSTRANGE.png" group-title="24/7 MOVIE FRANCHISES",  DR STRANGE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013606&extension=ts&play_token=IgBf26eG1x
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_ae8a0b322d404b38868fa033024e8417~mv2.png/v1/fill/w_419,h_235,al_c,lg_1,q_85,enc_avif,quality_auto/GUARDIANS.png" group-title="24/7 MOVIE FRANCHISES",  GUARDIANS OF THE GALAXY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013618&extension=ts&play_token=d516z8FdXo
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_633652c8e0b44cfeb3a8929e6ed58b5b~mv2.jpg/v1/fill/w_458,h_216,al_c,lg_1,q_80,enc_avif,quality_auto/IRONMAN.jpg" group-title="24/7 MOVIE FRANCHISES",  IRON MAN 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013610&extension=ts&play_token=kecebjPX01
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e2bde6241af42fbbd5ee152cb0ef7a6~mv2.jpg/v1/fill/w_420,h_235,al_c,lg_1,q_80,enc_avif,quality_auto/WOLVERINE.jpg" group-title="24/7 MOVIE FRANCHISES",  THE WOLVERINE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013608&extension=ts&play_token=SaJYcRHUWx
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_37d2003a1fc24f78bd47beb8958dd99e~mv2.png/v1/fill/w_606,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/THOR.png" group-title="24/7 MOVIE FRANCHISES",  THOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013612&extension=ts&play_token=G9qJD5O7ZA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_bd7664b7249e4ca7a84d8ec3b8b2266d~mv2.jpg/v1/fill/w_315,h_315,al_c,lg_1,q_80,enc_avif,quality_auto/TOMBRAIDERd.jpg" group-title="24/7 MOVIE FRANCHISES",  TOMB RAIDER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013588&extension=ts&play_token=S5Nl3x8il3
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_a1eaebbb83954cf5be1cbfee68bdd39b~mv2.jpg/v1/fill/w_419,h_235,al_c,lg_1,q_80,enc_avif,quality_auto/XMEN.jpg" group-title="24/7 MOVIE FRANCHISES",  X-MEN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013559&extension=ts&play_token=1OyaSDY95d
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e8bbd358a45b440fa4ff39dc8a0324f8~mv2.jpg/v1/fill/w_554,h_178,al_c,lg_1,q_80,enc_avif,quality_auto/MORTALK.jpg" group-title="24/7 MOVIE FRANCHISES",  MORTAL KOMBAT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013585&extension=ts&play_token=6ZfhJPB5G5
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_188c994f8457403091c052acee222d56~mv2.jpg/v1/fill/w_419,h_237,al_c,lg_1,q_80,enc_avif,quality_auto/MATRIX.jpg" group-title="24/7 MOVIE FRANCHISES",  MATRIX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485185&extension=ts&play_token=eEVqdT11uB
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4623e7a93234421b915832bfe77f64fb~mv2.png/v1/fill/w_542,h_300,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/The%20Matrix%20Logo.png" group-title="24/7 MOVIE FRANCHISES",  THE MATRIX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013587&extension=ts&play_token=9jJfldvaJr
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6cb36d15fb374623ba51851846f26f62~mv2.png/v1/fill/w_840,h_84,al_c,lg_1,q_85,enc_avif,quality_auto/TRANSPORTER.png" group-title="24/7 MOVIE FRANCHISES",  THE TRANSPORTER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013495&extension=ts&play_token=PZuxyLvBer
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_92958cb776634eb698f3e7267509e816~mv2.jpg/v1/fill/w_380,h_255,al_c,lg_1,q_80,enc_avif,quality_auto/friday13.jpg" group-title="24/7 MOVIE FRANCHISES",  FRIDAY THE 13TH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013377&extension=ts&play_token=GuQzvd0hNE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_f8916c262fc24522be7686732ffdf6e7~mv2.png/v1/fill/w_419,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/insidious.png" group-title="24/7 MOVIE FRANCHISES",  INSIDIOUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013591&extension=ts&play_token=ib6EAONedh
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_3df7e27e968940f496ce76361ebdf93e~mv2.png/v1/fill/w_561,h_175,al_c,lg_1,q_85,enc_avif,quality_auto/paranormal.png" group-title="24/7 MOVIE FRANCHISES",  PARANORMAL ACTIVITY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013583&extension=ts&play_token=C8f20UhEyG
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_d292c21a3669481688cb2e390376d598~mv2.png/v1/fill/w_378,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/halloweend.png" group-title="24/7 MOVIE FRANCHISES",  HALLOWEEN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013519&extension=ts&play_token=1K87VFuKW4
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_cad9e596df164d19bb211ed98eb88892~mv2.png/v1/fill/w_252,h_264,al_c,lg_1,q_85,enc_avif,quality_auto/saw7d.png" group-title="24/7 MOVIE FRANCHISES",  SAW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013579&extension=ts&play_token=CHA5g9NS7R
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_cad9e596df164d19bb211ed98eb88892~mv2.png/v1/fill/w_252,h_264,al_c,lg_1,q_85,enc_avif,quality_auto/saw7d.png" group-title="24/7 MOVIE FRANCHISES",  SAW
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916855&extension=ts&play_token=n4AMWvvOLg
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_71fe8122990d40c38db910df20031a3b~mv2.jpg/v1/fill/w_435,h_227,al_c,lg_1,q_80,enc_avif,quality_auto/scream1.jpg" group-title="24/7 MOVIE FRANCHISES",  SCREAM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013577&extension=ts&play_token=pfjOkVJhPD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_71fe8122990d40c38db910df20031a3b~mv2.jpg/v1/fill/w_435,h_227,al_c,lg_1,q_80,enc_avif,quality_auto/scream1.jpg" group-title="24/7 MOVIE FRANCHISES", SCREAM
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916852&extension=ts&play_token=d8LU78ckBY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_551ccb12dcf84b03b791777ec2d112e5~mv2.png/v1/fill/w_560,h_166,al_c,lg_1,q_85,enc_avif,quality_auto/final1.png" group-title="24/7 MOVIE FRANCHISES", - FinalDestination
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916859&extension=ts&play_token=LeqFDHLm5E
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9a9ff7ad219d49f691c46ac30a698cb2~mv2.png/v1/fill/w_456,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/texasd.png" group-title="24/7 MOVIE FRANCHISES",  TEXAS CHAINSAW MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013381&extension=ts&play_token=yyVWnVXlX3
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9a9ff7ad219d49f691c46ac30a698cb2~mv2.png/v1/fill/w_456,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/texasd.png" group-title="24/7 MOVIE FRANCHISES",  TEXAS CHAINSAW MOVIES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485183&extension=ts&play_token=huaXdt0J4N
 
 
 ####################################################################################
