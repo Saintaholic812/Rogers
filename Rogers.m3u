@@ -589,6 +589,9 @@ https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS" ,  YOUNG SHELDON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600209&extension=ts&play_token=Thp6G2sjhq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", COBRA KAI
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944303&extension=ts&play_token=5x33eCD7Eb
+
 
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS" , NETFLIX WWE
@@ -711,12 +714,15 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 #EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="US Discovery Family " tvg-logo="https://static.wixstatic.com/media/6048cf_127e9d6a0435490fa31cf275b40138ab~mv2.png/v1/fill/w_360,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/discoveryd.png" group-title="KIDS",Discovery Family 
 http://xxip25.top:8080/s5pPNV/514479/57347
+
 ###################################################################################
 ##########################   UNITED KINGDOM   KIDS     ###########################
 #################################################################################
 
-
-
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", BATWOMAN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944310&extension=ts&play_token=etXfVqnqjN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", BEWARE THE BATMAN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944308&extension=ts&play_token=3Ej4j7lc0i
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/45318.png" group-title="KIDS",UK| BABY TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45318&extension=ts&play_token=zeO6UWynbF
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014237.png" group-title="KIDS",UK| BOOMERANG +1
@@ -731,6 +737,12 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30556&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164013&extension=ts&play_token=Y7NnjNqoOq
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1206422.png" group-title="KIDS",UK| DAVE & AVA HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1206422&extension=ts&play_token=v4fdvqEiwj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", DARKWING DUCK
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944293&extension=ts&play_token=T3Dnqvc12d
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", DARKWING DUCK
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944294&extension=ts&play_token=Xk2nd15fWl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", DC'S LEGENDS OF TOMORROW
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944292&extension=ts&play_token=j4rvNSQixQ
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/396314.png" group-title="KIDS",UK| DISNEY CHANNEL FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=396314&extension=ts&play_token=ZP2wQaBVv7
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014233.png" group-title="KIDS",UK| NICK JR FHD
@@ -5351,40 +5363,156 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916840&exten
 #####################   24 / 7   TV   SHOWS    ######################
 #####################################################################
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES",  24
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944317&extension=ts&play_token=03By3kz4lT
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976611.png" group-title="24/7 SERIES",  30 ROCK 4K
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976611&extension=ts&play_token=V65SmBIzam
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503114.png" group-title="24/7 SERIES",  A DIFFERENT WORLD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503114&extension=ts&play_token=vb6cMlwCaA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", ABSOLUTELY FABULOUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600629&extension=ts&play_token=hWNXpZuu8N
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", ACCORDING TO JIM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600627&extension=ts&play_token=gRPa0orz4I
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", AFTER LIFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600626&extension=ts&play_token=5iWUmlsBeY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES",  ALIAS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944316&extension=ts&play_token=hTpLFr3kvY
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1448706.png" group-title="24/7 SERIES",  ALVIN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1448706&extension=ts&play_token=EX7Tx0hGws
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", AMERICAN HOUSEWIFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600621&extension=ts&play_token=cixNyec73M
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", ANGER MANAGEMENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600618&extension=ts&play_token=UddqV9fhJv
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1097400.png" group-title="24/7 SERIES",  AMERICAN DAD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1097400&extension=ts&play_token=Q2x3Eu5F8g
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1787982.png" group-title="24/7 SERIES",  AMERICAN HORROR STORY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1787982&extension=ts&play_token=RPV7jDUYcF
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1448707.png" group-title="24/7 SERIES",  ANNABELLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1448707&extension=ts&play_token=rKKpAeOgIZ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976578.png" group-title="24/7 SERIES",  ARROW 4k
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976578.png" group-title="24/7 SERIES",  ARROW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976578&extension=ts&play_token=TUofEef1JL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES",  AUSSIE GOLD HUNTERS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944311&extension=ts&play_token=9yFUHU4Lls
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BARELY FAMOUS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600612&extension=ts&play_token=KHTVz2zmnv
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976613.png" group-title="24/7 SERIES",  BETTER CALL SAUL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976613&extension=ts&play_token=Eq9DSXRe8Q
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BETTER CALL SAUL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600607&extension=ts&play_token=gA40vUV6BY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BETTER OFF TED
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600606&extension=ts&play_token=jiBG8Nz6cJ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BILL NYE SAVES THE WORLD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600602&extension=ts&play_token=hdtHjQQ0lW
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478592.png" group-title="24/7 SERIES",   BILLY THE EXTERMINATOR
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478592&extension=ts&play_token=vBhl8SKdwY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559588.png" group-title="24/7 SERIES",   BILLY THE EXTERMINATOR
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559588&extension=ts&play_token=ytYVGyoRIs
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BLACK-ISH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600600&extension=ts&play_token=PldX7nyah9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BOOMERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600598&extension=ts&play_token=nZZZM6hRzA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BORDERLINE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600597&extension=ts&play_token=Q4wt3MZ1RT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BREEDERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600593&extension=ts&play_token=kQvo3Cyoaf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BROOKLYN NINE NINE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600589&extension=ts&play_token=bNUBaB7NFR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", BUFFY THE VAMPIRE SLAYER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600588&extension=ts&play_token=XUBkXDk9KE
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049064.png" group-title="24/7 SERIES",  BUFFY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049064&extension=ts&play_token=xdBVdZi1rI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", BURN NOTICE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944305&extension=ts&play_token=EqIiyp32Yo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", CLEANERS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944304&extension=ts&play_token=SGNbjEcgGs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", CAKE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600586&extension=ts&play_token=083NAUA4uN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", CALIFORNICATION
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600585&extension=ts&play_token=8Pb31O8Sui
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976579.png" group-title="24/7 SERIES",  CALIFORNICATION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976579&extension=ts&play_token=pNmWNDxu2h
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", CELEBRITY FAMILY FEUD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600580&extension=ts&play_token=VRqOrfAbCn
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976614.png" group-title="24/7 SERIES",  CHAPPELLES SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976614&extension=ts&play_token=ymqmXUXzJn
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/978704.png" group-title="24/7 SERIES",  CHAPPELLES SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978704&extension=ts&play_token=3LYOHSE9d1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", CHAPPELLE'S SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600579&extension=ts&play_token=knPUnwMn9o
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478603.png" group-title="24/7 SERIES",   CHAPPELLE'S SHOW
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478603&extension=ts&play_token=BJk5uhk0fx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", CHILDRENS HOSPITAL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600578&extension=ts&play_token=kr7IECHT3P
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", COMRADE DETECTIVE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944302&extension=ts&play_token=UN8AHaamLF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", COUGAR TOWN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600570&extension=ts&play_token=bQV5jr0o7q
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", CURB YOUR ENTHUSIASM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600563&extension=ts&play_token=bjafFaLKBz
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976580.png" group-title="24/7 SERIES",  CHUCK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976580&extension=ts&play_token=4zca98CKy4
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976581.png" group-title="24/7 SERIES",  COBRA KAI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976581&extension=ts&play_token=BZ63Kl3G5G
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049065.png" group-title="24/7 SERIES",  CSI MIAMI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049065&extension=ts&play_token=gVzGzMWxtG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DADS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600562&extension=ts&play_token=YuLXpVt1Sk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DANCE ACADEMY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600561&extension=ts&play_token=tE6zY8449K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", DARK ANGEL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944295&extension=ts&play_token=QMiFkVrbMO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", DARK ANGEL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944296&extension=ts&play_token=73JTZz6fcd
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DAVE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600559&extension=ts&play_token=b7MF2qZiIL
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478570.png" group-title="24/7 SERIES",   DEADLIEST CATCH
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478570&extension=ts&play_token=IQIp19T14E
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478571.png" group-title="24/7 SERIES",   DEGRASSI JUNIOR HIGH
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478571&extension=ts&play_token=C2P5gZVSgG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DOC MARTIN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600545&extension=ts&play_token=OOU4tMkWCQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", DOCTOR WHO
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944289&extension=ts&play_token=voLMbdH3ev
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DOG WITH A BLOG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600544&extension=ts&play_token=bpje0yjqLP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DUCK DYNASTY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600538&extension=ts&play_token=8GVIE1ZOF9
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1811976.png" group-title="24/7 SERIES",  DRAGNET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811976&extension=ts&play_token=KKCQvFJhIt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", ENTOURAGE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600533&extension=ts&play_token=5vgF8rDXyd
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976552.png" group-title="24/7 SERIES",  EVERYBODY LOVES RAYMOND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976552&extension=ts&play_token=TbXzhy2rRC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", EVERYBODY HATES CHRIS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600529&extension=ts&play_token=GyzxK7GpH8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", EVERYBODY LOVES RAYMOND
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600528&extension=ts&play_token=G9qX15sBAf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", FRESH OFF THE BOAT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600516&extension=ts&play_token=8oi8Saf8me
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", FRESH OFF THE BOAT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600515&extension=ts&play_token=WDYDlFwYyj
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", FUTURE MAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600509&extension=ts&play_token=sWbLso9TVT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GHOSTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600501&extension=ts&play_token=xhosohn3XB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GIRL MEETS WORLD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600499&extension=ts&play_token=48VkKbQ7nr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GLEE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600496&extension=ts&play_token=a148CpgHFE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GOOD WITCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600491&extension=ts&play_token=8Jf9p4AjyI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GOSSIP GIRL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600490&extension=ts&play_token=Jj5Ms7B3Ih
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GRACE AND FRANKIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600489&extension=ts&play_token=sTlVQDKPBT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GRACE AND FRANKIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600488&extension=ts&play_token=f7u8rDjkPy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GROUNDED FOR LIFE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600483&extension=ts&play_token=setOuAHpq4
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503123.png" group-title="24/7 SERIES",  FAMILY MATTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503123&extension=ts&play_token=Y8TvyKMyGq
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976553.png" group-title="24/7 SERIES",  FRASIER
@@ -5397,14 +5525,29 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976532&extens
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1041933&extension=ts&play_token=rHIemxMDGC
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976555.png" group-title="24/7 SERIES",  HOW I MET YOUR MOTHER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976555&extension=ts&play_token=sBbi2JTbIb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", HOW I MET YOUR MOTHER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600465&extension=ts&play_token=janFqxpdoN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", HOW ITS MADE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600464&extension=ts&play_token=LyG80pyiBb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", KEEPING UP APPEARANCES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600448&extension=ts&play_token=stMpPIJ2rD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", KEVIN CAN WAIT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600447&extension=ts&play_token=11I2jdSIaO
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976533.png" group-title="24/7 SERIES",  KEVIN CAN WAIT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976533&extension=ts&play_token=pI4Myu4txt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", KEVIN FROM WORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600446&extension=ts&play_token=gzb3EzdQuY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559560.png" group-title="24/7 SERIES",   KING OF THE HILL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559560&extension=ts&play_token=oUISpxzoti
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", LIZZIE MCGUIRE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600432&extension=ts&play_token=JHXQdnjclv
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049066.png" group-title="24/7 SERIES",  LAST MAN STANDING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049066&extension=ts&play_token=oM0QzouZsB
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976534.png" group-title="24/7 SERIES",  LAST MAN STANDING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976534&extension=ts&play_token=74bI8wjNDB
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/994884.png" group-title="24/7 SERIES",  LAW AND ORDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=994884&extension=ts&play_token=vAsHphwPaW
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976557.png" group-title="24/7 SERIES",  LOST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976557&extension=ts&play_token=d4ZutPwQVJ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976559.png" group-title="24/7 SERIES",  MACGYVER
@@ -5413,34 +5556,107 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976559&extens
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976560&extension=ts&play_token=2OdjLvpYu9
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1811974.png" group-title="24/7 SERIES",  MARRIED WITH CHILDREN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811974&extension=ts&play_token=xrqUUk5XTg
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MAN SEEKING WOMAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600419&extension=ts&play_token=kcQeqRMO20
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MEDICAL POLICE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600415&extension=ts&play_token=5IQBRLqMbg
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MEN AT WORK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600414&extension=ts&play_token=hC5UaTLj4l
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060647.png" group-title="24/7 SERIES",  MIAMI VICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060647&extension=ts&play_token=zggzhklwiy
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976561.png" group-title="24/7 SERIES",  MIKE AND MOLLY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976561&extension=ts&play_token=WVG0fl0BcY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MODERN FAMILY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600406&extension=ts&play_token=Y9IvCwXLMg
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MODERN FAMILY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600405&extension=ts&play_token=VIDGSgDCNn
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1041931.png" group-title="24/7 SERIES",  MODERN FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1041931&extension=ts&play_token=EFV7nVW0H8
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976562.png" group-title="24/7 SERIES",  MODERN FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976562&extension=ts&play_token=RcHimoIKwH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MOONLIGHTING
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600403&extension=ts&play_token=UFGdQSrfbS
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559543.png" group-title="24/7 SERIES",    MR BEAN
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559543&extension=ts&play_token=gFwzKYh4wA
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MUPPETS NOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600400&extension=ts&play_token=bYY0w94CNF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MY NAME IS EARL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600395&extension=ts&play_token=FVztfTnHNb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", MY WIFE AND KIDS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600394&extension=ts&play_token=L4twxkRXpk
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559555.png" group-title="24/7 SERIES",  NIGHT COURT
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559555&extension=ts&play_token=CNIhZ7fFGi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", NURSES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600384&extension=ts&play_token=42UIhMuRxH
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060648.png" group-title="24/7 SERIES",  NYPD BLUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060648&extension=ts&play_token=EEb14zsH2U
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976563.png" group-title="24/7 SERIES",  PARKS AND RECREATION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976563&extension=ts&play_token=qMR5fsbdGP
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503140.png" group-title="24/7 SERIES",  PAW PATROL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503140&extension=ts&play_token=XAIoyK1SI8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", PERFECT STRANGERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600373&extension=ts&play_token=MwLZxr18kV
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976564.png" group-title="24/7 SERIES",  PRISON BREAK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976564&extension=ts&play_token=jyJpR98fhT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", PRISON BREAK
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944247&extension=ts&play_token=dO4oo5RCbt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", QUANTUM LEAP
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944246&extension=ts&play_token=e0LsRk1oXK
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060649.png" group-title="24/7 SERIES",  REBA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060649&extension=ts&play_token=5vokajmnXG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", REBA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600354&extension=ts&play_token=B1qmF41xpQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", RED DWARF
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600353&extension=ts&play_token=JOLzm8fuI0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559559.png" group-title="24/7 SERIES",   RICK AND MORTY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559559&extension=ts&play_token=BavYQqG6Js
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559556.png" group-title="24/7 SERIES",   ROSEANNE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559556&extension=ts&play_token=IoaEqg4vJA
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976566.png" group-title="24/7 SERIES",  ROSEANNE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976566&extension=ts&play_token=S1jvoW49Mw
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976567.png" group-title="24/7 SERIES",  SCORPION
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976567&extension=ts&play_token=qiLJEedpxh
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", RULES OF ENGAGEMENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600346&extension=ts&play_token=McdmraIN82
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SATURDAY NIGHT LIVE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600343&extension=ts&play_token=wg6tlr2FnW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SCHITT S CREEK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600341&extension=ts&play_token=maToxxIdiZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SCHOOL OF ROCK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600340&extension=ts&play_token=7JQAdYCItR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SCRUBS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600337&extension=ts&play_token=5jfaVWn0v9
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976568.png" group-title="24/7 SERIES",  SCRUBS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976568&extension=ts&play_token=pTB18hvlO9
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976567.png" group-title="24/7 SERIES",  SCORPION
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976567&extension=ts&play_token=qiLJEedpxh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", SCORPION
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944238&extension=ts&play_token=PklPkZvLgU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES", SEAL TEAM
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944237&extension=ts&play_token=9BTeDTHPxr
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SEAN SAVES THE WORLD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600336&extension=ts&play_token=PnBHLcnGFH
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976569.png" group-title="24/7 SERIES",  SEINFELD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976569&extension=ts&play_token=LjdsdqltEy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES",  SEINFELD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943219&extension=ts&play_token=vY9RZabpgx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SEX AND THE CITY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600330&extension=ts&play_token=4rrv10Y2Bp
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976539.png" group-title="24/7 SERIES",  SHAMELESS 
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976539&extension=ts&play_token=sRFgIw4f3p
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SHAUN MICALLEF'S MAD AS HELL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600328&extension=ts&play_token=uk8TOHl7h5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SOUTH PARK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600314&extension=ts&play_token=0joyc6eUnK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SUPERMARKET SWEEP
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600302&extension=ts&play_token=EvD4KmPl9Z
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SUPERSTORE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600301&extension=ts&play_token=luu4JVhPxW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", TED LASSO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600295&extension=ts&play_token=HwTNRzQd4p
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THAT '70S SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600290&extension=ts&play_token=1adYnEgb29
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976570.png" group-title="24/7 SERIES",  THAT 70S SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976570&extension=ts&play_token=P7WYllOpRn
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503141.png" group-title="24/7 SERIES",  THE A-TEAM
@@ -5449,60 +5665,76 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503141&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060650&extension=ts&play_token=VTOM6ypKqM
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976644.png" group-title="24/7 SERIES",  THE BIG BANG THEORY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976644&extension=ts&play_token=ehW7nJbcOP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE BIG BANG THEORY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600286&extension=ts&play_token=QVjxRRBDp5
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976544.png" group-title="24/7 SERIES",  THE BLACKLIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976544&extension=ts&play_token=9DHLQWJrVi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE CONNERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600279&extension=ts&play_token=906NQkFrDy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE DREW CAREY SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600273&extension=ts&play_token=GbdnhaEquz
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/978676.png" group-title="24/7 SERIES",  THE FRESH PRINCE OF BEL-AIR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978676&extension=ts&play_token=LiGmNo8To7
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976572.png" group-title="24/7 SERIES", THE FRESH PTINCE OF BEL AIR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976572&extension=ts&play_token=oaYq4sShbp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE GOLDBERGS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600269&extension=ts&play_token=JspiCYsERd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE GRAHAM NORTON SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600267&extension=ts&play_token=p3etcWiKr2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE JIM JEFFERIES SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600256&extension=ts&play_token=n5gd71wWjk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE KING OF QUEENS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600254&extension=ts&play_token=ClTa3eFXbz
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976545.png" group-title="24/7 SERIES",  THE KING OF QUEENS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976545&extension=ts&play_token=6ipQYw6Iwx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE MARY TYLER MOORE SHOW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600250&extension=ts&play_token=yRvUsmeMVs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE MICK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600249&extension=ts&play_token=95lpIUGdFq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE MILLERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600247&extension=ts&play_token=TxZFGKK1Li
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1060651.png" group-title="24/7 SERIES",  THE MENTALIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1060651&extension=ts&play_token=o7tpd4AT48
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976574.png" group-title="24/7 SERIES",  THE MUPPET SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976574&extension=ts&play_token=KGB9xOfr7A
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE NANNY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600243&extension=ts&play_token=q6QK2Nf3wM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478565.png" group-title="24/7 SERIES",   THE NANNY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478565&extension=ts&play_token=1BVmbjR9Uq
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976647.png" group-title="24/7 SERIES",  THE NANNY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976647&extension=ts&play_token=fuKqrmZ1MY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE OFFICE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600240&extension=ts&play_token=ykroYz5Zlf
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976575.png" group-title="24/7 SERIES",  THE OFFICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976575&extension=ts&play_token=BG5k4aW321
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503144.png" group-title="24/7 SERIES",  THE PARKERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503144&extension=ts&play_token=9X65O8vrRZ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/978711.png" group-title="24/7 SERIES",  THE SIMPSONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978711&extension=ts&play_token=oxK7ZLhbHC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478535.png" group-title="24/7 SERIES",  THE SIMPSONS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478535&extension=ts&play_token=jtPa9kbIGM
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559554.png" group-title="24/7 SERIES",   SPONGEBOB SQUAREPANTS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559554&extension=ts&play_token=6xVcJin8em
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1448722.png" group-title="24/7 SERIES",  THE SMURFS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1448722&extension=ts&play_token=qOaAljf3Z1
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503146.png" group-title="24/7 SERIES",  THE STEVE HARVEY SHOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503146&extension=ts&play_token=23OG5IOz3c
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1069436.png" group-title="24/7 SERIES",  TOP GEAR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1069436&extension=ts&play_token=yHVkNXHU8o
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", TRAILER PARK BOYS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600231&extension=ts&play_token=iaUohJqPGa
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", TWO AND A HALF MEN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600227&extension=ts&play_token=87JxE0jDqV
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976576.png" group-title="24/7 SERIES",  TWO AND A HALF MEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976576&extension=ts&play_token=rBDG2Q6cAr
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559543.png" group-title="24/7 SERIES",  24/7  MR BEAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559543&extension=ts&play_token=gFwzKYh4wA
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478592.png" group-title="24/7 SERIES",  24/7 BILLY THE EXTERMINATOR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478592&extension=ts&play_token=vBhl8SKdwY
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559588.png" group-title="24/7 SERIES",  24/7 BILLY THE EXTERMINATOR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559588&extension=ts&play_token=ytYVGyoRIs
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478603.png" group-title="24/7 SERIES",  24/7 CHAPPELLE'S SHOW
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478603&extension=ts&play_token=BJk5uhk0fx
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478570.png" group-title="24/7 SERIES",  24/7 DEADLIEST CATCH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478570&extension=ts&play_token=IQIp19T14E
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478571.png" group-title="24/7 SERIES",  24/7 DEGRASSI JUNIOR HIGH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478571&extension=ts&play_token=C2P5gZVSgG
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559560.png" group-title="24/7 SERIES",  24/7 KING OF THE HILL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559560&extension=ts&play_token=oUISpxzoti
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559555.png" group-title="24/7 SERIES", 24/7 NIGHT COURT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559555&extension=ts&play_token=CNIhZ7fFGi
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559559.png" group-title="24/7 SERIES",  24/7 RICK AND MORTY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559559&extension=ts&play_token=BavYQqG6Js
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559556.png" group-title="24/7 SERIES",  24/7 ROSEANNE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559556&extension=ts&play_token=IoaEqg4vJA
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478535.png" group-title="24/7 SERIES",  24/7 SIMPSONS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478535&extension=ts&play_token=jtPa9kbIGM
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/559554.png" group-title="24/7 SERIES",  24/7 SPONGEBOB SQUAREPANTS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559554&extension=ts&play_token=6xVcJin8em
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478565.png" group-title="24/7 SERIES",  24/7 THE NANNY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478565&extension=ts&play_token=1BVmbjR9Uq
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976647.png" group-title="24/7 SERIES",  THE NANNY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976647&extension=ts&play_token=fuKqrmZ1MY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", WILL & GRACE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600214&extension=ts&play_token=CcUS0haoQQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", WINGS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600213&extension=ts&play_token=eYAM9hSbN9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", YOUNG SHELDON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600209&extension=ts&play_token=Thp6G2sjhq
+
+
 
 #####################################################################
 ##########################      CLASSIC SHOWS     ####################
@@ -5514,6 +5746,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811978&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943297&extension=ts&play_token=5ImysHOQd7
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  AIRWOLF
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943296&extension=ts&play_token=DAVBkHYCfJ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", ALF
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600623&extension=ts&play_token=ooeyqdDYDZ
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  ALFRED HITCHCOCK PRESENTS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943295&extension=ts&play_token=heEgKHA38G
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  ALL IN THE FAMILY
@@ -5532,7 +5766,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943289&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943288&extension=ts&play_token=TJDImiHUBE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BONANZA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943287&extension=ts&play_token=UjQaTJJJlo
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478595.png" group-title="24/7 CLASSIC SHOWS",   BONANZA
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478595.png" group-title="24/7 CLASSIC SHOWS",  BONANZA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478595&extension=ts&play_token=QSgjWbZtw0
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  BRADY BUNCH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943286&extension=ts&play_token=LvYqdAbT9s
@@ -5582,8 +5816,12 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943268&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943267&extension=ts&play_token=hDzktsqkaD
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  FRIENDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943266&extension=ts&play_token=vpWQlOpbO1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", FULL HOUSE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600510&extension=ts&play_token=6Vr3cIzjpu
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  GILLIGAN'S ISLAND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943265&extension=ts&play_token=VXISDvApWT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", GILMORE GIRLS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600500&extension=ts&play_token=XpsfxVEt3h
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  GIRLFRIENDS 2000
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943264&extension=ts&play_token=mVUrOw65TZ
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  GOMER PYLE, U.S.M.C.
@@ -5634,10 +5872,14 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943245&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943244&extension=ts&play_token=biwpnW5Ash
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LEAVE IT TO BEAVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943243&extension=ts&play_token=M0DevaDUky
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", LEAVE IT TO BEAVER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600441&extension=ts&play_token=A2pjX31QJu
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1041932.png" group-title="24/7 CLASSIC SHOWS",  LEAVE IT TO BEAVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1041932&extension=ts&play_token=v6amsjQ007
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LITTLE HOUSE ON THE PRAIRIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943242&extension=ts&play_token=pTxQbylvL2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", LOVE THY NEIGHBOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600424&extension=ts&play_token=pYMU7MKoyS
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" ggroup-title="24/7 CLASSIC SHOWS",  LOST IN SPACE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=194241&extension=ts&play_token=v1AR5ywCGF
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LOVE AMERICAN STYLE
@@ -5676,26 +5918,52 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943225&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943224&extension=ts&play_token=GBT6ni9bBw
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  PIMP MY RIDE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943223&extension=ts&play_token=8toeGiio6Y
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  ROB AND BIG
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943222&extension=ts&play_token=ry1wKEVwVI
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  ROSEANNE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943221&extension=ts&play_token=lbi7sw2S5R
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  SANFORD & SON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943220&extension=ts&play_token=XDphWf7Trh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  SEINFELD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943219&extension=ts&play_token=vY9RZabpgx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", SAVED BY THE BELL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600342&extension=ts&play_token=e1ZfE5wkAd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", SCARECROW AND MRS. KING
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944239&extension=ts&play_token=BLwPOCkYdg
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  SILVER SPOONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943218&extension=ts&play_token=svOojfIv4s
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", SOAP
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600318&extension=ts&play_token=cFQ5t1vBtE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  SOME MOTHERS DO 'AVE 'EM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943217&extension=ts&play_token=6VSeSyuAwk
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  STARSKY AND HUTCH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943216&extension=ts&play_token=RuwKsNZ7hT
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  STEP BY STEP
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943215&extension=ts&play_token=8w3S4gIMCB
+
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1433510.png" group-title="24/7 CLASSIC SHOWS",  STAR TREK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1433510&extension=ts&play_token=lud4meSCbq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STAR TREK: DEEP SPACE NINE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944232&extension=ts&play_token=79cslDzQRT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STAR TREK: ENTERPRISE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944231&extension=ts&play_token=4uIS7Fr0gW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STAR WARS REBELS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944230&extension=ts&play_token=awfqVO8mxJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STAR WARS: THE CLONE WARS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944229&extension=ts&play_token=tGDBbPJ1mu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STARGATE ATLANTIS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944228&extension=ts&play_token=Za4rznvhcX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STARGATE SG-1
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944227&extension=ts&play_token=QW6zggu1rK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STARGIRL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944226&extension=ts&play_token=YVrFhVNLaC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS", STARHUNTER REDUX
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944225&extension=ts&play_token=tqNPh88FaR
+
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  TALES FROM THE CRYPT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943214&extension=ts&play_token=r0n6XRxO1n
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", TAXI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600297&extension=ts&play_token=jscXGaZnOl
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  THAT GIRL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943213&extension=ts&play_token=EPZDFeJqr3
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  THE ADDAMS FAMILY
@@ -5734,6 +6002,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943203&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503143&extension=ts&play_token=XPLKXbhZJJ
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976573.png" group-title="24/7 CLASSIC SHOWS",  THE INCREDIBLE HULK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976573&extension=ts&play_token=uT3KMSLBcT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", THE INVISIBLE MAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600259&extension=ts&play_token=tAVbOScvTW
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1066675.png" group-title="24/7 CLASSIC SHOWS",  THE JEFFERSONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1066675&extension=ts&play_token=o6kJhfaSYA
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  THE JAMIE FOXX SHOW
@@ -5943,246 +6213,6 @@ https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandc
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1516/lg/0f59a3/LG-Logo-PNG-100x100_v2.png" group-title="24/7 CRIME/MEDICAL", Court TV
 https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1516&wurl_name=CourtTV&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-
-#######################   ACTION/ADVENTURE    ##############################################
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 24
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944317&extension=ts&play_token=03By3kz4lT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 ALIAS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944316&extension=ts&play_token=hTpLFr3kvY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 AMAZING STORIES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944315&extension=ts&play_token=UtEP8bW9pN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 AMPHIBIA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944314&extension=ts&play_token=groxUj79rw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 ANDROMEDA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944313&extension=ts&play_token=7GEqrihGdm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 ATLANTIS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944312&extension=ts&play_token=RwBSx5juev
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 AUSSIE GOLD HUNTERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944311&extension=ts&play_token=9yFUHU4Lls
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 BATWOMAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944310&extension=ts&play_token=etXfVqnqjN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 BETAAL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944309&extension=ts&play_token=1U4gkhWg4S
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 BEWARE THE BATMAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944308&extension=ts&play_token=3Ej4j7lc0i
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 BLACK CLOVER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944307&extension=ts&play_token=OGZsVQSwT3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 BRAQUO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944306&extension=ts&play_token=k5nkMlWOnp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 BURN NOTICE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944305&extension=ts&play_token=EqIiyp32Yo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 CLEANERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944304&extension=ts&play_token=SGNbjEcgGs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 COBRA KAI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944303&extension=ts&play_token=5x33eCD7Eb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 COMRADE DETECTIVE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944302&extension=ts&play_token=UN8AHaamLF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 CONTINUUM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944301&extension=ts&play_token=66sJDybdGW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 COPPER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944300&extension=ts&play_token=h9TOBreK4V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 CROSSING LINES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944299&extension=ts&play_token=pRLy546ou4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 CURSED
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944298&extension=ts&play_token=kT2ggKFbWv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DANIEL BOONE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944297&extension=ts&play_token=efa2IIcczr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DARK ANGEL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944295&extension=ts&play_token=QMiFkVrbMO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DARK ANGEL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944296&extension=ts&play_token=73JTZz6fcd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DARKWING DUCK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944293&extension=ts&play_token=T3Dnqvc12d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DARKWING DUCK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944294&extension=ts&play_token=Xk2nd15fWl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DC'S LEGENDS OF TOMORROW
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944292&extension=ts&play_token=j4rvNSQixQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DIE HART
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944291&extension=ts&play_token=eW8wNFtWBz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DINOTRUX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944290&extension=ts&play_token=9Yq2TSoPi1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DOCTOR WHO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944289&extension=ts&play_token=voLMbdH3ev
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 DORORO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944288&extension=ts&play_token=CAZ7BMm0UY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 ENDLINGS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944287&extension=ts&play_token=OuqWGm5kTq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 FALLING SKIES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944286&extension=ts&play_token=ZpJU192J8E
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 FANBOY AND CHUM CHUM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944285&extension=ts&play_token=chtWHdqvCk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 FARSCAPE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944284&extension=ts&play_token=JSrt9ohRUz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 FEAR THE WALKING DEAD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944282&extension=ts&play_token=MhITept1pn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 FEAR THE WALKING DEAD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944283&extension=ts&play_token=uJvRlxcZvv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 HANNA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944281&extension=ts&play_token=Z6yKmRf2Yi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 HAP AND LEONARD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944280&extension=ts&play_token=QnHW9uM4FB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 HELL ON WHEELS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944279&extension=ts&play_token=SDnyNBne91
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 HERCULES: THE LEGENDARY JOURNEYS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944278&extension=ts&play_token=Nc8yFqCGTu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 HUMAN TARGET
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944277&extension=ts&play_token=M7EL5kSOpt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 INCORPORATED
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944276&extension=ts&play_token=CR602beBXY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 INTELLIGENCE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944275&extension=ts&play_token=YG4YoWJxtU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 INTO THE BADLANDS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944274&extension=ts&play_token=oCCaa5x5MQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 JACK OF ALL TRADES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944273&extension=ts&play_token=vMlrKL19Xr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 JACKIE CHAN ADVENTURES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944272&extension=ts&play_token=oSES2nqjvS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 JERICHO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944271&extension=ts&play_token=EIL3muZ7aT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 JONAS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944270&extension=ts&play_token=tJNg3MlFDz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 JUSTICE LEAGUE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944269&extension=ts&play_token=buWpIn3cmM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 KICKIN' IT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944268&extension=ts&play_token=2o5S2jETWs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 KILLJOYS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944267&extension=ts&play_token=RahkMIo8iw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 KIM POSSIBLE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944266&extension=ts&play_token=VamybqXrdM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 KNIGHTFALL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944265&extension=ts&play_token=nkfnle0GtW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 KRYPTON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944264&extension=ts&play_token=x5Z8bQP8Hh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 LA FEMME NIKITA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944263&extension=ts&play_token=Hiol3Fb1Y4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 LAST RESORT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944262&extension=ts&play_token=UN1YewEoH6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 LEGO NEXO KNIGHTS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944261&extension=ts&play_token=znpFhVPaIk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 LETHAL WEAPON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944260&extension=ts&play_token=RS4FqsPhZU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 LOST
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944259&extension=ts&play_token=c2A0nE9ZJG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 MARCO POLO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944258&extension=ts&play_token=2zeaFDEnmi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 MARTIN MYSTERY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944257&extension=ts&play_token=R3RlloQFlI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 MARVEL'S THE PUNISHER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944256&extension=ts&play_token=bChPysYvov
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 MERLIN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944255&extension=ts&play_token=ZlkWtq0INZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 MISFITS OF SCIENCE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944254&extension=ts&play_token=APH6354X4a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 NCIS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944253&extension=ts&play_token=Bj31lbhL59
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 NCIS: LOS ANGELES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944252&extension=ts&play_token=xRsa0MGTLl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 NCIS: NEW ORLEANS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944251&extension=ts&play_token=YgdujssLal
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 PAIR OF KINGS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944250&extension=ts&play_token=kQB5VPBk8M
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 PLUNDERER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944249&extension=ts&play_token=jsM9dcGQwG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 PRIMEVAL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944248&extension=ts&play_token=J9VCH8j7SF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 PRISON BREAK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944247&extension=ts&play_token=dO4oo5RCbt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 QUANTUM LEAP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944246&extension=ts&play_token=e0LsRk1oXK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 RADIANT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944245&extension=ts&play_token=7WDYEv93fk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 RIVER MONSTERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944244&extension=ts&play_token=eaPsUODimS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 ROME
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944243&extension=ts&play_token=lXAW2lr4UJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 RUNNING WILD WITH BEAR GRYLLS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944242&extension=ts&play_token=f7jtRrJE49
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SAMURAI JACK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944241&extension=ts&play_token=77W4KrBmuD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SANCTUARY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944240&extension=ts&play_token=sVRWcvaUfm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SCARECROW AND MRS. KING
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944239&extension=ts&play_token=BLwPOCkYdg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SCORPION
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944238&extension=ts&play_token=PklPkZvLgU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SEAL TEAM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944237&extension=ts&play_token=9BTeDTHPxr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SINBAD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944236&extension=ts&play_token=pcL8uoha3g
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SLIDERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944235&extension=ts&play_token=mDhX5b8D29
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SMALLVILLE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944234&extension=ts&play_token=cTdtwcx1Z0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 SONIC BOOM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944233&extension=ts&play_token=cq36kEtZhb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STAR TREK: DEEP SPACE NINE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944232&extension=ts&play_token=79cslDzQRT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STAR TREK: ENTERPRISE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944231&extension=ts&play_token=4uIS7Fr0gW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STAR WARS REBELS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944230&extension=ts&play_token=awfqVO8mxJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STAR WARS: THE CLONE WARS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944229&extension=ts&play_token=tGDBbPJ1mu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STARGATE ATLANTIS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944228&extension=ts&play_token=Za4rznvhcX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STARGATE SG-1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944227&extension=ts&play_token=QW6zggu1rK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STARGIRL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944226&extension=ts&play_token=YVrFhVNLaC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STARHUNTER REDUX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944225&extension=ts&play_token=tqNPh88FaR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 STATIC SHOCK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944224&extension=ts&play_token=J8i2Oxq2IT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 TAKEN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944223&extension=ts&play_token=xf1bQM43Ep
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 TEENAGE BOUNTY HUNTERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944222&extension=ts&play_token=WVthkfa4Qe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE DEAD LANDS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944221&extension=ts&play_token=WRn9xM3z4L
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE DETECTIVES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944219&extension=ts&play_token=fM508wC2fT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE DETECTIVES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944220&extension=ts&play_token=aEMTte1DDc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE GIFTED
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944218&extension=ts&play_token=r7ALhllDOX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE LAST KINGDOM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944217&extension=ts&play_token=LD4UkgG66l
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE LEGEND OF BRUCE LEE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944216&extension=ts&play_token=jc6NfgAglj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE LIBRARIANS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944215&extension=ts&play_token=nkFwunLYDC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE REAL GHOSTBUSTERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944214&extension=ts&play_token=i52x09HTV3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE SUPER HERO SQUAD SHOW
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944213&extension=ts&play_token=MJ2tczCoir
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE UMBRELLA ACADEMY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944212&extension=ts&play_token=oTBiiV3dAw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THE WILD WILD WEST
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944211&extension=ts&play_token=mCFVZ8BWsp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THEN CAME BRONSON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944210&extension=ts&play_token=PBC03xEVYQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 THUNDERBIRDS ARE GO!
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944209&extension=ts&play_token=kQc0f7zIgJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 TIN MAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944208&extension=ts&play_token=LNHCnmXPMy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 TITANS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944207&extension=ts&play_token=y0jT1EcY7w
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 TORCHWOOD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944206&extension=ts&play_token=9yuResaxdm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 ULTIMATE BEASTMASTER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944205&extension=ts&play_token=niCwo5uNjp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 VIKINGS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944204&extension=ts&play_token=jYfjxEgAtk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 WICKED TUNA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944202&extension=ts&play_token=d16hCln871
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 WYNONNA EARP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944201&extension=ts&play_token=j2R11WsB2x
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",24/7 YOUNG JUSTICE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944200&extension=ts&play_token=yDxHJxpxnq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTION & ADVENTURE VIP",TEXAS RANGER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944203&extension=ts&play_token=wUQkFmASpI
 
 #################################    DRAMA     #############################################
 
@@ -7094,6 +7124,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944150&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944149&extension=ts&play_token=COfsyzAiBz
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 LAW & ORDER: SPECIAL VICTIMS UNIT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944148&extension=ts&play_token=vnYuD4Bh2j
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 LETHAL WEAPON
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944260&extension=ts&play_token=RS4FqsPhZU
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 LEWIS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944147&extension=ts&play_token=AKcaEh7AFr
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 LIE TO ME
@@ -7124,6 +7157,13 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944135&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944134&extension=ts&play_token=9ItbrP8Ezy
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 MURDER HOUSE FLIP
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944133&extension=ts&play_token=99e7yafxUa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 NCIS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944253&extension=ts&play_token=Bj31lbhL59
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 NCIS: LOS ANGELES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944252&extension=ts&play_token=xRsa0MGTLl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 NCIS: NEW ORLEANS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944251&extension=ts&play_token=YgdujssLal
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 NEW BLOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944132&extension=ts&play_token=i9TAXwKdB2
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 NEW EDEN
