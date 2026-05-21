@@ -593,7 +593,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600209&exte
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", COBRA KAI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944303&extension=ts&play_token=5x33eCD7Eb
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png", group-title="KIDS" , NETFLIX WWE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS" , NETFLIX WWE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1414083&extension=ts&play_token=keAdTj1MO2
 
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/generic_cd_6294d284c044ca001e71987d.png?width=200&height=200" group-title="KIDS", MMA TV
@@ -605,7 +605,7 @@ https://jmp2.uk/plu-63d8ed19a9957100086f4d33.m3u8
 #EXTINF:-1 channel-id="60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-chno="3830" tvg-name="LEGO Kids TV" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="KIDS", LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",  group-title="KIDS",The LEGO Channel 
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png"  group-title="KIDS",The LEGO Channel 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5391&live=1&avod=1&app_bundle=%5BFT_APP_STORE_ID%5D&app_name=%5BFT_APP_NAME%5D&ua=%5BFT_USER_AGENT%5D&did=%5BFT_SYNTHETIC_AD_ID%5D&cb=%5BFT_TIMESTAMP%5D&is_lat=%5BFT_TRACKING_ENABLED%5D&us_privacy=%5BFT_US_PRIVACY%5D&content_channel=The+LEGO+Channel&content_network=%5BFT_CONTENT_NETWORK%5D&ifa_type=%5BFT_IFA_TYPE%5D&coppa=%5BFT_COPPA%5D&device_make=%5BDEVICE_MAKE%5D&device_type=%5BDEVICE_TYPE%5D&device_model=%5BDEVICE_MODEL%5D&app_store_url=%5BAPP_STORE_URL%5D&app_version=%5BAPP_VERSION%5D&player_height=1080&player_width=1920&min_ad_duration=2&max_ad_duration=65&hls_marker=1&content_id=1378&content_rating=&content_genre=&content_cat=&content_producer=legochannel&genre=&content_title=%5BContent%20Title%5D&content_series=%5BContent%20Series%5D&channelname=The+LEGO+Channel&ssai_vendor=Publica&ssai_enabled=1&content_length=86400&content_language=en&content_prodqual=1&app_category=%5BAPP_CATEGORY%5D&app_domain=%5BAPP_DOMAIN%5D&app_id=%5BAPP_ID%5D&ifatype=%5BFT_IFA_TYPE%5D&publisher=legochannel, 
 #EXTINF:-1 channel-id="77761dc1928357d6809a2032fc2e17b8" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-chno="404" tvg-name="The LEGO Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="KIDS",The LEGO Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
@@ -2759,12 +2759,12 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1612561&exten
 
 ##########################################################################################################################
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" ,group-title="SPORT / UK",,Premiere Sports 1 UK
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SPORT / UK" , Premiere Sports 1 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg",group-title="SPORT / UK",Premiere Sports 2 UK
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" group-title="SPORT / UK" , Premiere Sports 2 UK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
