@@ -8481,7 +8481,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1372122&exten
 
 ############    SKY     #####################
 
-#EXTINF:-1  tvg-id="SkyNews.au" tvg-logo="https://static.wixstatic.com/media/6048cf_3e911e5c4a3447139782daba97969dcf~mv2.png/v1/fill/w_324,h_274,al_c,lg_1,q_85,enc_avif,quality_auto/skynewsAust.png" group-title="NEWS , Sky News Australia
+#EXTINF:-1  tvg-id="SkyNews.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="NEWS",SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 
