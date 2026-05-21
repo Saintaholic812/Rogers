@@ -8480,7 +8480,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1372122&exten
 
 ############    SKY     #####################
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="https://iptv-epg.org/logos/Australia/SkyNewsAustralia.au.png" group-title="NEWS" ,Sky News Australia
+#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="https://static.wixstatic.com/media/6048cf_3e911e5c4a3447139782daba97969dcf~mv2.png/v1/fill/w_324,h_274,al_c,lg_1,q_85,enc_avif,quality_auto/skynewsAust.png" group-title="NEWS" ,Sky News Australia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NEWS" , 7NEWS Spotlight
