@@ -589,13 +589,13 @@ https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS" ,  YOUNG SHELDON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600209&extension=ts&play_token=Thp6G2sjhq
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", COBRA KAI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944303&extension=ts&play_token=5x33eCD7Eb
 
-
-
-#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS" , NETFLIX WWE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS" , NETFLIX WWE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1414083&extension=ts&play_token=keAdTj1MO2
+
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/generic_cd_6294d284c044ca001e71987d.png?width=200&height=200" group-title="KIDS", MMA TV
 https://daiconnect.com/live/hls/tvup/lg-mma/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
 #EXTINF:-1 tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="KIDS", TNA Wrestling Channel
@@ -604,7 +604,8 @@ https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playl
 https://jmp2.uk/plu-63d8ed19a9957100086f4d33.m3u8
 #EXTINF:-1 channel-id="60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-chno="3830" tvg-name="LEGO Kids TV" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="KIDS", LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
-#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",  group-title="KIDS",The LEGO Channel, 
+
+#EXTINF:-1, tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",  group-title="KIDS",The LEGO Channel 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5391&live=1&avod=1&app_bundle=%5BFT_APP_STORE_ID%5D&app_name=%5BFT_APP_NAME%5D&ua=%5BFT_USER_AGENT%5D&did=%5BFT_SYNTHETIC_AD_ID%5D&cb=%5BFT_TIMESTAMP%5D&is_lat=%5BFT_TRACKING_ENABLED%5D&us_privacy=%5BFT_US_PRIVACY%5D&content_channel=The+LEGO+Channel&content_network=%5BFT_CONTENT_NETWORK%5D&ifa_type=%5BFT_IFA_TYPE%5D&coppa=%5BFT_COPPA%5D&device_make=%5BDEVICE_MAKE%5D&device_type=%5BDEVICE_TYPE%5D&device_model=%5BDEVICE_MODEL%5D&app_store_url=%5BAPP_STORE_URL%5D&app_version=%5BAPP_VERSION%5D&player_height=1080&player_width=1920&min_ad_duration=2&max_ad_duration=65&hls_marker=1&content_id=1378&content_rating=&content_genre=&content_cat=&content_producer=legochannel&genre=&content_title=%5BContent%20Title%5D&content_series=%5BContent%20Series%5D&channelname=The+LEGO+Channel&ssai_vendor=Publica&ssai_enabled=1&content_length=86400&content_language=en&content_prodqual=1&app_category=%5BAPP_CATEGORY%5D&app_domain=%5BAPP_DOMAIN%5D&app_id=%5BAPP_ID%5D&ifatype=%5BFT_IFA_TYPE%5D&publisher=legochannel, 
 #EXTINF:-1 channel-id="77761dc1928357d6809a2032fc2e17b8" tvg-id="77761dc1928357d6809a2032fc2e17b8" tvg-chno="404" tvg-name="The LEGO Channel" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77761dc1928357d6809a2032fc2e17b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657671397295_LEGO_260x147.png" group-title="KIDS",The LEGO Channel
 https://jmp2.uk/rok-77761dc1928357d6809a2032fc2e17b8.m3u8
@@ -625,7 +626,7 @@ http://xxip25.top:8080/s5pPNV/514479/38
 http://xxip25.top:8080/s5pPNV/514479/47349
 #EXTINF:-1  tvg-id="Nickelodeon.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_d0239194f9f04ffdaa5873e3d3d07d7e~mv2.png/v1/fill/w_278,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/nick.png"  group-title="KIDS",Nickelodeon
 https://tvpass.org/live/NickelodeonEast/hd
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="US Nick JR East (A) ", tvg-logo="https://static.wixstatic.com/media/6048cf_9e8bfaf039a84369a83ed25e6de57101~mv2.png/v1/fill/w_336,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/nickjr.png", group-title="KIDS",Nick JR 
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2",tvg-logo="https://static.wixstatic.com/media/6048cf_9e8bfaf039a84369a83ed25e6de57101~mv2.png/v1/fill/w_336,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/nickjr.png", group-title="KIDS" , Nick JR 
 http://xxip25.top:8080/s5pPNV/514479/9807
 #EXTINF:-1  tvg-id="Nick.Jr.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_9e8bfaf039a84369a83ed25e6de57101~mv2.png/v1/fill/w_336,h_188,al_c,lg_1,q_85,enc_avif,quality_auto/nickjr.png"   group-title="KIDS",Nick Jr
 https://tvpass.org/live/NickJrEast/hd
@@ -2257,9 +2258,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575131&exten
 #EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575131&extension=ts&play_token=5CPfnpARCb
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/espn.png" group-title="SPORT/AUST & NZ"AU: ESPN 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/espn.png" group-title="SPORT/AUST & NZ",AU: ESPN 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441310&extension=ts&play_token=CDHpxDPGgx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/espn2.png" group-title="SPORT/AUST & NZ"AU: ESPN 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/espn2.png" group-title="SPORT/AUST & NZ",AU: ESPN 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441309&extension=ts&play_token=j0b4S66MhG
 
 
@@ -3300,13 +3301,13 @@ https://i.mjh.nz/.r/redbull-tv.m3u8
 #EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png" group-title="SPORT",Red Bull TV
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORT",Red Bull TV AU (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="SPORT",Red Bull TV AU
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="c5e8a74546771de365652cd053f73351" tvg-id="c5e8a74546771de365652cd053f73351" tvg-chno="209" tvg-name="Red Bull TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5e8a74546771de365652cd053f73351/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061731258_260x147_hud_rbtv_logo.png" group-title="SPORT",Red Bull TV
 https://jmp2.uk/rok-c5e8a74546771de365652cd053f73351.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png",743 Red Bull TV
+#EXTINF:-1 tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/redbull/channels/MediaBull_Logo_single_vec_hor_RGB_400x200.png"group-title="SPORT", Red Bull TV
 https://c0d3aaa7b7cd4dcfbb34b76967e1615a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-LG_AU/680/lgtv/hls/master/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_1e8b83939de44c64999ad14f1ea66f59~mv2.jpg/v1/fill/w_212,h_210,al_c,lg_1,q_80,enc_avif,quality_auto/fueltv).jpg" group-title="SPORT",FUEL TV
@@ -6236,825 +6237,825 @@ https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scrip
 
 #################################    DRAMA     #############################################
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ALL RISE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ALL RISE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942126&extension=ts&play_token=CSHpsd3UDI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ALMOST HUMAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ALMOST HUMAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942127&extension=ts&play_token=QyUiWj4CCu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 AMERICAN GODS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 AMERICAN GODS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942128&extension=ts&play_token=4W3IPblf15
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 AMERICAN HORROR STORY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 AMERICAN HORROR STORY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942129&extension=ts&play_token=i8qBzulFvd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 AMERICAN ODYSSEY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 AMERICAN ODYSSEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942130&extension=ts&play_token=dY3QJxpIF2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 AMERICAN SOUL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 AMERICAN SOUL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942131&extension=ts&play_token=ga1bfiwbOW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 AND THEN THERE WERE NONE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 AND THEN THERE WERE NONE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942132&extension=ts&play_token=Y0rthx1an3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ANGEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ANGEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942133&extension=ts&play_token=8wVRdM0DdH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ANNE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ANNE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942134&extension=ts&play_token=oOldgovCiQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ANNE OF GREEN GABLES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ANNE OF GREEN GABLES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942135&extension=ts&play_token=eIJxyZ4yhu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 APPLE TREE YARD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 APPLE TREE YARD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942136&extension=ts&play_token=PYImcBsnEP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ATYPICAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ATYPICAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942137&extension=ts&play_token=ftevt2i6ba
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BABYLON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BABYLON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942138&extension=ts&play_token=3b117YzZ6i
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BABYLON 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BABYLON 5
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942139&extension=ts&play_token=wjCbKcx9UM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BAGHDAD CENTRAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BAGHDAD CENTRAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942140&extension=ts&play_token=iKc9okFCXs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BALLERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BALLERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942141&extension=ts&play_token=sKj699A0yw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BAND OF BROTHERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BAND OF BROTHERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942142&extension=ts&play_token=LXczO4Nvfq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BARKSKINS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BARKSKINS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942143&extension=ts&play_token=5fA05HoVYk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BEDLAM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BEDLAM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942144&extension=ts&play_token=AK0r1Fm9RU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BELGRAVIA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BELGRAVIA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942145&extension=ts&play_token=W6w99ieau7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BETRAYAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BETRAYAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942146&extension=ts&play_token=xEr67CuEmd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BEYOND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BEYOND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942147&extension=ts&play_token=klC7UL8LLK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BIG LITTLE LIES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BIG LITTLE LIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942148&extension=ts&play_token=uUzLonhZA4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BILLIONS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BILLIONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942149&extension=ts&play_token=JjMj03gd9D
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BIRDS OF PREY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BIRDS OF PREY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942150&extension=ts&play_token=HIfUoLzY2d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BITTEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BITTEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942151&extension=ts&play_token=alFaKfgo7H
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BLOOD AND OIL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BLOOD AND OIL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942152&extension=ts&play_token=LB1Su571CE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BLOODLINE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BLOODLINE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942153&extension=ts&play_token=yRqHce0by8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BLOOM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BLOOM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942154&extension=ts&play_token=XzFAhGMkon
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BLUE MURDER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BLUE MURDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942155&extension=ts&play_token=pzmEug0jM8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BLUEY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BLUEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942172&extension=ts&play_token=w436WO3v9V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BOARDWALK EMPIRE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BOARDWALK EMPIRE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942156&extension=ts&play_token=y2d6jhVXKZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BODY OF PROOF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BODY OF PROOF
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942157&extension=ts&play_token=fkFZiaozDh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BOSS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BOSS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942158&extension=ts&play_token=sbbZemG2FV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BOTCHED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BOTCHED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942159&extension=ts&play_token=oLvWiTaNHv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BRIARPATCH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BRIARPATCH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942160&extension=ts&play_token=vOuvuQaaLW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BRIEF ENCOUNTERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BRIEF ENCOUNTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942161&extension=ts&play_token=VbpH5C0Z00
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BROKEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BROKEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942162&extension=ts&play_token=qGeh6hqGDf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BROTHERS AND SISTERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BROTHERS AND SISTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942163&extension=ts&play_token=XZuBGVEYWX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 BULGE BRACKET
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 BULGE BRACKET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942164&extension=ts&play_token=lwCk43ToPw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 CABLE GIRLS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 CABLE GIRLS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942165&extension=ts&play_token=BM20k8FdBF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 CALL THE MIDWIFE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 CALL THE MIDWIFE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942166&extension=ts&play_token=lRkXc0Gk0l
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 CRUSADE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 CRUSADE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942125&extension=ts&play_token=kyX1HqrroI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DAMIEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DAMIEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942124&extension=ts&play_token=297vZfppDn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DARE ME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DARE ME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942123&extension=ts&play_token=rd0jEnGFqx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEAD OF SUMMER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEAD OF SUMMER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942122&extension=ts&play_token=clOp3FvY91
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEAD TO ME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEAD TO ME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942121&extension=ts&play_token=s8XWNZbzr3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEADLY CLASS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEADLY CLASS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942120&extension=ts&play_token=Th74Oo0AvL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEADWIND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEADWIND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942119&extension=ts&play_token=stFCDLRRY1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEFIANCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEFIANCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942118&extension=ts&play_token=YbRkOLn8Ug
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEGRASSI JUNIOR HIGH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEGRASSI JUNIOR HIGH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942117&extension=ts&play_token=xQBRHQsqXy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEVILS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEVILS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942116&extension=ts&play_token=WxAMnIx3m4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEVIOUS MAIDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAM",24/7 DEVIOUS MAIDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942115&extension=ts&play_token=Z985ojAa16
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DEVS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEVS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942114&extension=ts&play_token=JP2iAtYfNT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DIABLO GUARDI N
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DIABLO GUARDI N
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942113&extension=ts&play_token=1dKIUk0BwJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DIARY OF AN UBER DRIVER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DIARY OF AN UBER DRIVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942112&extension=ts&play_token=OPp8prdciY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DICKENSIAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DICKENSIAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942111&extension=ts&play_token=8EdhRtaUnF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DIRTY JOHN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DIRTY JOHN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942110&extension=ts&play_token=7HiGa0uEr7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DISPATCHES FROM ELSEWHERE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DISPATCHES FROM ELSEWHERE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942109&extension=ts&play_token=OeWxqmIzHP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DOCTOR THORNE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DOCTOR THORNE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942108&extension=ts&play_token=aNIyZUBTZi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DON'T BE TARDY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DON'T BE TARDY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942107&extension=ts&play_token=hF8s7NHsBG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DOUBT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DOUBT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942106&extension=ts&play_token=d7P3PWWSvd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DRACULA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DRACULA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942105&extension=ts&play_token=dSXOu9IAcs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 DRAWN TOGETHER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DRAWN TOGETHER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942171&extension=ts&play_token=gNmK0LITId
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EAST LOS HIGH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EAST LOS HIGH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942104&extension=ts&play_token=Pt9CDnwuvK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EDEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EDEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942103&extension=ts&play_token=QW7aL84bm9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EL CHAPO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EL CHAPO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942102&extension=ts&play_token=pY8nxwX2sn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EL PRESIDENTE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EL PRESIDENTE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942101&extension=ts&play_token=kPInFPisjW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ELEMENTARY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ELEMENTARY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942100&extension=ts&play_token=nz2LAYSSJG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EMERGENCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EMERGENCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942099&extension=ts&play_token=DMyJC6nOjs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EMPIRE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EMPIRE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942098&extension=ts&play_token=xD8rioShDV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942097&extension=ts&play_token=PIivxYfbLM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ESCAPE AT DANNEMORA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ESCAPE AT DANNEMORA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942096&extension=ts&play_token=uoFIeGyOFI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ESTOCOLMO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ESTOCOLMO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942095&extension=ts&play_token=vdseUPKtg3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 EUPHORIA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 EUPHORIA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942094&extension=ts&play_token=3gnOx0Knuq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FALLING WATER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FALLING WATER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942093&extension=ts&play_token=7tnIN6mjmz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FATHER BROWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FATHER BROWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942092&extension=ts&play_token=oIO1iS1i03
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FAUDA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FAUDA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942091&extension=ts&play_token=fKRwxKkjhK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FBI: MOST WANTED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FBI: MOST WANTED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942090&extension=ts&play_token=nwuIQneyOw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FEARLESS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FEARLESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942089&extension=ts&play_token=XGoxELJod6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FEED THE BEAST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FEED THE BEAST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942088&extension=ts&play_token=CS3Pr9DMpp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FELICITY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FELICITY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942087&extension=ts&play_token=nuk9M5PXh9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FEUD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FEUD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942086&extension=ts&play_token=XFLIvgKVhV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FINDING CARTER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FINDING CARTER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942085&extension=ts&play_token=Vdp0uSm3mI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FIREFLY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FIREFLY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942084&extension=ts&play_token=ySp7lkFK4P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FIVE BEDROOMS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FIVE BEDROOMS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942083&extension=ts&play_token=DP0EV6AJya
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FLAKED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FLAKED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942082&extension=ts&play_token=SNbax0vsPa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FLASHFORWARD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FLASHFORWARD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942081&extension=ts&play_token=B2NqLM2z90
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FOLLOWERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FOLLOWERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942080&extension=ts&play_token=NeBumkSUPx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FOR LIFE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FOR LIFE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942079&extension=ts&play_token=6GXlbCoU6C
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FOR THE PEOPLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FOR THE PEOPLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942078&extension=ts&play_token=DqmhE7wHCk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FORMULA 1 DRIVE TO SURVIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FORMULA 1 DRIVE TO SURVIVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942170&extension=ts&play_token=O33nVjZxUa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FORTUNATE SON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FORTUNATE SON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942077&extension=ts&play_token=ANWF25yybB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FRIDAY NIGHT LIGHTS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FRIDAY NIGHT LIGHTS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942076&extension=ts&play_token=Rkr6t6OMs2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FRIENDS WITH BENEFITS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FRIENDS WITH BENEFITS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942075&extension=ts&play_token=KWQ6GfOo5R
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 FUNGUS THE BOGEYMAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 FUNGUS THE BOGEYMAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942074&extension=ts&play_token=f1fGCFYP2t
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GAME OF SILENCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GAME OF SILENCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942073&extension=ts&play_token=phveTphzLt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GAMES PEOPLE PLAY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GAMES PEOPLE PLAY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942072&extension=ts&play_token=pruIMBjkjR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GANGLAND UNDERCOVER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GANGLAND UNDERCOVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942071&extension=ts&play_token=v74kyot4S4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GAP YEAR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GAP YEAR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942070&extension=ts&play_token=79fVlxbpj0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GENIUS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GENIUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942069&extension=ts&play_token=rN8AJdtPee
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GENTLEMAN JACK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GENTLEMAN JACK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942068&extension=ts&play_token=IfmIxdXnmh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GET EVEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GET EVEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942067&extension=ts&play_token=mqvs9BGrgN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GIRL FROM NOWHERE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GIRL FROM NOWHERE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942066&extension=ts&play_token=QcSviozvvO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GODFATHER OF HARLEM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GODFATHER OF HARLEM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942065&extension=ts&play_token=2FxPdMezeh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GOOD BEHAVIOR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GOOD BEHAVIOR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942064&extension=ts&play_token=Afw0naafiE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GOOD GIRLS REVOLT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GOOD GIRLS REVOLT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942063&extension=ts&play_token=nHTh1kcKm5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GOOD TROUBLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GOOD TROUBLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942062&extension=ts&play_token=SJfLT9a89A
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GRAND HOTEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GRAND HOTEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942061&extension=ts&play_token=6sRVMH802a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GRAVES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GRAVES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942060&extension=ts&play_token=4tzsWh8bhR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GREENLEAF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GREENLEAF
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942059&extension=ts&play_token=PXg1JYghgC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GREY'S ANATOMY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GREY'S ANATOMY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942058&extension=ts&play_token=P0xTGEnYHs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GRIMM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GRIMM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942057&extension=ts&play_token=T7ms61Jdxu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GRISSE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GRISSE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942056&extension=ts&play_token=d3upOhm0r5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GUERRILLA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GUERRILLA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942055&extension=ts&play_token=mHHk8SFmRi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GUIDANCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GUIDANCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942054&extension=ts&play_token=ntHP8K0lxa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GUILT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GUILT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942053&extension=ts&play_token=fvreEOYRrr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 GYPSY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 GYPSY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942052&extension=ts&play_token=h148GSSrWW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HANNIBAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HANNIBAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942051&extension=ts&play_token=JTLr2aUSZD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HAPPY ENDING
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HAPPY ENDING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942050&extension=ts&play_token=OG2n49bFvU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HAPPY VALLEY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HAPPY VALLEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942049&extension=ts&play_token=ts5XE3Gcml
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HAPPYISH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HAPPYISH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942048&extension=ts&play_token=NrgL91LIED
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HARD-CORE PAWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HARD-CORE PAWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942169&extension=ts&play_token=0k0DGE30hL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HARLEY AND THE DAVIDSONS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HARLEY AND THE DAVIDSONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942047&extension=ts&play_token=Dqm9guH1pp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HARLOTS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HARLOTS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942046&extension=ts&play_token=Vhv6gJEQ4v
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HARROW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HARROW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942045&extension=ts&play_token=TawiPwEE5z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HART OF DIXIE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HART OF DIXIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942044&extension=ts&play_token=gIky4OiXCS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HATTON GARDEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HATTON GARDEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942043&extension=ts&play_token=NpyhH97bJB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HAVEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HAVEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942042&extension=ts&play_token=syZHAsYLQv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HEARTLAND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HEARTLAND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942041&extension=ts&play_token=KgPTMFK6cd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HELIX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HELIX
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942040&extension=ts&play_token=qKPLc3MyWj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HELLCATS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HELLCATS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942039&extension=ts&play_token=aYiusY0wT0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HETTY FEATHER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HETTY FEATHER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942038&extension=ts&play_token=PBIyKhAKXo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HIGHTOWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HIGHTOWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942037&extension=ts&play_token=0zE5H8L3cR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HILL STREET BLUES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HILL STREET BLUES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942036&extension=ts&play_token=kKfruMXGgZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HIM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HIM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942035&extension=ts&play_token=JcON7tGaf8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HOME FIRES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HOME FIRES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942034&extension=ts&play_token=IDTiQHPqvZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HOMELAND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HOMELAND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942033&extension=ts&play_token=eqJznQlzCJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HORACE AND PETE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HORACE AND PETE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942032&extension=ts&play_token=uIXt1oPQES
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HOSTAGES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HOSTAGES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942031&extension=ts&play_token=wa4WbJ5ZdH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HOUSE OF CARDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HOUSE OF CARDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942030&extension=ts&play_token=ooUewMSRwA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HUMANS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HUMANS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942029&extension=ts&play_token=x6A7X330gF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 HUNTERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 HUNTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942028&extension=ts&play_token=GSnddJ5i2c
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 I AM NOT OKAY WITH THIS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 I AM NOT OKAY WITH THIS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942027&extension=ts&play_token=WKzNOkkcA7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 I KNOW THIS MUCH IS TRUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 I KNOW THIS MUCH IS TRUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942026&extension=ts&play_token=rkxxDWqd3u
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 I MAY DESTROY YOU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 I MAY DESTROY YOU
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942025&extension=ts&play_token=ByXw2PNzs4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 I WITNESS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 I WITNESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942024&extension=ts&play_token=lrYgj57ybf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 IMPOSTERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 IMPOSTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942023&extension=ts&play_token=D5ciHKxaQy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 IN PLAIN SIGHT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 IN PLAIN SIGHT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942022&extension=ts&play_token=p4NHDPr7WL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 IN THE MOTHERHOOD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 IN THE MOTHERHOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942021&extension=ts&play_token=L3iHYLBGNo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 IN TREATMENT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 IN TREATMENT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942020&extension=ts&play_token=e7Ms5gfUHk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 INHUMAN RESOURCES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 INHUMAN RESOURCES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942019&extension=ts&play_token=2L2KztHxgg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 INSIDE EDGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 INSIDE EDGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942018&extension=ts&play_token=gBQ9YtWwaU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ITAEWON CLASS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ITAEWON CLASS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942017&extension=ts&play_token=RgDNaLA82v
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 JANE BY DESIGN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 JANE BY DESIGN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942016&extension=ts&play_token=cBoLzYXFEK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 JESUS: HIS LIFE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 JESUS: HIS LIFE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942015&extension=ts&play_token=IxxkCOm4kn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 KEEPING  FAITH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 KEEPING  FAITH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942014&extension=ts&play_token=aEvUS0KZu3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 KING OF THE HILL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 KING OF THE HILL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942167&extension=ts&play_token=QmmS90ivwb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 KINGDOM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 KINGDOM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942013&extension=ts&play_token=o8zUnALbaF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 KISSING GAME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 KISSING GAME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942012&extension=ts&play_token=8fkSTdFj0k
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LEVERAGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LEVERAGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942011&extension=ts&play_token=UhFiaUuMLy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LIAR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LIAR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942010&extension=ts&play_token=J6f4sjHtWl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LIFE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LIFE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942009&extension=ts&play_token=IVh5O3dQ21
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LIFE AND DEATH ROW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LIFE AND DEATH ROW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942174&extension=ts&play_token=ubiiKaMLTY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LIFE SENTENCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LIFE SENTENCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942008&extension=ts&play_token=LtGsvyYTBt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LIFE UNEXPECTED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LIFE UNEXPECTED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942007&extension=ts&play_token=evN4TzFo1I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LILYHAMMER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LILYHAMMER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942006&extension=ts&play_token=2ySAg0faeu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LITTLE BIRDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LITTLE BIRDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942005&extension=ts&play_token=aKDdJe6L5w
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LITTLE FIRES EVERYWHERE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LITTLE FIRES EVERYWHERE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942004&extension=ts&play_token=xKPKISv8wq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LITTLE VOICE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LITTLE VOICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942003&extension=ts&play_token=qwG9ccqbGl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LOVECRAFT COUNTRY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LOVECRAFT COUNTRY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942002&extension=ts&play_token=OKNnCmajhe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 LUCKY 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 LUCKY 7
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942001&extension=ts&play_token=7JSKhoW19U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MACGYVER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MACGYVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942000&extension=ts&play_token=2ijv0R3lnK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MAD MEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MAD MEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941999&extension=ts&play_token=FI3mcRvTGm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MADIBA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MADIBA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941998&extension=ts&play_token=66N76nPbBx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MAGNUM P.I.
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MAGNUM P.I.
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941997&extension=ts&play_token=Tin2O3uDmR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MAJOR CRIMES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MAJOR CRIMES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941996&extension=ts&play_token=RgSyqSQlQm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MAKE IT OR BREAK IT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MAKE IT OR BREAK IT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941995&extension=ts&play_token=mcHXAiAo7o
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MANHATTAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MANHATTAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941994&extension=ts&play_token=XJbKBvNjOz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MARCELLA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MARCELLA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941993&extension=ts&play_token=ytvK0rnrtS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MARY KILLS PEOPLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MARY KILLS PEOPLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941992&extension=ts&play_token=bFvzMwD2xN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MASTERS OF HORROR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MASTERS OF HORROR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941991&extension=ts&play_token=ZGYNAGpM3x
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MAYDAY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MAYDAY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942173&extension=ts&play_token=nG4XMUpvrg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MENTALHOOD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MENTALHOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941990&extension=ts&play_token=xOc0LB2IJC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MERCY STREET
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MERCY STREET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941989&extension=ts&play_token=PUsyiwV0oN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MESSIAH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MESSIAH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941988&extension=ts&play_token=rDRgf6gJ8M
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MIRAGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MIRAGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941987&extension=ts&play_token=NJae80qsUH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MISS SCARLET AND THE DUKE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MISS SCARLET AND THE DUKE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941986&extension=ts&play_token=4Kc90KajTY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MONARCH OF THE GLEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MONARCH OF THE GLEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941985&extension=ts&play_token=BhjDZYZAvQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MONK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MONK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941984&extension=ts&play_token=mQuYj880Kj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MONSTER IN MY FAMILY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MONSTER IN MY FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941983&extension=ts&play_token=FCXjSwBs9n
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MOTHERFATHERSON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MOTHERFATHERSON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941982&extension=ts&play_token=JpuMZkAqTE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MOVING ON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MOVING ON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941981&extension=ts&play_token=HuZuwVDi1A
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MR SELFRIDGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MR SELFRIDGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941980&extension=ts&play_token=TJxySRDRK5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MURDER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MURDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941979&extension=ts&play_token=YseuAJEuCq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MY BRILLIANT FRIEND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MY BRILLIANT FRIEND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941978&extension=ts&play_token=MI0M2r1E48
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MY HOLO LOVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MY HOLO LOVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941977&extension=ts&play_token=G6Jkfs0Afk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 MY MOTHER AND OTHER STRANGERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 MY MOTHER AND OTHER STRANGERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941976&extension=ts&play_token=0GUNSIMDM4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NASHVILLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NASHVILLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941975&extension=ts&play_token=PUciULMKtN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NECESSARY ROUGHNESS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NECESSARY ROUGHNESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941974&extension=ts&play_token=W8iN3wgIWv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NEW AMSTERDAM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NEW AMSTERDAM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941973&extension=ts&play_token=9qzymNjRYL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NEW YORK UNDERCOVER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NEW YORK UNDERCOVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941972&extension=ts&play_token=0PG4FPK3jT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NIKITA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NIKITA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941971&extension=ts&play_token=Epgc8r2ap1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NO OFFENCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NO OFFENCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941970&extension=ts&play_token=WBMvqF1jKc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NO ORDINARY FAMILY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NO ORDINARY FAMILY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941969&extension=ts&play_token=RtIzqle4gP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NOBEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NOBEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941968&extension=ts&play_token=EWb2exdgZZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NORTHERN RESCUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NORTHERN RESCUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941967&extension=ts&play_token=KTG5LpKh1d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NURSE JACKIE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NURSE JACKIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941966&extension=ts&play_token=cVrcM1UBjO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 NYPD BLUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 NYPD BLUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941965&extension=ts&play_token=X22gdd3anY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 OCTOBER ROAD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 OCTOBER ROAD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941964&extension=ts&play_token=s1FDMyA5Oy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 OF KINGS AND PROPHETS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 OF KINGS AND PROPHETS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941963&extension=ts&play_token=viAMxxcBnt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ONE LANE BRIDGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ONE LANE BRIDGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941962&extension=ts&play_token=iZNP7PAuBV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ONE MISSISSIPPI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ONE MISSISSIPPI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941961&extension=ts&play_token=0X02ZsndFT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ONE TREE HILL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ONE TREE HILL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941960&extension=ts&play_token=QH8KG71qvE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 OPERATION BUFFALO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 OPERATION BUFFALO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941959&extension=ts&play_token=36WrkCG4YZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ORDINARY LIES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ORDINARY LIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941958&extension=ts&play_token=bX2Lwbp7mh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ORPHAN BLACK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ORPHAN BLACK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941957&extension=ts&play_token=CBlTwjQ5hG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 OUTER BANKS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 OUTER BANKS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941956&extension=ts&play_token=R8LTP6Sr5s
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 OUTSIDERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 OUTSIDERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941955&extension=ts&play_token=JNFK1UIriN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 P-VALLEY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 P-VALLEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941954&extension=ts&play_token=iVwKK5k9jn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PAGE TURNER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PAGE TURNER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941953&extension=ts&play_token=2YzuXCkAJH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PARANORMAL STATE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PARANORMAL STATE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941952&extension=ts&play_token=jAVebCGdgm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PARENTHOOD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PARENTHOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941951&extension=ts&play_token=bHWTtWWWl7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PARTY OF FIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PARTY OF FIVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941950&extension=ts&play_token=VJmkKR7Gpt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PAULA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PAULA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941949&extension=ts&play_token=yOrom6kqq2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PENNY DREADFUL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PENNY DREADFUL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941948&extension=ts&play_token=aM0f4X85AW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PENNYWORTH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PENNYWORTH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941947&extension=ts&play_token=VHIeFWcl9j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PERPETUAL GRACE LTD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PERPETUAL GRACE LTD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941946&extension=ts&play_token=kyfSLJ1tMP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PERRY MASON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PERRY MASON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941945&extension=ts&play_token=yjka85ynCT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PERSON OF INTEREST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PERSON OF INTEREST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941944&extension=ts&play_token=XhLn4hD6nD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PERSONA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PERSONA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941943&extension=ts&play_token=uOIRujUgHT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PITCH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PITCH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941942&extension=ts&play_token=bZ9XdZ3cv6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PITCHING IN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PITCHING IN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941941&extension=ts&play_token=JiPimtkoF9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PRIVATE PRACTICE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PRIVATE PRACTICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941940&extension=ts&play_token=oe38ha3xyO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PRIVATE SALES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PRIVATE SALES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941939&extension=ts&play_token=xwtaeHDDzM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 PURE GENIUS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 PURE GENIUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941938&extension=ts&play_token=a3bhjGVIso
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 QUEEN SUGAR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 QUEEN SUGAR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941937&extension=ts&play_token=ElrOt7lL1h
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 QUEENS OF MYSTERY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 QUEENS OF MYSTERY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941936&extension=ts&play_token=gVqbFqNfpq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 QUEER AS FOLK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 QUEER AS FOLK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941935&extension=ts&play_token=XfjnIoey6M
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RAGNAROK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RAGNAROK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941934&extension=ts&play_token=I39qULKAYk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RAISING DION
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RAISING DION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941933&extension=ts&play_token=UuWNtNfoe4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RAY DONOVAN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RAY DONOVAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941932&extension=ts&play_token=Tat2Xq7jNr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 REBEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 REBEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941931&extension=ts&play_token=ym0jilFfC8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RECOVERY ROAD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RECOVERY ROAD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941930&extension=ts&play_token=YeLtic3iDP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RECTIFY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RECTIFY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941929&extension=ts&play_token=Ne5TXAeqV9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RED BAND SOCIETY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RED BAND SOCIETY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941928&extension=ts&play_token=Ktr1E8RYee
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 REIGN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 REIGN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941927&extension=ts&play_token=xt387MbOqP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RESCUE ME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RESCUE ME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941926&extension=ts&play_token=VqrzfHxa8D
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 REVENGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 REVENGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941925&extension=ts&play_token=RRgH0Z8NF1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RIPPER STREET
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RIPPER STREET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941924&extension=ts&play_token=BBHock1J1Y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RIVERDALE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RIVERDALE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941923&extension=ts&play_token=Q6dMiEgfPk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RIVIERA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RIVIERA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941922&extension=ts&play_token=5415GTQrHl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROADKILL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROADKILL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941921&extension=ts&play_token=Dpez19JmCj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROBIN HOOD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROBIN HOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941920&extension=ts&play_token=DXnYK9MD4j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROGUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROGUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941919&extension=ts&play_token=ftlxihmfmL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROMAN EMPIRE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROMAN EMPIRE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941918&extension=ts&play_token=jfSjXsa4ln
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROOKIE BLUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROOKIE BLUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941917&extension=ts&play_token=H0TxWy6GqP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROSEWOOD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROSEWOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941916&extension=ts&play_token=FtFW3RQRzm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ROSWELL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ROSWELL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941915&extension=ts&play_token=DAI3Am1gin
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 RUTHLESS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 RUTHLESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941914&extension=ts&play_token=gz6DOqBGo9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SACRED GAMES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SACRED GAMES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941913&extension=ts&play_token=jruT0n5KQj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SAINTS AND SINNERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SAINTS AND SINNERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941912&extension=ts&play_token=6PUs9GVfIm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SATISFACTION
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SATISFACTION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941911&extension=ts&play_token=BC52aiHQOo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SCANDAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SCANDAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941910&extension=ts&play_token=uwYgKGiTCs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SECRET CITY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SECRET CITY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941909&extension=ts&play_token=lSfWgbp6Mf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SECRETS AND LIES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SECRETS AND LIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941908&extension=ts&play_token=KM81OwkiCs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SEE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SEE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941907&extension=ts&play_token=Xy6edtRZWb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SERVANT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SERVANT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941906&extension=ts&play_token=ukuJMHzHP3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SHADES OF BLUE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SHADES OF BLUE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941905&extension=ts&play_token=iKi9pFBEkC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SHATTERED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SHATTERED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941904&extension=ts&play_token=FVCzVW8A6J
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SHOTS FIRED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SHOTS FIRED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941903&extension=ts&play_token=hYphPXbhPX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SILENT WITNESS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SILENT WITNESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941902&extension=ts&play_token=qxwGiTZlrf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SINGLE LADIES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SINGLE LADIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941901&extension=ts&play_token=dzZHoQJ8Ac
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SISTAS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SISTAS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941900&extension=ts&play_token=py42wrdClD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SIX FEET UNDER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SIX FEET UNDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941899&extension=ts&play_token=MA5TU1lOLI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SKAM FRANCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SKAM FRANCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941898&extension=ts&play_token=yAQs369NAX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SKINS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SKINS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941897&extension=ts&play_token=b7grlZS6ja
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SLEEPY HOLLOW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SLEEPY HOLLOW
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941896&extension=ts&play_token=Qxgkee6iU7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SMASH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SMASH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941895&extension=ts&play_token=9IsGaGUjbG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SNEAKY PETE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SNEAKY PETE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941894&extension=ts&play_token=EqyuHQXBBC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SOUTH OF NOWHERE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SOUTH OF NOWHERE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941893&extension=ts&play_token=d4trDEImYw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SOUTHLAND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SOUTHLAND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941892&extension=ts&play_token=HiYnpdXM6X
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SPINNING OUT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SPINNING OUT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941891&extension=ts&play_token=KEyXEzvhpT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 STATELESS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 STATELESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941890&extension=ts&play_token=CzrBBaX1xK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 STATION 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 STATION 19
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941889&extension=ts&play_token=SgQkQKqQEV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 STELLA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 STELLA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941888&extension=ts&play_token=Isr448AZDE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SUBMISSION
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SUBMISSION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941887&extension=ts&play_token=Rn1u22hazK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SUCCESSION
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SUCCESSION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941886&extension=ts&play_token=FF62HjAqzO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SUITS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SUITS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941885&extension=ts&play_token=2anCyOfsMl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SUN RECORDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SUN RECORDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941884&extension=ts&play_token=DISC8WA4DQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SUPERNATURAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SUPERNATURAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941883&extension=ts&play_token=8m50DRuLXk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SUSPICION
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SUSPICION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941882&extension=ts&play_token=YFeTARraHk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 SWITCHED AT BIRTH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 SWITCHED AT BIRTH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941881&extension=ts&play_token=P1MhmUbB33
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TABOO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TABOO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941880&extension=ts&play_token=g5BvgQgpPR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TALES FROM THE DARKSIDE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TALES FROM THE DARKSIDE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941879&extension=ts&play_token=grIb6eP9ju
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TALES FROM THE LOOP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TALES FROM THE LOOP
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941878&extension=ts&play_token=gNOQ6JtluN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TALKING DEAD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TALKING DEAD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941877&extension=ts&play_token=cwrbPXg00y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TEXAS RISING
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TEXAS RISING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941876&extension=ts&play_token=cRy19r5dj7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE A WORD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE A WORD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941875&extension=ts&play_token=EZeTgNV5N2
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ACT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941874&extension=ts&play_token=yOXiiY9o68
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE AFFAIR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE AFFAIR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941873&extension=ts&play_token=P5WpSmAAQU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ALIENIST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ALIENIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941872&extension=ts&play_token=Pvw8cXV44K
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ARRANGEMENT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ARRANGEMENT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941871&extension=ts&play_token=NCqLRO8ZfD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ASTRONAUT WIVES CLUB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ASTRONAUT WIVES CLUB
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941870&extension=ts&play_token=CPB6GhiotU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE BASTARD EXECUTIONER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE BASTARD EXECUTIONER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941869&extension=ts&play_token=PWwNfxKiFN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE BIBLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE BIBLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941868&extension=ts&play_token=WiljUkr5yC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE BLACKLIST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE BLACKLIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941867&extension=ts&play_token=hScx7oiR3K
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE BORGIAS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE BORGIAS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941866&extension=ts&play_token=rh80o03h0M
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE BREAKS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE BREAKS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941865&extension=ts&play_token=yEoNo2C2lc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE CATCH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE CATCH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941864&extension=ts&play_token=cRufErOLse
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE CHOSEN ONE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE CHOSEN ONE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941863&extension=ts&play_token=xCfnGCguOf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE CROWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE CROWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941862&extension=ts&play_token=LWmXc7d42G
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE DETECTIVES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE DETECTIVES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944219&extension=ts&play_token=fM508wC2fT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE DETECTIVES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE DETECTIVES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944220&extension=ts&play_token=aEMTte1DDc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ENEMY WITHIN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ENEMY WITHIN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941861&extension=ts&play_token=Tt4OiT2gDc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ENGLISH GAME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ENGLISH GAME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941860&extension=ts&play_token=oelldF3Wxq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FALL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FALL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941859&extension=ts&play_token=7mjlknq3zC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FEED
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FEED
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941858&extension=ts&play_token=s7pBg6sjI0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FIVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941857&extension=ts&play_token=yate24JdsS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FIX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FIX
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941856&extension=ts&play_token=6D4u6DERte
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FLASH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FLASH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941855&extension=ts&play_token=HCLm3R9G2a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FOSTERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FOSTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941854&extension=ts&play_token=5nzziGfxAU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE FUGITIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FUGITIVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941853&extension=ts&play_token=OYhBZId4ag
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GATES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941852&extension=ts&play_token=rQe4vKnccD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GENTLEMEN OF WOLGYESU TAILOR SHOP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GENTLEMEN OF WOLGYESU TAILOR SHOP
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941851&extension=ts&play_token=l3yARxuZhi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GET DOWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GET DOWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941850&extension=ts&play_token=STzt2iiUHY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GIRLFRIEND EXPERIENCE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GIRLFRIEND EXPERIENCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941849&extension=ts&play_token=htCHL3M0V7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GLADES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GLADES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941848&extension=ts&play_token=GLATgcFCgS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GOOD DOCTOR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GOOD DOCTOR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941847&extension=ts&play_token=BwUvYJ5pN5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GOOD WIFE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GOOD WIFE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941846&extension=ts&play_token=YL5soy4kT6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE HALCYON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE HALCYON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941845&extension=ts&play_token=0TF58wCTpm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE HOLLOW CROWN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE HOLLOW CROWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941844&extension=ts&play_token=0vLS3o4OPY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE HOT ZONE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE HOT ZONE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941843&extension=ts&play_token=IzbqQaxjWQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE INBETWEEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE INBETWEEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941842&extension=ts&play_token=SmVggRSR0I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE KILLING
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE KILLING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941841&extension=ts&play_token=M21yv25rju
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE KNICK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE KNICK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941840&extension=ts&play_token=R9fdIZHHoI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE L WORD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE L WORD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941839&extension=ts&play_token=p0zO7Hxxv8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE LAST MAN ON EARTH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE LAST MAN ON EARTH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941838&extension=ts&play_token=28dipGPngg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE LAST TYCOON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE LAST TYCOON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941837&extension=ts&play_token=EPy8cFnrkW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE LIVING AND THE DEAD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE LIVING AND THE DEAD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941836&extension=ts&play_token=hFXv47Jbgz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE LONE RANGER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE LONE RANGER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942168&extension=ts&play_token=GNEX3ynIXe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE LUMINARIES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE LUMINARIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941835&extension=ts&play_token=5qk9qzLbYD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE LYING GAME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE LYING GAME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941834&extension=ts&play_token=KsXIl5imQA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MAGICIANS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MAGICIANS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941833&extension=ts&play_token=dtPGFEKv2U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MENTALIST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MENTALIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941832&extension=ts&play_token=fpG8XXlH4l
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MIST
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MIST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941831&extension=ts&play_token=6admtbbbj3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MOB DOCTOR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MOB DOCTOR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941830&extension=ts&play_token=1uNTD1wmdp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MOONSTONE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MOONSTONE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941829&extension=ts&play_token=cahbgC7yHM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MOORSIDE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MOORSIDE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941828&extension=ts&play_token=63DRSVqFTk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE MUSKETEERS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE MUSKETEERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941827&extension=ts&play_token=zmaaQ13NF9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE NAME OF THE ROSE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE NAME OF THE ROSE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941826&extension=ts&play_token=1l4l575iLw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE NEWSROOM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE NEWSROOM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941825&extension=ts&play_token=vU7Fujis4y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE NIGHT SHIFT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE NIGHT SHIFT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941824&extension=ts&play_token=qIVqbw6Ay0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE OATH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE OATH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941823&extension=ts&play_token=Yu7ylGc4JZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ORDER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ORDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941822&extension=ts&play_token=Ibu5C6ru9g
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE OTHER ONE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE OTHER ONE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941821&extension=ts&play_token=gU8lMJAqsF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE PATH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE PATH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941820&extension=ts&play_token=30jH77znTI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE PIER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE PIER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941819&extension=ts&play_token=XO4f24CN6J
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE PRACTICE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE PRACTICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941818&extension=ts&play_token=RUZB9CO3U7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE PROTECTOR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE PROTECTOR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941817&extension=ts&play_token=9zoOGnkzdk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE QUAD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE QUAD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941816&extension=ts&play_token=dTJXNn7pNO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE RESIDENT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE RESIDENT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941815&extension=ts&play_token=kVkwf2yMw4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SALISBURY POISONINGS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SALISBURY POISONINGS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941814&extension=ts&play_token=ACY4rNNe1D
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SECRET
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SECRET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941813&extension=ts&play_token=YO4I1LC6g1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SECRET AGENT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SECRET AGENT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941812&extension=ts&play_token=ohvBtVmK7y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SECRET CIRCLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SECRET CIRCLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941811&extension=ts&play_token=W4qeTBlJ9b
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SECRET LIFE OF THE AMERICAN TEENAGER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SECRET LIFE OF THE AMERICAN TEENAGER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941810&extension=ts&play_token=pNwByspJgZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SINNER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SINNER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941809&extension=ts&play_token=X3WFgBQd9u
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SOCIETY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SOCIETY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941808&extension=ts&play_token=ZpXjRcyHGG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE SPLIT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE SPLIT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941807&extension=ts&play_token=r1Y013iWUh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE TOMORROW PEOPLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE TOMORROW PEOPLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941806&extension=ts&play_token=A6TkvmqQar
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE TWILIGHT ZONE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE TWILIGHT ZONE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941805&extension=ts&play_token=z7zMwEGYHp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE VILLAGE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE VILLAGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941804&extension=ts&play_token=kJdVmw4lZC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE WEST WING
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE WEST WING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941803&extension=ts&play_token=1dZzQGRmUA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THERE SHE GOES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THERE SHE GOES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941802&extension=ts&play_token=DuSwJCX2p9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THIEVES OF THE WOOD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THIEVES OF THE WOOD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941801&extension=ts&play_token=FaY3ZYm3u3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THIRTEEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THIRTEEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941800&extension=ts&play_token=y4qWrE5x8H
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TOMMY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TOMMY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941799&extension=ts&play_token=tQzsPufolB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TOO CLOSE TO HOME
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TOO CLOSE TO HOME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941798&extension=ts&play_token=8qpshSPsYJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TOO OLD TO DIE YOUNG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TOO OLD TO DIE YOUNG
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941797&extension=ts&play_token=OdmW7StMFW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TOTAL CONTROL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TOTAL CONTROL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941796&extension=ts&play_token=SihYMHzGEz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TRIBAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TRIBAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941795&extension=ts&play_token=iJw1SyPWjX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TRUE DETECTIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TRUE DETECTIVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941794&extension=ts&play_token=h4G5v1RFFG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TWIN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TWIN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941793&extension=ts&play_token=wMb2ckzI3x
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 TYRANT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 TYRANT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941792&extension=ts&play_token=XQa4wOYB04
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNBELIEVABLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNBELIEVABLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941791&extension=ts&play_token=WjJdLIMFGJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNDERGROUND
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNDERGROUND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941790&extension=ts&play_token=KoKXgVyIYy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNFORGOTTEN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNFORGOTTEN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941789&extension=ts&play_token=0Bt3U658nF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNORTHODOX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNORTHODOX
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941788&extension=ts&play_token=PQmTLrtTtC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNREAL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNREAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941787&extension=ts&play_token=qgqgQ8lDkN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNSOLVED MYSTERIES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNSOLVED MYSTERIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941786&extension=ts&play_token=d1NIxmk0rc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UNSPEAKABLE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UNSPEAKABLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941785&extension=ts&play_token=6vCsS1X3hT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UTOPIA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UTOPIA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941784&extension=ts&play_token=AfN58xOcXj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 UTOPIA FALLS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 UTOPIA FALLS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941783&extension=ts&play_token=uj1Sf8gPr9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 VICTORIOUS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 VICTORIOUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941782&extension=ts&play_token=lCYDeeic3b
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WALLANDER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WALLANDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941781&extension=ts&play_token=mrdXKFHwWA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WAR AND PEACE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WAR AND PEACE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941780&extension=ts&play_token=5vljorcG0e
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WAYWARD PINES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WAYWARD PINES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941779&extension=ts&play_token=0mEFO4xmHl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WEEDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WEEDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941778&extension=ts&play_token=L7KP9tmpEX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WHEN CALLS THE HEART
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WHEN CALLS THE HEART
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941777&extension=ts&play_token=QpG2hmglnA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WHEN THE STREETLIGHTS GO ON
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WHEN THE STREETLIGHTS GO ON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941776&extension=ts&play_token=hrNkvbaVNB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WHEN THEY SEE US
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WHEN THEY SEE US
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941775&extension=ts&play_token=yeRKmUZOWT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WHEN WE RISE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WHEN WE RISE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941774&extension=ts&play_token=JX2dJwqPHF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WHITECHAPEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WHITECHAPEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941773&extension=ts&play_token=ppmXeNXb0w
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WICKED CITY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WICKED CITY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941772&extension=ts&play_token=GstRq34jft
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WILL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WILL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941771&extension=ts&play_token=FelOQodvD5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 WITCHES OF EAST END
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 WITCHES OF EAST END
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941770&extension=ts&play_token=YTnk320wa6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 YEAR MILLION
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 YEAR MILLION
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941769&extension=ts&play_token=jjeF83tYZz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 YEARS AND YEARS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 YEARS AND YEARS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941768&extension=ts&play_token=OOPP8h3up3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 ZOEY 101
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 ZOEY 101
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941767&extension=ts&play_token=WhmiFyvCBa
 
 
@@ -8558,7 +8559,7 @@ https://tvpass.org/live/WNBCDT1/hd
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_13312a6d80f4420aaf552fd995b7ea42~mv2.jpg/v1/fill/w_430,h_146,al_c,lg_1,q_80,enc_avif,quality_auto/abcnews%20(1).jpg" group-title="NEWS",ABC (KABC) Los Angeles
 https://tvpass.org/live/abc-kabc-los-angeles-ca/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_13312a6d80f4420aaf552fd995b7ea42~mv2.jpg/v1/fill/w_430,h_146,al_c,lg_1,q_80,enc_avif,quality_auto/abcnews%20(1).jpg",ABC (WABC) New York, NY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_13312a6d80f4420aaf552fd995b7ea42~mv2.jpg/v1/fill/w_430,h_146,al_c,lg_1,q_80,enc_avif,quality_auto/abcnews%20(1).jpg" group-title="NEWS",ABC (WABC) New York
 https://tvpass.org/live/WABCDT1/hd
 
 
@@ -8715,7 +8716,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1023155&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1023156&extension=ts&play_token=otZTgTvFFz
 #EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/9605ca7a/dms3rep/multi/ppv.jpg" group-title="MAIN PPV EVENTS",LIVE EVENT 24 -
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1023157&extension=ts&play_token=n8XHm1xKzs
-#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/9605ca7a/dms3rep/multi/ppv.jpg" group-title="UK| PPV EVENTS",LIVE EVENT 25 -
+#EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/9605ca7a/dms3rep/multi/ppv.jpg" group-title="MAIN PPV EVENTS",LIVE EVENT 25 -
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1023158&extension=ts&play_token=JvnK0yup57
 #EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/9605ca7a/dms3rep/multi/ppv.jpg" group-title="MAIN PPV EVENTS",LIVE EVENT 26 -
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1023159&extension=ts&play_token=drfMPIvAxR
