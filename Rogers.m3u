@@ -593,7 +593,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600209&exte
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", COBRA KAI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944303&extension=ts&play_token=5x33eCD7Eb
 
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1414083.png" group-title="KIDS",  NETFLIX WWE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS",  NETFLIX WWE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1414083&extension=ts&play_token=keAdTj1MO2
 
 
@@ -900,7 +900,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944057&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944056&extension=ts&play_token=zn2z5us24G
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",LIFE WITH DEREK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944021&extension=ts&play_token=gxsZkliAZA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",MALCOLM IN THE MIDDLE
+#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/malcolm-in-the-middle-lifes-still-unfair-69e26d4823d5d.png" group-title="KIDS",MALCOLM IN THE MIDDLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944020&extension=ts&play_token=oaxM0iXSS7
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",MILES FROM TOMORROWLAND
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944019&extension=ts&play_token=dWOJlhcGIU
@@ -2026,7 +2026,7 @@ https://i.mjh.nz/.r/bbc-food-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-masterchef.m3u8
 
-#EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20251128/channel_600x200_194f31d0-acca-474b-a7f6-97bee384c3d5.png" group-title="COOKING",Hells Kitchen
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="COOKING",Hells Kitchen
 https://amg00654-itv-amg00654c1-lg-au-4779.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.country=[COUNTRY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped" group-title="COOKING" ,Hell's Kitchen
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992260&ads.xumo_streamId=99992260&ads.channelId=99992260&ads.ad_tag_id=10507&ads.csid=lgchannels_us_filmrisehellskitchen_ssai&ads.channelName=filmrisehellskitchen_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -2067,11 +2067,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgu
 ####   GameShow  ####
 #####################
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/deal-or-no-deal-vod-us.png" group-title="GAMESHOW" , DEAL OR NO DEAL
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW" , DEAL OR NO DEAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920898&extension=ts&play_token=hFDTPRWI8z
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/deal-or-no-deal-vod-us.png" group-title="GAMESHOW" ,Deal or No Deal
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW" ,Deal or No Deal
 https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/deal-or-no-deal-vod-us.png" group-title="GAMESHOW",Deal or No Deal USA
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW",Deal or No Deal USA
 https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
 ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e8bc9371eb1249b391d4c9e25dde8842~mv2.png/v1/fill/w_264,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/gameshow.png" group-title="GAMESHOW", Game Show Network
@@ -4932,55 +4932,55 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1337317&exten
 
 #########################################     HULU      ############################################################
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS INFO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS INFO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671017&extension=ts&play_token=qnpvY3MnJv
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671016&extension=ts&play_token=p0EUHKVrvO
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671015&extension=ts&play_token=QkjTpNQHKq
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671014&extension=ts&play_token=vvfdCFBmX7
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671013&extension=ts&play_token=Dtr1rJaWy0
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671012&extension=ts&play_token=66PbEjaXqX
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671011&extension=ts&play_token=8FG4Hukbzq
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671010&extension=ts&play_token=j7zrsPiQ3v
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671009&extension=ts&play_token=P4dd2yqoUF
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671008&extension=ts&play_token=mBJG1zKZhP
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671007&extension=ts&play_token=oANoMLm4hP
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 11
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 11
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671006&extension=ts&play_token=2vwEj0C5vz
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 12
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 12
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671005&extension=ts&play_token=FzHqintQY4
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 13
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 13
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671004&extension=ts&play_token=AGPLV9isyI
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 14
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 14
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671003&extension=ts&play_token=38laMnscW5
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 15
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 15
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671002&extension=ts&play_token=fHAOCEp9ph
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 16
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 16
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671001&extension=ts&play_token=s1X5qj2TKc
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 17
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 17
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=671000&extension=ts&play_token=K1Bwf2eTWM
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 18
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 18
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670999&extension=ts&play_token=dXsMriAJT8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hulu.png" group-title="HULU NETWORK",US: HULU ORIGINALS 19
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="HULU NETWORK",US: HULU ORIGINALS 19
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670998&extension=ts&play_token=ozwBrhQ7vj
 
 
 #######################################      HBO       ############################################################
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max.png" group-title="HBO NETWORK",US: HBO MAX ORIGINAL INFO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL INFO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474951&extension=ts&play_token=mkiUMsTyjC
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max.png" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474950&extension=ts&play_token=HrMjpzRGCf
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max.png" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474949&extension=ts&play_token=3B6pxe04Hb
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO NETWORK",US: HBO MAX ORIGINAL 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1474948&extension=ts&play_token=DYVamta0gi
@@ -5474,7 +5474,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600563&exte
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976580&extension=ts&play_token=4zca98CKy4
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976581.png" group-title="24/7 SERIES",  COBRA KAI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976581&extension=ts&play_token=BZ63Kl3G5G
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1049065.png" group-title="24/7 SERIES",  CSI MIAMI
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f54c11b3af68000702c304/colorLogoPNG_1731837343443.png" group-title="24/7 SERIES",  CSI MIAMI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049065&extension=ts&play_token=gVzGzMWxtG
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", DADS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600562&extension=ts&play_token=YuLXpVt1Sk
@@ -5532,7 +5532,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600489&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600488&extension=ts&play_token=f7u8rDjkPy
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", GROUNDED FOR LIFE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600483&extension=ts&play_token=setOuAHpq4
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503123.png" group-title="24/7 SERIES",  FAMILY MATTERS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8b122c1d6fa642c595ea070615cf24d9~mv2.png/v1/fill/w_480,h_184,al_c,lg_1,q_85,enc_avif,quality_auto/familymatterspng.png" group-title="24/7 SERIES",  FAMILY MATTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503123&extension=ts&play_token=Y8TvyKMyGq
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976553.png" group-title="24/7 SERIES",  FRASIER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976553&extension=ts&play_token=tZ25o1sRXJ
@@ -5564,7 +5564,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600432&exte
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1049066&extension=ts&play_token=oM0QzouZsB
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976534.png" group-title="24/7 SERIES",  LAST MAN STANDING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976534&extension=ts&play_token=74bI8wjNDB
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/994884.png" group-title="24/7 SERIES",  LAW AND ORDER
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68758038552299d2b08162e3/colorLogoPNG_1754039420438.png" group-title="24/7 SERIES",  LAW AND ORDER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=994884&extension=ts&play_token=vAsHphwPaW
 
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976557.png" group-title="24/7 SERIES",  LOST
@@ -5656,9 +5656,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944237&exten
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SEAN SAVES THE WORLD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600336&extension=ts&play_token=PnBHLcnGFH
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/976569.png" group-title="24/7 SERIES",  SEINFELD
+#EXTINF:-1 tvg-logo="https://logomakerr.ai/blog/wp-content/uploads/2024/06/image-23.png" group-title="24/7 SERIES",  SEINFELD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976569&extension=ts&play_token=LjdsdqltEy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 SERIES",  SEINFELD
+#EXTINF:-1 tvg-logo="hhttps://logomakerr.ai/blog/wp-content/uploads/2024/06/image-23.png" group-title="24/7 SERIES",  SEINFELD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943219&extension=ts&play_token=vY9RZabpgx
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", SEX AND THE CITY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600330&extension=ts&play_token=4rrv10Y2Bp
@@ -5722,15 +5722,15 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600243&exte
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478565&extension=ts&play_token=1BVmbjR9Uq
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976647.png" group-title="24/7 SERIES",  THE NANNY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976647&extension=ts&play_token=fuKqrmZ1MY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 SERIES", THE OFFICE
+#EXTINF:-1 tvg-logo="https://logomakerr.ai/blog/wp-content/uploads/2024/06/image-22-1536x864.png" group-title="24/7 SERIES", THE OFFICE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600240&extension=ts&play_token=ykroYz5Zlf
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/976575.png" group-title="24/7 SERIES",  THE OFFICE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=976575&extension=ts&play_token=BG5k4aW321
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1503144.png" group-title="24/7 SERIES",  THE PARKERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503144&extension=ts&play_token=9X65O8vrRZ
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/978711.png" group-title="24/7 SERIES",  THE SIMPSONS
+#EXTINF:-1 tvg-logo="https://logomakerr.ai/blog/wp-content/uploads/2024/06/image-19-1536x864.png" group-title="24/7 SERIES",  THE SIMPSONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=978711&extension=ts&play_token=oxK7ZLhbHC
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/478535.png" group-title="24/7 SERIES",  THE SIMPSONS
+#EXTINF:-1 tvg-logo="https://logomakerr.ai/blog/wp-content/uploads/2024/06/image-19-1536x864.png" group-title="24/7 SERIES",  THE SIMPSONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=478535&extension=ts&play_token=jtPa9kbIGM
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/559554.png" group-title="24/7 SERIES",   SPONGEBOB SQUAREPANTS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=559554&extension=ts&play_token=6xVcJin8em
@@ -5793,9 +5793,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943286&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943285&extension=ts&play_token=Kn1vo4yhLr
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CAGNEY AND LACEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943284&extension=ts&play_token=DSG5jv4WPE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CHARLIE'S ANGELS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_f33d5b68cc4649a98ffd08bdada29954~mv2.jpg/v1/fill/w_336,h_234,al_c,lg_1,q_80,enc_avif,quality_auto/charlies.jpg" group-title="24/7 CLASSIC SHOWS",  CHARLIE'S ANGELS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943283&extension=ts&play_token=xeVmEPsnLz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CHARLIES ANGELS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_f33d5b68cc4649a98ffd08bdada29954~mv2.jpg/v1/fill/w_336,h_234,al_c,lg_1,q_80,enc_avif,quality_auto/charlies.jpg" group-title="24/7 CLASSIC SHOWS",  CHARLIES ANGELS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1433532&extension=ts&play_token=nO7vbFD0bL
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  CHEERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943282&extension=ts&play_token=ZYojxFiAgi
@@ -5827,7 +5827,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943272&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943271&extension=ts&play_token=zwTwgAFiF6
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  FAMILY MATTERS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943270&extension=ts&play_token=O9RPB547Eq
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/family-ties-vod.png" group-title="24/7 CLASSIC SHOWS",  FAMILY TIES
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="24/7 CLASSIC SHOWS",  FAMILY TIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943269&extension=ts&play_token=oMsYts0593
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  FAT ALBERT AND THE COSBY KIDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811975&extension=ts&play_token=AuPqqVqC11
@@ -5835,7 +5835,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1811975&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943268&extension=ts&play_token=8d5i6PDQnn
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  FRASIER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943267&extension=ts&play_token=hDzktsqkaD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  FRIENDS
+#EXTINF:-1 tvg-logo="https://logomakerr.ai/blog/wp-content/uploads/2024/06/image-17-1536x864.png" group-title="24/7 CLASSIC SHOWS",  FRIENDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943266&extension=ts&play_token=vpWQlOpbO1
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", FULL HOUSE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600510&extension=ts&play_token=6Vr3cIzjpu
@@ -5853,17 +5853,17 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943262&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1503125&extension=ts&play_token=x8JkcggE9W
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  GREEN ACRES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943261&extension=ts&play_token=mzyG1ZNpGC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  GUNSMOKE
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="24/7 CLASSIC SHOWS",  GUNSMOKE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1187712&extension=ts&play_token=dD3taRHCNS
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  GUNSMOKE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943260&extension=ts&play_token=WvMKEO4Wta
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  HANGIN WITH MR. COOPER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943259&extension=ts&play_token=TMk2XRokhv
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/happy-days-vod-us.png" group-title="24/7 CLASSIC SHOWS",  HAPPY DAYS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="24/7 CLASSIC SHOWS",  HAPPY DAYS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943258&extension=ts&play_token=Jb2paGJoZm
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  HAVE GUN WILL TRAVEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943257&extension=ts&play_token=CvwzbjMXEQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  HOGAN'S HEROES
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="24/7 CLASSIC SHOWS",  HOGAN'S HEROES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943256&extension=ts&play_token=xsIewZpwNL
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  HOME IMPROVEMENT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943255&extension=ts&play_token=DiVLJ4ahe9
@@ -5889,7 +5889,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943189&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943246&extension=ts&play_token=hhIO0xSEQQ
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LARAMIE 1959
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943245&extension=ts&play_token=AZJWa3x9Eh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LAVERNE & SHIRLEY
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_520a2aa60299482eb8bdbc0ce3d618c3~mv2.jpg/v1/fill/w_336,h_264,al_c,lg_1,q_80,enc_avif,quality_auto/laverne%20shirly.jpg" group-title="24/7 CLASSIC SHOWS",  LAVERNE & SHIRLEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943244&extension=ts&play_token=biwpnW5Ash
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LEAVE IT TO BEAVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943243&extension=ts&play_token=M0DevaDUky
@@ -5897,7 +5897,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943243&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600441&extension=ts&play_token=A2pjX31QJu
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LEAVE IT TO BEAVER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1041932&extension=ts&play_token=v6amsjQ007
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LITTLE HOUSE ON THE PRAIRIE
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="24/7 CLASSIC SHOWS",  LITTLE HOUSE ON THE PRAIRIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943242&extension=ts&play_token=pTxQbylvL2
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="24/7 CLASSIC SHOWS", LOVE THY NEIGHBOR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600424&extension=ts&play_token=pYMU7MKoyS
@@ -5905,7 +5905,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600424&exte
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=194241&extension=ts&play_token=v1AR5ywCGF
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  LOVE AMERICAN STYLE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943240&extension=ts&play_token=6X9uPghBs9
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/the-love-boat-vod-us.png" group-title="24/7 CLASSIC SHOWS",  LOVE BOAT 1976
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="24/7 CLASSIC SHOWS",  LOVE BOAT 1976
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943239&extension=ts&play_token=giuJC4iMOI
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  MANNIX
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943238&extension=ts&play_token=VGY6qpFz35
@@ -5956,7 +5956,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943218&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600318&extension=ts&play_token=cFQ5t1vBtE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  SOME MOTHERS DO 'AVE 'EM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943217&extension=ts&play_token=6VSeSyuAwk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  STARSKY AND HUTCH
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_83eb7c7dcefe4a0ca8b8286d61e7a61c~mv2.png/v1/fill/w_434,h_184,al_c,lg_1,q_85,enc_avif,quality_auto/download.png" group-title="24/7 CLASSIC SHOWS",  STARSKY AND HUTCH
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943216&extension=ts&play_token=RuwKsNZ7hT
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  STEP BY STEP
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943215&extension=ts&play_token=8w3S4gIMCB
@@ -7085,7 +7085,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944182&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944181&extension=ts&play_token=UFs2PB5YJE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 COMPLICATIONS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944180&extension=ts&play_token=ePckMBB1rK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 CRIMINAL MINDS
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65653817c917a5000844bc30/colorLogoPNG.png" group-title="24/7 CRIME",24/7 CRIMINAL MINDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944179&extension=ts&play_token=sLn2zMcbnf
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CRIME",24/7 DCI BANKS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944178&extension=ts&play_token=CMDzxE9MGq
@@ -7702,7 +7702,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920883&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920883&extension=ts&play_token=yCGjfEhenG
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920881.png" group-title="PRIME",PRIME| GREAT BRITISH MENU
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920881&extension=ts&play_token=abYixnURXZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920880.png" group-title="PRIME",PRIME| HARDCORE PAWN
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_37969c99729a4e12bf89f14b27628fa7~mv2.png/v1/fill/w_480,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/hardcorepawn-FAST.png" group-title="PRIME",PRIME| HARDCORE PAWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920880&extension=ts&play_token=OkmYqfY9YO
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920879.png" group-title="PRIME",PRIME| HE-MAN & MASTERS OF THE UNIVERSE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920879&extension=ts&play_token=4xePrMDG4D
