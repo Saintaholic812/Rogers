@@ -8222,37 +8222,37 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essentia
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CONCERTO400x200.png" group-title="MU| MUSIC CONCERTS" ,Concerto
 https://amg01076-lightning-amg01076c14-lg-au-7579.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"  group-title="MU| MUSIC CONCERTS",  Vevo Christmas
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"  group-title="MU| MUSIC CONCERTS",  Vevo Christmas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_eedb10518e3a4c37bafa3c0a4ed26df2~mv2.png/v1/fill/w_350,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/vevo%20popd.png"    group-title="MU| MUSIC CONCERTS", Vevo Pop
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_eedb10518e3a4c37bafa3c0a4ed26df2~mv2.png/v1/fill/w_350,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/vevo%20popd.png"    group-title="MU| MUSIC CONCERTS", Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_53bb49a7f844455f9a2e8fbdffb2b805~mv2.jpg/v1/fill/w_338,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/vevoretro).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Retro Rock
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_53bb49a7f844455f9a2e8fbdffb2b805~mv2.jpg/v1/fill/w_338,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/vevoretro).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"    group-title="MU| MUSIC CONCERTS", Vevo 2K 
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"    group-title="MU| MUSIC CONCERTS", Vevo 2K 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_03bbb427e2b04c2ebe91ea3ae9787379~mv2.jpg/v1/fill/w_382,h_236,al_c,lg_1,q_80,enc_avif,quality_auto/vevocountry%20(1).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Country
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_03bbb427e2b04c2ebe91ea3ae9787379~mv2.jpg/v1/fill/w_382,h_236,al_c,lg_1,q_80,enc_avif,quality_auto/vevocountry%20(1).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS" ,NOW70S (Australia)
+#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS" ,NOW70S (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now 80s (Australia)
+#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now 80s (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now90s00s (Australia)
+#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now90s00s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S (Australia)
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S (Australia)
 https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s  (Australia)
+#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s  (Australia)
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wixstatic.com/media/6048cf_c2c9dc269f174f69b9c190d7a34f34db~mv2.jpg/v1/fill/w_246,h_218,al_c,lg_1,q_80,enc_avif,quality_auto/nowrock).jpg"  group-title="MU| MUSIC CONCERTS" ,Now Rock (Australia)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_c2c9dc269f174f69b9c190d7a34f34db~mv2.jpg/v1/fill/w_246,h_218,al_c,lg_1,q_80,enc_avif,quality_auto/nowrock).jpg"  group-title="MU| MUSIC CONCERTS" ,Now Rock (Australia)
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DANCE.png" group-title="MU| MUSIC CONCERTS",MU|  DANCE TV
