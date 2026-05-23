@@ -8237,13 +8237,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_03bbb427e2b04c2ebe91ea3ae9787379~mv2.jpg/v1/fill/w_382,h_236,al_c,lg_1,q_80,enc_avif,quality_auto/vevocountry%20(1).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS" ,NOW70S (Australia)
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now 80s (Australia)
+#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now90s00s (Australia)
+#EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 90s (Australia)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S (Australia)
@@ -8252,7 +8252,7 @@ https://lightningnow70-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s  (Australia)
 https://lightningnow80-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_c2c9dc269f174f69b9c190d7a34f34db~mv2.jpg/v1/fill/w_246,h_218,al_c,lg_1,q_80,enc_avif,quality_auto/nowrock).jpg"  group-title="MU| MUSIC CONCERTS" ,Now Rock (Australia)
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CONCERTO400x200.png"  group-title="MU| MUSIC CONCERTS" ,Now Rock (Australia)
 https://lightningnow90-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DANCE.png" group-title="MU| MUSIC CONCERTS",MU|  DANCE TV
