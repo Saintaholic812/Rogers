@@ -8181,52 +8181,52 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1919714&exten
 ##############################
 ##############################
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_01977d68168148d2880eab28d5e4c6e4~mv2.png/v1/fill/w_338,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/mtv.png" group-title="MU| MUSIC CONCERTS",MTV USA
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_01977d68168148d2880eab28d5e4c6e4~mv2.png/v1/fill/w_338,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/mtv.png" group-title="MU| MUSIC CONCERTS",MTV USA
 https://tvpass.org/live/MTVEast/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_8bade779b8174a53920f787bc0cc4a17~mv2.png/v1/fill/w_382,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/mtv2d.png" group-title="MU| MUSIC CONCERTS",MTV 2 East
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_8bade779b8174a53920f787bc0cc4a17~mv2.png/v1/fill/w_382,h_176,al_c,lg_1,q_85,enc_avif,quality_auto/mtv2d.png" group-title="MU| MUSIC CONCERTS",MTV 2 East
 https://tvpass.org/live/mtv-2-east/hd
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_4b5afe887bc04835a1b0d6a733e47b04~mv2.png/v1/fill/w_296,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/cmtd.png" group-title="MU| MUSIC CONCERTS",CMT US
+#EXTINF:-1 tvg-id="CMT.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_4b5afe887bc04835a1b0d6a733e47b04~mv2.png/v1/fill/w_296,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/cmtd.png" group-title="MU| MUSIC CONCERTS",CMT US
 https://tvpass.org/live/CMTEast/hd
 
-#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="MU| MUSIC CONCERTS",CA: MUCH MUSIC
+#EXTINF:-1 tvg-id="Much.Music.HD.ca2" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="MU| MUSIC CONCERTS",CA: MUCH MUSIC
 http://xxip25.top:8080/s5pPNV/514479/215268
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S
 https://amg01076-lightning-amg01076c1-lg-au-7320.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s
 https://amg01076-lightning-amg01076c2-lg-au-7330.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW_ROCK_400x200.png" group-title="MU| MUSIC CONCERTS" ,NOWROCK
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW_ROCK_400x200.png" group-title="MU| MUSIC CONCERTS" ,NOWROCK
 https://amg01076-lightning-amg01076c3-lg-au-7573.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now90s00s
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW90s00s400x200.png" group-title="MU| MUSIC CONCERTS" ,Now90s00s
 https://amg01076-lightning-amg01076c19-lg-au-7645.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_246/lg_channels/img/channel_logo/default/channel_logo.png" group-title="MU| MUSIC CONCERTS" ,essential;
+#EXTINF:-1 tvg-id=""  tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_246/lg_channels/img/channel_logo/default/channel_logo.png" group-title="MU| MUSIC CONCERTS" ,essential;
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_246&mpf=4034c999-39af1962-bda29ae1&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=6fa28eda-fdf30b7e-9faae242-8a8391d2&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CONCERTO400x200.png" group-title="MU| MUSIC CONCERTS" ,Concerto
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CONCERTO400x200.png" group-title="MU| MUSIC CONCERTS" ,Concerto
 https://amg01076-lightning-amg01076c14-lg-au-7579.playouts.now.amagi.tv/playlist/amg01076-lightning-concerto-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"  group-title="MU| MUSIC CONCERTS",  Vevo Christmas
+#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"  group-title="MU| MUSIC CONCERTS",  Vevo Christmas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_eedb10518e3a4c37bafa3c0a4ed26df2~mv2.png/v1/fill/w_350,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/vevo%20popd.png"    group-title="MU| MUSIC CONCERTS", Vevo Pop
+#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_eedb10518e3a4c37bafa3c0a4ed26df2~mv2.png/v1/fill/w_350,h_208,al_c,lg_1,q_85,enc_avif,quality_auto/vevo%20popd.png"    group-title="MU| MUSIC CONCERTS", Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_53bb49a7f844455f9a2e8fbdffb2b805~mv2.jpg/v1/fill/w_338,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/vevoretro).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Retro Rock
+#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_53bb49a7f844455f9a2e8fbdffb2b805~mv2.jpg/v1/fill/w_338,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/vevoretro).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"    group-title="MU| MUSIC CONCERTS", Vevo 2K 
+#EXTINF:-1  tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_7f0b470207984a1e92f7eafc2de2096a~mv2.png/v1/fill/w_414,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/vevod.png"    group-title="MU| MUSIC CONCERTS", Vevo 2K 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_03bbb427e2b04c2ebe91ea3ae9787379~mv2.jpg/v1/fill/w_382,h_236,al_c,lg_1,q_80,enc_avif,quality_auto/vevocountry%20(1).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Country
+#EXTINF:-1 tvg-id=""  tvg-logo="https://static.wixstatic.com/media/6048cf_03bbb427e2b04c2ebe91ea3ae9787379~mv2.jpg/v1/fill/w_382,h_236,al_c,lg_1,q_80,enc_avif,quality_auto/vevocountry%20(1).jpg"  group-title="MU| MUSIC CONCERTS", Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S (Australia)
+#EXTINF:-1 tvg-id=""  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW70s400x200.png" group-title="MU| MUSIC CONCERTS",NOW70S (Australia)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="MU| MUSIC CONCERTS",Now 80s (Australia)
@@ -9808,6 +9808,49 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831621&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831620&extension=ts&play_token=pptI5CMkmV
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="PEACOCK PPV",US (Peacock 100)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1831619&extension=ts&play_token=o0HrdDX7jl
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  01
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500711&extension=ts&play_token=TMtXO5ymzH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  02
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500710&extension=ts&play_token=6gKyDFHz8Q
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  03
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500709&extension=ts&play_token=NwamwUe8Bw
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  04
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500708&extension=ts&play_token=5xDFkh9kML
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  05
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500707&extension=ts&play_token=MHvdIr7OH2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  06
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500706&extension=ts&play_token=EvXjbQnPuL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  07
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500705&extension=ts&play_token=h7pKvQ7Gsr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  08
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500704&extension=ts&play_token=PbAcHFDpGd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  09
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500703&extension=ts&play_token=YzIEO9eC4z
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing  10
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500702&extension=ts&play_token=dJRaZubYLU
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 11
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500701&extension=ts&play_token=CZfAhuZrUz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 12
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500700&extension=ts&play_token=pRVyunDpW6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 13
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500699&extension=ts&play_token=TiIzNRJECp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 14
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500698&extension=ts&play_token=KWQP9HHCd1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 15
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500697&extension=ts&play_token=bTEKxMZI4h
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 16
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500696&extension=ts&play_token=kzUoRiQqGy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 17
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500695&extension=ts&play_token=0Gyc9OQ9hu
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 18
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500694&extension=ts&play_token=bzNSOck4CK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 19
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500693&extension=ts&play_token=eyeDRbPXGq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="FLO RACING PPV",Flo Racing 20
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=1500692&extension=ts&play_token=fHn8ttt9vK
+
+
 
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="TT RACES PPV",UK: TT RACES EVENT 1
