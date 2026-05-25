@@ -12,6 +12,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/merged/unitedkingdom.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedkingdom.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates10.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
 
 ##############################
 ##############################
@@ -653,6 +654,19 @@ http://xxip25.top:8080/s5pPNV/514479/140004
 https://tvpass.org/live/TeenNickEast/hd
 
 
+#EXTINF:-1 tvg-chno="111" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="KIDS", Nick Jr
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/351.ts
+
+#EXTINF:-1 tvg-chno="112" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS", Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-chno="113" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="KIDS", Nicktoons
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1223.ts
+
+
+#EXTINF:-1 tvg-id="Teen.Nick.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13346.jpg?68674" group-title="KIDS", US| TEEN NICK
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91877&extension=ts&play_token=yyUxeQ6RZA
+
 #######   DISNEY    ####################
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="CA Disney Junior " tvg-logo="https://logodix.com/logo/619307.png" group-title="KIDS", Disney Junior 
@@ -667,6 +681,13 @@ http://xxip25.top:8080/s5pPNV/514479/57420
 http://xxip25.top:8080/s5pPNV/514479/2206
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="US: Disney XD" tvg-logo="https://logodix.com/logo/619307.png" group-title="KIDS",Disney XD
 http://xxip25.top:8080/s5pPNV/514479/75621
+#EXTINF:-1 tvg-chno="41" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS", Disney Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/180.ts
+
+#EXTINF:-1 tvg-chno="42" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS", Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+
+
 #EXTINF:-1  tvg-id="Disney.Channel.HD.us2"  tvg-logo="https://static.wixstatic.com/media/6048cf_7c68bc676d694059b2ea2570884d2bfd~mv2.png/v1/fill/w_476,h_207,al_c,lg_1,q_85,enc_avif,quality_auto/disney2d.png" group-title="KIDS",Disney
 https://tvpass.org/live/DisneyChannelEast/hd
 #EXTINF:-1  tvg-id="USA-Disney Jr"  tvg-logo="https://static.wixstatic.com/media/6048cf_e10fbcbba04a4a7fa9d9c6d56b71e360~mv2.png/v1/fill/w_514,h_192,al_c,lg_1,q_85,enc_avif,quality_auto/disneyjr.png" group-title="KIDS",Disney Junior USA
@@ -693,6 +714,9 @@ https://tvpass.org/live/Boomerang/hd
 
 #EXTINF:-1   tvg-id="cartoonnetwork.ca" tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png"   group-title="KIDS",Cartoon Network USA
 https://tvpass.org/live/CartoonNetworkEast/hd
+#EXTINF:-1 tvg-chno="20" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="KIDS", Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network " tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png" group-title="KIDS", Cartoon Network 
 http://xxip25.top:8080/s5pPNV/514479/57380
 #EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA Cartoon Network (E)" tvg-logo="https://static.wixstatic.com/media/6048cf_51b1dac33c5f4b30ad5ad65ccc78bee9~mv2.png/v1/fill/w_298,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/cartoon.png" group-title="KIDS", Cartoon Network (E)
@@ -717,6 +741,10 @@ https://jmp2.uk/rok-9dd23031622757d1944e4782b2a192ef.m3u8
 https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/KARTOON_CHANNEl400x200.png" group-title="KIDS",Kartoon Channel
 https://amg01076-lightning-amg01076c12-lg-au-7576.playouts.now.amagi.tv/playlist/amg01076-lightning-kartoon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-chno="119" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="KIDS", Pop TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/226.ts
+#EXTINF:-1 tvg-chno="118" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="KIDS", PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/mmm/linear_channel/anamorphic-logo/ducktv-name-white_transp_200x400.png" group-title="KIDS",ducktv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16604&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_au&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
@@ -1002,16 +1030,27 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944047&exten
 ###############################################################################
 ###############################################################################
 
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?33312" group-title="ENTERTAINMENT", US: A&E
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2"  tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="ENTERTAINMENT", US: A&E
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45619&extension=ts&play_token=oexyGBEhGN
-#EXTINF:-1 tvg-id="ABC.National.Feed.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45439.png" group-title="ENTERTAINMENT", US| ABC HD
+#EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="ENTERTAINMENT", US:A&E TV
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2"   tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="ENTERTAINMENT", US| ABC HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45439&extension=ts&play_token=Upe57MwcHh
+#EXTINF:-1 tvg-chno="2" tvg-id="WFTS-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="ENTERTAINMENT", US:ABC
+http://stream.cammonitorplus.net/1839/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="ENTERTAINMENT", US:ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
 #EXTINF:-1 tvg-id="AccuWeather.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91946.png" group-title="ENTERTAINMENT", US| ACCUWEATHER HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91946&extension=ts&play_token=X2ZW560G7n
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/150345.png" group-title="ENTERTAINMENT", US| ADULT SWIM HD
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2"   tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="ENTERTAINMENT", US| ADULT SWIM HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150345&extension=ts&play_token=aUAUQ6edit
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1131979.png" group-title="ENTERTAINMENT", US| ADULT SWIM WEST
+
+#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="ENTERTAINMENT", US:Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.(Pacific).us2"   tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="ENTERTAINMENT", US| ADULT SWIM WEST
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1131979&extension=ts&play_token=X9pREDEQsX
+
 #EXTINF:-1 tvg-id="AMC.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6164.png?84800" group-title="ENTERTAINMENT", US: AMC HD
 #EXTINF:-1 tvg-id="AMC+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1114.png?6385" group-title="ENTERTAINMENT", US: AMC PLUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=534381&extension=ts&play_token=RWRSYKNl0N
@@ -1025,11 +1064,14 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91955&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91760&extension=ts&play_token=VXH6jhFUJ7
 #EXTINF:-1 tvg-id="BBC.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/192.png?52355" group-title="ENTERTAINMENT", US| BBC AMERICA HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45612&extension=ts&play_token=QWrTE84W48
+#EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="ENTERTAINMENT", US|BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1783055.png" group-title="ENTERTAINMENT", US| BEACH TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1783055&extension=ts&play_token=o3WjdzQSXU
 #EXTINF:-1 tvg-id="BET.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?2640" group-title="ENTERTAINMENT", US: BET HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45610&extension=ts&play_token=5eTschkunp
-
+#EXTINF:-1 tvg-chno="12" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="ENTERTAINMENT", US|BET
+http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1 tvg-id="BET.Her.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?93571" group-title="ENTERTAINMENT", US: BET HER HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91768&extension=ts&play_token=E4wQqGsBjD
 
@@ -1044,18 +1086,26 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1150047&exten
 
 #EXTINF:-1   tvg-id="Bounce.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2280.jpg?28409" group-title="ENTERTAINMENT", US| BOUNCE TV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91771&extension=ts&play_token=PMLSpJ9Yl7
-
+#EXTINF:-1 tvg-chno="16" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="ENTERTAINMENT", US|BOUNCE
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/730910.png" group-title="ENTERTAINMENT", US| BOUNCE XL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=730910&extension=ts&play_token=9IWBp6RfFN
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?30928" group-title="ENTERTAINMENT", US| BRAVO HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45446&extension=ts&play_token=3rUBQArSUV
 
+#EXTINF:-1 tvg-chno="17" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="ENTERTAINMENT", US|BRAVO TV
+http://41.205.93.154/BRAVO/index.m3u8
+
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8297.jpg?14072" group-title="ENTERTAINMENT", US| BRAVO WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91772&extension=ts&play_token=FP1cFTnhrO
 
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8511.jpg?47723" group-title="ENTERTAINMENT", US| BUZZR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=105189&extension=ts&play_token=IWfBd7lf4i
+
+#EXTINF:-1 tvg-chno="18" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="ENTERTAINMENT", US|BUZZR
+https://buzzrota-web.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="BYU-TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9761.jpg?14917" group-title="ENTERTAINMENT", US| BYU TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1863010&extension=ts&play_token=5EaWnWxAe3
@@ -1071,6 +1121,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90937&extensi
 
 #EXTINF:-1 tvg-id="CMT.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1737813.png" group-title="ENTERTAINMENT", US| CMT MUSIC
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1737813&extension=ts&play_token=o1v5pMGFf8
+#EXTINF:-1 tvg-chno="26" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="ENTERTAINMENT", US|CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?33276" group-title="ENTERTAINMENT", US| COMEDY CENTRAL EAST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1149739&extension=ts&play_token=Z0M47T5neG
@@ -1078,20 +1130,32 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1149739&exten
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/749.png?33276" group-title="ENTERTAINMENT", US| COMEDY CENTRAL HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45448&extension=ts&play_token=cfruf4xzjT
 
+#EXTINF:-1 tvg-chno="29" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1131978.png" group-title="ENTERTAINMENT", US| COMEDY CENTRAL WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1131978&extension=ts&play_token=mDCBtWIMsH
 
 #EXTINF:-1 tvg-id="Comedy.TV.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2997.jpg?21570" group-title="ENTERTAINMENT", US| COMEDY TV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91944&extension=ts&play_token=gzMRyIevQf
+#EXTINF:-1 tvg-chno="30" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="ENTERTAINMENT", US|COMEDY TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1459.ts
 
 #EXTINF:-1 tvg-id="Comet.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3064.jpg?1960" group-title="ENTERTAINMENT", US| COMET HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91807&extension=ts&play_token=xZMiJtUGzk
+#EXTINF:-1 tvg-chno="31" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="ENTERTAINMENT", US|COMET TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA Cottage Life HD (B)" tvg-logo="" group-title="ENTERTAINMENT", Cottage Life HD (B)
+#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA Cottage Life HD (B)" tvg-logo="" group-title="ENTERTAINMENT", COTTAGE LIFE HD
 http://xxip25.top:8080/s5pPNV/514479/47217
 
 #EXTINF:-1 tvg-id="Court.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13520.jpg?65798" group-title="ENTERTAINMENT", US| COURT TV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150347&extension=ts&play_token=Z3tweiqbWT
+#EXTINF:-1 tvg-chno="33" tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="ENTERTAINMENT", US|COURT TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="ENTERTAINMENT", US|COZI TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/49027.ts
 
 #EXTINF:-1 tvg-id="COZI.TV.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8271.jpg?74385" group-title="ENTERTAINMENT", US| COZI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45590&extension=ts&play_token=GU1YEmLMp2
@@ -1107,6 +1171,8 @@ http://xxip25.top:8080/s5pPNV/514479/57322
 
 #EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA: CRAVE 4 HD" tvg-logo="" group-title="ENTERTAINMENT", CRAVE 4 HD
 http://xxip25.top:8080/s5pPNV/514479/57311
+#EXTINF:-1 tvg-chno="36" tvg-id="KTLA-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="ENTERTAINMENT", US|CW
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1086.ts
 
 #EXTINF:-1 tvg-id="Dabl.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14258.jpg?49744" group-title="ENTERTAINMENT", US| DABL TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1139730&extension=ts&play_token=xSV38BwHXK
@@ -1124,6 +1190,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91950&extensi
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?14243"  group-title="ENTERTAINMENT", US| E! ENTERTAINMENT HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45584&extension=ts&play_token=cOlYUYclz6
+#EXTINF:-1 tvg-chno="43" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="ENTERTAINMENT", US|E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+
 
 #EXTINF:-1 tvg-id="E! Entertainment USA HD  Pacific.us;E! Entertainment USA HD  Pacific.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6000.jpg?63659" group-title="ENTERTAINMENT", US| E! ENTERTAINMENT WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91834&extension=ts&play_token=4vSyLEJu1R
@@ -1133,30 +1202,40 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=789121&extens
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/789122.png" group-title="ENTERTAINMENT", US| FOLK TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=789122&extension=ts&play_token=0eYL861drd
+#EXTINF:-1 tvg-chno="63" tvg-id="KRIV-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="ENTERTAINMENT", US|FOX
+http://stream.cammonitorplus.net/1780/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.SOUL.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/593.png?26616" group-title="ENTERTAINMENT", US: FOX SOUL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=730907&extension=ts&play_token=U7tvAUnC1M
 
 #EXTINF:-1 tvg-id="Freeform.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8236.jpg?51099" group-title="ENTERTAINMENT", US| FREEFORM HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45557&extension=ts&play_token=HwMOhV1GRh
-
+#EXTINF:-1 tvg-chno="68" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Freeform TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/170.ts
 #EXTINF:-1 tvg-id="Freeform.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8236.jpg?51099" group-title="ENTERTAINMENT", US| FREEFORM WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91849&extension=ts&play_token=eF42eIyO4c
-
 #EXTINF:-1 tvg-id="Fuse.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91910.png" group-title="ENTERTAINMENT", | FUSE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91910&extension=ts&play_token=T0ObkZCxgJ
-
+#EXTINF:-1 tvg-chno="69" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="ENTERTAINMENT", US|FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="Fuse.Music.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91941.png" group-title="ENTERTAINMENT", US| FUSE MUSIC HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91941&extension=ts&play_token=wc8O47SEpm
-
 #EXTINF:-1 tvg-id="FX.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6695.png?86707" group-title="ENTERTAINMENT", US| FX HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45451&extension=ts&play_token=rIfmd4r4Q6
+#EXTINF:-1 tvg-chno="70" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="ENTERTAINMENT", US|FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8228.jpeg?17349" group-title="ENTERTAINMENT", US| FX WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91852&extension=ts&play_token=RI4NIzGK7E
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8234.jpg?62275" group-title="ENTERTAINMENT", US| FXM HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45450&extension=ts&play_token=OrhwYUqKyk
+#EXTINF:-1 tvg-chno="71" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="ENTERTAINMENT", US|FX Movie Channel
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/166.ts
+
+#EXTINF:-1 tvg-chno="72" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="ENTERTAINMENT", US|FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FXX.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8234.jpg?87392"  group-title="ENTERTAINMENT", US| FXX HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45449&extension=ts&play_token=V5kaNBVCAS
@@ -1166,6 +1245,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91853&extensi
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6401.png?13227"  group-title="ENTERTAINMENT", US| FYI HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45555&extension=ts&play_token=NIECmxLeVA
+#EXTINF:-1 tvg-chno="73" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="ENTERTAINMENT", US|FYI TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/164.ts
 
 #EXTINF:-1 tvg-id="get.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7701.png?2212" group-title="ENTERTAINMENT", US| GET TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150349&extension=ts&play_token=PTRIO6sTIg
@@ -1178,6 +1259,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1038601&exten
 
 #EXTINF:-1 tvg-id="Grit.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3934.jpg?52653" group-title="ENTERTAINMENT", US| GRIT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91856&extension=ts&play_token=l91iYX2BEQ
+#EXTINF:-1 tvg-chno="77" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Grit TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/734.ts
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45553.png" group-title="ENTERTAINMENT", US| GSN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45553&extension=ts&play_token=TqvrysEgxx
@@ -1188,6 +1271,30 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90961&extensi
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8225.jpg?68871" group-title="ENTERTAINMENT", US| HALLMARK HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45458&extension=ts&play_token=dchq5rRNCS
 
+#EXTINF:-1 tvg-chno="78" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="80" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Hallmark Mystery
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/161.ts
+
+#EXTINF:-1 tvg-chno="81" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="ENTERTAINMENT", US|HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="ENTERTAINMENT", US|HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-chno="79" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Hallmark Family
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/356.ts
+
+#EXTINF:-1 tvg-chno="83" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="ENTERTAINMENT", US|HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-chno="84" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="ENTERTAINMENT", US|HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8225.jpg?31549" group-title="ENTERTAINMENT", US| HALLMARK MYSTERY HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45457&extension=ts&play_token=Lj0wzo74qw
 
@@ -1196,6 +1303,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91885&extensi
 
 #EXTINF:-1 tvg-id="HLN.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7862.jpg?27877" group-title="ENTERTAINMENT", US| HLN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91857&extension=ts&play_token=U9tnuPlpjy
+#EXTINF:-1 tvg-chno="86" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="ENTERTAINMENT", US|HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 
 #EXTINF:-1 tvg-id="HSN2.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1580639.png" group-title="ENTERTAINMENT", US| HSN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1580639&extension=ts&play_token=e99umQZaVC
@@ -1214,9 +1323,14 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=297628&extens
 
 #EXTINF:-1 tvg-id="INSP.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4005.png?48560" group-title="ENTERTAINMENT", US| INSP HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91914&extension=ts&play_token=sCW5nH1bpG
+#EXTINF:-1 tvg-chno="87" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="ENTERTAINMENT", US|INSP
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/895.ts
 
 #EXTINF:-1 tvg-id="ION.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14273.jpg?86176"  group-title="ENTERTAINMENT", US| ION HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=872292&extension=ts&play_token=H1FPOU2ZpO
+#EXTINF:-1 tvg-chno="89" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="ENTERTAINMENT", US|ION TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/809.ts
+
 
 #EXTINF:-1 tvg-id="ION+.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14273.jpg?86176"  group-title="ENTERTAINMENT", US| ION PLUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=730909&extension=ts&play_token=TqlQebZ7qm
@@ -1232,6 +1346,11 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91861&extensi
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?31619" group-title="ENTERTAINMENT", US| LIFETIME HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45541&extension=ts&play_token=BzrrFcIqh0
+#EXTINF:-1 tvg-chno="90" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="ENTERTAINMENT", US|Lifetime
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/148.ts
+
+#EXTINF:-1 tvg-chno="91" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="ENTERTAINMENT", US|  Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime Movies HD  East.us;Lifetime Movies HD  East.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8213.jpg?90786" group-title="ENTERTAINMENT", US| LIFETIME MOVIE NETWORK HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45456&extension=ts&play_token=omwX2tyOhA
@@ -1262,6 +1381,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91886&extensi
 
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6265.jpg?83501" group-title="ENTERTAINMENT", US| MOTORTREND HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90962&extension=ts&play_token=UI2ds37vFK
+#EXTINF:-1 tvg-chno="94" tvg-id="MOTORTREND.HD.us2" tvg-name="MotorTrend TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="ENTERTAINMENT", US|MotorTrend TV
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/250.ts
 
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?84666" group-title="ENTERTAINMENT", US: MTV 2 HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90963&extension=ts&play_token=xyWOevFBR0
@@ -1283,6 +1404,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1105820&exten
 
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8197.jpg?1638" group-title="ENTERTAINMENT", US| OWN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45518&extension=ts&play_token=xAZvZ5COBD
+#EXTINF:-1 tvg-chno="115" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="ENTERTAINMENT", US|OVATION
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/45840.ts
+
 
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8181.jpg?93487" group-title="ENTERTAINMENT", US| OXYGEN HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45517&extension=ts&play_token=nkQy53xpzY
@@ -1292,6 +1416,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91868&extensi
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/766.png?7092" group-title="ENTERTAINMENT", US| PARAMOUNT HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45500&extension=ts&play_token=hL9Hv6bn64
+#EXTINF:-1 tvg-chno="117" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="ENTERTAINMENT", US| PARAMOUNT Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="PBS.Stream.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12149.jpg?93627" group-title="ENTERTAINMENT", US| PBS HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45510&extension=ts&play_token=Lm8Aikd73R
@@ -1338,6 +1464,11 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91871&extensi
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/91935.png" group-title="ENTERTAINMENT", US| RT NEWS HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91935&extension=ts&play_token=UV6nBXJgAC
+#EXTINF:-1 tvg-chno="124" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="ENTERTAINMENT", US|SHOWTIME
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-chno="125" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="ENTERTAINMENT", US|SHOWTIME EXTREME
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/385.ts
 
 #EXTINF:-1 tvg-id="SHO.x.BET.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8130.jpg?86612" group-title="ENTERTAINMENT", US| SHOWTIME BET HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=303331&extension=ts&play_token=ONUKOOiAMn
@@ -1362,6 +1493,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45477&extensi
 
 #EXTINF:-1 tvg-id="Syfy.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?80387"  group-title="ENTERTAINMENT", US| SYFY HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45476&extension=ts&play_token=nfpfv9ubQo
+#EXTINF:-1 tvg-chno="141" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="ENTERTAINMENT", US|SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?46941" group-title="ENTERTAINMENT", US| SYFY WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91875&extension=ts&play_token=P70TO5WnRj
@@ -1372,6 +1505,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=204985&extens
 
 #EXTINF:-1 tvg-id="TBS.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9683.png?89795" group-title="ENTERTAINMENT", US| TBS HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45475&extension=ts&play_token=ESZ4zKrdZA
+#EXTINF:-1 tvg-chno="142" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="ENTERTAINMENT", US|TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3274.jpg?ver=34257" group-title="ENTERTAINMENT", US| TBS WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91924&extension=ts&play_token=CUXsLTwjLi
@@ -1382,14 +1517,20 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90968&extensi
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1813852.png" group-title="ENTERTAINMENT", US| TCM WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1813852&extension=ts&play_token=wsNHwdeQZh
 
-#EXTINF:-1 tvg-id="Teen.Nick.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13346.jpg?68674" group-title="ENTERTAINMENT", US| TEEN NICK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91877&extension=ts&play_token=yyUxeQ6RZA
 
 #EXTINF:-1 tvg-id="Blaze.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1053425.png" group-title="ENTERTAINMENT", US| THE BLAZE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1053425&extension=ts&play_token=qJqx1u7N8L
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9935.jpg?18630" group-title="ENTERTAINMENT", US| THE WEATHER CHANNEL HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45455&extension=ts&play_token=JycGw6AoMl
+#EXTINF:-1 tvg-chno="144" tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="ENTERTAINMENT", US| THE WEATHER CHANNEL
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/301.ts
+
+#EXTINF:-1 tvg-chno="145" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="ENTERTAINMENT", US| TLC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/241.ts
+
+#EXTINF:-1 tvg-chno="146" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1421.png?59529" group-title="ENTERTAINMENT", US| TLC HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45471&extension=ts&play_token=FkluYZ2Z9R
@@ -1420,15 +1561,22 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1198205&exten
 
 #EXTINF:-1 tvg-id="truTV.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1876.jpg?90056" group-title="ENTERTAINMENT", US| TRUTV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45468&extension=ts&play_token=5H1bxgFR92
+#EXTINF:-1 tvg-chno="147" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="ENTERTAINMENT", US| TRUTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
 
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1876.jpg?23444" group-title="ENTERTAINMENT", US| TRUTV WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91878&extension=ts&play_token=LF0ZlybmTT
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8098.png?40000" group-title="ENTERTAINMENT", US| TV LAND HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45467&extension=ts&play_token=9rQu5U800U
+#EXTINF:-1 tvg-chno="151" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="ENTERTAINMENT", US| TV LAND
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/300.ts
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1288.jpg?13049" group-title="ENTERTAINMENT", US| TV ONE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90969&extension=ts&play_token=GSBGNZprRQ
+#EXTINF:-1 tvg-chno="152" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="ENTERTAINMENT", US| TV ONE
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/384.ts
 
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/91939.png" group-title="ENTERTAINMENT", US| TVG NETWORK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91939&extension=ts&play_token=U6SapIuGLf
@@ -1447,15 +1595,20 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=188997&extens
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8091.png?12315" group-title="ENTERTAINMENT", US| USA NETWORK HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45466&extension=ts&play_token=pnXOUyuZv7
-
+#EXTINF:-1 tvg-chno="153" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="ENTERTAINMENT", US| USA NETWORK
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/251.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8091.png?61853" group-title="ENTERTAINMENT", US| USA NETWORK WEST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91882&extension=ts&play_token=6Qyix9XE7i
 
 #EXTINF:-1 tvg-id="VH1.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/767.png?7909" group-title="ENTERTAINMENT", US| VH1 HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45436&extension=ts&play_token=ZmChCtMZN9
+#EXTINF:-1 tvg-chno="154" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="ENTERTAINMENT", US| VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="Viceland.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1459895.png" group-title="ENTERTAINMENT", US| VICE FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1459895&extension=ts&play_token=VC4I1WhhVr
+#EXTINF:-1 tvg-chno="155" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="ENTERTAINMENT", US| VICE TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/665.png?10050" group-title="ENTERTAINMENT", US| VICELAND HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45465&extension=ts&play_token=QiNfTKed8q
@@ -1465,6 +1618,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570196&exten
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8090.png?96298" group-title="ENTERTAINMENT", US| WE TV HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45464&extension=ts&play_token=ajIs4stzEl
+#EXTINF:-1 tvg-chno="156" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="ENTERTAINMENT", US| WE TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="WGN Chicago (LOCAL) HD.us;WGN Chicago (LOCAL) HD.us"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6141.jpg?93806" group-title="ENTERTAINMENT", US| WGN9
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=290879&extension=ts&play_token=RMbGldOSlR
@@ -1693,6 +1848,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325780&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325844&extension=ts&play_token=OdcHCUU1GZ
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3959.jpg?32238" group-title="DOCUMENTARY", US:  CRIME & INVESTIGATION HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325832&extension=ts&play_token=mZwlj8PNdQ
+#EXTINF:-1 tvg-chno="35" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="DOCUMENTARY", US:Crime & Investigation Network
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
 #EXTINF:-1 tvg-id="Destination.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DESTINATION AMERICA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568812&extension=ts&play_token=pTWhdl52K5
 #EXTINF:-1 tvg-id="Destination.America.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12523.png?16017" group-title="DOCUMENTARY", US:  DESTINATION AMERICA HD
@@ -1703,18 +1860,28 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325775&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568811&extension=ts&play_token=Eiv4izNho1
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="DOCUMENTARY", US:  DISCOVERY EAST HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1453212&extension=ts&play_token=BbQj4lH2dC
+#EXTINF:-1 tvg-chno="37" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="DOCUMENTARY", US:DISCOVERY CHANNEL
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.West.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?34720" group-title="DOCUMENTARY", US:  DISCOVERY WEST HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325855&extension=ts&play_token=2vErL7DnTl
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DISCOVERY FAMILY CHANNEL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568810&extension=ts&play_token=hgA9k2MLuE
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6308.jpg?18025" group-title="DOCUMENTARY", US:  DISCOVERY FAMILY HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325776&extension=ts&play_token=TrHqlj9aaj
+#EXTINF:-1 tvg-chno="38" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="DOCUMENTARY", US:DISCOVERY FAMILY CHANNEL
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/183.ts
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DISCOVERY LIFE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568809&extension=ts&play_token=lQ6byHADwh
+#EXTINF:-1 tvg-chno="39" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="DOCUMENTARY", US:DISCOVERY LIFE
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/182.ts
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?12232" group-title="DOCUMENTARY", US:  DISCOVERY LIFE HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=326358&extension=ts&play_token=XQ12Joukiu
 #EXTINF:-1 tvg-id="Discovery.Science.Channel.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?1168" group-title="DOCUMENTARY", US:  DISCOVERY SCIENCE HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325774&extension=ts&play_token=18zYtDhJUN
+#EXTINF:-1 tvg-chno="40" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="DOCUMENTARY", US:DISCOVERY SCIENCE
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/181.ts
+
+
 #EXTINF:-1 tvg-id="Documentary+.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DOCUMENTARY+
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568805&extension=ts&play_token=kLYQdmZBl4
 #EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  DOG WHISPERER
@@ -1731,6 +1898,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325791&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325901&extension=ts&play_token=AcEvI27G3n
 #EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  HISTORY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568747&extension=ts&play_token=mWO7CZNk6t
+#EXTINF:-1 tvg-chno="85" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="DOCUMENTARY", US:HISTORY CHANNEL
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/153.ts
 #EXTINF:-1 tvg-id="History.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?7885" group-title="DOCUMENTARY", US:  HISTORY HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325777&extension=ts&play_token=3XlYW4JNzf
 #EXTINF:-1 tvg-id=""  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  HISTORY & WARFARE
@@ -1739,6 +1908,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568746&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568736&extension=ts&play_token=v3SeAUyylc
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/622.jpg?59027" group-title="DOCUMENTARY", US:  ID INVESTIGATION DISCOVERY HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325865&extension=ts&play_token=o0nZVk8fLU
+#EXTINF:-1 tvg-chno="88" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="DOCUMENTARY", US:INVESTIGATION DISCOVERY
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/150.ts
+
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45545.png" group-title="DOCUMENTARY", US:  ID HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45545&extension=ts&play_token=YbWf6JRDMo
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91858.png" group-title="DOCUMENTARY", US:  ID WEST HD
@@ -1757,6 +1929,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568695&exte
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45453&extension=ts&play_token=PD2wA4frkS
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6151.png?10667" group-title="DOCUMENTARY", US:  NATIONAL GEOGRAPHIC HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325786&extension=ts&play_token=dVQyfdjzWh
+#EXTINF:-1 tvg-chno="98" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="DOCUMENTARY", US:NATIONAL GEOGRAPHIC
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?40753" group-title="DOCUMENTARY", US:  NATIONAL GEOGRAPHIC WILD HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325785&extension=ts&play_token=9QqUu3MuAe
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45452.png" group-title="DOCUMENTARY", US:  NAT GEO WILD HD
@@ -1771,6 +1945,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91866&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91867&extension=ts&play_token=AO18FS1Rjt
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  OXYGEN TRUE CRIME
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568679&extension=ts&play_token=DPbPrWJpq4
+#EXTINF:-1 tvg-chno="116" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="DOCUMENTARY", US:  OXYGEN TRUE CRIME
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/228.ts
+
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  OXYGEN TRUE CRIME ARCHIVES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568678&extension=ts&play_token=V1gN5Hxkay
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/233242.png" group-title="DOCUMENTARY", US:  RT DOCUMENTARY HD
@@ -1779,6 +1956,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=233242&extens
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568653&extension=ts&play_token=o8NPh5kpCY
 #EXTINF:-1 tvg-id="Scientology.Media.Productions.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14545.PNG?ver=52669" group-title="DOCUMENTARY", US:  SCIENTOLOGY NETWORK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568652&extension=ts&play_token=4NaYiGxqwp
+#EXTINF:-1 tvg-chno="129" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="DOCUMENTARY", US:SMITHSONIAN CHANNEL
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/46810.ts
+
 #EXTINF:-1 tvg-id="Syfy.HD.us2"   tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?80387" group-title="DOCUMENTARY", US:  SYFY HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=325804&extension=ts&play_token=lTy4w85fCd
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6611.png?46941" group-title="DOCUMENTARY", US:  SYFY WEST HD
@@ -1994,6 +2174,9 @@ https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" group-title="COOKING", UK| FOOD NETWORK
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549404&extension=ts&play_token=4BP1qERKzn
+#EXTINF:-1 tvg-chno="62" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="COOKING", Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_c59246dd61e94ffe8ff9e92ce4c5f8ef~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/cooking%20channeld.png" group-title="COOKING",Food Network
 https://tvpass.org/live/FoodNetworkEast/hd
 #EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="COOKING" , SBS Food
@@ -2002,6 +2185,9 @@ https://tvpass.org/live/FoodNetworkEast/hd
 https://i.mjh.nz/.r/sbs-3syd.m3u8
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",COOKING Channel 
 http://xxip25.top:8080/s5pPNV/514479/107960
+#EXTINF:-1 tvg-chno="32" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="COOKING", US|Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",The Cooking Channel
 https://tvpass.org/live/CookingChannel/hd
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network" tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",Food Network
@@ -2081,6 +2267,10 @@ https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW",Deal or No Deal USA
 https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
 ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+#EXTINF:-1 tvg-chno="74" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="GAMESHOW",Game Show Network
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/358.ts
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e8bc9371eb1249b391d4c9e25dde8842~mv2.png/v1/fill/w_264,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/gameshow.png" group-title="GAMESHOW", Game Show Network
 https://tvpass.org/live/game-show-network-east/sd
 #EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network HD " tvg-logo="https://static.wixstatic.com/media/6048cf_e8bc9371eb1249b391d4c9e25dde8842~mv2.png/v1/fill/w_264,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/gameshow.png" group-title="GAMESHOW", Game Show Network
@@ -2792,6 +2982,11 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1612561&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45571&extension=ts&play_token=1c3gMMnvzu
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORT/USA",Fox Sports 1 SD
 https://tvpass.org/live/FoxSports1/hd
+#EXTINF:-1 tvg-chno="66" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORT/USA", US: FOX SPORTS 1
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
+
+#EXTINF:-1 tvg-chno="67" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORT/USA", US: FOX SPORTS 2
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
 
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORT/USA", US: FOX SPORTS 2
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45570&extension=ts&play_token=Op3H3pbK5X
@@ -3666,9 +3861,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458788&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458797&extension=ts&play_token=tHthhZR1AJ
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk;Sky Cinema Thriller.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="MOVIES",UK| SKY CINEMA THRILLER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458787&extension=ts&play_token=kEkMVskVou
-
-
-
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/150359.png" group-title="MOVIES",US|  A-Z CLASSIC FLIX
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150359&extension=ts&play_token=eaOjzzr0Mu
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45618.png" group-title="MOVIES",US|   ACTION MAX HD
@@ -3681,6 +3873,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45599&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45598&extension=ts&play_token=UTloFf1UzA
 #EXTINF:-1 tvg-id="Cinemax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45597.png" group-title="MOVIES",US|   CINEMAX HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45597&extension=ts&play_token=2v2AxmNbKi
+#EXTINF:-1 tvg-chno="25" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="MOVIES",US|   CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45596.png" group-title="MOVIES",US|   CINEMAX MOREMAX HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45596&extension=ts&play_token=SqNJeaZs1h
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45595.png" group-title="MOVIES",US|   CINEMAX THRILLERMAX HD
@@ -3775,6 +3969,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=897512&extens
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=897511&extension=ts&play_token=NGaHKcIdqq
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91789.png" group-title="MOVIES",US|   SONY MOVIE CHANNEL HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91789&extension=ts&play_token=H4AM7NT9cZ
+#EXTINF:-1 tvg-chno="130" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="MOVIES",US|SONY MOVIE CHANNEL
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
+
 #EXTINF:-1 tvg-id="Start.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91874.png" group-title="MOVIES",US|   START TV
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91874&extension=ts&play_token=ZOoXppq63E
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45498.png" group-title="MOVIES",US|   STARZ BLACK HD
@@ -3795,6 +3992,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45489&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45488&extension=ts&play_token=y3O2358u4z
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45487.png" group-title="MOVIES",US|   STARZ ENCORE CLASSIC HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45487&extension=ts&play_token=41IZtKBoYc
+#EXTINF:-1 tvg-chno="140" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="MOVIES",US|STARZ ENCORE CLASSIC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1471.ts
+
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45486.png" group-title="MOVIES",US|   STARZ ENCORE EAST HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45486&extension=ts&play_token=qia5lZon2U
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45485.png" group-title="MOVIES",US|   STARZ ENCORE FAMILY HD
@@ -3811,6 +4011,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91947&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45481&extension=ts&play_token=YPTqDDgObO
 #EXTINF:-1 tvg-id="Starz.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45480.png" group-title="MOVIES",US|   STARZ HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45480&extension=ts&play_token=W7nKz5y9G5
+#EXTINF:-1 tvg-chno="139" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",US|STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
 #EXTINF:-1 tvg-id="Starz Kids And Family HD  Eastern.us;Starz Kids And Family HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45479.png" group-title="MOVIES",US|   STARZ KIDS & FAMILY HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45479&extension=ts&play_token=RCo4NVTdUo
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45478.png" group-title="MOVIES",US|   STARZ WEST HD
@@ -3819,6 +4022,8 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45478&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1278275&extension=ts&play_token=3Y8dez08UK
 #EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91889.png" group-title="MOVIES",US|   THE MOVIE CHANNEL HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91889&extension=ts&play_token=47JflPml2o
+#EXTINF:-1 tvg-chno="150" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="MOVIES",US|TURNER CLASSIC MOVIES
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
 ###############################################################################
 #####################   24  /  7    ACTORS      #############################
@@ -7623,7 +7828,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1534955&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1534954&extension=ts&play_token=kkANaVdBd3
 
 
-
 #################################      PRIME       ###################################################
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920916.png" group-title="PRIME",PRIME| AMERICAN CRIMES
@@ -8665,6 +8869,113 @@ http://xxip25.top:8080/s5pPNV/514479/57358
 ######################################################################################
 ########################     PPV       #################################################
 #########################################################################################
+
+#EXTINF:-1 tvg-chno="169" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Formula 1 - Canada Grand Prix (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] Formula 1 - Canada Grand Prix (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://daffodil.thelistener.pk/f1.m3u8
+
+#EXTINF:-1 tvg-chno="170" tvg-id="Racing.Dummy.us" tvg-name="[Racing] Indycar Series - Indianapolis 500 (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] Indycar Series - Indianapolis 500 (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.formaturamaxi.com.br/mix.m3u8
+
+#EXTINF:-1 tvg-chno="171" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MXGP & MX2 - Race 1 (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] MXGP & MX2 - Race 1 (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.formaturamaxi.com.br/mxgp.m3u8
+
+#EXTINF:-1 tvg-chno="172" tvg-id="Racing.Dummy.us" tvg-name="[Racing] MXGP & MX2 - Race 2 (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] MXGP & MX2 - Race 2 (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.formaturamaxi.com.br/mxgp.m3u8
+
+#EXTINF:-1 tvg-chno="173" tvg-id="Racing.Dummy.us" tvg-name="[Racing] NASCAR Cup Series - Race (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Racing] NASCAR Cup Series - Race (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://daffodil.formaturamaxi.com.br/indy.m3u8
+
+
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[AEW Wrestling] AEW Double or Nothing (FAWA)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[AEW Wrestling] AEW Double or Nothing (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f44cb62f-9d91-4763-bec9-ad756e0b8d70/master.m3u8
+
+#EXTINF:-1 tvg-chno="2" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[AEW] AEW Double or Nothing (iSTRMEAST)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[AEW] AEW Double or Nothing (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/51152?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/51152?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/51152/load-playlist
+
+#EXTINF:-1 tvg-chno="33" tvg-id="Live.Event.us" tvg-name="[Fighting] AEW Double OR Nothing (ROXIE)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Fighting] AEW Double OR Nothing (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.su
+#EXTVLCOPT:http-origin=https://roxiestreams.su
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://601.thelistener.pk/aew.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-id="Live.Event.us" tvg-name="[Live Event] Canada Grand Prix (OVO)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Canada Grand Prix (OVO)
+#EXTVLCOPT:http-referrer=https://backlinkz.click/blogers/blogf1/
+#EXTVLCOPT:http-origin=https://backlinkz.click/blogers/blogf1/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://backlinkz.click/f1.php
+
+#EXTINF:-1 tvg-chno="64" tvg-id="Live.Event.us" tvg-name="[Live Event] Copa de Primera: Cerro Porteño vs Rubio Ñú (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Copa de Primera: Cerro Porteño vs Rubio Ñú (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=fanatiz4
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=fanatiz4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://pecdl1.streameasthd.net:443/global/fanatiz4/index.m3u8?token=532bb56b6b9833fd2a423dff43cc956c71dad941-6c-1779697845-1779643845&
+
+#EXTINF:-1 tvg-chno="65" tvg-id="Live.Event.us" tvg-name="[Live Event] Copa de Primera: Nacional Asunción vs Libertad (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Copa de Primera: Nacional Asunción vs Libertad (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=fanatiz5
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=fanatiz5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://doc1.streameasthd.net:443/global/fanatiz5/index.m3u8?token=f3ea8de1e6a11a21a0df69effa71a36f4bff4c33-ba-1779697845-1779643845&
+
+#EXTINF:-1 tvg-chno="66" tvg-id="Live.Event.us" tvg-name="[Live Event] Copa de Primera: Sportivo Ameliano vs Sportivo Trinidense (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] Copa de Primera: Sportivo Ameliano vs Sportivo Trinidense (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=fanatiz3
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=fanatiz3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://8c51.streameasthd.net:443/global/fanatiz3/index.m3u8?token=b1aaf527f4d195416be398863c29c7ae00945e2c-d3-1779697845-1779643845&
+
+#EXTINF:-1 tvg-chno="67" tvg-id="Live.Event.us" tvg-name="[Live Event] F1: GP de Canadá - Carrera (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] F1: GP de Canadá - Carrera (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=fox1ar
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=fox1ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://8c51.streameasthd.net:443/global/fox1ar/index.m3u8?token=0ca807ece96fb8c4d5d3e81b5550a3d296207a1c-07-1779697846-1779643846&
+
+#EXTINF:-1 tvg-chno="68" tvg-id="Live.Event.us" tvg-name="[Live Event] F1: GP de Canadá - ON BOARD (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] F1: GP de Canadá - ON BOARD (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=disney11
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=disney11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://8c51.streameasthd.net:443/global/disney11/index.m3u8?token=319b6175eb7a31b32eff4867e7f06f9d5b90f916-49-1779697846-1779643846&
+
+#EXTINF:-1 tvg-chno="69" tvg-id="Live.Event.us" tvg-name="[Live Event] F1: GP de Canadá - ON BOARD Colapinto (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] F1: GP de Canadá - ON BOARD Colapinto (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=disney10
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=disney10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://doc1.streameasthd.net:443/global/disney10/index.m3u8?token=8c51a1892bc54327dc4ac175de1b24578fa09e96-61-1779697846-1779643846&
+
+#EXTINF:-1 tvg-chno="70" tvg-id="Live.Event.us" tvg-name="[Live Event] F1: GP de Canadá - ON BOARD Verstappen (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] F1: GP de Canadá - ON BOARD Verstappen (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=disney12
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=disney12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://doc1.streameasthd.net:443/global/disney12/index.m3u8?token=d21fdaabbdb8edb7fa5c15a1b19a2170a1eea9d6-79-1779697846-1779643846&
+
+#EXTINF:-1 tvg-chno="71" tvg-id="Live.Event.us" tvg-name="[Live Event] F1: GP de Canadá - RACE HUB (STP)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Live Events",[Live Event] F1: GP de Canadá - RACE HUB (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-abc.net/global1.php?stream=disney9
+#EXTVLCOPT:http-origin=https://streamtp-abc.net/global1.php?stream=disney9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://8c51.streameasthd.net:443/global/disney9/index.m3u8?token=25786a3d76d03f268849ff3fbd3f692951a8300c-66-1779697846-1779643846&
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://irp-cdn.multiscreensite.com/9605ca7a/dms3rep/multi/ppv.jpg" group-title="MAIN PPV EVENTS",LIVE EVENT 01 -11AM USYK VS RICO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1022191&extension=ts&play_token=9mziVMQvZh
@@ -9863,4 +10174,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456085&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456084&extension=ts&play_token=0CseaRMikR
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="TT RACES PPV",UK: TT RACES EVENT 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456083&extension=ts&play_token=dQ7YvJP7KL
+
+
+
 
