@@ -2315,6 +2315,12 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441308&extension=ts&play_token=VnzcLYXjUz
 #EXTINF:-1  tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441308&extension=ts&play_token=1JwNdXvLQg
+#EXTINF:-1 tvg-id="FoxSportsNews.au"tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS NEWS
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646972&extension=ts&play_token=R6SoyX23H2
+#EXTINF:-1 tvg-id="FoxSportsNews.au"tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS NEWS
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520172&extension=ts&play_token=4TwoBzWvEv
+
+
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?42580" group-title="SPORT/AUST & NZ",AU:  WILLOW CRICKET HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441368&extension=ts&play_token=undbOCktKB
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",AU: FOX  CRICKET 501 HD
@@ -2323,42 +2329,81 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441307&exten
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441368&extension=ts&play_token=GVPPeIsBWe
 #EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",AU: FOX CRICKET 501
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441307&extension=ts&play_token=yis3MEY4an
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441306&extension=ts&play_token=9l5RnXyTXF
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646948.png" group-title="SPORT/AUST & NZ",AU| FOX CRICKET
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646948&extension=ts&play_token=PMoimI7R8X
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646971.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 501
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646971&extension=ts&play_token=bi0FNyJRGI
+#EXTINF:-1 tvg-id="FoxSportsNews.au"tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520176&extension=ts&play_token=ieLIPyfrjI
+
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441306&extension=ts&play_token=9l5RnXyTXF
 #EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441306&extension=ts&play_token=MgZK07I9Gi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441305&extension=ts&play_token=Cro3oQotNw
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
+#EXTINF:-1 tvg-id="FoxLeague.au"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 502 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646970&extension=ts&play_token=FrPtlyBMhZ
+#EXTINF:-1 tvg-tvg-id="FoxLeague.au"logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 502 LEAUGE
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520171&extension=ts&play_token=dTf3QIYL9O
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441305&extension=ts&play_token=Cro3oQotNw
 #EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441305&extension=ts&play_token=esjL1NFdf7
-#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441304&extension=ts&play_token=EYPbXVtHMF
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://picons.cmshulk.com/picons/646969.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 503 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646969&extension=ts&play_token=NojeGq1wK1
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 503
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520175&extension=ts&play_token=hSc4oWbxj5
+
 #EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441304&extension=ts&play_token=EYPbXVtHMF
 #EXTINF:-1  tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441304&extension=ts&play_token=jO8pjMrmX0
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441360&extension=ts&play_token=m2x3BuUy7I
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 504 AFL
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646968&extension=ts&play_token=6Sq9DuAiFn
+#EXTINF:-1 tvg-id="FoxFooty.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 504 AFL
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520170&extension=ts&play_token=OdiNzEgEdo
+
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441360&extension=ts&play_token=m2x3BuUy7I
 #EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441360&extension=ts&play_token=jsgf3aXkjI
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441302&extension=ts&play_token=si8Qcm8WW5
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://picons.cmshulk.com/picons/646967.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 505 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646967&extension=ts&play_token=3uxzd7juTb
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 505
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520174&extension=ts&play_token=k1KiUHaIMV
+
+
 #EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441302&extension=ts&play_token=si8Qcm8WW5
 #EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441302&extension=ts&play_token=ssxMpVgKhB
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441301&extension=ts&play_token=EKbVrYKK6Z
+#EXTINF:-1 tvg-id="FoxSports506.au"tvg-logo="http://picons.cmshulk.com/picons/646966.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 506 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646966&extension=ts&play_token=eDo24bFwp4
+#EXTINF:-1 tvg-id="FoxSports506.au"tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 506
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520169&extension=ts&play_token=2uwGtscFB4
+
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441301&extension=ts&play_token=EKbVrYKK6Z
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441301&extension=ts&play_token=xbIRkIX7cR
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/foxsportshd.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 507
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646965&extension=ts&play_token=NusN4CSBO7
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 507
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520173&extension=ts&play_token=lLzjFN1ov0
+
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/646974.png" group-title="SPORT/AUST & NZ",AU| ESPN 1 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646974&extension=ts&play_token=cBWA1pS7wj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/646973.png" group-title="SPORT/AUST & NZ",AU| ESPN 2 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646973&extension=ts&play_token=VrM38s8XjD
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156848.png" group-title="SPORT/AUST & NZ",AU| RACING
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=156848&extension=ts&play_token=n2gFj8MLOp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/RACING-COM-PERTH.jpg" group-title="SPORT/AUST & NZ",AU| RACING.COM MELBOURNE
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=156896&extension=ts&play_token=jz02ARhN7B
+
+
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575140&extension=ts&play_token=EeinL7lV5q
@@ -2445,6 +2490,15 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575131&ex
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441310&extension=ts&play_token=CDHpxDPGgx
 #EXTINF:-1 tvg-id="ESPN2.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/espn2.png" group-title="SPORT/AUST & NZ",AU: ESPN 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441309&extension=ts&play_token=j0b4S66MhG
+#EXTINF:-1 tvg-id="ESPN.au"tvg-logo="http://picons.cmshulk.com/picons/646974.png" group-title="SPORT/AUST & NZ",AU| ESPN 1 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646974&extension=ts&play_token=cBWA1pS7wj
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="http://picons.cmshulk.com/picons/646973.png" group-title="SPORT/AUST & NZ",AU| ESPN 2 HD
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646973&extension=ts&play_token=VrM38s8XjD
+
+#EXTINF:-1 tvg-id="ESPN.au"tvg-logo="http://picons.cmshulk.com/picons/1520168.png" group-title="SPORT/AUST & NZ",AU| KAYO - ESPN 1
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520168&extension=ts&play_token=8jlwRH16mw
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="http://picons.cmshulk.com/picons/1520167.png" group-title="SPORT/AUST & NZ",AU| KAYO - ESPN 2
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520167&extension=ts&play_token=wnLC9kTZ0W
 
 
 #############     SKY SPORTS    NZ     ############################
@@ -2711,47 +2765,49 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966259&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966258&extension=ts&play_token=cK4CAuqpeJ
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 01 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715542&extension=ts&play_token=VUZEi1m02F
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456974&extension=ts&play_token=jFxZgwWsfl
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 02 | 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715541&extension=ts&play_token=jjQ4iTPw5Z
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456973&extension=ts&play_token=6TSlk0lzAW
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 03 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715540&extension=ts&play_token=HMchbxZcEu
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456972&extension=ts&play_token=Nzzytmqn9u
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 04 | 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715539&extension=ts&play_token=23rVBcizXM
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456971&extension=ts&play_token=6GeuhJoNaC
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 05 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715534&extension=ts&play_token=4v8n2jXFaS
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456970&extension=ts&play_token=3ke8NUlMxM
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 06 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715535&extension=ts&play_token=YP0GqHopfR
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456969&extension=ts&play_token=Ft4ytltqeR
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 07 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715536&extension=ts&play_token=QiCeE4UMb9
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456968&extension=ts&play_token=y4AmSfcRey
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 08 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715537&extension=ts&play_token=zPH5Pp9rws
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456967&extension=ts&play_token=mApxzF7EMc
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ", AFL TV 09 |
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=715538&extension=ts&play_token=AWnLbtXDz4
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1456966&extension=ts&play_token=aoLQgvLu4r
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 00
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656692&extension=ts&play_token=DO12kTCgHX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 01
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656691&extension=ts&play_token=HaeXZzAwgR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 02
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656690&extension=ts&play_token=zQB8k9ghXv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 03
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656689&extension=ts&play_token=Je64FEFzjd
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 04
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656688&extension=ts&play_token=s9hndpIljD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 05
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656687&extension=ts&play_token=k5N3Vxrwq0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 06
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656686&extension=ts&play_token=A5nTd3U4MX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 07
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656685&extension=ts&play_token=m9O5s11lie
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 08
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656684&extension=ts&play_token=Iv03S3bITC
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 09
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656683&extension=ts&play_token=OcxMT4Q9nz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ", NRL TV 10
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=656682&extension=ts&play_token=XMshLwp60i
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 00 :  Robbitohs vs Panthers 9:00am
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395688&extension=ts&play_token=KL6AIzub3e
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 01: Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395689&extension=ts&play_token=rDIkDQMmIq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 02:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395690&extension=ts&play_token=mmLkzBZcWa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 03:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395691&extension=ts&play_token=jj0HSEX4ko
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 04:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395692&extension=ts&play_token=SX3hENPbzA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 05:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395693&extension=ts&play_token=EMH66vJKrC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 06:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395694&extension=ts&play_token=AjpeaWKeYO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 07:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395695&extension=ts&play_token=Ztbry3Zd11
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 08:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395696&extension=ts&play_token=H2PUjD7924
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 09:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395697&extension=ts&play_token=OUmNyJDolj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/NRT.png" group-title="SPORT/AUST & NZ", NRL TV 10:
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1395698&extension=ts&play_token=xbaCpclGA0
+
+
 
 #################################################################################
 ################   UK   SPORT     ##############################################
@@ -3193,114 +3249,91 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 ############   FORMULAU 1 &   MOTO GP    ###########################################
 #####################################################################################
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SKY SPORTS F1 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388606&extension=ts&play_token=6mEkDg6Sd3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   FORMULA 1 TV FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388610&extension=ts&play_token=syR2ksulY5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   DATA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388611&extension=ts&play_token=SB1op7CEla
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   TRACKER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388613&extension=ts&play_token=zkK63y75gl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SKY SPORTS F1 1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388607&extension=ts&play_token=ExgiiPpU10
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SKY SPORTS F1 2
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388604&extension=ts&play_token=blb1GwFpcB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SKY SPORTS F1 3
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388605&extension=ts&play_token=F4Q4PcR757
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SKY SPORTS F1 4
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388603&extension=ts&play_token=A1gztgO5aW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SKY SPORTS F1 5
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388608&extension=ts&play_token=5egl3VklMB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   ALBON WILLIAMS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388633&extension=ts&play_token=6trNxNHaI8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   ALONSO ALPINE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388614&extension=ts&play_token=3YXsWxdyKR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   BOTTAS ALFA ROMEO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388617&extension=ts&play_token=tGp6WZJsfD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   DEVRIES ALPHA TAURI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388612&extension=ts&play_token=eEVAvzT7zj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   GASLY ALPHA TAURI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388616&extension=ts&play_token=8C8zbOQGWp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   HAMILTON MERCEDES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388618&extension=ts&play_token=7shZHa8oZr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   HULKENBERG HAAS F1 TEAM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388622&extension=ts&play_token=rG0fahSmsU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   LATIFI WILLIAMS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388619&extension=ts&play_token=baSOKxonuZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   LECLERC FERRARI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388621&extension=ts&play_token=bfEoQzFH9c
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   MAGNUSSEN HAAS F1 TEAM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388615&extension=ts&play_token=Hf3XI4qbkt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   NORRIS MCLAREN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388623&extension=ts&play_token=b4grMx5yHt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   OCON ALPINE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388624&extension=ts&play_token=mRs6fvW2O2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   PEREZ REDBULL RACING
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388625&extension=ts&play_token=J4cvj0rAOn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   RICCIARDO MCLAREN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388627&extension=ts&play_token=9GloRvGFko
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   RUSSELL MERCEDES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388628&extension=ts&play_token=c4FbV7ZC7D
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SAINZ FERRARI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388629&extension=ts&play_token=ae2LDYRnu1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   SARGEANT WILLIAMS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388620&extension=ts&play_token=xjO2NpsEPa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   STROLL ASTON MARTIN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388630&extension=ts&play_token=nkHtY7FwwX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   TSUNODA ALPHA TAURI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388631&extension=ts&play_token=78WNnvIDd3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   VERSTAPPEN REDBULL RACING
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388632&extension=ts&play_token=xklEOdvpNH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   ZHOU ALFA ROMEO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1388626&extension=ts&play_token=NGNooQN9S8
-
 
 ##################################################################################################
 ###############       FORMULAE 1        ##########################################################
 #################################################################################################
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 11
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048237&extension=ts&play_token=E4nmJGl5aY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 12
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048236&extension=ts&play_token=GU8AoIih2C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 13
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048235&extension=ts&play_token=Rk9uUdDNMi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 14
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048234&extension=ts&play_token=DtFFa7mzpm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 15
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048233&extension=ts&play_token=U3rYWjp8S1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 16
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048232&extension=ts&play_token=LWIKMOaPzH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 17
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048231&extension=ts&play_token=t2rCnzKt4e
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 18
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048230&extension=ts&play_token=owSicTLK6U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 19
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048229&extension=ts&play_token=duHfo0fqqX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 20
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048228&extension=ts&play_token=DFnAxWFb67
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 3
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048245&extension=ts&play_token=eaFbaiZOWJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 2
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048246&extension=ts&play_token=PHxAm0GOcv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 6
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048242&extension=ts&play_token=ktW4Nsj9ot
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 5
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048243&extension=ts&play_token=fKqr7rGLZs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 4
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048244&extension=ts&play_token=4aafJXMVNq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 7
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048241&extension=ts&play_token=OzLpqtmhIT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 10
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048238&extension=ts&play_token=OdOaZaFO81
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 1
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048247&extension=ts&play_token=Q9G2o3TMdV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 9
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048239&extension=ts&play_token=jILf1BkiQu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", UK: APPLE TV F1 PPV 8
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048240&extension=ts&play_token=5VYTeJIEKj
 
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048247&extension=ts&play_token=t5XyrGC2pv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 2
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048246&extension=ts&play_token=3e26Ejyy4G
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 3
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048245&extension=ts&play_token=xTYq5O60Nm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 4
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048244&extension=ts&play_token=VS4S6mBPPq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 5
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048243&extension=ts&play_token=5OcRo7c764
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 6
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048242&extension=ts&play_token=44HUWCWJOZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 7
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048241&extension=ts&play_token=M6s3vEpSVc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 8
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048240&extension=ts&play_token=asMmIKm42P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 9
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048239&extension=ts&play_token=gdG1DWy7a8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 10
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048238&extension=ts&play_token=vjUnZr9eav
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 11
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048237&extension=ts&play_token=cYA5A1SC96
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 12
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048236&extension=ts&play_token=0tkAb2cEnr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 13
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048235&extension=ts&play_token=dajkg6UcWR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 14
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048234&extension=ts&play_token=TolAKEs5ri
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 15
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048233&extension=ts&play_token=u17VVLyegm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 16
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048232&extension=ts&play_token=GNOS8eqmr8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 17
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048231&extension=ts&play_token=mS53u74BQL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 18
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048230&extension=ts&play_token=ddjBx6zD8c
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 19
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048229&extension=ts&play_token=rbuAlefO9P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",   F1 PPV 20
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=2048228&extension=ts&play_token=NDsV0yH5KT
-
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 11
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048216&extension=ts&play_token=kp9BKK6NQG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 12
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048215&extension=ts&play_token=apmyEhm4sk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 13
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048214&extension=ts&play_token=TZ2q0ftWvw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 14
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048213&extension=ts&play_token=2IABZZupqi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 15
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048212&extension=ts&play_token=Yd9ZfOyKFU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 16
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048211&extension=ts&play_token=R9BSVzGeL4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 17
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048210&extension=ts&play_token=m7qFqU5r3V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 18
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048209&extension=ts&play_token=PXMPLLHrXi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 19
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048208&extension=ts&play_token=6rTmb0EsKZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 20
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048207&extension=ts&play_token=tiwIQIxzlM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 3
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048224&extension=ts&play_token=wOGu4YvJIU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 2
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048225&extension=ts&play_token=vZCu3pTnsL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV",US: APPLE TV F1 PPV 6
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048221&extension=ts&play_token=KfP5G7S8qp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 5
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048222&extension=ts&play_token=uSBUkB1Cyl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 4
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048223&extension=ts&play_token=QmltGI5DfT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 7
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048220&extension=ts&play_token=pDj2jp4DmC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 10
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048217&extension=ts&play_token=iAW9UGKbrv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 1
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048226&extension=ts&play_token=5c0JyPkdJJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 9
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048218&extension=ts&play_token=tPIaSuVKWA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="F1 PPV", US: APPLE TV F1 PPV 8
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=2048219&extension=ts&play_token=jIIjpZTwtm
 
 ####################################################################################################
 ##########################   MXGP      ############################################################
@@ -3685,6 +3718,168 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 ###################################################################################
 
 
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/150359.png" group-title="MOVIES",US|  A-Z CLASSIC FLIX
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150359&extension=ts&play_token=eaOjzzr0Mu
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45618.png" group-title="MOVIES",US|   ACTION MAX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45618&extension=ts&play_token=NHM6cVkD6H
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570183.png" group-title="MOVIES",US|  CATCHY COMEDY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570183&extension=ts&play_token=SbD7CQpxud
+#EXTINF:-1 tvg-id="Cinemax  Eastern HD.us;Cinemax  Eastern HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45599.png" group-title="MOVIES",US|CINEMAX ACTION EAST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45599&extension=ts&play_token=rE4CoBx35b
+#EXTINF:-1 tvg-id="Cinemax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45598.png" group-title="MOVIES",US|   CINEMAX EAST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45598&extension=ts&play_token=UTloFf1UzA
+#EXTINF:-1 tvg-id="Cinemax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45597.png" group-title="MOVIES",US|   CINEMAX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45597&extension=ts&play_token=2v2AxmNbKi
+#EXTINF:-1  tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="MOVIES",US| CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45596.png" group-title="MOVIES",US|   CINEMAX MOREMAX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45596&extension=ts&play_token=SqNJeaZs1h
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45595.png" group-title="MOVIES",US|   CINEMAX THRILLERMAX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45595&extension=ts&play_token=V5evNAQxgv
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45594.png" group-title="MOVIES",US|   CINEMAX WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45594&extension=ts&play_token=jWMcXwEZJZ
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570184.png" group-title="MOVIES",US|   COWBOY WAY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570184&extension=ts&play_token=oXnSE3nh9X
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570185.png" group-title="MOVIES",US|   DOVE CHANNEL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570185&extension=ts&play_token=e9QrMHhBWN
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570186.png" group-title="MOVIES",US|   DOVE MOVIES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570186&extension=ts&play_token=WKDR1XqOlP
+#EXTINF:-1 tvg-id="Family.Movie.Classics.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570187.png" group-title="MOVIES",US|   FAMILY MOVIE CHANNEL
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570187&extension=ts&play_token=GxVnD0Qlg5
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570188.png" group-title="MOVIES",US|   GREAT AMERICAN LIVING
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570188&extension=ts&play_token=OZU82xQyrY
+#EXTINF:-1 tvg-id="HBO2.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45552.png" group-title="MOVIES",US|   HBO 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45552&extension=ts&play_token=FwMRmpnPQo
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45551.png" group-title="MOVIES",US|   HBO COMEDY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45551&extension=ts&play_token=CgZG3Ui7Hz
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45550.png" group-title="MOVIES",US|   HBO FAMILY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45550&extension=ts&play_token=erRwxgqTh1
+#EXTINF:-1 tvg-id="HBO.Movies.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45549.png" group-title="MOVIES",US|   HBO HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45549&extension=ts&play_token=D5XtNLiLz4
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45547.png" group-title="MOVIES",US|   HBO SIGNATURE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45547&extension=ts&play_token=eMWzILSBhN
+#EXTINF:-1 tvg-id="HBO.West.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91884.png" group-title="MOVIES",US|   HBO WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91884&extension=ts&play_token=utyNDUnGZF
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45546.png" group-title="MOVIES",US|   HBO ZONE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45546&extension=ts&play_token=Nk0yHcbDZZ
+#EXTINF:-1 tvg-id="Heartland  Network HD.us;Heartland  Network HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570189.png" group-title="MOVIES",US|   HEARTLAND
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570189&extension=ts&play_token=BgOnaNrIm8
+#EXTINF:-1 tvg-id="ION.Mystery.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570190.png" group-title="MOVIES",US|   ION MYSTERY
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570190&extension=ts&play_token=eAVEhKLHcW
+#EXTINF:-1 tvg-id="Me.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1069302.png" group-title="MOVIES",US|   MeTV
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1069302&extension=ts&play_token=mTOEFHcSwM
+#EXTINF:-1 tvg-id="(KAZA) Los Angeles, CA HD.us;MeTV (KAZA) Los Angeles, CA HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074481.png" group-title="MOVIES",US|   MeTV (KAZA)
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074481&extension=ts&play_token=a27pJp735j
+#EXTINF:-1 tvg-id="(KIII2) Corpus Christi, TX HD.us;MeTV (KIII2) Corpus Christi, TX HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074479.png" group-title="MOVIES",US|   MeTV (KETV)
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074479&extension=ts&play_token=ii8qoKRipA
+#EXTINF:-1 tvg-id="(KSWO DT3) Lawton, OK HD.us;MeTV (KSWO DT3) Lawton, OK HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074478.png" group-title="MOVIES",US|   MeTV (KEZI)
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074478&extension=ts&play_token=fkRco25Cb9
+#EXTINF:-1 tvg-id="Me.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074480.png" group-title="MOVIES",US|   MeTV NETWORK EAST
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074480&extension=ts&play_token=TXGFIOSfA1
+#EXTINF:-1 tvg-id="MeTV.Plus.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1128914.png" group-title="MOVIES",US|   MeTV PLUS
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1128914&extension=ts&play_token=Lwn5xZY3Vt
+#EXTINF:-1 tvg-id="MGM+.Drive-In.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90957.png" group-title="MOVIES",US|   MGM+ DRIVE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90957&extension=ts&play_token=An4bVA7bgR
+#EXTINF:-1 tvg-id="MGM+.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45582.png" group-title="MOVIES",US|   MGM+ HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45582&extension=ts&play_token=hzSspp6Kh8
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90955.png" group-title="MOVIES",US|   MGM+ HITS HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90955&extension=ts&play_token=jaKVUcX0MY
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90956.png" group-title="MOVIES",US|   MGM+ MARQUEE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90956&extension=ts&play_token=q7RAavHr1P
+#EXTINF:-1 tvg-id="MoreMax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45538.png" group-title="MOVIES",US|   MOREMAX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45538&extension=ts&play_token=EVh7RJyDqQ
+#EXTINF:-1 tvg-id="MoviePlex.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45536.png" group-title="MOVIES",US|   MOVIEPLEX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45536&extension=ts&play_token=Q7lNwIc5YD
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570191.png" group-title="MOVIES",US|   NOVIES
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570191&extension=ts&play_token=EDTlSBVt2i
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45519.png" group-title="MOVIES",US|   OUTERMAX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45519&extension=ts&play_token=VbBkDkIgDl
+#EXTINF:-1 tvg-id="ScreenPix.Action.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551777.png" group-title="MOVIES",US|   SCREENPIX ACTION HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551777&extension=ts&play_token=fCplALAsNr
+#EXTINF:-1 tvg-id="ScreenPix.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551778.png" group-title="MOVIES",US|   SCREENPIX HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551778&extension=ts&play_token=7FdBtIXhDz
+#EXTINF:-1 tvg-id="ScreenPix.Voices.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551776.png" group-title="MOVIES",US|   SCREENPIX VOICES HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551776&extension=ts&play_token=UjusYn3MV8
+#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551775.png" group-title="MOVIES",US|   SCREENPIX WESTERNS HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551775&extension=ts&play_token=rGz1fEjqEn
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45505.png" group-title="MOVIES",US|   SHOWTIME 2 HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45505&extension=ts&play_token=Ng1PoF5a4D
+#EXTINF:-1 tvg-id="Showtime 2 HD  Eastern.us;Showtime 2 HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45504.png" group-title="MOVIES",US|   SHOWTIME EAST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45504&extension=ts&play_token=QY48UJ8dFN
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91887.png" group-title="MOVIES",US|   SHOWTIME EXTREME HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91887&extension=ts&play_token=cudhEzRmLV
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91888.png" group-title="MOVIES",US|   SHOWTIME FAMILY ZONE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91888&extension=ts&play_token=sf82zXPTpf
+#EXTINF:-1 tvg-id="Showtime.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="MOVIES",US|   SHOWTIME HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45503&extension=ts&play_token=Rxu9iYWZLH
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/92019.png" group-title="MOVIES",US|   SHOWTIME NEXT HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=92019&extension=ts&play_token=tnuLIMsw9J
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45502.png" group-title="MOVIES",US|   SHOWTIME SHOWCASE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45502&extension=ts&play_token=RT8WbN49pt
+#EXTINF:-1 tvg-id="Showtime 2 HD  Pacific.us;Showtime 2 HD  Pacific.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/92020.png" group-title="MOVIES",US|   SHOWTIME WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=92020&extension=ts&play_token=ANDkj01KtE
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/92018.png" group-title="MOVIES",US|   SHOWTIME WOMEN HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=92018&extension=ts&play_token=xzhRlo4PWb
+#EXTINF:-1 tvg-id="HOXBET HD  Eastern.us;SHOXBET HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/897512.png" group-title="MOVIES",US|   SHOXBET (EAST)
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=897512&extension=ts&play_token=gqbwd4ra58
+#EXTINF:-1 tvg-id="SHOXBET HD  Pacific.us;SHOXBET HD  Pacific.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/897511.png" group-title="MOVIES",US|   SHOXBET (WEST)
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=897511&extension=ts&play_token=NGaHKcIdqq
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91789.png" group-title="MOVIES",US|   SONY MOVIE CHANNEL HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91789&extension=ts&play_token=H4AM7NT9cZ
+#EXTINF:-1 tvg-chno="130" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="MOVIES",US|SONY MOVIE CHANNEL
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
+
+#EXTINF:-1 tvg-id="Start.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91874.png" group-title="MOVIES",US|   START TV
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91874&extension=ts&play_token=ZOoXppq63E
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45498.png" group-title="MOVIES",US|   STARZ BLACK HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45498&extension=ts&play_token=yQ586SZV97
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45497.png" group-title="MOVIES",US|   STARZ CINEMA EAST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45497&extension=ts&play_token=AdchFcPsN6
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45496.png" group-title="MOVIES",US|   STARZ CINEMA HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45496&extension=ts&play_token=1MzdAmlrSa
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45494.png" group-title="MOVIES",US|   STARZ COMEDY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45494&extension=ts&play_token=fSzpUbKJTA
+#EXTINF:-1 tvg-id="Starz.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45493.png" group-title="MOVIES",US|   STARZ EAST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45493&extension=ts&play_token=sGQDOAjYp5
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45492.png" group-title="MOVIES",US|   STARZ EDGE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45492&extension=ts&play_token=0ZmCAXfpLd
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45489.png" group-title="MOVIES",US|   STARZ ENCORE ACTION HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45489&extension=ts&play_token=6cNx1VnigZ
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45488.png" group-title="MOVIES",US|   STARZ ENCORE BLACK HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45488&extension=ts&play_token=y3O2358u4z
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45487.png" group-title="MOVIES",US|   STARZ ENCORE CLASSIC HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45487&extension=ts&play_token=41IZtKBoYc
+#EXTINF:-1 tvg-chno="140" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="MOVIES",US|STARZ ENCORE CLASSIC
+http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1471.ts
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45486.png" group-title="MOVIES",US|   STARZ ENCORE EAST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45486&extension=ts&play_token=qia5lZon2U
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45485.png" group-title="MOVIES",US|   STARZ ENCORE FAMILY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45485&extension=ts&play_token=cbSxF2zdSn
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45484.png" group-title="MOVIES",US|   STARZ ENCORE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45484&extension=ts&play_token=Z2hmdcYnZ6
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91948.png" group-title="MOVIES",US|   STARZ ENCORE SUSPENSE HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91948&extension=ts&play_token=hZMRexjnMh
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45482.png" group-title="MOVIES",US|   STARZ ENCORE WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45482&extension=ts&play_token=B4ceufOeFU
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91947.png" group-title="MOVIES",US|   STARZ ENCORE WESTERNS HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91947&extension=ts&play_token=8B2O9BL7j7
+#EXTINF:-1 tvg-id="Starz Kids And Family HD  Eastern.us;Starz Kids And Family HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45481.png" group-title="MOVIES",US|   STARZ FAMILY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45481&extension=ts&play_token=YPTqDDgObO
+#EXTINF:-1 tvg-id="Starz.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45480.png" group-title="MOVIES",US|   STARZ HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45480&extension=ts&play_token=W7nKz5y9G5
+#EXTINF:-1 tvg-chno="139" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",US|STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Starz Kids And Family HD  Eastern.us;Starz Kids And Family HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45479.png" group-title="MOVIES",US|   STARZ KIDS & FAMILY HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45479&extension=ts&play_token=RCo4NVTdUo
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45478.png" group-title="MOVIES",US|   STARZ WEST HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45478&extension=ts&play_token=N6Qvom6q8u
+#EXTINF:-1 tvg-id="The.Film.Detective.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1278275.png" group-title="MOVIES",US|   THE FILM DETECTIVE
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1278275&extension=ts&play_token=3Y8dez08UK
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91889.png" group-title="MOVIES",US|   THE MOVIE CHANNEL HD
+http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91889&extension=ts&play_token=47JflPml2o
+#EXTINF:-1 tvg-chno="150" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="MOVIES",US|TURNER CLASSIC MOVIES
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
 #EXTINF:-1 tvg-id="5ACTION.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/5ACTION.png" group-title="MOVIES",UK| 5 ACTION HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014222&extension=ts&play_token=ZosYWyCni0
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CINEMANIAHOLLYWOOD.png" group-title="MOVIES",UK| CINEMANIA HOLLYWOOD 4K
@@ -3861,203 +4056,30 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458788&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458797&extension=ts&play_token=tHthhZR1AJ
 #EXTINF:-1 tvg-id="SkyCinemaThriller.uk;Sky Cinema Thriller.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="MOVIES",UK| SKY CINEMA THRILLER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458787&extension=ts&play_token=kEkMVskVou
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/150359.png" group-title="MOVIES",US|  A-Z CLASSIC FLIX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=150359&extension=ts&play_token=eaOjzzr0Mu
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45618.png" group-title="MOVIES",US|   ACTION MAX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45618&extension=ts&play_token=NHM6cVkD6H
-#EXTINF:-1 tvg-id="Catchy.Comedy.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570183.png" group-title="MOVIES",US|   CATCHY COMEDY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570183&extension=ts&play_token=SbD7CQpxud
-#EXTINF:-1 tvg-id="Cinemax  Eastern HD.us;Cinemax  Eastern HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45599.png" group-title="MOVIES",US|   CINEMAX ACTION EAST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45599&extension=ts&play_token=rE4CoBx35b
-#EXTINF:-1 tvg-id="Cinemax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45598.png" group-title="MOVIES",US|   CINEMAX EAST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45598&extension=ts&play_token=UTloFf1UzA
-#EXTINF:-1 tvg-id="Cinemax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45597.png" group-title="MOVIES",US|   CINEMAX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45597&extension=ts&play_token=2v2AxmNbKi
-#EXTINF:-1 tvg-chno="25" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="MOVIES",US|   CINEMAX
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45596.png" group-title="MOVIES",US|   CINEMAX MOREMAX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45596&extension=ts&play_token=SqNJeaZs1h
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45595.png" group-title="MOVIES",US|   CINEMAX THRILLERMAX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45595&extension=ts&play_token=V5evNAQxgv
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45594.png" group-title="MOVIES",US|   CINEMAX WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45594&extension=ts&play_token=jWMcXwEZJZ
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570184.png" group-title="MOVIES",US|   COWBOY WAY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570184&extension=ts&play_token=oXnSE3nh9X
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570185.png" group-title="MOVIES",US|   DOVE CHANNEL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570185&extension=ts&play_token=e9QrMHhBWN
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570186.png" group-title="MOVIES",US|   DOVE MOVIES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570186&extension=ts&play_token=WKDR1XqOlP
-#EXTINF:-1 tvg-id="Family.Movie.Classics.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570187.png" group-title="MOVIES",US|   FAMILY MOVIE CHANNEL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570187&extension=ts&play_token=GxVnD0Qlg5
-#EXTINF:-1 tvg-id="Great.American.Family.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570188.png" group-title="MOVIES",US|   GREAT AMERICAN LIVING
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570188&extension=ts&play_token=OZU82xQyrY
-#EXTINF:-1 tvg-id="HBO2.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45552.png" group-title="MOVIES",US|   HBO 2 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45552&extension=ts&play_token=FwMRmpnPQo
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45551.png" group-title="MOVIES",US|   HBO COMEDY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45551&extension=ts&play_token=CgZG3Ui7Hz
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45550.png" group-title="MOVIES",US|   HBO FAMILY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45550&extension=ts&play_token=erRwxgqTh1
-#EXTINF:-1 tvg-id="HBO.Movies.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45549.png" group-title="MOVIES",US|   HBO HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45549&extension=ts&play_token=D5XtNLiLz4
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45547.png" group-title="MOVIES",US|   HBO SIGNATURE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45547&extension=ts&play_token=eMWzILSBhN
-#EXTINF:-1 tvg-id="HBO.West.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91884.png" group-title="MOVIES",US|   HBO WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91884&extension=ts&play_token=utyNDUnGZF
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45546.png" group-title="MOVIES",US|   HBO ZONE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45546&extension=ts&play_token=Nk0yHcbDZZ
-#EXTINF:-1 tvg-id="Heartland  Network HD.us;Heartland  Network HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570189.png" group-title="MOVIES",US|   HEARTLAND
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570189&extension=ts&play_token=BgOnaNrIm8
-#EXTINF:-1 tvg-id="ION.Mystery.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1570190.png" group-title="MOVIES",US|   ION MYSTERY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570190&extension=ts&play_token=eAVEhKLHcW
-#EXTINF:-1 tvg-id="Me.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1069302.png" group-title="MOVIES",US|   MeTV
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1069302&extension=ts&play_token=mTOEFHcSwM
-#EXTINF:-1 tvg-id="(KAZA) Los Angeles, CA HD.us;MeTV (KAZA) Los Angeles, CA HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074481.png" group-title="MOVIES",US|   MeTV (KAZA)
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074481&extension=ts&play_token=a27pJp735j
-#EXTINF:-1 tvg-id="(KIII2) Corpus Christi, TX HD.us;MeTV (KIII2) Corpus Christi, TX HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074479.png" group-title="MOVIES",US|   MeTV (KETV)
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074479&extension=ts&play_token=ii8qoKRipA
-#EXTINF:-1 tvg-id="(KSWO DT3) Lawton, OK HD.us;MeTV (KSWO DT3) Lawton, OK HD.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074478.png" group-title="MOVIES",US|   MeTV (KEZI)
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074478&extension=ts&play_token=fkRco25Cb9
-#EXTINF:-1 tvg-id="Me.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1074480.png" group-title="MOVIES",US|   MeTV NETWORK EAST
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1074480&extension=ts&play_token=TXGFIOSfA1
-#EXTINF:-1 tvg-id="MeTV.Plus.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1128914.png" group-title="MOVIES",US|   MeTV PLUS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1128914&extension=ts&play_token=Lwn5xZY3Vt
-#EXTINF:-1 tvg-id="MGM+.Drive-In.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90957.png" group-title="MOVIES",US|   MGM+ DRIVE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90957&extension=ts&play_token=An4bVA7bgR
-#EXTINF:-1 tvg-id="MGM+.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45582.png" group-title="MOVIES",US|   MGM+ HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45582&extension=ts&play_token=hzSspp6Kh8
-#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90955.png" group-title="MOVIES",US|   MGM+ HITS HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90955&extension=ts&play_token=jaKVUcX0MY
-#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/90956.png" group-title="MOVIES",US|   MGM+ MARQUEE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90956&extension=ts&play_token=q7RAavHr1P
-#EXTINF:-1 tvg-id="MoreMax.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45538.png" group-title="MOVIES",US|   MOREMAX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45538&extension=ts&play_token=EVh7RJyDqQ
-#EXTINF:-1 tvg-id="MoviePlex.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45536.png" group-title="MOVIES",US|   MOVIEPLEX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45536&extension=ts&play_token=Q7lNwIc5YD
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/1570191.png" group-title="MOVIES",US|   NOVIES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1570191&extension=ts&play_token=EDTlSBVt2i
-#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USA/45519.png" group-title="MOVIES",US|   OUTERMAX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45519&extension=ts&play_token=VbBkDkIgDl
-#EXTINF:-1 tvg-id="ScreenPix.Action.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551777.png" group-title="MOVIES",US|   SCREENPIX ACTION HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551777&extension=ts&play_token=fCplALAsNr
-#EXTINF:-1 tvg-id="ScreenPix.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551778.png" group-title="MOVIES",US|   SCREENPIX HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551778&extension=ts&play_token=7FdBtIXhDz
-#EXTINF:-1 tvg-id="ScreenPix.Voices.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551776.png" group-title="MOVIES",US|   SCREENPIX VOICES HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551776&extension=ts&play_token=UjusYn3MV8
-#EXTINF:-1 tvg-id="ScreenPix.Westerns.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/551775.png" group-title="MOVIES",US|   SCREENPIX WESTERNS HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=551775&extension=ts&play_token=rGz1fEjqEn
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45505.png" group-title="MOVIES",US|   SHOWTIME 2 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45505&extension=ts&play_token=Ng1PoF5a4D
-#EXTINF:-1 tvg-id="Showtime 2 HD  Eastern.us;Showtime 2 HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45504.png" group-title="MOVIES",US|   SHOWTIME EAST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45504&extension=ts&play_token=QY48UJ8dFN
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91887.png" group-title="MOVIES",US|   SHOWTIME EXTREME HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91887&extension=ts&play_token=cudhEzRmLV
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91888.png" group-title="MOVIES",US|   SHOWTIME FAMILY ZONE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91888&extension=ts&play_token=sf82zXPTpf
-#EXTINF:-1 tvg-id="Showtime.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45503.png" group-title="MOVIES",US|   SHOWTIME HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45503&extension=ts&play_token=Rxu9iYWZLH
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/92019.png" group-title="MOVIES",US|   SHOWTIME NEXT HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=92019&extension=ts&play_token=tnuLIMsw9J
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45502.png" group-title="MOVIES",US|   SHOWTIME SHOWCASE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45502&extension=ts&play_token=RT8WbN49pt
-#EXTINF:-1 tvg-id="Showtime 2 HD  Pacific.us;Showtime 2 HD  Pacific.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/92020.png" group-title="MOVIES",US|   SHOWTIME WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=92020&extension=ts&play_token=ANDkj01KtE
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/92018.png" group-title="MOVIES",US|   SHOWTIME WOMEN HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=92018&extension=ts&play_token=xzhRlo4PWb
-#EXTINF:-1 tvg-id="HOXBET HD  Eastern.us;SHOXBET HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/897512.png" group-title="MOVIES",US|   SHOXBET (EAST)
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=897512&extension=ts&play_token=gqbwd4ra58
-#EXTINF:-1 tvg-id="SHOXBET HD  Pacific.us;SHOXBET HD  Pacific.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/897511.png" group-title="MOVIES",US|   SHOXBET (WEST)
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=897511&extension=ts&play_token=NGaHKcIdqq
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91789.png" group-title="MOVIES",US|   SONY MOVIE CHANNEL HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91789&extension=ts&play_token=H4AM7NT9cZ
-#EXTINF:-1 tvg-chno="130" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="MOVIES",US|SONY MOVIE CHANNEL
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1217.ts
-
-#EXTINF:-1 tvg-id="Start.TV.Network.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91874.png" group-title="MOVIES",US|   START TV
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91874&extension=ts&play_token=ZOoXppq63E
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45498.png" group-title="MOVIES",US|   STARZ BLACK HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45498&extension=ts&play_token=yQ586SZV97
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45497.png" group-title="MOVIES",US|   STARZ CINEMA EAST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45497&extension=ts&play_token=AdchFcPsN6
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45496.png" group-title="MOVIES",US|   STARZ CINEMA HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45496&extension=ts&play_token=1MzdAmlrSa
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45494.png" group-title="MOVIES",US|   STARZ COMEDY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45494&extension=ts&play_token=fSzpUbKJTA
-#EXTINF:-1 tvg-id="Starz.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45493.png" group-title="MOVIES",US|   STARZ EAST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45493&extension=ts&play_token=sGQDOAjYp5
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45492.png" group-title="MOVIES",US|   STARZ EDGE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45492&extension=ts&play_token=0ZmCAXfpLd
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45489.png" group-title="MOVIES",US|   STARZ ENCORE ACTION HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45489&extension=ts&play_token=6cNx1VnigZ
-#EXTINF:-1 tvg-id="Starz.Encore.Black.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45488.png" group-title="MOVIES",US|   STARZ ENCORE BLACK HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45488&extension=ts&play_token=y3O2358u4z
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45487.png" group-title="MOVIES",US|   STARZ ENCORE CLASSIC HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45487&extension=ts&play_token=41IZtKBoYc
-#EXTINF:-1 tvg-chno="140" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="MOVIES",US|STARZ ENCORE CLASSIC
-http://cdn1host.online:2999/live/bongus/35zqYxrbg0/1471.ts
-
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45486.png" group-title="MOVIES",US|   STARZ ENCORE EAST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45486&extension=ts&play_token=qia5lZon2U
-#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45485.png" group-title="MOVIES",US|   STARZ ENCORE FAMILY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45485&extension=ts&play_token=cbSxF2zdSn
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45484.png" group-title="MOVIES",US|   STARZ ENCORE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45484&extension=ts&play_token=Z2hmdcYnZ6
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91948.png" group-title="MOVIES",US|   STARZ ENCORE SUSPENSE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91948&extension=ts&play_token=hZMRexjnMh
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45482.png" group-title="MOVIES",US|   STARZ ENCORE WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45482&extension=ts&play_token=B4ceufOeFU
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91947.png" group-title="MOVIES",US|   STARZ ENCORE WESTERNS HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91947&extension=ts&play_token=8B2O9BL7j7
-#EXTINF:-1 tvg-id="Starz Kids And Family HD  Eastern.us;Starz Kids And Family HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45481.png" group-title="MOVIES",US|   STARZ FAMILY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45481&extension=ts&play_token=YPTqDDgObO
-#EXTINF:-1 tvg-id="Starz.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45480.png" group-title="MOVIES",US|   STARZ HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45480&extension=ts&play_token=W7nKz5y9G5
-#EXTINF:-1 tvg-chno="139" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",US|STARZ
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-
-#EXTINF:-1 tvg-id="Starz Kids And Family HD  Eastern.us;Starz Kids And Family HD  Eastern.us"   tvg-logo="http://51.158.145.100/picons/logos/USA/45479.png" group-title="MOVIES",US|   STARZ KIDS & FAMILY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45479&extension=ts&play_token=RCo4NVTdUo
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/45478.png" group-title="MOVIES",US|   STARZ WEST HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45478&extension=ts&play_token=N6Qvom6q8u
-#EXTINF:-1 tvg-id="The.Film.Detective.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1278275.png" group-title="MOVIES",US|   THE FILM DETECTIVE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1278275&extension=ts&play_token=3Y8dez08UK
-#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/91889.png" group-title="MOVIES",US|   THE MOVIE CHANNEL HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=91889&extension=ts&play_token=47JflPml2o
-#EXTINF:-1 tvg-chno="150" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="MOVIES",US|TURNER CLASSIC MOVIES
-https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-
 ###############################################################################
 #####################   24  /  7    ACTORS      #############################
 ###############################################################################
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ADAM DRIVER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944488&extension=ts&play_token=kYP8nU4QYF
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ADAM SANDLER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944487&extension=ts&play_token=SRvPUYSvTk
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1944487&extension=ts&play_token=NW4ZJaHWhC
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ADAMSANDLER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944486&extension=ts&play_token=gbil8OYmYe
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 AL PACINO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944485&extension=ts&play_token=ToyqUxKbDe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ALICIAVIKANDER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944484&extension=ts&play_token=Cnkfiwo751
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ALLISON JANNEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944483&extension=ts&play_token=hoJSB1AWQ9
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 AMY ADAMS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944482&extension=ts&play_token=supdIBE9TV
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ANNETTE BENING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944481&extension=ts&play_token=rNIs3bKGH4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BEN FOSTER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944479&extension=ts&play_token=wIbI5cvinM
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BEN MENDELSOHN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944478&extension=ts&play_token=82bRninyZf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BENEDICT CUMBERBATCH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944477&extension=ts&play_token=yGr0zxgOKL
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BENICIO DEL TORO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944476&extension=ts&play_token=C53Hrr9C86
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BOB ODENKIRK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944472&extension=ts&play_token=p2E5Pt4xTk
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BRADLEY COOPER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944471&extension=ts&play_token=9zBvf71WD4
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1944471&extension=ts&play_token=0cnE4Mx8UI
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BRIE LARSON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944470&extension=ts&play_token=eOL475tHe5
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BRUCE LEE
@@ -4066,114 +4088,58 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944469&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944468&extension=ts&play_token=6uDQl3Jqvo
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 BRYAN CRANSTON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944467&extension=ts&play_token=9PmGCN7Id4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CARRIE COON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944466&extension=ts&play_token=YKSoU5T53z
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CATE BLANCHETT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944465&extension=ts&play_token=1IkFHguqlA
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CHARLIZE THERON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944464&extension=ts&play_token=xm7E8FUeL4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CHIWETEL EJIOFOR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944463&extension=ts&play_token=6irdZYscqD
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CHRIS PINE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944462&extension=ts&play_token=e1hwQUuBYa
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CHRISTIAN BALE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944461&extension=ts&play_token=Wo4oC24YuF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CHRISTOPHER NOLAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944460&extension=ts&play_token=GFXIUOcLZG
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 CLAIRE FOY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944459&extension=ts&play_token=BhLfgG7YLm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 DANIEL KALUUYA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944458&extension=ts&play_token=vwbTABDdMS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 DAVID OYELOWO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944457&extension=ts&play_token=kDA9DudUPx
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 DENZEL WASHINGTON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944456&extension=ts&play_token=mEoFRkzzhf
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ELVIS PRESLEY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944455&extension=ts&play_token=eR5UHhXJvm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 EVAN RACHEL WOOD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944454&extension=ts&play_token=ZnBBLpFPC1
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 GARY OLDMAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944451&extension=ts&play_token=fK0mEpflkd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 GINA RODRIGUEZ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944450&extension=ts&play_token=tU5ekmDxpW
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 GUY RICHIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944449&extension=ts&play_token=tO4HrJBDpK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 HAILEE STEINFELD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944448&extension=ts&play_token=e29rp3pGXE
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 HUGH JACKMAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944447&extension=ts&play_token=RuUy3SJCrw
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 IDRIS ELBA
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944446&extension=ts&play_token=QDsS9NgNpy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JACKIE CHAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944445&extension=ts&play_token=hJuWYnsq7r
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JAKE GYLLENHAAL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944434&extension=ts&play_token=j8gYDfzWWB
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JAMES BONDS 007
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944433&extension=ts&play_token=J7SzjAM4Fq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JANELLE MONAE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944432&extension=ts&play_token=L0Kkcz5SXm
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JAVIER BARDEM
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944431&extension=ts&play_token=2WsGCMmKIN
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JEAN CLAUDE VAN DAMME
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944430&extension=ts&play_token=0BzYlnmp1Q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JEFFREY WRIGHT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944429&extension=ts&play_token=mXhKtFP3ib
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JENNIFER LAWRENCE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944428&extension=ts&play_token=iz4RBGZ25v
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JESSE PLEMONS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944427&extension=ts&play_token=wsOaLfKgmK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JESSICA CHASTAIN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944426&extension=ts&play_token=8HQEM8eJus
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1944427&extension=ts&play_token=p0OPf0FZr2
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JET LI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944425&extension=ts&play_token=q6EXWG5uSW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JOAQUIN PHOENIX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944424&extension=ts&play_token=VeM31HkK3W
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JOEL EDGERTON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944423&extension=ts&play_token=CH1RDw9Xy9
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JOHN WAYNE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944422&extension=ts&play_token=8o2e4mr4fk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JONAH HILL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944421&extension=ts&play_token=QeYG6EVisP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JOSH BROLIN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944420&extension=ts&play_token=wy0oeilfZg
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 JULIANNE MOORE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944419&extension=ts&play_token=2eqSms0PX1
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 KATE WINSLET
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944418&extension=ts&play_token=UEC19ghhhQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 KERI RUSSELL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944417&extension=ts&play_token=Zz115Ki71K
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 KYLE CHANDLER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944415&extension=ts&play_token=FRm0deeydQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 LAKEITH STANFIELD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944414&extension=ts&play_token=GoJ3NrtPdr
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 LEONARDO DICAPRIO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944413&extension=ts&play_token=5xXxC3tzmb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 LETITIA WRIGHT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944412&extension=ts&play_token=rsgyGBHBNM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 LORD OF THE RINGS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944411&extension=ts&play_token=FzrlesDN8p
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 LUCAS HEDGES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944410&extension=ts&play_token=t1tCck2u5L
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 LUPITA NYONG'O
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944409&extension=ts&play_token=fR7iSKETdO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MAHERSHALA ALI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944408&extension=ts&play_token=mRMxzZLb11
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MARGOT ROBBIE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944407&extension=ts&play_token=EeKKwRKv7W
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MARK RUFFALO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944405&extension=ts&play_token=JYAidulryk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MARK RUFFALO
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944406&extension=ts&play_token=nQuWDv1UCV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MARK RYLANCE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944404&extension=ts&play_token=kesQ96WzF2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MARTIN FREEMAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944403&extension=ts&play_token=R0DPbWOG50
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MATT DAMON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944402&extension=ts&play_token=ZFV7980PKH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MATTHEW RHYS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944401&extension=ts&play_token=FV1Jq3CmU2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MERYL STREEP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944400&extension=ts&play_token=FlxYs82E4F
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MICHAEL B JORDAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944399&extension=ts&play_token=uka3fkfL4W
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MICHAEL FASSBENDER
@@ -4184,72 +4150,26 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944397&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944396&extension=ts&play_token=AarBG4W0Lq
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MICHAEL SHANNON
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944395&extension=ts&play_token=nnREqbbW9F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 MICHAEL STUHLBARG
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944394&extension=ts&play_token=Wu9RhdSS8Q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 NAOMIE HARRIS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944393&extension=ts&play_token=mFwnM8OrtT
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 NATALIE PORTMAN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944392&extension=ts&play_token=aR3S1Wxoa8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 NICOLAS CAGE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944391&extension=ts&play_token=skDLs2j8Fp
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 OCTAVIA SPENCER
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944390&extension=ts&play_token=nwyatJWdGV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 OSCAR ISAAC
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944389&extension=ts&play_token=ImWEBRipJe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 PAUL DANO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944388&extension=ts&play_token=pEj6xIgnjR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 RACHEL WEISZ
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944387&extension=ts&play_token=fCF1GTQkPR
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 RALPH FIENNES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944386&extension=ts&play_token=vKAq2OwsLi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 REESE WITHERSPOON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944376&extension=ts&play_token=0xXEuO8Y05
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 RIZ AHMED
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944375&extension=ts&play_token=nvbcJvw7GU
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ROBERT DE NIRO MOVIES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944374&extension=ts&play_token=wKwFKEpxSC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ROBERT DOWNEY JR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944373&extension=ts&play_token=yTS0Kz6RSy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ROBIN WILLIAMS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944372&extension=ts&play_token=pW7YKcg0AO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 ROBIN WRIGHT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944371&extension=ts&play_token=n0l4SCgxc7
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 RYAN GOSLING
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944369&extension=ts&play_token=BzhpdAAA9v
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 SAM ROCKWELL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944368&extension=ts&play_token=HuQqSW6xQY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 SAMUEL L JACKSON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944367&extension=ts&play_token=gZDjNuvDi9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 SAOIRSE RONAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944366&extension=ts&play_token=sS7WQWrcav
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 SARAH PAULSON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944365&extension=ts&play_token=cmImlN5mUo
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 STERLING K BROWN
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944363&extension=ts&play_token=aEVQz0pe6V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 STEVE CARELL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944362&extension=ts&play_token=Pphgo2kbvE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 STEVEN SEAGAL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944361&extension=ts&play_token=Af4VRplAQK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TARAJI P HENSON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944335&extension=ts&play_token=jz8S5Sr8Ia
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TATIANA MASLANY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944334&extension=ts&play_token=cWdUXC5hFq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TIFFANY HADDISH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944331&extension=ts&play_token=xZO9FofR7Q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TILDA SWINTON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944330&extension=ts&play_token=QtfvQcTuID
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TIMOTHEE CHALAMET
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944329&extension=ts&play_token=J9a3rsbZuB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TOM CRUISE 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TOM CRUISE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944328&extension=ts&play_token=WL3mMaDpIt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TOM CRUISE 2
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944327&extension=ts&play_token=Oh6r0uwMLq
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TOM HANKS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944326&extension=ts&play_token=ytdYyKRT2k
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TOM HARDY
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944325&extension=ts&play_token=xLvPFQkLhq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 TOM HIDDLESTON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944324&extension=ts&play_token=oYQgwDq9TN
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 VIOLA DAVIS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944323&extension=ts&play_token=7CUbq1wakj
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 ACTORS",24/7 WILL SMITH
@@ -4260,7 +4180,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944322&exten
 ####################    24 / 7   GROUP MOVIES    #############################
 ###############################################################################
 
-#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1050048.png" group-title="24/7 GROUP MOVIES",  80s MOVIES 4K
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/NOW80s400x200.png" group-title="24/7 GROUP MOVIES",  80s MOVIES 4K
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1050048&extension=ts&play_token=gl6DJRf60l
 #EXTINF:-1 tvg-logo="http://103.176.90.95/images/1187716.png" group-title="24/7 GROUP MOVIES",  PIXAR CHANNEL
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1187716&extension=ts&play_token=oL6TydoVji
@@ -4622,8 +4542,8 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013371&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013490&extension=ts&play_token=mQyhmM5oKu
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_6c10451d07f745e190b24d2d73de6b5b~mv2.png/v1/fill/w_613,h_160,al_c,lg_1,q_85,enc_avif,quality_auto/bridgetd.png" group-title="24/7 MOVIE FRANCHISES", BRIDGET JONES DIARY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013599&extension=ts&play_token=VvBFLiYnr6
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_1522c832453642cc87c980c56ba37aac~mv2.jpg/v1/fill/w_459,h_208,al_c,lg_1,q_80,enc_avif,quality_auto/twilight.jpg" group-title="24/7 MOVIE FRANCHISES", TWILIGHT
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013494&extension=ts&play_token=J20rav8yod
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_dc27fd8e9e7e4734830a329323f0f05c~mv2.jpg/v1/fill/w_418,h_192,al_c,lg_1,q_80,enc_avif,quality_auto/twilight).jpg" group-title="24/7 MOVIE FRANCHISES", THE TWILIGHT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916850&extension=ts&play_token=KSNk13b9kS
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9e7ed76d959c4bfdb4182fd5b940aa54~mv2.jpg/v1/fill/w_446,h_221,al_c,lg_1,q_80,enc_avif,quality_auto/grease.jpg" group-title="24/7 MOVIE FRANCHISES",  GREASE
@@ -5012,6 +4932,98 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1851232&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1851231&extension=ts&play_token=Sezn7hqGv9
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="SKYMIX SERIES",UK| SKYMIX SERIES 17
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1851230&extension=ts&play_token=VU6OGi7PNC
+
+
+##################################    MOVIE & PPV     ##########################################################
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 01 PPV- KURSK" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 01 PPV- KURSK
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232288
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 02 PPV- VICE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 02 PPV- VICE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232287
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 03 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 03 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232286
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 04 PPV- THE MULE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 04 PPV- THE MULE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232285
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 05 PPV- BUMBLEBEE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 05 PPV- BUMBLEBEE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232284
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 06 PPV- THE UPSIDE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 06 PPV- THE UPSIDE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232283
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 07 PPV- THE SILENCE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 07 PPV- THE SILENCE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232282
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 08 PPV- The Head Hunter" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 08 PPV- The Head Hunter
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232281
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 09 PPV- THE LEGEND OF COCAINE ISLAND" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 09 PPV- THE LEGEND OF COCAINE ISLAND
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232280
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 10 PPV- Destroyer" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 10 PPV- Destroyer
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232279
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 11 PPV- GENERAL COMMANDER" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 11 PPV- GENERAL COMMANDER
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232278
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 12 PPV- THE KID WHO WOULD BE KING" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 12 PPV- THE KID WHO WOULD BE KING
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232277
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 13 PPV- Glass" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 13 PPV- Glass
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232276
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 14 PPV- ESCAPE ROOM" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 14 PPV- ESCAPE ROOM
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232275
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 15 PPV- A VIGILANTE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 15 PPV- A VIGILANTE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232274
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 16 PPV- How to Train Your Dragon 3" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 16 PPV- How to Train Your Dragon 3
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232273
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 17 PPV- Justice League vs The Fatal Five" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 17 PPV- Justice League vs The Fatal Five
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232272
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 18 PPV- A Dogs Way Home" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 18 PPV- A Dogs Way Home
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232271
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 19 PPV- Easterland" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 19 PPV- Easterland
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232270
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 20 PPV- FLASHOUT" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 20 PPV- FLASHOUT
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232269
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 21 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 21 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232268
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 22 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 22 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232267
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 23 PPV- On The Basis Of Sex" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 23 PPV- On The Basis Of Sex
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232266
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 24 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 24 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232265
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 25 PPV- THE RUSSIAN BRIDE" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 25 PPV- THE RUSSIAN BRIDE
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232264
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 26 PPV- WELCOME TO MARWEN" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 26 PPV- WELCOME TO MARWEN
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232263
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 27 PPV- 1st SUMMONING" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 27 PPV- 1st SUMMONING
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232262
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 28 PPV- ABDUCTION" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 28 PPV- ABDUCTION
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232261
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 29 PPV- Dragged Across" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 29 PPV- Dragged Across
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232260
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 30 PPV- NEVER GROW OLD" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 30 PPV- NEVER GROW OLD
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232259
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 31 PPV- The Inventor" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 31 PPV- The Inventor
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232258
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 32 PPV- TRIPLE THREAT" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 32 PPV- TRIPLE THREAT
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232257
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 33 PPV- FINDING STEVE MCQUEEN" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 33 PPV- FINDING STEVE MCQUEEN
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232256
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 34 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 34 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232255
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 35 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 35 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232254
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 36 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 36 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232253
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 37 PPV- AMONG THE SHADOWS" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 37 PPV- AMONG THE SHADOWS
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232252
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 38 PPV- THE LEGO MOVIE 2" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 38 PPV- THE LEGO MOVIE 2
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232251
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 39 PPV- AQUAMAN" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 39 PPV- AQUAMAN
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232250
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 40 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 40 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232249
+#EXTINF:-1 tvg-id="" tvg-name="USA | Cinema 41 PPV-" tvg-logo="" group-title="MOVIE & PPV NETWORKS HD",USA | Cinema 41 PPV-
+http://marveliptv.ddns.net:25461/ZXbYWOTRiH/utMCiXS0Mn/232248
+
+
+
+
 
 ##############################     APPLE   SERIES    #############################################################
 
@@ -6263,7 +6275,6 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943188&exten
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CLASSIC SHOWS",  WKRP IN CINCINNATI
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1943187&extension=ts&play_token=L7wDeuWH1o
 
-
 ##################################
 ##################################
 ####    CRIME /   MEDICAL  ######
@@ -6542,7 +6553,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942118&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942117&extension=ts&play_token=xQBRHQsqXy
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEVILS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942116&extension=ts&play_token=WxAMnIx3m4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAM",24/7 DEVIOUS MAIDS
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEVIOUS MAIDS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942115&extension=ts&play_token=Z985ojAa16
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 DEVS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1942114&extension=ts&play_token=JP2iAtYfNT
@@ -7036,7 +7047,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941877&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941876&extension=ts&play_token=cRy19r5dj7
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE A WORD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941875&extension=ts&play_token=EZeTgNV5N2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE ACT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE ACT
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941874&extension=ts&play_token=yOXiiY9o68
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE AFFAIR
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941873&extension=ts&play_token=P5WpSmAAQU
@@ -7084,7 +7095,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941855&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941854&extension=ts&play_token=5nzziGfxAU
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE FUGITIVE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941853&extension=ts&play_token=OYhBZId4ag
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA VIP",24/7 THE GATES
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GATES
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941852&extension=ts&play_token=rQe4vKnccD
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 DRAMA",24/7 THE GENTLEMEN OF WOLGYESU TAILOR SHOP
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1941851&extension=ts&play_token=l3yARxuZhi
@@ -8685,7 +8696,24 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1372122&exten
 
 #EXTINF:-1  tvg-id="SkyNews.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="NEWS",SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-
+#EXTINF:-1 tvg-id="SkyNews.au" tvg-logo="http://picons.cmshulk.com/picons/1812072.png" group-title="NEWS",AU| SKY NEWS AUSTRALIA
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812072&extension=ts&play_token=EiiXu8S19o
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1812074.png" group-title="NEWS",AU| SKY NEWS ELECTION CHANNEL
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812074&extension=ts&play_token=bakJJdL2FP
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/646959.png" group-title="NEWS",AU| SKY NEWS EXTRA 1
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646959&extension=ts&play_token=r0jPWqPORC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1812071.png" group-title="NEWS",AU| SKY NEWS EXTRA 1
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812071&extension=ts&play_token=0FSfpXKqBa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/skynewshd.png" group-title="NEWS",AU| SKY NEWS EXTRA 2
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646958&extension=ts&play_token=okwJfkeymv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-EXTRA.png" group-title="NEWS",AU| SKY NEWS EXTRA 2
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812070&extension=ts&play_token=FgFiE8la39
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-EXTRA.png" group-title="NEWS",AU| SKY NEWS EXTRA 3
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812069&extension=ts&play_token=j9RVe9MRWO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-EXTRA.png" group-title="NEWS",AU| SKY NEWS EXTRA 4
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812068&extension=ts&play_token=QFYFyjVQ4W
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-EXTRA.png" group-title="NEWS",AU| SKY NEWS EXTRA 5
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1812067&extension=ts&play_token=yEhvxZa9LP
 
 
 #EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NEWS" , 7NEWS Spotlight
