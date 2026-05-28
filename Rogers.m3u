@@ -1529,7 +1529,7 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/301.ts
 #EXTINF:-1 tvg-chno="145" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="ENTERTAINMENT", US| TLC
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/241.ts
 
-#EXTINF:-1 tvg-chno="146" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="TV",TNT
+#EXTINF:-1 tvg-chno="146" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="ENTERTAINMENT", TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1421.png?59529" group-title="ENTERTAINMENT", US| TLC HD
@@ -2169,51 +2169,66 @@ https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/64dab9df3d48f40008868091/colorLogoPNG.png" group-title="COOKING", JAMIE OLIVER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1568733&extension=ts&play_token=YAtS5eNaxh
-#EXTINF:1, tvg-logo="https://static.wixstatic.com/media/6048cf_e514f782835c434d8c65f94084a669f5~mv2.png/v1/fill/w_284,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/jamiechd.png" group-title="COOKING",Jamie Oliver Channel
-https://jamieoliver-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" group-title="COOKING", UK| FOOD NETWORK
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD" tvg-logo="https://i.imgur.com/4v93XUB.png" group-title="COOKING",The Jamie Oliver Channel
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931034.png" group-title="COOKING", JAMIE OLIVER
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1931034&extension=ts&play_token=4pxraCw7N4
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e514f782835c434d8c65f94084a669f5~mv2.png/v1/fill/w_284,h_278,al_c,lg_1,q_85,enc_avif,quality_auto/jamiechd.png" group-title="COOKING", JAMIE OLIVER
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1920150&extension=ts&play_token=HSsvY3dpSU
+
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1920419.png" group-title="COOKING", BIZARRE FOODS WITH ANDREW ZIMMERN
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1920419&extension=ts&play_token=JK5ZjrLO28
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931151.png" group-title="COOKING", BIZARRE FOODS WITH ANDREW ZIMMERN
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1931151&extension=ts&play_token=R4WYXezdft
+
+
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="COOKING", Food Network
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=549404&extension=ts&play_token=4BP1qERKzn
+
 #EXTINF:-1 tvg-chno="62" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="COOKING", Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_c59246dd61e94ffe8ff9e92ce4c5f8ef~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/cooking%20channeld.png" group-title="COOKING",Food Network
-https://tvpass.org/live/FoodNetworkEast/hd
 #EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="COOKING" , SBS Food
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sbs-3syd.m3u8
+
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",COOKING Channel 
-http://xxip25.top:8080/s5pPNV/514479/107960
-#EXTINF:-1 tvg-chno="32" tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="COOKING", US|Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",The Cooking Channel
 https://tvpass.org/live/CookingChannel/hd
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network" tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",Food Network
-http://xxip25.top:8080/s5pPNV/514479/57247
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",COOKING Channel 
-http://xxip25.top:8080/s5pPNV/514479/107960
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA Food Network" tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",Food Network
-http://xxip25.top:8080/s5pPNV/514479/57247
+
+
 #EXTINF:-1 channel-id="mjh-cas29-fast" tvg-id="mjh-cas29-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas29-fast-69011e.png" group-title="COOKING" , Cooking & Culture
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas29-fast.m3u8
+
 #EXTINF:-1 channel-id="mjh-taste-fast" tvg-id="mjh-taste-fast" tvg-logo="https://i.mjh.nz/.images/auto-taste-fast-9581ec.png" group-title="COOKING" , Taste
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/taste-fast.m3u8
+
 #EXTINF:-1 channel-id="68509fe882d704acfc5bacd1" tvg-id="68509fe882d704acfc5bacd1" tvg-chno="3500" tvg-name="Tastemade Smokehouse" tvg-logo="https://images.pluto.tv/channels/68509fe882d704acfc5bacd1/colorLogoPNG_1750914005853.png" group-title="COOKING", Tastemade Smokehouse
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
+
 #EXTINF:-1 tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/gustotvca_logo.png" group-title="COOKING",Gusto TV
 https://amg01077-gustofast-amg01077c7-lg-au-4469.playouts.now.amagi.tv/playlist/amg01077-gusto-gustousmain-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 #EXTINF:-1 tvg-logo="https://db9b93vbwjufd.cloudfront.net/Images/S3/AMG15905C4/FoodON_W_Widthx200.png" group-title="COOKING",FoodON
 https://amg15905-k20-amg15905c4-lg-au-5399.playouts.now.amagi.tv/playlist/amg15905-mediacan-foodon-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 #EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="mjh-bbc-food-fast" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="COOKING" , BBC Food
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-food-fast.m3u8
+
 #EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="COOKING" , MasterChef
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -2221,20 +2236,18 @@ https://i.mjh.nz/.r/10-masterchef.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="COOKING",Hells Kitchen
 https://amg00654-itv-amg00654c1-lg-au-4779.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.country=[COUNTRY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]&ads.givn=[NONCE]
+
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped" group-title="COOKING" ,Hell's Kitchen
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992260&ads.xumo_streamId=99992260&ads.channelId=99992260&ads.ad_tag_id=10507&ads.csid=lgchannels_us_filmrisehellskitchen_ssai&ads.channelName=filmrisehellskitchen_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
 #EXTINF:-1 tvg-id="677011" tvg-logo="https://canvas-lb.tubitv.com/opts/8MsHilem4UvCjg==/f7eea1c7-409e-4abc-b6f3-1228bb7135d7/CHgQeDoFMS4xLjhAAQ==" group-title="COOKING",Gordon Ramsay
 https://live-manifest.production-public.tubi.io/live/329f14a6-aa88-4a92-a7ee-6a44b8b1b96c/playlist.m3u8
 #EXTINF:-1 channel-id="mjh-sbs-sb01" tvg-id="mjh-sbs-sb01" tvg-logo="https://image.pr.sbsod.com/82c5d9dc-bda6-5a6b-affa-67f1ba01ff38" group-title="COOKING" , The Cook Up
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sbs-sb01.m3u8
-#EXTINF:-1 channel-id="mjh-10-good-chef-bad-chef" tvg-id="mjh-10-good-chef-bad-chef" tvg-logo="https://10.com.au/ip/s3/2024/04/15/7b0ed9d334694c671a73527302182339-1308941.png?image-profile=logo" group-title="COOKING" , Good Chef Bad Chef
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-good-chef-bad-chef.m3u8
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG_Logo_700x200_BizarreFoodsWithAndrewZimmern.png" group-title="COOKING" ,Bizarre Foods with Andrew Zimmern
-https://amg00136-wbd-amg00136c42-lg-us-5710.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-bizarrefoodswithandrewzimmern-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/wbd/LG/HomeCooking/HomeCooking_WHT_400x200.png" group-title="COOKING" ,Home Cooking
 https://amg00136-wbd-amg00136c79-lg-us-9770.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-homecooking-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
@@ -2260,21 +2273,28 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-lgu
 ####   GameShow  ####
 #####################
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW" , DEAL OR NO DEAL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1920898&extension=ts&play_token=hFDTPRWI8z
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW" ,Deal or No Deal
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1886261&extension=ts&play_token=zhzbaz720N
+
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
 https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e9debf8c881310007d7bde1/colorLogoPNG.png" group-title="GAMESHOW",Deal or No Deal USA
+
+#EXTINF:-1  tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
 https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
 ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-chno="74" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="GAMESHOW",Game Show Network
+
+#EXTINF:-1  tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="GAMESHOW",Game Show Network
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/358.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e8bc9371eb1249b391d4c9e25dde8842~mv2.png/v1/fill/w_264,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/gameshow.png" group-title="GAMESHOW", Game Show Network
 https://tvpass.org/live/game-show-network-east/sd
+
 #EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network HD " tvg-logo="https://static.wixstatic.com/media/6048cf_e8bc9371eb1249b391d4c9e25dde8842~mv2.png/v1/fill/w_264,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/gameshow.png" group-title="GAMESHOW", Game Show Network
 http://xxip25.top:8080/s5pPNV/514479/57430
+
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992282/600x200.png?type=white_cropped" group-title="GAMESHOW" ,Family Feud
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992282&ads.xumo_streamId=99992282&ads.channelId=99992282&ads.ad_tag_id=85881&ads.csid=lgchannels_us_familyfeud_ssai&ads.channelName=familyfeud_us&ads.xumo_contentName=FamilyFeud&ads.xumo_contentId=170&ads.xumo_providerName=FamilyFeud&ads.xumo_providerId=170&ads.content_category=IAB1-7&ads.content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-id="400000196" tvg-logo="https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Family Feud
@@ -2323,17 +2343,19 @@ http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520172&exten
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?42580" group-title="SPORT/AUST & NZ",AU:  WILLOW CRICKET HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441368&extension=ts&play_token=undbOCktKB
+#EXTINF:-1  tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?42580" group-title="SPORT/AUST & NZ",AU:WILLOW CRICKET
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441368&extension=ts&play_token=GVPPeIsBWe
+#EXTINF:-1 tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?42580" group-title="SPORT/AUST & NZ",AU| WILLOW CRICKET
+http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646948&extension=ts&play_token=PMoimI7R8X
+
+
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",AU: FOX  CRICKET 501 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441307&extension=ts&play_token=OjkyWu0285
-#EXTINF:-1  tvg-id="FoxCricket.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",AU: FOX CRICKET 501
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441368&extension=ts&play_token=GVPPeIsBWe
 #EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",AU: FOX CRICKET 501
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441307&extension=ts&play_token=yis3MEY4an
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646948.png" group-title="SPORT/AUST & NZ",AU| FOX CRICKET
-http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646948&extension=ts&play_token=PMoimI7R8X
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646971.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 501
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png"group-title="SPORT/AUST & NZ",AU| FOX SPORTS 501
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646971&extension=ts&play_token=bi0FNyJRGI
-#EXTINF:-1 tvg-id="FoxSportsNews.au"tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
+#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520176&extension=ts&play_token=ieLIPyfrjI
 
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
@@ -2349,7 +2371,7 @@ http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520171&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441305&extension=ts&play_token=Cro3oQotNw
 #EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441305&extension=ts&play_token=esjL1NFdf7
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://picons.cmshulk.com/picons/646969.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 503 HD
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646969&extension=ts&play_token=NojeGq1wK1
 #EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 503
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520175&extension=ts&play_token=hSc4oWbxj5
@@ -2367,7 +2389,7 @@ http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520170&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441360&extension=ts&play_token=m2x3BuUy7I
 #EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441360&extension=ts&play_token=jsgf3aXkjI
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://picons.cmshulk.com/picons/646967.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 505 HD
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 505 HD
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646967&extension=ts&play_token=3uxzd7juTb
 #EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 505
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520174&extension=ts&play_token=k1KiUHaIMV
@@ -2377,7 +2399,7 @@ http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520174&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441302&extension=ts&play_token=si8Qcm8WW5
 #EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441302&extension=ts&play_token=ssxMpVgKhB
-#EXTINF:-1 tvg-id="FoxSports506.au"tvg-logo="http://picons.cmshulk.com/picons/646966.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 506 HD
+#EXTINF:-1 tvg-id="FoxSports506.au"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 506 HD
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646966&extension=ts&play_token=eDo24bFwp4
 #EXTINF:-1 tvg-id="FoxSports506.au"tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 506
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520169&extension=ts&play_token=2uwGtscFB4
@@ -2386,7 +2408,7 @@ http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520169&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=441301&extension=ts&play_token=EKbVrYKK6Z
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441301&extension=ts&play_token=xbIRkIX7cR
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/foxsportshd.png" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 507
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU| FOX SPORTS 507
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646965&extension=ts&play_token=NusN4CSBO7
 
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 507
@@ -4675,6 +4697,654 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1916859&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1013381&extension=ts&play_token=yyVWnVXlX3
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_9a9ff7ad219d49f691c46ac30a698cb2~mv2.png/v1/fill/w_456,h_178,al_c,lg_1,q_85,enc_avif,quality_auto/texasd.png" group-title="24/7 MOVIE FRANCHISES",  TEXAS CHAINSAW MOVIES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=485183&extension=ts&play_token=huaXdt0J4N
+
+
+
+############################    DIRECT LINK TO A MOVIE    ##########################################
+
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg" group-title="MOVIE LIBRARY-0",(500) Days of Summer
+https://vidmody.com/vs/tt1022603
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hhkNk1vsgamCv0OFfxJRcAnbW50.jpg" group-title="MOVIE LIBRARY-0",hack//GIFT
+https://vidmody.com/vs/tt0475289
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/vbflx4rDj3YrRAAk4HSWsEgZVlK.jpg" group-title="MOVIE LIBRARY-0",Apocalypse
+https://vidmody.com/vs/tt1649443
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/tKcOxhaBpLdvo8lExbz5AgpuGwc.jpg" group-title="MOVIE LIBRARY-0",Three Amigos!
+https://vidmody.com/vs/tt0092086
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uNkTGpXUcZY9R6g3koATX1Pe6yN.jpg" group-title="MOVIE LIBRARY-0",Viva Maestro!
+https://vidmody.com/vs/tt14153448
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9I7gV6wRbGnbfI3XOKjHeLMjYEo.jpg" group-title="MOVIE LIBRARY-0",000 BC
+https://vidmody.com/vs/tt0443649
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/f88O2AkBe7KXhQznFs6zOdpClcs.jpg" group-title="MOVIE LIBRARY-0",02:22
+https://vidmody.com/vs/tt1131724
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5JOlPMiErxebf0nBDW8dK64zF3n.jpg" group-title="MOVIE LIBRARY-0",1... Frankie Go Boom
+https://vidmody.com/vs/tt1221208
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg" group-title="MOVIE LIBRARY-0",10 Things I Hate About You
+https://vidmody.com/vs/tt0147800
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jYUolYFQ7F8E2rEunRNwtbpLwmW.jpg" group-title="MOVIE LIBRARY-0",100 Bloody Acres
+https://vidmody.com/vs/tt2290065
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/3tSFaWi4CGnwBMYD429ocKVeoIM.jpg" group-title="MOVIE LIBRARY-0",100 Meters
+https://vidmody.com/vs/tt5089786
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dXEtICgk28bDJbhrQObIfwtSgjv.jpg" group-title="MOVIE LIBRARY-0",1000 Miles From Christmas
+https://vidmody.com/vs/tt13782052
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/egMETBYual2JtfFGigXTA0tGkME.jpg" group-title="MOVIE LIBRARY-0",10x10
+https://vidmody.com/vs/tt6210996
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jrvXQwVCEhnS5Ji4mqdaBHLehwz.jpg" group-title="MOVIE LIBRARY-0",12 Mighty Orphans
+https://vidmody.com/vs/tt8482584
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/btThjvVC4lOqE95F9iVK118kpj2.jpg" group-title="MOVIE LIBRARY-0",12 Rounds 2: Reloaded
+https://vidmody.com/vs/tt2317524
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/aJ9p9mYn4MnPUQnrbqzblmVHoL.jpg" group-title="MOVIE LIBRARY-0",12 Strong
+https://vidmody.com/vs/tt1413492
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/yUsVsiVXUwClk4vSCx80vrdO6MV.jpg" group-title="MOVIE LIBRARY-0",13 Assassins
+https://vidmody.com/vs/tt1436045
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg" group-title="MOVIE LIBRARY-0",13 Going on 30
+https://vidmody.com/vs/tt0337563
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9Y4lnSTM703N8Zk8NpOS1OiCPaD.jpg" group-title="MOVIE LIBRARY-0",13 Graves
+https://vidmody.com/vs/tt7504496
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dSaDHmmDWLdoJnCnwJQToFkXJp5.jpg" group-title="MOVIE LIBRARY-0",13 Minutes
+https://vidmody.com/vs/tt1708135
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/x4tC1s6oFG9nEyxVSM0FiIsLea1.jpg" group-title="MOVIE LIBRARY-0",13 Sins
+https://vidmody.com/vs/tt2059171
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rqShG2kTbsVbgrgjfoEwawjR88N.jpg" group-title="MOVIE LIBRARY-0",13: The Musical
+https://vidmody.com/vs/tt3975918
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/14Blades.jpg/220px-14Blades.jpg" group-title="MOVIE LIBRARY-0",14 Blades - 12 Bıçak
+https://vidmody.com/vs/tt1442571
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/yEcfFXEWpuXcfsR9nKESVCFneqV.jpg" group-title="MOVIE LIBRARY-0",17 Again
+https://vidmody.com/vs/tt0974661
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg" group-title="MOVIE LIBRARY-0",1922
+https://vidmody.com/vs/tt6214928
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/31sxtOLEsuN2m2OWGti3uEYc6rz.jpg" group-title="MOVIE LIBRARY-0",1945
+https://vidmody.com/vs/tt5815492
+#EXTINF:-1  tvg-logo="https://turkcealtyazi.org/film/200/1602472.jpg" group-title="MOVIE LIBRARY-0",2 Days in New York - newyorkta iki gün
+https://vidmody.com/vs/tt1602472
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7Og4DxivbCk0923yViBoNj9pVz2.jpg" group-title="MOVIE LIBRARY-0",2001 Maniacs
+https://vidmody.com/vs/tt0264323
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg" group-title="MOVIE LIBRARY-0",2001: A Space Odyssey
+https://vidmody.com/vs/tt0062622
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/v3StJTYXbU3OZ26Vh1PbczqfyCD.jpg" group-title="MOVIE LIBRARY-0",2036 Origin Unknown
+https://vidmody.com/vs/tt4575328
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/nfEZeyT08nTimvq92OzGPwC1bbw.jpg" group-title="MOVIE LIBRARY-0",2047: Sights of Death
+https://vidmody.com/vs/tt3481210
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/imIqC8ufkxwgz1YNlNQIugsFbrQ.jpg" group-title="MOVIE LIBRARY-0",21 Grams
+https://vidmody.com/vs/tt0315733
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg" group-title="MOVIE LIBRARY-0",21 Jump Street
+https://vidmody.com/vs/tt1232829
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/deR0CH0eB1KK9rf0ITcEQFcN93Q.jpg" group-title="MOVIE LIBRARY-0",21 Positions
+https://vidmody.com/vs/tt1711425
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4ybdYkcZpHT6U5QQkOJSUFWS98G.jpg" group-title="MOVIE LIBRARY-0",21 Ways to Ruin a Marriage
+https://vidmody.com/vs/tt2281065
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/81RColr4rau6DZ7z9eMsksokcfk.jpg" group-title="MOVIE LIBRARY-0",211
+https://vidmody.com/vs/tt4976192
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4spRV4Qw0YGaWBHYJ6enu84sR81.jpg" group-title="MOVIE LIBRARY-0",22 Bullets
+https://vidmody.com/vs/tt1167638
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rd940KzuIZwbdOvOUF7XDTzn8te.jpg" group-title="MOVIE LIBRARY-0",22 July
+https://vidmody.com/vs/tt7280898
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/w0MXP33x1bq48TDC7IaNqQ8nxcc.jpg" group-title="MOVIE LIBRARY-0",24 Hours to Live
+https://vidmody.com/vs/tt5442456
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg" group-title="MOVIE LIBRARY-0",25th Hour
+https://vidmody.com/vs/tt0307901
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg" group-title="MOVIE LIBRARY-0",27 Dresses
+https://vidmody.com/vs/tt0988595
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qIExh8vD4d5EzkXTGtnZHY1cw0m.jpg" group-title="MOVIE LIBRARY-0",3 Days Max
+https://vidmody.com/vs/tt27712015
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/g4kR79ndKP6gZFHXe70sY7TUOZ7.jpg" group-title="MOVIE LIBRARY-0",3 Generations
+https://vidmody.com/vs/tt4158624
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/en9lCv7CO5LF8dAdx0MI5W86jAr.jpg" group-title="MOVIE LIBRARY-0",3 Türken und ein Baby
+https://vidmody.com/vs/tt3598648
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg" group-title="MOVIE LIBRARY-0",30 Days of Night
+https://vidmody.com/vs/tt0389722
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/iYFlq63PXbAXLh6QlA2ByQf63Ad.jpg" group-title="MOVIE LIBRARY-0",3000 Miles to Graceland
+https://vidmody.com/vs/tt0233142
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jQ7aucozEWiz1cBCdZtcYSJfWC7.jpg" group-title="MOVIE LIBRARY-0",3096 Days
+https://vidmody.com/vs/tt1667355
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg" group-title="MOVIE LIBRARY-0",365 Days: This Day
+https://vidmody.com/vs/tt12996154
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8TGPyv6wUg6zpJe0XfBf4pPwI2y.jpg" group-title="MOVIE LIBRARY-0",36th Precinct
+https://vidmody.com/vs/tt0390808
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/aVW7UKPPE68lhiivpdsSOJ6sSgT.jpg" group-title="MOVIE LIBRARY-0",4.3.2.1
+https://vidmody.com/vs/tt1514041
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bAHXPIZy1t8kiEqb7hn4BRbuuBd.jpg" group-title="MOVIE LIBRARY-0",40 Days and Nights
+https://vidmody.com/vs/tt0243736
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8elIJYYXWq2HpcZ6TgVMC9EwTnn.jpg" group-title="MOVIE LIBRARY-0",45 Years
+https://vidmody.com/vs/tt3544082
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/aDzOj4a9HvgRjjAEgwXyztCWVXq.jpg" group-title="MOVIE LIBRARY-0",48 Hrs.
+https://vidmody.com/vs/tt0083511
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/A8UEl6UEg8ZgXJ5ZJpPcjfzggkz.jpg" group-title="MOVIE LIBRARY-0",4Got10
+https://vidmody.com/vs/tt4510398
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg" group-title="MOVIE LIBRARY-0",6 Balloons
+https://vidmody.com/vs/tt6142496
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="MOVIE LIBRARY-0",65
+https://vidmody.com/vs/tt12261776
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/k1vtozOhbk76ZmBJzKfmv1pev9i.jpg" group-title="MOVIE LIBRARY-0",7 Chinese Brothers
+https://vidmody.com/vs/tt3488184
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/VMEpy6MrnTN8rPeIQkyOxebmlW.jpg" group-title="MOVIE LIBRARY-0",7 Seconds
+https://vidmody.com/vs/tt0417395
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/u8LjY7um2mNCauW55hhc4uytHqY.jpg" group-title="MOVIE LIBRARY-0",71
+https://vidmody.com/vs/tt2614684
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dbjS5UH7JvsQwSLMYMY5GQOSwv1.jpg" group-title="MOVIE LIBRARY-0",8 Heads in a Duffel Bag
+https://vidmody.com/vs/tt0118541
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg" group-title="MOVIE LIBRARY-0",8 Mile
+https://vidmody.com/vs/tt0298203
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qhSFHOS9CeXTqGgmbCi5pteIc6k.jpg" group-title="MOVIE LIBRARY-0",80 for Brady
+https://vidmody.com/vs/tt18079362
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/kbCZDINnj4rHhoZZUeXTsviYUkl.jpg" group-title="MOVIE LIBRARY-0",88
+https://vidmody.com/vs/tt3465074
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/oDZu8UGTLRw7jcDKmTdm7O87bnq.jpg" group-title="MOVIE LIBRARY-0",88 Minutes
+https://vidmody.com/vs/tt0411061
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/yKPr5DbUZRPsdT1gOhUnTVsnplg.jpg" group-title="MOVIE LIBRARY-0",9th Company
+https://vidmody.com/vs/tt0417397
+
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="MOVIE LIBRARY-A",A Babysitter's Guide to Monster Hunting
+https://vidmody.com/vs/tt4844150
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/p9vCAVhDK375XyobVcKqzqzsUHE.jpg" group-title="MOVIE LIBRARY-A",A Beautiful Day in the Neighborhood
+https://vidmody.com/vs/tt3224458
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/VRqQIRi07cyJJcz6SFiHbBS5GT.jpg" group-title="MOVIE LIBRARY-A",A Beautiful Life
+https://vidmody.com/vs/tt15282148
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/eY9wOw5PjrRXUTLgNmqWb60it10.jpg" group-title="MOVIE LIBRARY-A",A Better Life
+https://vidmody.com/vs/tt1554091
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg" group-title="MOVIE LIBRARY-A",A Bigger Splash
+https://vidmody.com/vs/tt2056771
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="MOVIE LIBRARY-A",A Boy Called Christmas
+https://vidmody.com/vs/tt10187208
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jF6zaUBS8HDdXMDbsCOUtnZGE0G.jpg" group-title="MOVIE LIBRARY-A",A Bun in the Oven
+https://vidmody.com/vs/tt5114982
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/caCbdsdGHDJNMjSiA5X4mgIfe61.jpg" group-title="MOVIE LIBRARY-A",A California Christmas
+https://vidmody.com/vs/tt13055780
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/iH3HZV19QlAuJUNk5SCn4k2RHO8.jpg" group-title="MOVIE LIBRARY-A",A California Christmas: City Lights
+https://vidmody.com/vs/tt13701962
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xcwJEDjoglNg2pPbtiD0AR9SHtv.jpg" group-title="MOVIE LIBRARY-A",A Case of You
+https://vidmody.com/vs/tt1817081
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg" group-title="MOVIE LIBRARY-A",A Castle for Christmas
+https://vidmody.com/vs/tt13070602
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wbMoB0gCTA9oKz75YuE8szcCjfJ.jpg" group-title="MOVIE LIBRARY-A",A Chinese Torture Chamber Story
+https://vidmody.com/vs/tt1663696
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/x0IGQsMzVbsF7noj5cCfEk1GU7s.jpg" group-title="MOVIE LIBRARY-A",A Christmas Prince
+https://vidmody.com/vs/tt7608418
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ukwP7gDPWxj1R1dW5iN3mnxkL3D.jpg" group-title="MOVIE LIBRARY-A",A Cinderella Story
+https://vidmody.com/vs/tt0356470
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ozBX0u5caaJFli9AssqJmARb5R.jpg" group-title="MOVIE LIBRARY-A",A Cinderella Story: Christmas Wish
+https://vidmody.com/vs/tt10326928
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qtxOA6Sb8lK1PfRiwduxYVuzaEv.jpg" group-title="MOVIE LIBRARY-A",A Cinderella Story: If the Shoe Fits
+https://vidmody.com/vs/tt5822648
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bifYmCujLshZo4qVdmUpP7Q2iLn.jpg" group-title="MOVIE LIBRARY-A",A Classic Horror Story
+https://vidmody.com/vs/tt12877640
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/df63EX5PPlq9UDuXUteU9rIg2up.jpg" group-title="MOVIE LIBRARY-A",A Country Wedding
+https://vidmody.com/vs/tt4814436
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/exoAst6FMT7vCxumMmhJxVHbtnq.jpg" group-title="MOVIE LIBRARY-A",A Cut Above
+https://vidmody.com/vs/tt21265550
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg" group-title="MOVIE LIBRARY-A",A Dark Song
+https://vidmody.com/vs/tt4805316
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/je93UwdBdhtHpp9YgaYGnJqnX8G.jpg" group-title="MOVIE LIBRARY-A",A Dark Truth
+https://vidmody.com/vs/tt2083379
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="MOVIE LIBRARY-A",A Day to Die
+https://vidmody.com/vs/tt14412366
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/3jcNvhtVQe5Neoffdic39fRactM.jpg" group-title="MOVIE LIBRARY-A",A Dog's Purpose
+https://vidmody.com/vs/tt1753383
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/l0CaVyqnTsWwNd4hWsrLNEk1Wjd.jpg" group-title="MOVIE LIBRARY-A",A Family Affair
+https://vidmody.com/vs/tt21051906
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8RgGQeFJcqLVeY920AetvhoixTz.jpg" group-title="MOVIE LIBRARY-A",A Family Man
+https://vidmody.com/vs/tt1718924
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rLOk4z9zL1tTukIYV56P94aZXKk.jpg" group-title="MOVIE LIBRARY-A",A Few Good Men
+https://vidmody.com/vs/tt0104257
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/kyHBeRgbbhs7kVrZYblVj9u2Xbd.jpg" group-title="MOVIE LIBRARY-A",A Futile and Stupid Gesture
+https://vidmody.com/vs/tt5566790
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/nN3osmlYWNZZtg8vtXrt8c5t8ET.jpg" group-title="MOVIE LIBRARY-A",A Gang Story
+https://vidmody.com/vs/tt1741542
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/eERTmNQgwQn1tOERYDECExKd0eX.jpg" group-title="MOVIE LIBRARY-A",A Gift with a Character
+https://vidmody.com/vs/tt3963170
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/cd2rCE1nun7CESjBI8PGNEof1tb.jpg" group-title="MOVIE LIBRARY-A",A Girl Walks Home Alone at Night
+https://vidmody.com/vs/tt2326554
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/mk8xYBdhRVPydOo86dIDgBuJWGP.jpg" group-title="MOVIE LIBRARY-A",A Girl's Best Friend
+https://vidmody.com/vs/tt4220166
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="MOVIE LIBRARY-A",A Good Person
+https://vidmody.com/vs/tt14153080
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2Kn73vimhOjLaPZFoI0IDUT5RtK.jpg" group-title="MOVIE LIBRARY-A",A Good Year
+https://vidmody.com/vs/tt0401445
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bGmqGYglMDNN15uGPpeTMWNml1s.jpg" group-title="MOVIE LIBRARY-A",A Guide to Recognizing Your Saints
+https://vidmody.com/vs/tt0473488
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qVUl6ktomxxkPu02LhFtiBsoFv7.jpg" group-title="MOVIE LIBRARY-A",A Happy Event
+https://vidmody.com/vs/tt1987018
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/A26rcvipOqptVs7i5uRmKicXRxE.jpg" group-title="MOVIE LIBRARY-A",A History of Violence
+https://vidmody.com/vs/tt0399146
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/eFYeFvco3Cgcrny99RCTFIaXMla.jpg" group-title="MOVIE LIBRARY-A",A House Made of Splinters
+https://vidmody.com/vs/tt16377920
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/t8xX6kYZj6y0XIxniJdFmaFkvp1.jpg" group-title="MOVIE LIBRARY-A",A Journal for Jordan
+https://vidmody.com/vs/tt0995854
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8LbrDogBCM7BxUl5igUrY1CLUfO.jpg" group-title="MOVIE LIBRARY-A",A Journey
+https://vidmody.com/vs/tt31805808
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hEeuCjUnGFCPdHbHFUUGGsCIrNt.jpg" group-title="MOVIE LIBRARY-A",A Kind of Murder
+https://vidmody.com/vs/tt2726552
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg" group-title="MOVIE LIBRARY-A",A Knight's Tale
+https://vidmody.com/vs/tt0183790
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dlpegiwBu5OrPKJjzcpAbth9Ryb.jpg" group-title="MOVIE LIBRARY-A",A Lesson in Romance
+https://vidmody.com/vs/tt5462326
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7HoqdnUpIcK1CnFDNNONPZ9PBoi.jpg" group-title="MOVIE LIBRARY-A",A Love Song for Bobby Long
+https://vidmody.com/vs/tt0369672
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/50bEzUzctV12Zgzu0xPUEnxLEla.jpg" group-title="MOVIE LIBRARY-A",A Man of Action
+https://vidmody.com/vs/tt12703292
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/j4JwHpOjV6ZU1StNmpqtLMiRsND.jpg" group-title="MOVIE LIBRARY-A",A Matter of Faith
+https://vidmody.com/vs/tt2587914
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dL8UCtCowoZACPrPL1ngzxX9gfE.jpg" group-title="MOVIE LIBRARY-A",A Midsummer's Hawaiian Dream
+https://vidmody.com/vs/tt6060234
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7oZ5xE4AL4D5EbeQUaoRxahgzJX.jpg" group-title="MOVIE LIBRARY-A",A Night at the Roxbury
+https://vidmody.com/vs/tt0120770
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5tKNOPkle5weHfrobca4LnXJMD5.jpg" group-title="MOVIE LIBRARY-A",A Night in Old Mexico
+https://vidmody.com/vs/tt2308260
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rv3FLJ4kLoeFpL6sLSB3tCWLO9f.jpg" group-title="MOVIE LIBRARY-A",A Part of You
+https://vidmody.com/vs/tt27411270
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/krE1oYuaQkM85GRt1m1DrhHElyY.jpg" group-title="MOVIE LIBRARY-A",A Perfect Day
+https://vidmody.com/vs/tt3577624
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7Rf1vYvUsZlTG3xlDwsktIrKi7K.jpg" group-title="MOVIE LIBRARY-A",A Perfect Getaway
+https://vidmody.com/vs/tt0971209
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wC0ax12N9GQ8vMXPEs4nES5AAiB.jpg" group-title="MOVIE LIBRARY-A",A Perfect Murder
+https://vidmody.com/vs/tt0120787
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg" group-title="MOVIE LIBRARY-A",A Quiet Place: Day One
+https://vidmody.com/vs/tt1563738
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/o5Z1675pij30NIF0JVr5p4ZQh1M.jpg" group-title="MOVIE LIBRARY-A",A Resurrection
+https://vidmody.com/vs/tt1817276
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hirAgrKOkqhArsRI83KszcLnGpo.jpg" group-title="MOVIE LIBRARY-A",A Royal Date for Christmas
+https://vidmody.com/vs/tt28188089
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9B92oiFTAnfRlvrAodNIUG2ysCM.jpg" group-title="MOVIE LIBRARY-A",A Royal Night Out
+https://vidmody.com/vs/tt1837562
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/lUKudOpHICDj6A6SO7DdaZM4W48.jpg" group-title="MOVIE LIBRARY-A",A Scanner Darkly
+https://vidmody.com/vs/tt0405296
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/cAvxpjiXqJZSCTo2xYD0XIRBkx9.jpg" group-title="MOVIE LIBRARY-A",A Score to Settle
+https://vidmody.com/vs/tt3758162
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/89jXZYnP7RB6xTHhZCMUxk14HaZ.jpg" group-title="MOVIE LIBRARY-A",A Second Chance
+https://vidmody.com/vs/tt3305316
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/egTUn0oodsHa6gC9XXux40eSAhQ.jpg" group-title="MOVIE LIBRARY-A",A Second Chance: Rivals!
+https://vidmody.com/vs/tt9810420
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/3iv1tBfnHcZl8Sf6ZXOL1TYn0hx.jpg" group-title="MOVIE LIBRARY-A",A Serious Man
+https://vidmody.com/vs/tt1019452
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/AvqTb66bS1i1NjlPC76zvxo0taT.jpg" group-title="MOVIE LIBRARY-A",A Single Man
+https://vidmody.com/vs/tt1315981
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xJ1BVHMOywEF55nCZC6g57CIJho.jpg" group-title="MOVIE LIBRARY-A",A Sound of Thunder
+https://vidmody.com/vs/tt0318081
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/gFQYIrS32BlSDdqDx0fps4eZllc.jpg" group-title="MOVIE LIBRARY-A",A Sunday Horse
+https://vidmody.com/vs/tt3543258
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/aMy7XXgivypcXjPUeLiYOdVxX8f.jpg" group-title="MOVIE LIBRARY-A",A Taste of Hunger
+https://vidmody.com/vs/tt11188560
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4BoeDiKFqKwq4mfU8ITDLglFyoc.jpg" group-title="MOVIE LIBRARY-A",A Thousand Words
+https://vidmody.com/vs/tt0763831
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg" group-title="MOVIE LIBRARY-A",A Tourist's Guide to Love
+https://vidmody.com/vs/tt20115096
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/24EXccaDuDEMYp7eVvsCicj5K41.jpg" group-title="MOVIE LIBRARY-A",A Trip to Infinity
+https://vidmody.com/vs/tt21929356
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xyhoW9qK7ZaDM1V4A6pPL9DWjn8.jpg" group-title="MOVIE LIBRARY-A",A United Kingdom
+https://vidmody.com/vs/tt3387266
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/t73m7lX0eFYDjlB1Gcb7r3S5Yt.jpg" group-title="MOVIE LIBRARY-A",A Very Long Engagement
+https://vidmody.com/vs/tt0344510
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/pA4MoUac4jlCbASIvkzB0YZ2RWu.jpg" group-title="MOVIE LIBRARY-A",A Violent Prosecutor
+https://vidmody.com/vs/tt5442308
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2TiaYwYeGRsYsfqH8dNjlYbIu1Z.jpg" group-title="MOVIE LIBRARY-A",A Walk in the Woods
+https://vidmody.com/vs/tt1178665
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/iBiGQf5qz6HSKKk10aejFGLMclj.jpg" group-title="MOVIE LIBRARY-A",A War
+https://vidmody.com/vs/tt3830162
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/htTS07IvYv3rv57ftzNEprefwSq.jpg" group-title="MOVIE LIBRARY-A",A Week Away
+https://vidmody.com/vs/tt11388278
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg" group-title="MOVIE LIBRARY-A",A Witches' Ball
+https://vidmody.com/vs/tt5814408
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/6ZMkrrmR21rTibFzTeSCollOpbt.jpg" group-title="MOVIE LIBRARY-A",A Woman in Berlin
+https://vidmody.com/vs/tt10556130
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/yAcb58vipewa1BfNit2RjE6boXA.jpg" group-title="MOVIE LIBRARY-A",A Wrinkle in Time
+https://vidmody.com/vs/tt1620680
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg" group-title="MOVIE LIBRARY-A",Abigail
+https://vidmody.com/vs/tt7025388
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/optezspqJjHI9WyC8brY96zbcdt.jpg" group-title="MOVIE LIBRARY-A",About a Boy
+https://vidmody.com/vs/tt0276751
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/tstvsrJHY57hc951lb190alXRQm.jpg" group-title="MOVIE LIBRARY-A",About Schmidt
+https://vidmody.com/vs/tt0257360
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/iR1bVfURbN7r1C46WHFbwCkVve.jpg" group-title="MOVIE LIBRARY-A",About Time
+https://vidmody.com/vs/tt2194499
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/aFTTcIowVwP3IvOC6Si2zvoMsW1.jpg" group-title="MOVIE LIBRARY-A",Above the Law
+https://vidmody.com/vs/tt0094602
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/pMh1dCw5vhMATmJs0ve0OpoSVED.jpg" group-title="MOVIE LIBRARY-A",Accepted
+https://vidmody.com/vs/tt0384793
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jMoGFQMgCUWfrj8fI9zibOUSjS7.jpg" group-title="MOVIE LIBRARY-A",Ace the Case: Manhattan Mystery
+https://vidmody.com/vs/tt4173614
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg" group-title="MOVIE LIBRARY-A",Ace Ventura: When Nature Calls
+https://vidmody.com/vs/tt0112281
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/91vF7SNB2tqsSultsmEn8tJYh4l.jpg" group-title="MOVIE LIBRARY-A",Acid
+https://vidmody.com/vs/tt17569526
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/raz4UTUI5FPkem2j57EXOL75o6I.jpg" group-title="MOVIE LIBRARY-A",Acrimony
+https://vidmody.com/vs/tt6063050
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9B4iKnTMY1mdNj441l0y0iFxj23.jpg" group-title="MOVIE LIBRARY-A",Across the Hall
+https://vidmody.com/vs/tt1176724
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/g6WzuNs132ZPsYNEgw596RwZz1P.jpg" group-title="MOVIE LIBRARY-A",Across the Waters
+https://vidmody.com/vs/tt4838486
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/vWBGkHT91My4T2iV3xgynpBTKtQ.jpg" group-title="MOVIE LIBRARY-A",Action Jackson
+https://vidmody.com/vs/tt0094612
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg" group-title="MOVIE LIBRARY-A",Action Point
+https://vidmody.com/vs/tt6495770
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/r5o6vWPYOQs6bv91gQ8kQs2zQYl.jpg" group-title="MOVIE LIBRARY-A",Acts of Vengeance
+https://vidmody.com/vs/tt6288694
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/x6sBKpLa86CodgTkIK2r8Hnp07m.jpg" group-title="MOVIE LIBRARY-A",Acts of Violence
+https://vidmody.com/vs/tt6684714
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wl3n7bmq3k1mOfuf0pz6sxigMNr.jpg" group-title="MOVIE LIBRARY-A",Adam
+https://vidmody.com/vs/tt1715344
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/82FQT0g50KXq9MyYA7ao3zTaw70.jpg" group-title="MOVIE LIBRARY-A",Adam's Apples
+https://vidmody.com/vs/tt10110614
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg" group-title="MOVIE LIBRARY-A",Adaptation.
+https://vidmody.com/vs/tt0268126
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/tpONaTUC5J8DzoGZ0dKmRtENlwz.jpg" group-title="MOVIE LIBRARY-A",Adidas Vs. Puma: The Brother's Feud
+https://vidmody.com/vs/tt5013980
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/f3HoCikJxypRtLJptBwvs7L7etE.jpg" group-title="MOVIE LIBRARY-A",Admission
+https://vidmody.com/vs/tt1814621
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2A5ELUnmZmbhb8QpPe8pp6si6aT.jpg" group-title="MOVIE LIBRARY-A",Adopt a Daddy
+https://vidmody.com/vs/tt8399088
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/y2nzyAsOufAhqEEhsr0ArTCQBPz.jpg" group-title="MOVIE LIBRARY-A",Adopt a Highway
+https://vidmody.com/vs/tt8970448
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/1XiqACmd8cNOtD0pjxBoS7kWnGH.jpg" group-title="MOVIE LIBRARY-A",Adult Life Skills
+https://vidmody.com/vs/tt4211044
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg" group-title="MOVIE LIBRARY-A",Adventureland
+https://vidmody.com/vs/tt1091722
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/t12bYhmv7LIcHT4TGGpW6WaMV2W.jpg" group-title="MOVIE LIBRARY-A",Adventures in Babysitting
+https://vidmody.com/vs/tt0092513
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bMkRWgAvwe0XkpL8swG7UA4N4Q8.jpg" group-title="MOVIE LIBRARY-A",Afflicted
+https://vidmody.com/vs/tt2309961
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg" group-title="MOVIE LIBRARY-A",After Everything
+https://vidmody.com/vs/tt5001718
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jbPqPMbJbhFttJy2joNVsO7a7Po.jpg" group-title="MOVIE LIBRARY-A",Aftershock
+https://vidmody.com/vs/tt1780762
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qtyq9UcYQL20BxtNYWYT7Q9YZ1s.jpg" group-title="MOVIE LIBRARY-A",Against the Sun
+https://vidmody.com/vs/tt2557276
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hlLec0D9nq9TSv5OjbgqPqEDGKK.jpg" group-title="MOVIE LIBRARY-A",Age of Uprising: The Legend of Michael Kohlhaas
+https://vidmody.com/vs/tt2054790
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/juRFEbyx5JlNuYrZM50vcZmtN78.jpg" group-title="MOVIE LIBRARY-A",Air Force One
+https://vidmody.com/vs/tt0118571
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4xPG8pPMyeoec48gKWbbC85EC8j.jpg" group-title="MOVIE LIBRARY-A",Airheads
+https://vidmody.com/vs/tt0109068
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wA7rM6zoWqJDT9BG5Vj92WbEJEp.jpg" group-title="MOVIE LIBRARY-A",Ajami
+https://vidmody.com/vs/tt1077262
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bQYXid9o6nunJBgmmjo6JFIQe1p.jpg" group-title="MOVIE LIBRARY-A",Alex Cross
+https://vidmody.com/vs/tt1712170
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/6Ko4A0fC06dE40QQqw1wfKEao4r.jpg" group-title="MOVIE LIBRARY-A",Alex of Venice
+https://vidmody.com/vs/tt2977090
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/6OemqmvthXswt5KFmtXBCMMloJ4.jpg" group-title="MOVIE LIBRARY-A",Alex Strangelove
+https://vidmody.com/vs/tt5688996
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/k678ohrP2DcfgElWZl2mxdO3vEd.jpg" group-title="MOVIE LIBRARY-A",Ali and Nino
+https://vidmody.com/vs/tt4072326
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="MOVIE LIBRARY-A",Ali G Indahouse
+https://vidmody.com/vs/tt0284837
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg" group-title="MOVIE LIBRARY-A",Alice Through the Looking Glass
+https://vidmody.com/vs/tt2567026
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bb8ym5zSRGmhNx3gyDnzSN2waS4.jpg" group-title="MOVIE LIBRARY-A",Aliens in the Attic
+https://vidmody.com/vs/tt0775552
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8hORwWyXsNqX7eDZPSNN5iVTckF.jpg" group-title="MOVIE LIBRARY-A",Aliens Stole My Body
+https://vidmody.com/vs/tt12517908
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="MOVIE LIBRARY-A",Alita: Battle Angel
+https://vidmody.com/vs/tt0437086
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg" group-title="MOVIE LIBRARY-A",Alive
+https://vidmody.com/vs/tt0106246
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dfIMRacF91TKR7BxlxFuMjelRv7.jpg" group-title="MOVIE LIBRARY-A",All Cheerleaders Die
+https://vidmody.com/vs/tt2527186
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/3RM8SyB0yHanJbYeHdgi5eLv21C.jpg" group-title="MOVIE LIBRARY-A",All Good Things
+https://vidmody.com/vs/tt1175709
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wc9MgFWuBl3VS72w6VtiZXTgN79.jpg" group-title="MOVIE LIBRARY-A",All I See Is You
+https://vidmody.com/vs/tt4486986
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg" group-title="MOVIE LIBRARY-A",All Quiet on the Western Front
+https://vidmody.com/vs/tt0020629
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/sIE5BafMU0gPYOqBSiYzTxmHqGM.jpg" group-title="MOVIE LIBRARY-A",All Saints
+https://vidmody.com/vs/tt4663548
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9t7n7K0xqw0gMvrxyhdiyqEF3W1.jpg" group-title="MOVIE LIBRARY-A",All the Boys Love Mandy Lane
+https://vidmody.com/vs/tt0490076
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4SafxuMKQiw4reBiWKVZJpJn80I.jpg" group-title="MOVIE LIBRARY-A",All the Bright Places
+https://vidmody.com/vs/tt3907584
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/j7vfi9M0GwOvn5bywzheF7oQ7w.jpg" group-title="MOVIE LIBRARY-A",All the King's Men
+https://vidmody.com/vs/tt0405676
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2iU19KivcXMk27837pwsVv6wcTj.jpg" group-title="MOVIE LIBRARY-A",All Things Valentine
+https://vidmody.com/vs/tt5329524
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4QIpIHoYdlt9ekD6mSIxe0FylpR.jpg" group-title="MOVIE LIBRARY-A",All Together Now
+https://vidmody.com/vs/tt3155342
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/sV4lXM32quwminL3TP36nlNPp7Q.jpg" group-title="MOVIE LIBRARY-A",Allied
+https://vidmody.com/vs/tt3640424
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg" group-title="MOVIE LIBRARY-A",All-Time High
+https://vidmody.com/vs/tt27921620
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uuEWm1r3cfxrnX4NxAXuJhtOmp4.jpg" group-title="MOVIE LIBRARY-A",Almanya: Welcome to Germany
+https://vidmody.com/vs/tt1630027
+#EXTINF:-1  tvg-logo="https://turkcealtyazi.org/film/200/4649416.jpg" group-title="MOVIE LIBRARY-A",Almost Christmas
+https://vidmody.com/vs/tt4649416
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uJMknKxZagbhAYiiMjEaFnsZzRR.jpg" group-title="MOVIE LIBRARY-A",Almost Friends
+https://vidmody.com/vs/tt4955566
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/fxwJywCV6XLAFi0FcqVyduw0Fu.jpg" group-title="MOVIE LIBRARY-A",Aloft
+https://vidmody.com/vs/tt2494384
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="MOVIE LIBRARY-A",Along for the Ride
+https://vidmody.com/vs/tt14506528
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/afdZAIcAQscziqVtsEoh2PwsYTW.jpg" group-title="MOVIE LIBRARY-A",Alpha
+https://vidmody.com/vs/tt4244998
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/wh0WItAFrw3m66mDMlCCuXQwfMW.jpg" group-title="MOVIE LIBRARY-A",Always
+https://vidmody.com/vs/tt0096794
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/kHp4Fmj2a6mtxKSGtjq44h4xLs9.jpg" group-title="MOVIE LIBRARY-A",Always Be My Maybe
+https://vidmody.com/vs/tt7374948
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/gTDt04LtD1IUn8FWamBbKUBOQXq.jpg" group-title="MOVIE LIBRARY-A",Always Shine
+https://vidmody.com/vs/tt4392770
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg" group-title="MOVIE LIBRARY-A",Amadeus
+https://vidmody.com/vs/tt0086879
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/nWUvlNxKSMdegAoY5eMOqPwMKIb.jpg" group-title="MOVIE LIBRARY-A",Amateur
+https://vidmody.com/vs/tt5580392
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/w9IJmEdwlEnA4ukPo0b9M9XF7HT.jpg" group-title="MOVIE LIBRARY-A",Ambush at Dark Canyon
+https://vidmody.com/vs/tt1887923
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/57MFWGHarg9jid7yfDTka4RmcMU.jpg" group-title="MOVIE LIBRARY-A",American Fiction
+https://vidmody.com/vs/tt23561236
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/zjoHTqwbXQkG7eX00Vno8NkvCKc.jpg" group-title="MOVIE LIBRARY-A",American Graffiti
+https://vidmody.com/vs/tt0069704
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uYHb5CG90zHp5CDj3dJDP98c77q.jpg" group-title="MOVIE LIBRARY-A",American Hero
+https://vidmody.com/vs/tt0104412
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg" group-title="MOVIE LIBRARY-A",American Made
+https://vidmody.com/vs/tt3532216
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/sfCmTkVVtwoW4yNu1Cs4ZDtCTa5.jpg" group-title="MOVIE LIBRARY-A",American Murderer
+https://vidmody.com/vs/tt13603778
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bfHkHstHIBpDAokujviWZw3mL8M.jpg" group-title="MOVIE LIBRARY-A",American Outlaws
+https://vidmody.com/vs/tt0244000
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5P68by2Thn8wHAziyWGEw2O7hco.jpg" group-title="MOVIE LIBRARY-A",American Pie
+https://vidmody.com/vs/tt0163651
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/854ZZxXdeabAs90mrV72NqShJqR.jpg" group-title="MOVIE LIBRARY-A",American Pie 2
+https://vidmody.com/vs/tt0252866
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg" group-title="MOVIE LIBRARY-A",American Psycho
+https://vidmody.com/vs/tt0144084
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg" group-title="MOVIE LIBRARY-A",American Reunion
+https://vidmody.com/vs/tt1605630
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/oQGqNicbPw5wpWYk64cL6HnDCBz.jpg" group-title="MOVIE LIBRARY-A",American Underdog
+https://vidmody.com/vs/tt11729298
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/yxK8NVydY0p4ZymT5HB2JXJ8xPW.jpg" group-title="MOVIE LIBRARY-A",American Wrestler: The Wizard
+https://vidmody.com/vs/tt4303202
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/6QqNyIHKow0jngiQgTNBOBrLILM.jpg" group-title="MOVIE LIBRARY-A",Amistad
+https://vidmody.com/vs/tt0118607
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg" group-title="MOVIE LIBRARY-A",Ammonite
+https://vidmody.com/vs/tt7983894
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/x5AZN9GAzWg9XlgMhDaCuVq48Gi.jpg" group-title="MOVIE LIBRARY-A",Amour Fou
+https://vidmody.com/vs/tt2298384
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/uFhZBfna7mU3B9Z6T78pdExkdkV.jpg" group-title="MOVIE LIBRARY-A",Amphibious 3D
+https://vidmody.com/vs/tt1540761
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bLsE0sMI1bycBxZX7QNYghy5iyi.jpg" group-title="MOVIE LIBRARY-A",An American Crime
+https://vidmody.com/vs/tt0802948
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rwftGIvZb3llWLSrX6FG2lruBqz.jpg" group-title="MOVIE LIBRARY-A",An American Girl: Saige Paints the Sky
+https://vidmody.com/vs/tt2818348
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/irEKwh8006t02o41Xw7G5tIUF3r.jpg" group-title="MOVIE LIBRARY-A",An American Werewolf in London
+https://vidmody.com/vs/tt0082010
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9AhB1u1vUXoumoHbcGhw7VnS0L2.jpg" group-title="MOVIE LIBRARY-A",An Easy Girl
+https://vidmody.com/vs/tt9632590
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/29kSosB0jW2ThaJmX6ZY1UQ1pHA.jpg" group-title="MOVIE LIBRARY-A",An Education
+https://vidmody.com/vs/tt1174732
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/fhFHceoTCjVa8vVt4NqEaNjSd8d.jpg" group-title="MOVIE LIBRARY-A",An Italian Name
+https://vidmody.com/vs/tt3705388
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/69adZbLeRk5TNQ3e0008dMnde9p.jpg" group-title="MOVIE LIBRARY-A",An Officer and a Gentleman
+https://vidmody.com/vs/tt0084434
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2u2sidGEx7xpszHVSrQtL402XHU.jpg" group-title="MOVIE LIBRARY-A",An Ordinary Man
+https://vidmody.com/vs/tt1785288
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7ugLG1yF1l8HWYhmdmHHSC3kJ8b.jpg" group-title="MOVIE LIBRARY-A",An Unfinished Life
+https://vidmody.com/vs/tt0350261
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/njGHy8ZKtREjWbZnGBN5rwpxFzL.jpg" group-title="MOVIE LIBRARY-A",Ana and Bruno
+https://vidmody.com/vs/tt6338912
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/33NysOnLpLZY0ewHTcfpalzAsRG.jpg" group-title="MOVIE LIBRARY-A",Anaconda
+https://vidmody.com/vs/tt0118615
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/av1JZYL0F1OJyaKw40YKCimyv16.jpg" group-title="MOVIE LIBRARY-A",Analyze That
+https://vidmody.com/vs/tt0289848
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/1g9R5lpmJ77kRcx4agxc3oIzN1C.jpg" group-title="MOVIE LIBRARY-A",Anastasia: Once Upon a Time
+https://vidmody.com/vs/tt7014356
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg" group-title="MOVIE LIBRARY-A",Anchorman: The Legend of Ron Burgundy
+https://vidmody.com/vs/tt0357413
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg" group-title="MOVIE LIBRARY-A",and Everything in Between
+https://vidmody.com/vs/tt4181158
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/mp6aEHJa1SUQD0BvmbytvVjHk8.jpg" group-title="MOVIE LIBRARY-A",And So It Goes
+https://vidmody.com/vs/tt2465146
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/iillo9GZNKb8YwvLoDo7o4NLe98.jpg" group-title="MOVIE LIBRARY-A",And the Party Goes On
+https://vidmody.com/vs/tt28182919
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7WtFoWtGp45PLNmajM8iGtjAA7B.jpg" group-title="MOVIE LIBRARY-A",and the Secret of King Midas
+https://vidmody.com/vs/tt3896102
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/1w81YfwjvdID21T9dWngUburBwi.jpg" group-title="MOVIE LIBRARY-A",Andron
+https://vidmody.com/vs/tt4073890
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg" group-title="MOVIE LIBRARY-A",Angel Eyes
+https://vidmody.com/vs/tt0225071
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg" group-title="MOVIE LIBRARY-A",Angel Heart
+https://vidmody.com/vs/tt0092563
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/8wX3S5HjL3bgb2yi4CfR2qIqbdH.jpg" group-title="MOVIE LIBRARY-A",Anger Management
+https://vidmody.com/vs/tt0305224
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="MOVIE LIBRARY-A",Animal
+https://vidmody.com/vs/tt2996684
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg" group-title="MOVIE LIBRARY-A",Animal House
+https://vidmody.com/vs/tt0077975
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2pOIMOAsi2zPAWzf0sy2Zk9BSTp.jpg" group-title="MOVIE LIBRARY-A",Animas
+https://vidmody.com/vs/tt3954646
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/sgMGvWai7E1Ryf9IvB5m0ILS7hl.jpg" group-title="MOVIE LIBRARY-A",Anna
+https://vidmody.com/vs/tt1715336
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2DvjkCbmlg8sbBHZKUZvYPgsT5V.jpg" group-title="MOVIE LIBRARY-A",Anna Karenina
+https://vidmody.com/vs/tt1781769
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4FTnypxpGltJdIARrfFsP31pGTp.jpg" group-title="MOVIE LIBRARY-A",Annette
+https://vidmody.com/vs/tt6217926
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg" group-title="MOVIE LIBRARY-A",Annie Hall
+https://vidmody.com/vs/tt0075686
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/zohaTLTrQoN1oeMm2jr6VS6YEgJ.jpg" group-title="MOVIE LIBRARY-A",Annika Bengtzon: Crime Reporter - Prime Time
+https://vidmody.com/vs/tt11460976
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xhBTO9n3fxy3HJt7WlR9h9vvVmk.jpg" group-title="MOVIE LIBRARY-A",Anon
+https://vidmody.com/vs/tt5397194
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/kQu9rNkiB0nSSRGQX0B6u9sxwfw.jpg" group-title="MOVIE LIBRARY-A",Anonymously Yours
+https://vidmody.com/vs/tt16088568
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ryGdE6W9oMSKSRE0CSaHActo4oh.jpg" group-title="MOVIE LIBRARY-A",Another Me
+https://vidmody.com/vs/tt1816608
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xhzf8sgqmDnluRsZv6ZHOPzms3q.jpg" group-title="MOVIE LIBRARY-A",Another World
+https://vidmody.com/vs/tt15115102
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg" group-title="MOVIE LIBRARY-A",Antichrist
+https://vidmody.com/vs/tt0870984
+#EXTINF:-1  tvg-logo="https://turkcealtyazi.org/film/200/10954600.jpg" group-title="MOVIE LIBRARY-A",Ant-Man and the Wasp: Quantumania
+https://vidmody.com/vs/tt10954600
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/5qHoazZiaLe7oFBok7XlUhg96f2.jpg" group-title="MOVIE LIBRARY-A",Anyone But You
+https://vidmody.com/vs/tt26047818
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jvKECIiRF6qSp6LOXKfkuw1XpIO.jpg" group-title="MOVIE LIBRARY-A",Anything for Love
+https://vidmody.com/vs/tt5340362
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg" group-title="MOVIE LIBRARY-A",Apollo 13
+https://vidmody.com/vs/tt0112384
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/nNWj62BGRoQH4g6kDhi3GlDMnLh.jpg" group-title="MOVIE LIBRARY-A",Apollo 18
+https://vidmody.com/vs/tt1772240
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/zYt35YGKoc85LXULzMKDfJ8qX1C.jpg" group-title="MOVIE LIBRARY-A",Aporia
+https://vidmody.com/vs/tt8511466
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg" group-title="MOVIE LIBRARY-A",Apostle
+https://vidmody.com/vs/tt6217306
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg" group-title="MOVIE LIBRARY-A",Apostle of Christ
+https://vidmody.com/vs/tt7388562
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/nHJ4Zyl0iQ8f7dY99tw49fhcG6C.jpg" group-title="MOVIE LIBRARY-A",App
+https://vidmody.com/vs/tt2536436
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/yISvzOlV0x1D667oRcUBxxDR0LZ.jpg" group-title="MOVIE LIBRARY-A",Appleseed Alpha
+https://vidmody.com/vs/tt3638012
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/vp6ZqO6No0NbfcpwSmcQCyLU2SZ.jpg" group-title="MOVIE LIBRARY-A",Apprentice
+https://vidmody.com/vs/tt4660736
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/bdssdn6dNC2hGzc2j7IgQT2VDjQ.jpg" group-title="MOVIE LIBRARY-A",April Fool's Day
+https://vidmody.com/vs/tt1018817
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/cEJ9jtGKevEA3Jrjqro0fo7fgYY.jpg" group-title="MOVIE LIBRARY-A",April Rain
+https://vidmody.com/vs/tt2676350
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/oRtRokj0Lg1V7UG5bhRQAhI7DZm.jpg" group-title="MOVIE LIBRARY-A",Arbor Demon
+https://vidmody.com/vs/tt4375268
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/e9rqiKPEeVBDXhYe7ZTtfCkgYDF.jpg" group-title="MOVIE LIBRARY-A",Arctic Heart
+https://vidmody.com/vs/tt4607228
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/v83MAkGH8jF8uNhJhKgADqw3Xup.jpg" group-title="MOVIE LIBRARY-A",Are You Here
+https://vidmody.com/vs/tt1545754
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/fjudEycIJS3IOnYkI09u2tACms9.jpg" group-title="MOVIE LIBRARY-A",Arena
+https://vidmody.com/vs/tt1117581
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jw9rGLe1OXD3YsJhyafsJtg9fYJ.jpg" group-title="MOVIE LIBRARY-A",Ariane's Thread
+https://vidmody.com/vs/tt3744684
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/sLqutab3wuUfPBu27rXcoaEd6WD.jpg" group-title="MOVIE LIBRARY-A",Arizona
+https://vidmody.com/vs/tt2140629
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jNhRjc1Q9l6tFo5aHdl8UZJPdKy.jpg" group-title="MOVIE LIBRARY-A",Arizona Dream
+https://vidmody.com/vs/tt0106307
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg" group-title="MOVIE LIBRARY-A",Arlington Road
+https://vidmody.com/vs/tt0137363
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg" group-title="MOVIE LIBRARY-A",Armageddon
+https://vidmody.com/vs/tt0120591
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/1ResCMsWd0w4o8SJEJIZrQxbRof.jpg" group-title="MOVIE LIBRARY-A",Armageddon Time
+https://vidmody.com/vs/tt10343028
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7H0Qp0EqFdBIChuXrR4kEyKZyzk.jpg" group-title="MOVIE LIBRARY-A",Armour of God
+https://vidmody.com/vs/tt0091431
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg" group-title="MOVIE LIBRARY-A",Army of Darkness
+https://vidmody.com/vs/tt0106308
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg" group-title="MOVIE LIBRARY-A",Army of the Dead
+https://vidmody.com/vs/tt0993840
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4fVMognsmbogzkfY7DY0Bvn7h7Y.jpg" group-title="MOVIE LIBRARY-A",Army of Thieves
+https://vidmody.com/vs/tt13024674
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/pwYJWmZcbxFc1uGZTcPMNbZxMkw.jpg" group-title="MOVIE LIBRARY-A",Around the World in 80 Days
+https://vidmody.com/vs/tt0327437
+#EXTINF:-1  tvg-logo="https://turkcealtyazi.org/film/200/9174578.jpg" group-title="MOVIE LIBRARY-A",Around the World in 80 Days (2021)
+https://vidmody.com/vs/tt10341040
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/zDriMSMor8ofESkYnFBmm6oXHjy.jpg" group-title="MOVIE LIBRARY-A",Arsenal
+https://vidmody.com/vs/tt5580536
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ymoVfl5kTiBox5Qet4g8BXwu50Q.jpg" group-title="MOVIE LIBRARY-A",Arthur
+https://vidmody.com/vs/tt1334512
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg" group-title="MOVIE LIBRARY-A",As Good as It Gets
+https://vidmody.com/vs/tt0119822
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hQDEvfqoYD33JnMWKccVDeWOkVG.jpg" group-title="MOVIE LIBRARY-A",Ashby
+https://vidmody.com/vs/tt3774466
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/o5p4Ev49KVR4itGWy3OHyqnRsz8.jpg" group-title="MOVIE LIBRARY-A",Asher
+https://vidmody.com/vs/tt6131450
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/m9rhEvc1FvU1EnEkOgxEGF8W4YJ.jpg" group-title="MOVIE LIBRARY-A",Asmodexia
+https://vidmody.com/vs/tt3175438
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dMg1wPakqPx54yMzm0OuHn1jl42.jpg" group-title="MOVIE LIBRARY-A",Assassination Nation
+https://vidmody.com/vs/tt6205872
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/pFhPBogzWlpEbqUXTpUv6sJOeFu.jpg" group-title="MOVIE LIBRARY-A",Assassination of a High School President
+https://vidmody.com/vs/tt1018818
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/4dm5XEXIT73aB0g1nrplwYguaU9.jpg" group-title="MOVIE LIBRARY-A",Assault on Wall Street
+https://vidmody.com/vs/tt2368553
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/dW9h1Ez6PRx8PnZUVT27MnG8Wu5.jpg" group-title="MOVIE LIBRARY-A",Asterix and the Vikings
+https://vidmody.com/vs/tt0052365
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg" group-title="MOVIE LIBRARY-A",Asteroid City
+https://vidmody.com/vs/tt14230388
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/7BqosTy8fBZxoo06vuCAnRKwXUs.jpg" group-title="MOVIE LIBRARY-A",Asylum
+https://vidmody.com/vs/tt0804443
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/xn4eRVG2749Hqh9v8tbcdLMdd2p.jpg" group-title="MOVIE LIBRARY-A",At Any Price
+https://vidmody.com/vs/tt1937449
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/veJ20fCOlKN60zWcNygmLkdu6EJ.jpg" group-title="MOVIE LIBRARY-A",At the Devil's Door
+https://vidmody.com/vs/tt2597242
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/gKfm5UqRwvoNiImFQLEH2WDMK5S.jpg" group-title="MOVIE LIBRARY-A",At the End of the Tunnel
+https://vidmody.com/vs/tt5133308
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/su9vjjdfrud65HDhgwF5JE59YWI.jpg" group-title="MOVIE LIBRARY-A",Athena
+https://vidmody.com/vs/tt15445056
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/o0fYUDBEvymij9WM3JtG1AVrgex.jpg" group-title="MOVIE LIBRARY-A",Atomica
+https://vidmody.com/vs/tt2449638
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg" group-title="MOVIE LIBRARY-A",Atonement
+https://vidmody.com/vs/tt0783233
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/eU61s3yRn7zFKof1sDrS018d2vs.jpg" group-title="MOVIE LIBRARY-A",Attila Marcel
+https://vidmody.com/vs/tt2474438
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/ikAgImz1rkedYM2mW0TeGZP1xdi.jpg" group-title="MOVIE LIBRARY-A",Audrey
+https://vidmody.com/vs/tt10731386
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/oA6ZeICPINiS6YtD5WZeBaGVmuT.jpg" group-title="MOVIE LIBRARY-A",August Rush
+https://vidmody.com/vs/tt0426931
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/i9bWt4ZFUpgZRCn5dB4cWW1zY61.jpg" group-title="MOVIE LIBRARY-A",Autumn Girl
+https://vidmody.com/vs/tt11412892
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/avtPZ5vGvFugnY0NK8d3Przx6P7.jpg" group-title="MOVIE LIBRARY-A",Autumn in New York
+https://vidmody.com/vs/tt0174480
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="MOVIE LIBRARY-A",Ava
+https://vidmody.com/vs/tt6194530
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/zr8LM9WzOX9T08AnXmZ74R9BYZS.jpg" group-title="MOVIE LIBRARY-A",Avarice
+https://vidmody.com/vs/tt11151916
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/jIPIxaBcppLLkygko7tV5yuTIs1.jpg" group-title="MOVIE LIBRARY-A",Awake
+https://vidmody.com/vs/tt0211933
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/qSk8EX5OTexKp90ZPZufDjSZ6ux.jpg" group-title="MOVIE LIBRARY-A",Awakening the Zodiac
+https://vidmody.com/vs/tt6294892
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg" group-title="MOVIE LIBRARY-A",Awakenings
+https://vidmody.com/vs/tt0099077
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/c59eplVELdwrUfGBUAZVin3HfaL.jpg" group-title="MOVIE LIBRARY-A",Away
+https://vidmody.com/vs/tt3430548
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w500/9kB56ZdMB6RgY5QtX9Bar45jCeI.jpg" group-title="MOVIE LIBRARY-A",A-X-L
+https://vidmody.com/vs/tt5709188
 
 
 ####################################################################################
