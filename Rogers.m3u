@@ -2856,9 +2856,9 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1905809&exten
 
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="SPORT / UK",UK: TNT SPORTS UHD [EVENT]
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk"  tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="SPORT / UK",UK: TNT SPORTS UHD [EVENT]
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1479591&extension=ts&play_token=eat2oh39Wv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="SPORT / UK",UK: TNT ULTIMATE 4K+ [LIVE-EVENT]
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk"  tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K.png" group-title="SPORT / UK",UK: TNT ULTIMATE 4K+ [LIVE-EVENT]
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1595637&extension=ts&play_token=2Jtimt71jY
 
 
