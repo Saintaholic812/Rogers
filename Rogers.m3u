@@ -3238,29 +3238,37 @@ https://i.mjh.nz/.r/sky-racing-2.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/racingwa-fast.m3u8
 
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521025.png" group-title="HORSERACING" ,NZ| TRACK SIDE 1 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=521025&extension=ts&play_token=U1lMLctoGY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/521024.png" group-title="HORSERACING" ,NZ| TRACK SIDE 2 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=521024&extension=ts&play_token=3D1uGYHCxL
+
+
 ##########################     HORSERACING    ###################################
 
 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894440.png" group-title="HORSERACING" , ATG LIVE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894440&extension=ts&play_token=e0giT8KVpG
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894436.png" group-title="HORSERACING" , DUBAI RACING 1 TV HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894436&extension=ts&play_token=n0gMsrUYI3
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894437.png" group-title="HORSERACING" , DUBAI RACING 2 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894437&extension=ts&play_token=MnUh94gzqG
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894438.png" group-title="HORSERACING" , DUBAI RACING 3 HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894438&extension=ts&play_token=oHgmhvIKzi
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894433.png" group-title="HORSERACING" , EQUIDIA LIVE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894433&extension=ts&play_token=NmZx5Z16i3
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894432.png" group-title="HORSERACING" , EQUIDIA LIVE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894432&extension=ts&play_token=1HDqy3W7Z7
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894435.png" group-title="HORSERACING" , ERC EUROPEAN RACING CHANNEL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894435&extension=ts&play_token=dooR2ixAkW
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899881.png" group-title="HORSERACING" , RACING TV HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=899881&extension=ts&play_token=NjgWi6X6VZ
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899880.png" group-title="HORSERACING" , SKY SPORTS RACING HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=899880&extension=ts&play_token=nRTBrDnr3i
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WILLIAM-HILL-LIVE.png" group-title="HORSERACING" , WILLIAM HILL LIVE [LIVE EVENT]
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=894439&extension=ts&play_token=Cgtn2qAUhr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894440.png" group-title="HORSERACING" ,HR| ATG LIVE HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894440&extension=ts&play_token=SjC5RMe4UL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894436.png" group-title="HORSERACING" ,HR| DUBAI RACING 1 TV HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894436&extension=ts&play_token=GgaulKJ3Ur
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894437.png" group-title="HORSERACING" ,HR| DUBAI RACING 2 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894437&extension=ts&play_token=OLvmDPsqWA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894438.png" group-title="HORSERACING" ,HR| DUBAI RACING 3 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894438&extension=ts&play_token=253hyaNfwr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894433.png" group-title="HORSERACING" ,HR| EQUIDIA LIVE
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894433&extension=ts&play_token=Q7kSxyd8jR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894432.png" group-title="HORSERACING" ,HR| EQUIDIA LIVE HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894432&extension=ts&play_token=b7bfwsE0mx
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894435.png" group-title="HORSERACING" ,HR| ERC EUROPEAN RACING CHANNEL
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894435&extension=ts&play_token=wMIQwOTQo2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/894434.png" group-title="HORSERACING" ,HR| HORSE & COUNTRY
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894434&extension=ts&play_token=BA6p2OybW4
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899881.png" group-title="HORSERACING" ,HR| RACING TV HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=899881&extension=ts&play_token=XNzaJiokoG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/899880.png" group-title="HORSERACING" ,HR| SKY SPORTS RACING HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=899880&extension=ts&play_token=L1ML5ZDOtj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WILLIAM-HILL-LIVE.png" group-title="HORSERACING" ,HR| WILLIAM HILL LIVE [LIVE EVENT]
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=894439&extension=ts&play_token=Y6u4uyWd9z
 
 ####################################################
 ####################################################
