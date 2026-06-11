@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+g#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
 #EXTM3U x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz"
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml.gz"
@@ -942,7 +942,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599918&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599917&extension=ts&play_token=NHAzKv8GoI
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  WANDER OVER YONDER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599916&extension=ts&play_token=slq8VUYIjj
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: YOUNG DRACULA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", YOUNG DRACULA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599915&extension=ts&play_token=90X0z2weiL
 
 
@@ -9979,4 +9979,4 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456085&exte
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="TT RACES PPV",UK: TT RACES EVENT 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456084&extension=ts&play_token=0CseaRMikR
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="TT RACES PPV",UK: TT RACES EVENT 5
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456083&extension=ts&play_token=dQ7YvJP7KL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456083&extension=ts&play_token=dQ7YvJP7KLroup-title="KIDS",group-title="KIDS",
