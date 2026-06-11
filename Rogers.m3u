@@ -595,8 +595,8 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 ######################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS" ,  YOUNG SHELDON
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1600209&extension=ts&play_token=Thp6G2sjhq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="kids",24/7: YOUNG SHELDON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1600209&extension=ts&play_token=IyfHAKJfDq
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS" , COBRA KAI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1601028&extension=ts&play_token=45vqUkqgYs
@@ -604,6 +604,14 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1601028&exte
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS",  NETFLIX WWE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1414083&extension=ts&play_token=keAdTj1MO2
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="KIDS", WWE NETWORK ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1520140&extension=ts&play_token=VJCb9HppCJ
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8088.jpg?91127" group-title="KIDS", WWE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=324992&extension=ts&play_token=MF23ZL2Q84
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8088.jpg?85674" group-title="KIDS",UK: WWE LIVE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=587986&extension=ts&play_token=GjDkJ9IYEn
 
 #EXTINF:-1 tvg-logo="https://media.tvup.cloud/canales/generic_cd_6294d284c044ca001e71987d.png?width=200&height=200" group-title="KIDS", MMA TV
 https://daiconnect.com/live/hls/tvup/lg-mma/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
