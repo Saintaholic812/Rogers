@@ -1520,7 +1520,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=90968&extensi
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1813852&extension=ts&play_token=wsNHwdeQZh
 
 
-#EXTINF:-1 tvg-id="Blaze.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1053425.png" group-title="ENTERTAINMENT", US| THE BLAZE HD
+#EXTINF:-1 tvg-id="Blaze.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USA/1053425.png" group-title="ENTERTAINMENT", US| THE BLAZE HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1053425&extension=ts&play_token=qJqx1u7N8L
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9935.jpg?18630" group-title="ENTERTAINMENT", US| THE WEATHER CHANNEL HD
@@ -2055,7 +2055,7 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057013&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458748&extension=ts&play_token=SpgKwMlIcM
 #EXTINF:-1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="DOCUMENTARY", UK| NAT GEO WIld HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458745&extension=ts&play_token=DGIhwHH8jr
-#EXTINF:-1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1057014.png" group-title="DOCUMENTARY", UK| NAT GEO WILD SD
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.uk" tvg-logo="http://51.158.145.100/picons/logos/UK/1057014.png" group-title="DOCUMENTARY", UK| NAT GEO WILD SD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1057014&extension=ts&play_token=YL8iQm1w14
 #EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UK/30551.png" group-title="DOCUMENTARY", UK| CRIME INVESTIGATION FHD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30551&extension=ts&play_token=0OLctQbJtZ
@@ -3953,74 +3953,59 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014210&exten
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014211&extension=ts&play_token=ws66lFVgRI
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALITYXTRA.png" group-title="MOVIES",UK| REALITY XTRA IE
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014220&extension=ts&play_token=XpmkzyTIUm
+
+
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYATLANTIC.png" group-title="MOVIES",UK| SKY ATLANTIC HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45238&extension=ts&play_token=pfxQ3qRPe1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639165&extension=ts&play_token=r5Ve6V53u4
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="MOVIES",UK| SKY CINEMA ACTION
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79471&extension=ts&play_token=Peb8RhovvD
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="MOVIES",UK| SKY CINEMA ACTION FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163996&extension=ts&play_token=qy9cZ8fjAR
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="MOVIES",UK| SKY CINEMA ACTION HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30517&extension=ts&play_token=tCxVjBSJ2Q
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639174&extension=ts&play_token=hbT2jIG4uq
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAANIMATION.png" group-title="MOVIES",UK| SKY CINEMA ANIMATION FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=873868&extension=ts&play_token=OKwKP3gVNx
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAANIMATION.png" group-title="MOVIES",UK| SKY CINEMA ANIMATION HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30513&extension=ts&play_token=gE9NZ2wS0G
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639173&extension=ts&play_token=o3Ow9QAUCt
 #EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMACOMEDY.png" group-title="MOVIES",UK| SKY CINEMA COMEDY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79470&extension=ts&play_token=nxPRn87oAW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639195&extension=ts&play_token=joxVvxLZ9z
 #EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMACOMEDY.png" group-title="MOVIES",UK| SKY CINEMA COMEDY FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163994&extension=ts&play_token=wIt7KJ2Ujz
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMACOMEDY.png" group-title="MOVIES",UK| SKY CINEMA COMEDY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30516&extension=ts&play_token=5wRxkF7Cip
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639175&extension=ts&play_token=25vxMhhOoO
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMADRAMA.png" group-title="MOVIES",UK| SKY CINEMA DRAMA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79468&extension=ts&play_token=jA9sxJjAlu
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639196&extension=ts&play_token=cym7clC921
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMADRAMA.png" group-title="MOVIES",UK| SKY CINEMA DRAMA FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163997&extension=ts&play_token=Ar0HfULFyq
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMADRAMA.png" group-title="MOVIES",UK| SKY CINEMA DRAMA HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30514&extension=ts&play_token=AZtLnJ9WVU
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639176&extension=ts&play_token=uhMGUXiAqH
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAFAMILY.png" group-title="MOVIES",UK| SKY CINEMA FAMILY FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163993&extension=ts&play_token=jhLRRuNg1d
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639177&extension=ts&play_token=z2CPRygqRz
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAFAMILY.png" group-title="MOVIES",UK| SKY CINEMA FAMILY HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79467&extension=ts&play_token=c2Kd6gh7M8
-#EXTINF:-1 tvg-id="SkyCinemaGreats.uk;Sky Cinema Greats.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAGREATS.png" group-title="MOVIES",UK| SKY CINEMA GREATS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79466&extension=ts&play_token=jcctnFaCKJ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639197&extension=ts&play_token=BHO1EktIaf
 #EXTINF:-1 tvg-id="SkyCinemaGreats.uk;Sky Cinema Greats.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAGREATS.png" group-title="MOVIES",UK| SKY CINEMA GREATS FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164000&extension=ts&play_token=uYoQUAaBAA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639178&extension=ts&play_token=6HoMlz2k8N
 #EXTINF:-1 tvg-id="Sky.Greats.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAGREATS.png" group-title="MOVIES",UK| SKY CINEMA GREATS HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30512&extension=ts&play_token=5ku7JVbmlD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639198&extension=ts&play_token=vOpf6L3XBD
 #EXTINF:-1  tvg-id="Sky.Cinema.Hits.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAHITS.png" group-title="MOVIES",UK| SKY CINEMA HITS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79465&extension=ts&play_token=cMga0V6eWy
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639199&extension=ts&play_token=21egrVhC9k
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAHITS.png" group-title="MOVIES",UK| SKY CINEMA HITS FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163992&extension=ts&play_token=PmImZ3ETXI
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAHITS.png" group-title="MOVIES",UK| SKY CINEMA HITS HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30510&extension=ts&play_token=c7LtKuGF1L
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639179&extension=ts&play_token=WPrQoh0yqJ
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAOSCARS.png" group-title="MOVIES",UK| SKY CINEMA OSCARS HD
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30511&extension=ts&play_token=4loVad6pvw
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAPREMIER.png" group-title="MOVIES",UK| SKY CINEMA PREMIER FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163991&extension=ts&play_token=XDRGS1lyBQ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639180&extension=ts&play_token=uYoCVog4Bc
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAPREMIERE.png" group-title="MOVIES",UK| SKY CINEMA PREMIERE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79464&extension=ts&play_token=F75xjefttU
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAPREMIERE.png" group-title="MOVIES",UK| SKY CINEMA PREMIERE HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30509&extension=ts&play_token=DwJ0gAtCUu
-#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASCIFI.png" group-title="MOVIES",UK| SKY CINEMA SCI-FI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79463&extension=ts&play_token=Luln7feCxn
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639200&extension=ts&play_token=mhYDhELMpX
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASCIFI.png" group-title="MOVIES",UK| SKY CINEMA SCI-FI FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163998&extension=ts&play_token=Wq9vOah3QM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639181&extension=ts&play_token=XClkmtTo6n
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASCIFI.png" group-title="MOVIES",UK| SKY CINEMA SCIFI HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30508&extension=ts&play_token=YU7gYtbhOv
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639201&extension=ts&play_token=EVwjTg8uY2
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASELECT.png" group-title="MOVIES",UK| SKY CINEMA SELECT HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=949137&extension=ts&play_token=Dgfb9TIJx7
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="MOVIES",UK| SKY CINEMA THRILLER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79461&extension=ts&play_token=9ME8MUS1lG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639182&extension=ts&play_token=fT60s5Mro0
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="MOVIES",UK| SKY CINEMA THRILLER 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639183&extension=ts&play_token=yE2NoR9pYS
 #EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="MOVIES",UK| SKY CINEMA THRILLER 
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=163999&extension=ts&play_token=bbTtG8VV1Q
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="MOVIES",UK| SKY CINEMA THRILLER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30506&extension=ts&play_token=znsxAsFLqJ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639203&extension=ts&play_token=62w7ZSAjnT
 #EXTINF:-1 tvg-id="Sky.Crime+1.uk Sky.Crime.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="MOVIES",UK| SKY CRIME +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014231&extension=ts&play_token=4fUs6oeFuM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=405519&extension=ts&play_token=KIDZEDLPth
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?40340" group-title="MOVIES",UK| SKY CRIME 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=162383&extension=ts&play_token=b7lRne6CUK
+
 #EXTINF:-1 tvg-id="SkyPremiere+1.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYPREMIEREPLUS1.png" group-title="MOVIES",UK| SKY PREMIERE +1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014230&extension=ts&play_token=XO4CX9Lgvo
 #EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSHOWCASE.png" group-title="MOVIES",UK| SKY SHOWCASE +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014218&extension=ts&play_token=wGPWJRofOS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=639168&extension=ts&play_token=cGZnv55wDh
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYWITNESS.png" group-title="MOVIES",UK| SKY WITNESS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79469&extension=ts&play_token=DGU35DqFXp
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYWITNESS.png" group-title="MOVIES",UK| SKY WITNESS
@@ -4629,138 +4614,144 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1729379&exten
 
 ###############################    SKY   STORE    ###########################################
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE INFO
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095798&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 1
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095797&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 2
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095796&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 3
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095795&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 4
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095794&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 5
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095793&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 6
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095792&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 7
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095791&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 8
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095790&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 9
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095789&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 10
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095788&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 11
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095787&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 12
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095786&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 13
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095785&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 14
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095784&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 15
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095783&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 16
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095782&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 17
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095781&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 18
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095780&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 19
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095779&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 20
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095778&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 21
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1095777&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 22
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428747&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 23
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428746&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 24
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428745&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 25
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428744&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 26
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428743&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 27
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428742&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 28
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428741&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 29
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428740&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="SKY STORE", SKY STORE PREMIERE 30
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1428739&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519965&extension=ts&play_token=B9JiCnHoVR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519964&extension=ts&play_token=Cb7bHDnK1j
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519963&extension=ts&play_token=AzCOF0hsst
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519962&extension=ts&play_token=kY1DgwWj0a
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519961&extension=ts&play_token=FQuiVSB7o7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519960&extension=ts&play_token=xFgfU59KBX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519959&extension=ts&play_token=ZGQZra8GtQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519958&extension=ts&play_token=MAsr6cX3gR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519957&extension=ts&play_token=tHOyNlD8HD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519956&extension=ts&play_token=I1QVLvB5bY
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519955&extension=ts&play_token=idaDBtcG4N
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 11
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519954&extension=ts&play_token=1gAxA8yJjf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 12
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519953&extension=ts&play_token=kLcXnvSdRt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 13
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519952&extension=ts&play_token=96VY5zEPhO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 14
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519951&extension=ts&play_token=mgH7EOSlrE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 15
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519950&extension=ts&play_token=yf8yXhGWMI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 16
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519949&extension=ts&play_token=IGR4bqBQzw
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 17
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519948&extension=ts&play_token=rviFDEkj3n
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 18
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519947&extension=ts&play_token=KzrAk8Dflr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519946&extension=ts&play_token=xn6B7A86Xf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 20
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519945&extension=ts&play_token=0StXe4jp9Z
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 21
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519944&extension=ts&play_token=EOHuHmnVb2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 22
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519943&extension=ts&play_token=lBMe20uvKG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 23
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519942&extension=ts&play_token=OPQ82FD7MZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519941&extension=ts&play_token=YncGHXlstr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 25
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519940&extension=ts&play_token=kGQUHjslTb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 26
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519939&extension=ts&play_token=rr9psSQBgQ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 27
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519938&extension=ts&play_token=x6Db1TSOa6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 28
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519937&extension=ts&play_token=fNQun4uo0j
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 29
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519936&extension=ts&play_token=bHuxU3trN0
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13786.png?ver=23649" group-title="UK| SKY STORE ᴿᴬᵂ",UK: SKY STORE PREMIERE 30
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1519935&extension=ts&play_token=JMBn5EuUCR
+
 ##########################################################################################################
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS INFO
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856996&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 1
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856995&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 2
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856994&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 3
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856993&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 4
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856992&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 5
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856991&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 6
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856990&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 7
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856989&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 8
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856988&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 9
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856987&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 10
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856986&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 11
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856985&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 12
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856984&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 13
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856983&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 14
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856982&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXDOCS.png" group-title="SKYMIX DOCS", SKYMIX DOCS 15
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1856981&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS INFO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453198&extension=ts&play_token=7wFPwarpZg
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453197&extension=ts&play_token=NKmtzfxcwR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453196&extension=ts&play_token=d2WAIAoGlx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453195&extension=ts&play_token=ZwcPBXpdX3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453194&extension=ts&play_token=ZTcYFqHvFT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453193&extension=ts&play_token=QTZjB3UNI6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 6
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453192&extension=ts&play_token=LSOi2Bx6gl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 7
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453191&extension=ts&play_token=BLzLM5LEBp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 8
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453190&extension=ts&play_token=vHVbJeoHp7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453189&extension=ts&play_token=0a1IadAIeq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453188&extension=ts&play_token=K12xb9RrnM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 11
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453187&extension=ts&play_token=NL7bN2GDbK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 12
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453186&extension=ts&play_token=BPsVQ4akAM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 13
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453185&extension=ts&play_token=dJkAREWgpJ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 14
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453184&extension=ts&play_token=DI1WUsz2dl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX DOCS ᴿᴬᵂ",UK: SKY MIX DOCS 15
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1453183&extension=ts&play_token=6HZkaU2o5B
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES INFO
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851246&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 1
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851245&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 2
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851244&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 3
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851243&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 4
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851242&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 5
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851241&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 6
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851240&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 7
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851239&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 8
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851238&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 10
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851237&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 11
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851236&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 12
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851235&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 13
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851234&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 14
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851233&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 15
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851232&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 16
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851231&extension=ts
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYMIXSERIES.png" group-title="UK| SKYMIX SERIES",UK| SKYMIX SERIES 17
-http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:83:41:28&stream=1851230&extension=ts
 
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES INFO ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428994&extension=ts&play_token=hOcgQkwKfM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428993&extension=ts&play_token=xMuUJzjDlx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428992&extension=ts&play_token=OM11N32bPz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428991&extension=ts&play_token=7K5zvEF5RV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428990&extension=ts&play_token=6cQ0l8homa
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 5 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428989&extension=ts&play_token=jG2VX9D5zW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 6 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428988&extension=ts&play_token=HRvUkqJxIG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 7 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428987&extension=ts&play_token=14UwkVZ8TC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 8 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428986&extension=ts&play_token=Q2pcnY8jV1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 10 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428985&extension=ts&play_token=nI28BUrPqS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 11 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428984&extension=ts&play_token=ZxfmzIUABb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 12 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428983&extension=ts&play_token=ZYIKacPoVC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 13 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428982&extension=ts&play_token=pMCdsVYxNP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 14 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428981&extension=ts&play_token=Y92Gxv40RI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 15 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428980&extension=ts&play_token=YNcZ6ut94Z
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 16 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428979&extension=ts&play_token=wMuAxzm7ZN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13986.png?ver=9878" group-title="UK| SKY MIX SERIES ᴿᴬᵂ",UK: SKY MIX SERIES 17 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1428978&extension=ts&play_token=2dYmXeEuL1
 
 ##############################     APPLE   SERIES    #############################################################
 
@@ -10304,4 +10295,3 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456085&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456084&extension=ts&play_token=0CseaRMikR
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14127.png?78789" group-title="TT RACES PPV",UK: TT RACES EVENT 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1456083&extension=ts&play_token=dQ7YvJP7KL
-
