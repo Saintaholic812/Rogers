@@ -595,10 +595,12 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 ######################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="kids",24/7: YOUNG SHELDON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1600209&extension=ts&play_token=IyfHAKJfDq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MALCOLM IN THE MIDDLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599949&extension=ts&play_token=JH1opBs8Gc
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS" , COBRA KAI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COBRA KAI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1601028&extension=ts&play_token=45vqUkqgYs
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS",  NETFLIX WWE
@@ -617,6 +619,10 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=587986&exten
 https://daiconnect.com/live/hls/tvup/lg-mma/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
 #EXTINF:-1 tvg-name="TNA Wrestling Channel" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404" group-title="KIDS", TNA Wrestling Channel
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8?channel_name=TNA%20Wrestling%20Channel&content_genre=Martial%20Arts%2CSport%2CWrestling&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  TOM AND JERRY TALES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599918&extension=ts&play_token=3pk6UUCjHw
+
+
 #EXTINF:-1 channel-id="63d8ed19a9957100086f4d33" tvg-id="63d8ed19a9957100086f4d33" tvg-chno="886" tvg-name="Transformers" tvg-logo="https://images.pluto.tv/channels/63d8ed19a9957100086f4d33/colorLogoPNG.png" group-title="KIDS", Transformers
 https://jmp2.uk/plu-63d8ed19a9957100086f4d33.m3u8
 #EXTINF:-1 channel-id="60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-chno="3830" tvg-name="LEGO Kids TV" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="KIDS", LEGO Kids TV
@@ -766,271 +772,180 @@ http://xxip25.top:8080/s5pPNV/514479/57347
 ###################################################################################
 ##########################   UNITED KINGDOM   KIDS     ###########################
 #################################################################################
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", ARE YOU AFRAID OF THE DARK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599999&extension=ts&play_token=LkTiwIuneW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", AS TOLD BY GINGER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599998&extension=ts&play_token=VBly2QVZbp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", AUSTIN AND ALLY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599997&extension=ts&play_token=qVvyWZaKb2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", BLOW BREEZE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599996&extension=ts&play_token=jp38KwRUCv
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", BOB'S BURGERS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599995&extension=ts&play_token=xPWzAytG7U
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", BOY MEETS WORLD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599994&extension=ts&play_token=BikgcFmdgZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", CARNIVAL EATS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599993&extension=ts&play_token=AJrVhVDrub
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", CATDOG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599992&extension=ts&play_token=TeZgV17VDE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COCOMELON AND FRIENDS HOLIDAY AND CHRISTMAS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599991&extension=ts&play_token=bNbN3i0QDt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COCOMELON COUNTING AND NUMBERS SONGS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599990&extension=ts&play_token=1NR65S2dkU
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COCOMELON HAPPY HOLIDAYS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599989&extension=ts&play_token=TSSZm3QCn2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COCOMELON LITTLE BABY BUM BLIPPI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599988&extension=ts&play_token=HqsLQcN8DL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COCOMELON POPULAR SONGS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599987&extension=ts&play_token=rndolHbfXu
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COCOMELON SHAPES AND COLORS AND MUSIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599986&extension=ts&play_token=p52HS1hSRB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", CODENAME: KIDS NEXT DOOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599985&extension=ts&play_token=DarjcO4qqe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COURAGE THE COWARDLY DOG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599984&extension=ts&play_token=mVqXOLOxGC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COW AND CHICKEN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599983&extension=ts&play_token=uHJ4hBsbho
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DARIA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599982&extension=ts&play_token=thFx7R4AoH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DAWSON'S CREEK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599981&extension=ts&play_token=nGai4hy4Hr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DC SUPER HERO GIRLS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599980&extension=ts&play_token=Ovzionrapu
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DETECTIVE CONAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599979&extension=ts&play_token=s7yoZN1PV9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DIARY OF A FUTURE PRESIDENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599978&extension=ts&play_token=iZY9EcHFiV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DIARY OF A FUTURE PRESIDENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599977&extension=ts&play_token=hwM9ELxNH1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DISNEY FAMILY SUNDAYS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599976&extension=ts&play_token=SNGPF3yRej
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DRAGON BALL Z
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599975&extension=ts&play_token=8gGeRkkU6r
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DRAKE & JOSH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599974&extension=ts&play_token=mdLQC9852L
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DUCKTALES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599973&extension=ts&play_token=AGKEV1oV8c
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", DUCKTALES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599972&extension=ts&play_token=w2O3qWqgQ8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", ELENA OF AVALOR
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599971&extension=ts&play_token=6hwwkrnHC9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", FAIRLY ODDPARENTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599970&extension=ts&play_token=YUI5jUGDc2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", FREE REIN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599969&extension=ts&play_token=Rrh4axccjE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", FULLER HOUSE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599968&extension=ts&play_token=urzPbSTomS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", FUTURAMA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599967&extension=ts&play_token=fHtrSCLcXN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", GIRL MEETS FARM
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599966&extension=ts&play_token=JiGqJKGAKa
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", GOGGLEBOX
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599965&extension=ts&play_token=N6EWOq9dbl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", GOLDEN POUCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599964&extension=ts&play_token=rV2DTOszCz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", GOOSEBUMPS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599963&extension=ts&play_token=J0PruO6qBN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", HANNAH MONTANA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599962&extension=ts&play_token=c2fHwn40MB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", HAPPY HOME
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599961&extension=ts&play_token=RyDZGaswnW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", HARVEY BEAKS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599960&extension=ts&play_token=Bdvf0PIH1h
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", HENRY DANGER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599959&extension=ts&play_token=ncAu47Ln22
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", HOUSE OF ANUBIS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599958&extension=ts&play_token=fVn4aFUVnR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", JAKE AND THE NEVER LAND PIRATES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599957&extension=ts&play_token=XBMK43rV4Y
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", JAMIE JOHNSON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599956&extension=ts&play_token=DOh5Y1NSq6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", JESSIE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599955&extension=ts&play_token=DyxXo2f8YP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", JOHNNY BRAVO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599954&extension=ts&play_token=2lrgbjp9IZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", JUST ADD MAGIC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599953&extension=ts&play_token=XRejHLWK3K
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", KING OF THE HILL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599952&extension=ts&play_token=SWhOC7u5Pa
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", KNIGHT SQUAD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599951&extension=ts&play_token=gifFh10E52
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", LIFE WITH DEREK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599950&extension=ts&play_token=Zlz3DowWra
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MALCOLM IN THE MIDDLE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599949&extension=ts&play_token=JH1opBs8Gc
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MILES FROM TOMORROWLAND
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599948&extension=ts&play_token=bq0M4AW5sd
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MILO MURPHY'S LAW
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599947&extension=ts&play_token=6LQ9MTW4bO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MY PERFECT LANDING
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599946&extension=ts&play_token=3z9ebCga0U
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", ONE PUNCH MAN WANPANMAN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599945&extension=ts&play_token=23hLY2elMC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", PEPPA PIG
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599944&extension=ts&play_token=5CxyPhEtV6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", PJ MASKS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599943&extension=ts&play_token=Yj322CVX6P
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", POWER RANGERS IN SPACE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599942&extension=ts&play_token=Tln1dqze3N
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  POWER RANGERS TURBO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599941&extension=ts&play_token=jhxHDnA6Ix
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  POWER RANGERS ZEO
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599940&extension=ts&play_token=tK1liYP9Sz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  RAVEN'S HOME
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599939&extension=ts&play_token=D1kBnCz6ZB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  RECESS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599938&extension=ts&play_token=aiewAxzeQX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  RIDE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599937&extension=ts&play_token=pGNop27SZi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  SEE DAD RUN
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599936&extension=ts&play_token=CRcjjhkxT1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  SHAKE IT UP
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599935&extension=ts&play_token=M4pcevs9zs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  SOFIA THE FIRST
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599934&extension=ts&play_token=0qXeNKPpPm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  SONIC UNDERGROUND
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599933&extension=ts&play_token=U24qC7LttM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  SPLITTING UP TOGETHER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599932&extension=ts&play_token=JhN4dteZ9M
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  SPONGEBOB SQUAREPANTS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599931&extension=ts&play_token=kk31rqoNia
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  TERRY CREWS SAVES CHRISTMAS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599930&extension=ts&play_token=L4c2OYkT9H
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE FLINTSTONES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599929&extension=ts&play_token=Hg3wcBf3oT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE INBESTIGATORS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599928&extension=ts&play_token=XmSZdesh4p
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE JETSONS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599927&extension=ts&play_token=yddi9xqWUt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE JOY OF PAINTING
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599926&extension=ts&play_token=Xa6WjuReCt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE LITTLE MERMAID
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599925&extension=ts&play_token=iDSkTSaTa4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE NEXT STEP
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599924&extension=ts&play_token=cXeiZUQZii
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE OWL HOUSE
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599923&extension=ts&play_token=gVdhucwLi2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE POWERPUFF GIRLS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599922&extension=ts&play_token=l4iDxPfPXS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE SUITE LIFE ON DECK
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599921&extension=ts&play_token=EmLeK3lCZO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE TEENAGE WITCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599914&extension=ts&play_token=792GB3CZw7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE WORST WITCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599920&extension=ts&play_token=hAqqypN6rq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  THE WORST WITCH
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599919&extension=ts&play_token=NfwlykgXtB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  TOM AND JERRY TALES
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599918&extension=ts&play_token=3pk6UUCjHw
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  UNIKITTY
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599917&extension=ts&play_token=NHAzKv8GoI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  WANDER OVER YONDER
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599916&extension=ts&play_token=slq8VUYIjj
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: YOUNG DRACULA
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599915&extension=ts&play_token=90X0z2weiL
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", BATWOMAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944310&extension=ts&play_token=etXfVqnqjN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", BEWARE THE BATMAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944308&extension=ts&play_token=3Ej4j7lc0i
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45318.png" group-title="KIDS",UK| BABY TV
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45318&extension=ts&play_token=zeO6UWynbF
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014237.png" group-title="KIDS",UK| BOOMERANG +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014237&extension=ts&play_token=Nt1mcrYSvs
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45295.png" group-title="KIDS",UK| BOOMERANG FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45295&extension=ts&play_token=HUw0YmKFK8
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014234.png" group-title="KIDS",UK| CARTOON NETWORK +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014234&extension=ts&play_token=DMxoETYwVX
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30556.png" group-title="KIDS",UK| CARTOON NETWORK FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30556&extension=ts&play_token=6SceH2vTpG
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/164013.png" group-title="KIDS",UK| CARTOONITO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=164013&extension=ts&play_token=Y7NnjNqoOq
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1206422.png" group-title="KIDS",UK| DAVE & AVA HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1206422&extension=ts&play_token=v4fdvqEiwj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", DARKWING DUCK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944293&extension=ts&play_token=T3Dnqvc12d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", DARKWING DUCK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944294&extension=ts&play_token=Xk2nd15fWl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", DC'S LEGENDS OF TOMORROW
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944292&extension=ts&play_token=j4rvNSQixQ
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/396314.png" group-title="KIDS",UK| DISNEY CHANNEL FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=396314&extension=ts&play_token=ZP2wQaBVv7
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014233.png" group-title="KIDS",UK| NICK JR FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014233&extension=ts&play_token=oQXosjQVZ3
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014235.png" group-title="KIDS",UK| NICK JR HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014235&extension=ts&play_token=dFR9Y1Ro9H
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45260.png" group-title="KIDS",UK| NICK JUNIOR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45260&extension=ts&play_token=hdAj7g2Z0n
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45259.png" group-title="KIDS",UK| NICK JUNIOR +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45259&extension=ts&play_token=uGC5c5NW0q
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45261.png" group-title="KIDS",UK| NICK JUNIOR TOO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45261&extension=ts&play_token=Zxyc3cjq9y
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45258.png" group-title="KIDS",UK| NICK TOONS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45258&extension=ts&play_token=ST7fdQVu61
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014236.png" group-title="KIDS",UK| NICKELODEON +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014236&extension=ts&play_token=dplnZCy51U
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/30524.png" group-title="KIDS",UK| NICKELODEON FHD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=30524&extension=ts&play_token=5a1BR9MZ1b
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/228579.png" group-title="KIDS",UK| NICKELODEON HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=228579&extension=ts&play_token=7xqsbLb5NN
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45254.png" group-title="KIDS",UK| POP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45254&extension=ts&play_token=Ri7PZSjIPz
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/79705.png" group-title="KIDS",UK| POP +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=79705&extension=ts&play_token=VIkvHY5mEu
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1014238.png" group-title="KIDS",UK| RTE JR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1014238&extension=ts&play_token=B3S2KSeByH
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45328.png" group-title="KIDS",UK| SKY KIDS HD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45328&extension=ts&play_token=JkhYkrMq7A
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/45240.png" group-title="KIDS",UK| TINY POP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45240&extension=ts&play_token=bPAXsekaL6
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/77374.png" group-title="KIDS",UK| TINY POP +1
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=77374&extension=ts&play_token=Btn8Oi0JFi
 
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CARTOONNETWORK.png" group-title="KIDS",UK| CARTOON NETWORK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458592&extension=ts&play_token=HeTR8U5vwS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CARTOONNETWORK.png" group-title="KIDS",UK| CARTOON NETWORK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458587&extension=ts&play_token=4ABkATbpLx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NICK.png" group-title="KIDS",UK| NICK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458591&extension=ts&play_token=5XcTgJuuTV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NICK.png" group-title="KIDS",UK| NICK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458586&extension=ts&play_token=GV5L8LShgF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NICKJR.png" group-title="KIDS",UK| NICK JR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458590&extension=ts&play_token=xjW6R7H7zy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NICKJR.png" group-title="KIDS",UK| NICK JR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458585&extension=ts&play_token=aofhvTWqUV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYKIDS.png" group-title="KIDS",UK| SKY KIDS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458584&extension=ts&play_token=vq0zbLLpWO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYKIDS.png" group-title="KIDS",UK| SKY KIDS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1458583&extension=ts&play_token=dmaLFSLxLu
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",ARE YOU AFRAID OF THE DARK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944087&extension=ts&play_token=iWkRXEYoVM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",AS TOLD BY GINGER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944038&extension=ts&play_token=0AZg9Lfl1r
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",AUSTIN AND ALLY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944086&extension=ts&play_token=wmeD6zW949
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",BLOW BREEZE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944037&extension=ts&play_token=FZAYW2Q4UA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",BOB'S BURGERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944085&extension=ts&play_token=VJkdSIxcDg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",BOY MEETS WORLD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944084&extension=ts&play_token=rk8bfKI9Nj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",CARNIVAL EATS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944036&extension=ts&play_token=C4UGZvKY2Q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",CATDOG
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944083&extension=ts&play_token=nI8MSjlWoU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COCOMELON AND FRIENDS HOLIDAY AND CHRISTMAS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944082&extension=ts&play_token=8TxhgegM2r
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COCOMELON COUNTING AND NUMBERS SONGS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944081&extension=ts&play_token=WCWhqDXQFO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COCOMELON HAPPY HOLIDAYS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944080&extension=ts&play_token=s0KUOSLrza
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COCOMELON LITTLE BABY BUM BLIPPI
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944079&extension=ts&play_token=2gniMyDrJZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COCOMELON POPULAR SONGS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944078&extension=ts&play_token=OZPgVWd0bt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COCOMELON SHAPES AND COLORS AND MUSIC
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944077&extension=ts&play_token=0N69BwjEFi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",CODENAME: KIDS NEXT DOOR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944076&extension=ts&play_token=EZJeqVq78X
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COURAGE THE COWARDLY DOG
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944075&extension=ts&play_token=43vC1gOShh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",COW AND CHICKEN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944074&extension=ts&play_token=gla8StGHee
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DARIA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944073&extension=ts&play_token=ptMBSnGXa7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DAWSON'S CREEK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944072&extension=ts&play_token=ORHOtCd9kP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DC SUPER HERO GIRLS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944071&extension=ts&play_token=2gPHfyo202
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DETECTIVE CONAN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944070&extension=ts&play_token=5PcWayx7S9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DIARY OF A FUTURE PRESIDENT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944068&extension=ts&play_token=3dD6E8RfPF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DIARY OF A FUTURE PRESIDENT
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944069&extension=ts&play_token=gNRoaHIWmb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DISNEY FAMILY SUNDAYS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944035&extension=ts&play_token=wa2ZHM9rqV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DRAGON BALL Z
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944067&extension=ts&play_token=PtlLN429qK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DRAKE & JOSH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944066&extension=ts&play_token=qWirc4pbjV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DUCKTALES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944064&extension=ts&play_token=rJojS65SrP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",DUCKTALES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944065&extension=ts&play_token=SzyvBLc9im
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",ELENA OF AVALOR
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944034&extension=ts&play_token=oG0EmEqjpK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",FAIRLY ODDPARENTS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944063&extension=ts&play_token=vZioBUJmpT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",FREE REIN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944033&extension=ts&play_token=JYbYxpL4jQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",FULLER HOUSE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944032&extension=ts&play_token=A6RNqVf6D9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",FUTURAMA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944062&extension=ts&play_token=A41JRMBoD6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",GIRL MEETS FARM
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944031&extension=ts&play_token=23lKGCyHus
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",GOGGLEBOX
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944030&extension=ts&play_token=cy4mf3ihTu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",GOLDEN POUCH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944029&extension=ts&play_token=8MTZfWwLR1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",GOOSEBUMPS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944061&extension=ts&play_token=2letXEIwuB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",HANNAH MONTANA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944028&extension=ts&play_token=KcsL8DbLQR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",HAPPY HOME
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944027&extension=ts&play_token=81EA6dm0Tl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",HARVEY BEAKS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944026&extension=ts&play_token=IpoK8oSIgP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",HENRY DANGER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944060&extension=ts&play_token=oPNwsS1qvP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",HOUSE OF ANUBIS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944025&extension=ts&play_token=gGwWXu2znU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",JAKE AND THE NEVER LAND PIRATES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944024&extension=ts&play_token=LdAgv2FjqC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",JAMIE JOHNSON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944023&extension=ts&play_token=FtlOhamxhE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",JESSIE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944059&extension=ts&play_token=PBJgXmFki0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",JOHNNY BRAVO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944058&extension=ts&play_token=RCIHX7yGVz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",JUST ADD MAGIC
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944022&extension=ts&play_token=ggAxPdmYQW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",KING OF THE HILL
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944057&extension=ts&play_token=dJzaCJHdCC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",KNIGHT SQUAD
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944056&extension=ts&play_token=zn2z5us24G
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",LIFE WITH DEREK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944021&extension=ts&play_token=gxsZkliAZA
-#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/malcolm-in-the-middle-lifes-still-unfair-69e26d4823d5d.png" group-title="KIDS",MALCOLM IN THE MIDDLE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944020&extension=ts&play_token=oaxM0iXSS7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",MILES FROM TOMORROWLAND
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944019&extension=ts&play_token=dWOJlhcGIU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",MILO MURPHY'S LAW
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944018&extension=ts&play_token=ne951FXzko
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",MY PERFECT LANDING
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944017&extension=ts&play_token=IsGAQOE6sg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",PEPPA PIG
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944054&extension=ts&play_token=iQOBbf1x3c
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",PJ MASKS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944053&extension=ts&play_token=7Jq6bEabvY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",POWER RANGERS IN SPACE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944052&extension=ts&play_token=L1eQHqbfBS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",POWER RANGERS TURBO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944051&extension=ts&play_token=zDzLX6eu2A
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",POWER RANGERS ZEO
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944050&extension=ts&play_token=tbmbU4xe2z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",RAVEN'S HOME
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944049&extension=ts&play_token=3eZ0FN0Nhf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",RECESS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944048&extension=ts&play_token=DjHM1WUrHf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",RIDE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944016&extension=ts&play_token=XAQuIIhsJp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",SEE DAD RUN
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944015&extension=ts&play_token=xDsZfQv0Ll
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",SHAKE IT UP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944014&extension=ts&play_token=m3xkLKNeHv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",SOFIA THE FIRST
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944013&extension=ts&play_token=xSUbh5QOZ8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",SONIC UNDERGROUND
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944046&extension=ts&play_token=RRRo8vU86G
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",SPLITTING UP TOGETHER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944012&extension=ts&play_token=d2TJ1DwlJB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",SPONGEBOB SQUAREPANTS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944045&extension=ts&play_token=P7wpDptRyU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",TERRY CREWS SAVES CHRISTMAS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944011&extension=ts&play_token=SBeD5gqDAb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE FLINTSTONES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944010&extension=ts&play_token=XHe6jX6oU3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE INBESTIGATORS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944009&extension=ts&play_token=7VCCTsgsPC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE JETSONS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944044&extension=ts&play_token=2yaXq63hmZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", JONAS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944270&extension=ts&play_token=tJNg3MlFDz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", JUSTICE LEAGUE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944269&extension=ts&play_token=buWpIn3cmM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", KIM POSSIBLE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944266&extension=ts&play_token=VamybqXrdM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", KRYPTON
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944264&extension=ts&play_token=x5Z8bQP8Hh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", LEGO NEXO KNIGHTS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944261&extension=ts&play_token=znpFhVPaIk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", THE REAL GHOSTBUSTERS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944214&extension=ts&play_token=i52x09HTV3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", THE SUPER HERO SQUAD SHOW
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944213&extension=ts&play_token=MJ2tczCoir
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", THUNDERBIRDS ARE GO!
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944209&extension=ts&play_token=kQc0f7zIgJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS", YOUNG JUSTICE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944200&extension=ts&play_token=yDxHJxpxnq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE JOY OF PAINTING
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944008&extension=ts&play_token=J6ewF3hK1P
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE LITTLE MERMAID
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944007&extension=ts&play_token=0PoktOjdUx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE NEXT STEP
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944006&extension=ts&play_token=WJb7L3mPrA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE OWL HOUSE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944043&extension=ts&play_token=RutTdNEduJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE POWERPUFF GIRLS
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944042&extension=ts&play_token=PkBKp4naBV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE SUITE LIFE ON DECK
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944005&extension=ts&play_token=CGFPGv4WAa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE WORST WITCH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944040&extension=ts&play_token=xJxBF4QTvm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE WORST WITCH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944041&extension=ts&play_token=W8d6EQ3wn2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",TOM AND JERRY TALES
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944039&extension=ts&play_token=zR3CmGVY8y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",UNIKITTY
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944004&extension=ts&play_token=H3KQtHFrAQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",WANDER OVER YONDER
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944003&extension=ts&play_token=NlvFm6GqM3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",YOUNG DRACULA
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944002&extension=ts&play_token=oXcMntvPre
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",THE TEENAGE WITCH
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1944047&extension=ts&play_token=MGcb0LRBTN
 
 ###############################################################################
 ###############################################################################
@@ -7403,178 +7318,6 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1835477&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1835478&extension=ts&play_token=aiKRdoW81v
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14863.png?ver=13962" group-title="US| 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN ᴿᴬᵂ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1835479&extension=ts&play_token=19Ypp0TMX0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ARE YOU AFRAID OF THE DARK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599999&extension=ts&play_token=LkTiwIuneW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: AS TOLD BY GINGER
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599998&extension=ts&play_token=VBly2QVZbp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: AUSTIN AND ALLY
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599997&extension=ts&play_token=qVvyWZaKb2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BLOW BREEZE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599996&extension=ts&play_token=jp38KwRUCv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BOB'S BURGERS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599995&extension=ts&play_token=xPWzAytG7U
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BOY MEETS WORLD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599994&extension=ts&play_token=BikgcFmdgZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CARNIVAL EATS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599993&extension=ts&play_token=AJrVhVDrub
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CATDOG
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599992&extension=ts&play_token=TeZgV17VDE
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COCOMELON AND FRIENDS HOLIDAY AND CHRISTMAS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599991&extension=ts&play_token=bNbN3i0QDt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COCOMELON COUNTING AND NUMBERS SONGS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599990&extension=ts&play_token=1NR65S2dkU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COCOMELON HAPPY HOLIDAYS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599989&extension=ts&play_token=TSSZm3QCn2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COCOMELON LITTLE BABY BUM BLIPPI
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599988&extension=ts&play_token=HqsLQcN8DL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COCOMELON POPULAR SONGS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599987&extension=ts&play_token=rndolHbfXu
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COCOMELON SHAPES AND COLORS AND MUSIC
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599986&extension=ts&play_token=p52HS1hSRB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CODENAME: KIDS NEXT DOOR
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599985&extension=ts&play_token=DarjcO4qqe
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COURAGE THE COWARDLY DOG
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599984&extension=ts&play_token=mVqXOLOxGC
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: COW AND CHICKEN
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599983&extension=ts&play_token=uHJ4hBsbho
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DARIA
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599982&extension=ts&play_token=thFx7R4AoH
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DAWSON'S CREEK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599981&extension=ts&play_token=nGai4hy4Hr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DC SUPER HERO GIRLS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599980&extension=ts&play_token=Ovzionrapu
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DETECTIVE CONAN
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599979&extension=ts&play_token=s7yoZN1PV9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DIARY OF A FUTURE PRESIDENT
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599978&extension=ts&play_token=iZY9EcHFiV
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DIARY OF A FUTURE PRESIDENT
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599977&extension=ts&play_token=hwM9ELxNH1
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DISNEY FAMILY SUNDAYS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599976&extension=ts&play_token=SNGPF3yRej
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DRAGON BALL Z
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599975&extension=ts&play_token=8gGeRkkU6r
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DRAKE & JOSH
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599974&extension=ts&play_token=mdLQC9852L
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DUCKTALES
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599973&extension=ts&play_token=AGKEV1oV8c
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DUCKTALES
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599972&extension=ts&play_token=w2O3qWqgQ8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ELENA OF AVALOR
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599971&extension=ts&play_token=6hwwkrnHC9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FAIRLY ODDPARENTS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599970&extension=ts&play_token=YUI5jUGDc2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FREE REIN
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599969&extension=ts&play_token=Rrh4axccjE
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FULLER HOUSE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599968&extension=ts&play_token=urzPbSTomS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FUTURAMA
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599967&extension=ts&play_token=fHtrSCLcXN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GIRL MEETS FARM
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599966&extension=ts&play_token=JiGqJKGAKa
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GOGGLEBOX
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599965&extension=ts&play_token=N6EWOq9dbl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GOLDEN POUCH
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599964&extension=ts&play_token=rV2DTOszCz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GOOSEBUMPS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599963&extension=ts&play_token=J0PruO6qBN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HANNAH MONTANA
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599962&extension=ts&play_token=c2fHwn40MB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HAPPY HOME
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599961&extension=ts&play_token=RyDZGaswnW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HARVEY BEAKS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599960&extension=ts&play_token=Bdvf0PIH1h
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HENRY DANGER
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599959&extension=ts&play_token=ncAu47Ln22
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HOUSE OF ANUBIS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599958&extension=ts&play_token=fVn4aFUVnR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JAKE AND THE NEVER LAND PIRATES
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599957&extension=ts&play_token=XBMK43rV4Y
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JAMIE JOHNSON
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599956&extension=ts&play_token=DOh5Y1NSq6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JESSIE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599955&extension=ts&play_token=DyxXo2f8YP
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JOHNNY BRAVO
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599954&extension=ts&play_token=2lrgbjp9IZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JUST ADD MAGIC
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599953&extension=ts&play_token=XRejHLWK3K
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KING OF THE HILL
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599952&extension=ts&play_token=SWhOC7u5Pa
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KNIGHT SQUAD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599951&extension=ts&play_token=gifFh10E52
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LIFE WITH DEREK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599950&extension=ts&play_token=Zlz3DowWra
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MALCOLM IN THE MIDDLE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599949&extension=ts&play_token=JH1opBs8Gc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MILES FROM TOMORROWLAND
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599948&extension=ts&play_token=bq0M4AW5sd
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MILO MURPHY'S LAW
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599947&extension=ts&play_token=6LQ9MTW4bO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MY PERFECT LANDING
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599946&extension=ts&play_token=3z9ebCga0U
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ONE PUNCH MAN WANPANMAN
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599945&extension=ts&play_token=23hLY2elMC
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: PEPPA PIG
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599944&extension=ts&play_token=5CxyPhEtV6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: PJ MASKS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599943&extension=ts&play_token=Yj322CVX6P
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: POWER RANGERS IN SPACE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599942&extension=ts&play_token=Tln1dqze3N
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: POWER RANGERS TURBO
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599941&extension=ts&play_token=jhxHDnA6Ix
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: POWER RANGERS ZEO
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599940&extension=ts&play_token=tK1liYP9Sz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RAVEN'S HOME
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599939&extension=ts&play_token=D1kBnCz6ZB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RECESS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599938&extension=ts&play_token=aiewAxzeQX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RIDE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599937&extension=ts&play_token=pGNop27SZi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SEE DAD RUN
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599936&extension=ts&play_token=CRcjjhkxT1
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SHAKE IT UP
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599935&extension=ts&play_token=M4pcevs9zs
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SOFIA THE FIRST
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599934&extension=ts&play_token=0qXeNKPpPm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SONIC UNDERGROUND
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599933&extension=ts&play_token=U24qC7LttM
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SPLITTING UP TOGETHER
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599932&extension=ts&play_token=JhN4dteZ9M
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SPONGEBOB SQUAREPANTS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599931&extension=ts&play_token=kk31rqoNia
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TERRY CREWS SAVES CHRISTMAS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599930&extension=ts&play_token=L4c2OYkT9H
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE FLINTSTONES
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599929&extension=ts&play_token=Hg3wcBf3oT
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE INBESTIGATORS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599928&extension=ts&play_token=XmSZdesh4p
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE JETSONS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599927&extension=ts&play_token=yddi9xqWUt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE JOY OF PAINTING
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599926&extension=ts&play_token=Xa6WjuReCt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE LITTLE MERMAID
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599925&extension=ts&play_token=iDSkTSaTa4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE NEXT STEP
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599924&extension=ts&play_token=cXeiZUQZii
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE OWL HOUSE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599923&extension=ts&play_token=gVdhucwLi2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE POWERPUFF GIRLS
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599922&extension=ts&play_token=l4iDxPfPXS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE SUITE LIFE ON DECK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599921&extension=ts&play_token=EmLeK3lCZO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE TEENAGE WITCH
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599914&extension=ts&play_token=792GB3CZw7
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE WORST WITCH
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599920&extension=ts&play_token=hAqqypN6rq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE WORST WITCH
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599919&extension=ts&play_token=NfwlykgXtB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TOM AND JERRY TALES
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599918&extension=ts&play_token=3pk6UUCjHw
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: UNIKITTY
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599917&extension=ts&play_token=NHAzKv8GoI
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: WANDER OVER YONDER
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599916&extension=ts&play_token=slq8VUYIjj
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: YOUNG DRACULA
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599915&extension=ts&play_token=90X0z2weiL
 
 
 #####################################################################################################
