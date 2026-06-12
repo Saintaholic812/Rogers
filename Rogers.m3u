@@ -595,19 +595,22 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 ######################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1600209&extension=ts&play_token=IyfHAKJfDq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MALCOLM IN THE MIDDLE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599949&extension=ts&play_token=JH1opBs8Gc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 YOUNG SHELDON
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B4:F9:BA&stream=1943576&extension=ts&play_token=0eKJ5JMCHT
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", COBRA KAI
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1601028&extension=ts&play_token=45vqUkqgYs
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 MALCOLM IN THE MIDDLE
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B4:F9:BA&stream=1944020&extension=ts&play_token=JxVPeCflL6
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_e0fa4b1ce0e246638ca494efd2a6c926~mv2.png/v1/fill/w_298,h_276,al_c,lg_1,q_85,enc_avif,quality_auto/WEEE.png" group-title="KIDS",  NETFLIX WWE
-http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1414083&extension=ts&play_token=keAdTj1MO2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1941451.png" group-title="KIDS",US| COBRA KAI
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B4:F9:BA&stream=1941451&extension=ts&play_token=9vBttAV8Vh
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="KIDS", WWE NETWORK ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 WWE WRESTLING
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B4:F9:BA&stream=1942188&extension=ts&play_token=EwaIhXMg2v
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="KIDS", WWE NETWORK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1520140&extension=ts&play_token=VJCb9HppCJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 WWE WRESTLING
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B4:F9:BA&stream=1942188&extension=ts&play_token=EwaIhXMg2v
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8088.jpg?91127" group-title="KIDS", WWE HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=324992&extension=ts&play_token=MF23ZL2Q84
