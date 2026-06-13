@@ -596,14 +596,12 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1600209&extension=ts&play_token=vpBpqQB3yJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 YOUNG SHELDON
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943576&extension=ts&play_token=oKfadr2C7J
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 MALCOLM IN THE MIDDLE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944020&extension=ts&play_token=n5pwItQnH0
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 COBRA KAI
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944303&extension=ts&play_token=KYNHzBATQX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="KIDS",24/7: YOUNG SHELDON
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1761757&extension=ts&play_token=WuynJt9k5b
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 MALCOLM IN THE MIDDLE 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1013443&extension=ts&play_token=7S49QK02Bm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 COBRA KAI
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1601028&extension=ts&play_token=1iNvaRD25B
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="KIDS",24/7 WWE WRESTLING
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1942188&extension=ts&play_token=WPhsGrLJog
