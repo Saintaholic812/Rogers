@@ -1,4 +1,3 @@
-
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
 #EXTM3U x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz"
@@ -1729,39 +1728,42 @@ https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 ##################################################################################################################################################################################################################################
 ##############################################     CLASSIC TV SERIES    ###############################################################################
 
-#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="Classic TV", Happy Days
+#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="CLASSIC TV", Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
-
-#EXTINF:-1 channel-id="66e0b4a3f0f17500085cc268" tvg-id="66e0b4a3f0f17500085cc268" tvg-chno="311" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="CLASSIC TV", Hit Sitcoms
-https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
-
-#EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="Classic TV", Hogan's Heroes
-https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
-
-#EXTINF:-1 channel-id="5f7794a788d29000079d2f07" tvg-id="5f7794a788d29000079d2f07" tvg-chno="620" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="Classic TV", The Love Boat
-https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
-
 
 #EXTINF:-1 channel-id="5f77939a630f530007dde654" tvg-id="5f77939a630f530007dde654" tvg-chno="315" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="CLASSIC TV", Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
-#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="Classic TV", I Love Lucy
+#EXTINF:-1 channel-id="66e0b4a3f0f17500085cc268" tvg-id="66e0b4a3f0f17500085cc268" tvg-chno="311" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="CLASSIC TV", Hit Sitcoms
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+
+#EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="CLASSIC TV", Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+
+#EXTINF:-1 channel-id="5f7794a788d29000079d2f07" tvg-id="5f7794a788d29000079d2f07" tvg-chno="620" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="CLASSIC TV", The Love Boat
+https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
+
+
+
+#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="CLASSIC TV", I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 
-#EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Classic TV", The Addams Family
+#EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="CLASSIC TV", The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99993022/600x200.png?type=white_cropped" group-title="CLASSIC TV",Little House on the Prairie
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993022/hls/master.m3u8?ads.xumo_channelId=99993022&ads.asnw=169843&ads.afid=380744511&ads.sfid=17537893&ads.csid=lgchannels_us_nbculittlehouseprairie_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3938&ads.xumo_contentName=NBCULittleHousePrairie&ads.xumo_providerId=3938&ads.xumo_providerName=NBCULittleHousePrairie&ads.channelId=99993022&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="Classic TV", Little House on the Prairie
-https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
-
-#EXTINF:-1 channel-id="5f7796e470510900070d4e3d" tvg-id="5f7796e470510900070d4e3d" tvg-chno="570" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="Classic TV", Beverly Hillbillies
+#EXTINF:-1 channel-id="5f7796e470510900070d4e3d" tvg-id="5f7796e470510900070d4e3d" tvg-chno="570" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG_1731835751688.png" group-title="CLASSIC TV", Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png" group-title="CLASSIC TV",The Beverly Hillbillies
 https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8?wurl_channel=1342&wurl_name=TheBeverlyHillbillies&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99993022/600x200.png?type=white_cropped" group-title="CLASSIC TV",Little House on the Prairie
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993022/hls/master.m3u8?ads.xumo_channelId=99993022&ads.asnw=169843&ads.afid=380744511&ads.sfid=17537893&ads.csid=lgchannels_us_nbculittlehouseprairie_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3938&ads.xumo_contentName=NBCULittleHousePrairie&ads.xumo_providerId=3938&ads.xumo_providerName=NBCULittleHousePrairie&ads.channelId=99993022&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="CLASSIC TV", Little House on the Prairie
+https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="CLASSIC TV",GET
 https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
