@@ -603,6 +603,9 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1600209&extension=ts&play_token=vpBpqQB3yJ
 
+#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="KIDS", Happy Days
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 MALCOLM IN THE MIDDLE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1013443&extension=ts&play_token=7S49QK02Bm
 
@@ -632,6 +635,9 @@ https://daiconnect.com/live/hls/tvup/lg-mma/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DA
 https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8?channel_name=TNA%20Wrestling%20Channel&content_genre=Martial%20Arts%2CSport%2CWrestling&ic=IAB17%2CIAB17-20&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",  TOM AND JERRY TALES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:DF:4F:35&stream=1599918&extension=ts&play_token=3pk6UUCjHw
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984060/600x200.png?type=white_cropped" group-title="KIDS", He-Man & Masters Of The Universe
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984060&ads.xumo_streamId=99984060&ads.channelId=99984060&ads.ad_tag_id=157629&ads.csid=lgchannels_au_hemanandmastersoftheuniverse_ssai&ads.channelName=hemanmastersoftheuniverse_au&ads.xumo_contentName=NBCUUK&ads.xumo_contentId=3913&ads.xumo_providerName=NBCUUK&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 
 #EXTINF:-1 channel-id="63d8ed19a9957100086f4d33" tvg-id="63d8ed19a9957100086f4d33" tvg-chno="886" tvg-name="Transformers" tvg-logo="https://images.pluto.tv/channels/63d8ed19a9957100086f4d33/colorLogoPNG.png" group-title="KIDS", Transformers
@@ -1627,100 +1633,108 @@ https://s2host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 ################################################################################################################################################################################################################################
 #####################################    TV SHOWS       #############################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/thegooddoc/GOOD_DOCTOR_THE_TitleTreatment400x200.png"group-title="TV SHOWS",THE GOOD DOCTOR
+https://amg00497-amg00497c37-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00497-amg00497c37-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
 
-#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="TV SERIES",CSI Crime Scene Investigation
+
+
+#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="TV SHOWS",CSI Crime Scene Investigation
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99993063/600x200.png?type=white_cropped" group-title="TV SERIES", Law & Order
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99993063/600x200.png?type=white_cropped" group-title="TV SHOWS", Law & Order
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993063/hls/master.m3u8?ads.xumo_channelId=99993063&ads.channelId=99993063&ads.afid=444754633&ads.sfid=23912191&ads.csid=lgchannels_us_nbculaworder_ssai_cro&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Drama,Crime,GD,Entertainment,GV,SM&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads.xumo_contentId=4303&ads.xumo_contentName=NBCULawOrder&ads.xumo_providerId=4303&ads.xumo_providerName=NBCULawOrder&ads.asnw=169843&ads.appName=lgchannels&ads._fw_deviceType=3-Connected_TV&ads._fw_vcid2=512116:[IFA]&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_ifa_type=dpid&ads._fw_did=[IFA]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/logo_1731835711488.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="TV SERIES", CSI: NY
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62f54c6439183b000769fb8f/logo_1731835711488.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="TV SHOWS", CSI: NY
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="TV SERIES", NCIS
+#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="TV SHOWS", NCIS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/ncis-fast.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png" group-title="TV SERIES",104 NYPD Blue
+#EXTINF:-1 tvg-id="" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NYPDBlue/NYPDBlue_Logo_400x200.png" group-title="TV SHOWS",104 NYPD Blue
 https://amg00497-amg00497c34-amgplt0023.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg00497-amg00497c34-amgplt0023/playlist.m3u8?ads.givn=[NONCE]&ads.viewsize=[VIEWSIZE]&ads.country=[COUNTRY]&ads.devicemodel=[DEVICE_MODEL]&ads.gdprconsent=[GDPR_CONSENT]&ads.ua=[UA]&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.usprivacy=[US_PRIVACY]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.devicetype=[DEVICE_TYPE]&ads.gdpr=[GDPR]&ads.targetad=[TARGETAD_ALLOWED]&ads.appname=[APP_NAME]&ads.donotsell=[DNS]&ads.fck=[FCK]&coppa=0
 
 
-#EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" group-title="TV SERIES",  x-source-url="https://pluto.tv/en/live-tv/midsomer-murders",Midsomer Murders
+#EXTINF:-1 tvg-id="MidsomerMurders.us" tvg-name="Midsomer Murders" group-title="TV SHOWS",  x-source-url="https://pluto.tv/en/live-tv/midsomer-murders",Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="TV SERIES",Home and Away Classics
+#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="TV SHOWS",Home and Away Classics
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas26-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="TV SERIES", Water Rats
+#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="TV SHOWS", Water Rats
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/waterrats-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="TV SERIES", Blue Heelers
+#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="TV SHOWS", Blue Heelers
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/blueheelers-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-acountrypractice-fast" tvg-id="mjh-acountrypractice-fast" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="TV SERIES", A Country Practice
+#EXTINF:-1 channel-id="mjh-acountrypractice-fast" tvg-id="mjh-acountrypractice-fast" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="TV SHOWS", A Country Practice
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="TV SERIES", Winners and Losers
+#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="TV SHOWS", Winners and Losers
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="TV SERIES", rookie-blue
+#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="TV SHOWS", rookie-blue
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-rookieblue.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="TV SERIES", Heartland
+#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="TV SHOWS", Heartland
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-heartland.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="TV SERIES", Prisoner: Cell Block H
+#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="TV SHOWS", Prisoner: Cell Block H
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="TV SERIES", The Twilight Zone
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="TV SHOWS",GET
+https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="TV SHOWS", The Twilight Zone
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="TV SERIES", Diagnosis Murder
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="TV SHOWS", Diagnosis Murder
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVScifiSeries.us" tvg-name="Pluto TV Sci-fi Series" group-title="TV SERIES",  x-source-url="https://pluto.tv/en/live-tv/pluto-tv-sci-fi-series-gb",Pluto TV Sci-fi Series
+#EXTINF:-1 tvg-id="PlutoTVScifiSeries.us" tvg-name="Pluto TV Sci-fi Series" group-title="TV SHOWS",  x-source-url="https://pluto.tv/en/live-tv/pluto-tv-sci-fi-series-gb",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="TV SERIES",  x-source-url="https://watch.plex.tv/live-tv/channel/the-walking-dead-universe-2",The Walking Dead Universe
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" group-title="TV SHOWS",  x-source-url="https://watch.plex.tv/live-tv/channel/the-walking-dead-universe-2",The Walking Dead Universe
 https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 
-#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="TV SERIES",  x-source-url="https://pluto.tv/en/live-tv/baywatch",Baywatch
+#EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" group-title="TV SHOWS",  x-source-url="https://pluto.tv/en/live-tv/baywatch",Baywatch
 https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGoodWife.us" tvg-name="The Good Wife" group-title="TV SERIES", ,The Good Wife
 https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
 
-#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners" group-title="TV SERIES",  x-source-url="https://lionsgatechannels.com/channel/the-conners",The Conners
+#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners" group-title="TV SHOWS",  x-source-url="https://lionsgatechannels.com/channel/the-conners",The Conners
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 
-#EXTINF:-1 tvg-id="Nashville.us" tvg-name="Nashville" group-title="TV SERIES",  x-source-url="https://lionsgatechannels.com/channel/nashville",Nashville
+#EXTINF:-1 tvg-id="Nashville.us" tvg-name="Nashville" group-title="TV SHOWS",  x-source-url="https://lionsgatechannels.com/channel/nashville",Nashville
 https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
 
 
@@ -1734,8 +1748,9 @@ https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 #EXTINF:-1 channel-id="5f77939a630f530007dde654" tvg-id="5f77939a630f530007dde654" tvg-chno="315" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="CLASSIC TV", Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 
-#EXTINF:-1 channel-id="66e0b4a3f0f17500085cc268" tvg-id="66e0b4a3f0f17500085cc268" tvg-chno="311" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="CLASSIC TV", Hit Sitcoms
-https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984054/600x200.png?type=white_cropped" group-title="CLASSIC TV",THE INCREDIBLE HULK
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984054&ads.xumo_streamId=99984054&ads.channelId=99984054&ads.ad_tag_id=149251&ads.csid=lgchannels_au_theincrediblehulk_ssai&ads.channelName=theincrediblehulk_au&ads.xumo_contentName=NBCUUK&ads.xumo_contentId=3913&ads.xumo_providerName=NBCUUK&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
 
 #EXTINF:-1 channel-id="68939e206727ec919bb39061" tvg-id="68939e206727ec919bb39061" tvg-chno="535" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/68939e206727ec919bb39061/colorLogoPNG_1757523507747.png" group-title="CLASSIC TV", Hogan's Heroes
 https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
@@ -1743,10 +1758,16 @@ https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 #EXTINF:-1 channel-id="5f7794a788d29000079d2f07" tvg-id="5f7794a788d29000079d2f07" tvg-chno="620" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG_1731835231895.png" group-title="CLASSIC TV", The Love Boat
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984053/600x200.png?type=white_cropped"group-title="CLASSIC TV", The Six-Million Dollar Man
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984053&ads.xumo_streamId=99984053&ads.channelId=99984053&ads.ad_tag_id=149247&ads.csid=lgchannels_au_thesixmilliondollarman_ssai&ads.channelName=thesixmilliondollarman_au&ads.xumo_contentName=NBCUUK&ads.xumo_contentId=3913&ads.xumo_providerName=NBCUUK&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
 
-#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="CLASSIC TV", I Love Lucy
-https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984058/600x200.png?type=white_cropped"group-title="CLASSIC TV", The Bionic Woman
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984058&ads.xumo_streamId=99984058&ads.channelId=99984058&ads.ad_tag_id=152823&ads.csid=lgchannels_au_nbcubionicwoman_ssai&ads.channelName=thebionicwoman_au&ads.xumo_contentName=NBCUUK&ads.xumo_contentId=3913&ads.xumo_providerName=NBCUUK&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 channel-id="66e0b4a3f0f17500085cc268" tvg-id="66e0b4a3f0f17500085cc268" tvg-chno="311" tvg-name="Hit Sitcoms" tvg-logo="https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png" group-title="CLASSIC TV", Hit Sitcoms
+https://jmp2.uk/plu-66e0b4a3f0f17500085cc268.m3u8
+
 
 #EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="CLASSIC TV", The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
@@ -1764,12 +1785,34 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993022/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="CLASSIC TV", Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 
+#EXTINF:-1 channel-id="6081738748d3200007afb24b" tvg-id="6081738748d3200007afb24b" tvg-chno="556" tvg-name="Highway to Heaven" tvg-logo="https://images.pluto.tv/channels/6081738748d3200007afb24b/colorLogoPNG.png" group-title="CLASSIC TV", Highway to Heaven
+https://jmp2.uk/plu-6081738748d3200007afb24b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="CLASSIC TV",GET
-https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984056/600x200.png?type=white_cropped"group-title="CLASSIC TV", Xena Warrior Princess
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984056&ads.xumo_streamId=99984056&ads.channelId=99984056&ads.ad_tag_id=149253&ads.csid=lgchannels_au_nbcuxenawarriorprincess_ssai&ads.channelName=xenawarriorprincess_au&ads.xumo_contentName=NBCUUK&ads.xumo_contentId=3913&ads.xumo_providerName=NBCUUK&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992304/600x200.png?type=white_cropped" group-title="CLASSIC TV",The Rifleman
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984055/600x200.png?type=white_cropped"group-title="CLASSIC TV", Ironside
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984055&ads.xumo_streamId=99984055&ads.channelId=99984055&ads.ad_tag_id=149249&ads.csid=lgchannels_au_ironside_ssai&ads.channelName=ironside_au&ads.xumo_contentName=NBCUUK&ads.xumo_contentId=3913&ads.xumo_providerName=NBCUUK&ads.xumo_providerId=3913&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="CLASSIC TV", I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984050/600x200.png?type=white_cropped"group-title="CLASSIC TV",Lassie
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984050&ads.xumo_streamId=99984050&ads.channelId=99984050&ads.ad_tag_id=149250&ads.csid=lgchannels_au_nbculassie_ssai&ads.channelName=lassie_au&ads.xumo_contentName=NBCULassie&ads.xumo_contentId=3946&ads.xumo_providerName=NBCULassie&ads.xumo_providerId=3946&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984052/600x200.png?type=white_cropped"group-title="CLASSIC TV", The Lone Ranger
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984052&ads.xumo_streamId=99984052&ads.channelId=99984052&ads.ad_tag_id=149248&ads.csid=lgchannels_au_nbcutheloneranger_ssai&ads.channelName=theloneranger_au&ads.xumo_contentName=NBCUTheLoneRanger&ads.xumo_contentId=3945&ads.xumo_providerName=NBCUTheLoneRanger&ads.xumo_providerId=3945&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992304/600x200.png?type=white_cropped" group-title="CLASSIC TV",RIFLEMAN
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992304&ads.xumo_streamId=99992304&ads.channelId=99992304&ads.ad_tag_id=20165&ads.csid=lgchannels_ca_rifleman_ssai&ads.channelName=rifleman_ca&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Western,EW,Entertainment,GV,Drama,GD&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 channel-id="68503d1736c9361b191e7d89" tvg-id="68503d1736c9361b191e7d89" tvg-chno="556" tvg-name="Gunsmoke" tvg-logo="https://images.pluto.tv/channels/68503d1736c9361b191e7d89/colorLogoPNG_1750164496728.png" group-title="CLASSIC TV", GUNSMOKE
+https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/690-LG-Logo-PNG-100x100_v5.png" group-title="CLASSIC TV",CINEVAULT: Westerns
 https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1/gsn_cinevault_westerns_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=690&wurl_name=CinevaultWesterns&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
@@ -1779,6 +1822,11 @@ https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cined
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.xumo.com/v1/channels/channel/99992285/600x200.png?type=white_cropped" group-title="CLASSIC TV",Xumo Free Westerns
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992285&ads.xumo_streamId=99992285&ads.channelId=99992285&ads.csid=lgchannels_us_xumofreewesterns_ssai&ads.caid=XumoFreeWesterns&ads.channelName=xumofreewesterns_us&ads._fw_coppa=0&ads.xumo_contentName=XumoAggregate&ads.xumo_contentId=5&ads._fw_content_rating=tv-pg&ads.xumo_providerName=XumoAggregate&ads.xumo_providerId=5&ads._fw_content_category=IAB1-7&ads._fw_content_genre=Western,EW,Country,GV,Drama,GD&ads._fw_content_language=en&ads.xumo_imdb_genre=Western&ads.amznappId=51a04667c92e45fd94bae191cb9c6e16&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&includeAssetTags=true&ads.lat=&ads.lon=&ads.osv=&ads.os=webOS&ads.xumo_platform=lg&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_did=[IFA]&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_gdpr=[GDPR]&ads._fw_gdpr_consent=[GDPR_CONSENT]&ads._fw_h_x_country=[COUNTRY]&ads.appName=[APP_NAME]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_app_bundle=[APP_BUNDLE]&ads.appVersion=[APP_VERSION]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984051/600x200.png?type=white_cropped"group-title="CLASSIC TV", Universal Westerns
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984051&ads.xumo_streamId=99984051&ads.channelId=99984051&ads.ad_tag_id=149252&ads.csid=lgchannels_au_nbcuuniversalwesterns_ssai&ads.channelName=universalwesterns_au&ads.xumo_contentName=NBCUUniversalWesterns&ads.xumo_contentId=3947&ads.xumo_providerName=NBCUUniversalWesterns&ads.xumo_providerId=3947&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" group-title="CLASSIC TV",267 Pluto TV Westerns
 https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
