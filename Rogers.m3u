@@ -12,13 +12,17 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/merged/unitedkingdom.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedkingdom.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates10.xml.gz"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+#EXTM3U X-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+#EXTM3U X-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+
 
 ##############################
 ##############################
 #####      BRISBANE     ######
 ##############################
 #############################
+
+
 #EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="Brisbane" , Sky News Australia
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
@@ -594,12 +598,14 @@ https://c.mjh.nz/abc-news.m3u8
 ############      KIDS         ########
 ######################################
 ######################################
+
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1600209&extension=ts&play_token=vpBpqQB3yJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="KIDS",24/7: YOUNG SHELDON
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1761757&extension=ts&play_token=WuynJt9k5b
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 MALCOLM IN THE MIDDLE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1013443&extension=ts&play_token=7S49QK02Bm
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 COBRA KAI
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1601028&extension=ts&play_token=1iNvaRD25B
 
@@ -770,374 +776,31 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="US Discovery Family " tvg-logo="https://static.wixstatic.com/media/6048cf_127e9d6a0435490fa31cf275b40138ab~mv2.png/v1/fill/w_360,h_210,al_c,lg_1,q_85,enc_avif,quality_auto/discoveryd.png" group-title="KIDS",Discovery Family 
 http://xxip25.top:8080/s5pPNV/514479/57347
 
+#EXTINF:-1 tvg-chno="20" tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="KIDS",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="41" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS",Disney Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2591.ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 AHIRU NO SORA
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943573&extension=ts&play_token=aN9qVjfHII
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 AMERICAN DAD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943572&extension=ts&play_token=L9tw98C2Qm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 AQUA TEEN HUNGER FORCE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943571&extension=ts&play_token=rLm6jF99EV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 ARTHUR
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943570&extension=ts&play_token=YTypxJJBGf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 ATOMIC BETTY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943569&extension=ts&play_token=stL1HkHgeE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BARBIE DREAMHOUSE ADVENTURES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943568&extension=ts&play_token=zYo21c6dLv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BATMAN BEYOND
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943567&extension=ts&play_token=HRjRkj8xQz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BIG CITY GREENS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943566&extension=ts&play_token=Y0DMb8HIjV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BOB THE BUILDER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943565&extension=ts&play_token=JAYIwFxXt0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BOB'S BURGERS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943564&extension=ts&play_token=ePuitUBF79
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BORDERTOWN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943563&extension=ts&play_token=IUbdL64ukr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BRICKLEBERRY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943562&extension=ts&play_token=sRMlIuV6tA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 BUBBLE GUPPIES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943561&extension=ts&play_token=kbaRlaQ7Wm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 CHOWDER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943560&extension=ts&play_token=NTvWS7Jeos
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 CLARENCE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943559&extension=ts&play_token=AM1ftbfHIU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 CLONE HIGH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943558&extension=ts&play_token=XkXns2t395
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 CLOSE ENOUGH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943557&extension=ts&play_token=EJTi4pT3xc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 DAWN OF THE CROODS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943556&extension=ts&play_token=5egMqbsBgW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 DOC MCSTUFFINS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943555&extension=ts&play_token=xc8lQRxuwA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 DOUG
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943554&extension=ts&play_token=s7NtXiufHr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 DRAWN TOGETHER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943553&extension=ts&play_token=M5oVwlY2j7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 DUNCANVILLE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943552&extension=ts&play_token=DJrkx0ZpRC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 EXTREME GHOSTBUSTERS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943551&extension=ts&play_token=vvzbNWX9Sz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 FAMILY GUY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943550&extension=ts&play_token=kOjJb4JLJw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 FINAL SPACE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943549&extension=ts&play_token=OouZWS9B78
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 FIRE FORCE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943548&extension=ts&play_token=Njw9frmLB7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 FREAKAZOID!
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943547&extension=ts&play_token=sQy61V5hQJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GARGOYLES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943546&extension=ts&play_token=OPyAZlpPpl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GENERATOR REX
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943545&extension=ts&play_token=E3AAMzeYQz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GIBIATE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943544&extension=ts&play_token=DoVYCY4wmK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GIGANTOSAURUS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943543&extension=ts&play_token=kLrdlW2sTU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GLITCH TECHS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943542&extension=ts&play_token=sj45S1dtMI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GOOF TROOP
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943541&extension=ts&play_token=cpBQXaq5LE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 GRAVITY FALLS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943540&extension=ts&play_token=bKmpPA0CiS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 HAPPY TREE FRIENDS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943539&extension=ts&play_token=TvqguMOTPx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 HELLO NINJA
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943538&extension=ts&play_token=GdCd920PCG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 IRON MAN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943537&extension=ts&play_token=JrUYPLX9dz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 JOHNNY TEST
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943536&extension=ts&play_token=SKmsC5q3Ud
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 JUSTICE LEAGUE UNLIMITED
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943535&extension=ts&play_token=2Fu7ETnKfD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 KIPO AND THE AGE OF WONDERBEASTS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943534&extension=ts&play_token=JrQCU1S55E
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 KRYPTO THE SUPERDOG
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943533&extension=ts&play_token=tQPZVtPKik
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LAZOR WULF
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943532&extension=ts&play_token=elZcf6lPj1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LEGION OF SUPER HEROES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943531&extension=ts&play_token=LepUG14iKR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LEGO CITY ADVENTURES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943530&extension=ts&play_token=0jx4yNFkcD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LIFE WITH LOUIE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943529&extension=ts&play_token=DBHIzgE2r3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LISTENERS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943528&extension=ts&play_token=iVwVIDTnkA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LOONATICS UNLEASHED
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943527&extension=ts&play_token=TX4DFdIpHS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 LOST IN OZ
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943526&extension=ts&play_token=P253IyI7t1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 MAX STEEL
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943525&extension=ts&play_token=OwVSlYLJ4S
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 MIGHTY MAGISWORDS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943524&extension=ts&play_token=serobHnmdw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 MOONBEAM CITY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943523&extension=ts&play_token=k4wt7OZzEs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 MY KNIGHT AND ME
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943522&extension=ts&play_token=WYbhAR0pmZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 NIKO AND THE SWORD OF LIGHT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943521&extension=ts&play_token=upBhRriI7q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 NO GUNS LIFE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943520&extension=ts&play_token=A8sJmIogtB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 OISHINBO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943519&extension=ts&play_token=Nio5XMX99o
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 OTAKU NO VIDEO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943518&extension=ts&play_token=yoXoHE8VqA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 OUR CARTOON PRESIDENT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943516&extension=ts&play_token=FjzdQsiu5H
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 OUR CARTOON PRESIDENT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943517&extension=ts&play_token=NqvHZAgI2k
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PARADISE PD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943515&extension=ts&play_token=ep75G6wLMF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PARTY LEGENDS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943514&extension=ts&play_token=97ebGzsS3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PAW PATROL
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943513&extension=ts&play_token=AWjhZb0Jn4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PETER RABBIT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943512&extension=ts&play_token=ToVIX74q4F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PHINEAS AND FERB
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943511&extension=ts&play_token=3yeUAqdVSO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PIG GOAT BANANA CRICKET
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943510&extension=ts&play_token=E5jk1ovN0v
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PINGU IN THE CITY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943509&extension=ts&play_token=WLwJGJoVmN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PINKY MALINKY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943508&extension=ts&play_token=Fe5GFhEfOb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 POKEMON
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943506&extension=ts&play_token=KwfrZdQucc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 POKEMON
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943507&extension=ts&play_token=zwSYMW5vh2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 POPEYE THE SAILOR
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943505&extension=ts&play_token=Byppwjxjoi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 POPPLES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943504&extension=ts&play_token=fZ2wZhI8ur
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 PUPPY DOG PALS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943503&extension=ts&play_token=hyuuwiM4e0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 RICK AND MORTY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943501&extension=ts&play_token=h6pwaXidCb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 RICK AND MORTY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943502&extension=ts&play_token=baaCrpSurs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 ROCKET POWER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943500&extension=ts&play_token=iQmvlR4QhM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 ROCKO'S MODERN LIFE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943499&extension=ts&play_token=rDVmKiIdQX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 ROLIE POLIE OLIE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943498&extension=ts&play_token=DtD0houJCH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 SHAUN MICALLEF'S MAD AS HELL
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943497&extension=ts&play_token=D2bLST6TVJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 SON OF ZORN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943496&extension=ts&play_token=Fa2Cgs7Iup
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 SQUIDBILLIES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943495&extension=ts&play_token=HJCQJDD4VU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 STARBEAM
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943494&extension=ts&play_token=9MiRG0fpus
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 STEVEN UNIVERSE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943493&extension=ts&play_token=j2bKTAC66V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 TEEN TITANS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943492&extension=ts&play_token=vtXovsJwMo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE 7D
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943491&extension=ts&play_token=EaJMHGbSIQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE ADVENTURES OF PUSS IN BOOTS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943490&extension=ts&play_token=1AL35f8isN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE FAIRLY ODDPARENTS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943489&extension=ts&play_token=8xLJwgdG7F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE GOD OF HIGH SCHOOL
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943488&extension=ts&play_token=cSsoI6IUiE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE LOONEY TUNES SHOW
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943487&extension=ts&play_token=LTgBzJpkV0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE NEW BATMAN ADVENTURES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943486&extension=ts&play_token=5YgEoI7mbO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE PENGUINS OF MADAGASCAR
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943485&extension=ts&play_token=r5I1Rqzyvs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE RACCOONS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943484&extension=ts&play_token=13CKTHK82m
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE SMURFS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943483&extension=ts&play_token=aHaO79uLJ7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE TOM AND JERRY SHOW
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943482&extension=ts&play_token=JaQnwmQIdW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THE TRANSFORMERS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943481&extension=ts&play_token=S2vGBgkkAA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 THUNDERCATS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943480&extension=ts&play_token=WxGtXz8uaK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 TRIPTANK
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943479&extension=ts&play_token=Q9OVhciPy1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 VIXEN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943478&extension=ts&play_token=AT1mIsgLkR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 CARTOON VIP",24/7 ZENIMATION
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1943477&extension=ts&play_token=23pZKKxDfY
+#EXTINF:-1 tvg-chno="42" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="KIDS",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="KIDS",Nick Jr
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74691.ts
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 ARE YOU AFRAID OF THE DARK
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944087&extension=ts&play_token=oDdCdnXnP8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 AS TOLD BY GINGER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944038&extension=ts&play_token=ulIjNCM9Hq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 AUSTIN AND ALLY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944086&extension=ts&play_token=45xdUsQGqx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 BLOW BREEZE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944037&extension=ts&play_token=uPPcbmMnIP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 BOB'S BURGERS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944085&extension=ts&play_token=n9i4stl7rI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 BOY MEETS WORLD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944084&extension=ts&play_token=lEQPxOJtZe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 CARNIVAL EATS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944036&extension=ts&play_token=HS0b8hj1R8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 CATDOG
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944083&extension=ts&play_token=cku1nQRDEb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COCOMELON AND FRIENDS HOLIDAY AND CHRISTMAS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944082&extension=ts&play_token=BnPJhRY5fs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COCOMELON COUNTING AND NUMBERS SONGS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944081&extension=ts&play_token=JIeStDV9aA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COCOMELON HAPPY HOLIDAYS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944080&extension=ts&play_token=2YHuZOa2bo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COCOMELON LITTLE BABY BUM BLIPPI
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944079&extension=ts&play_token=mdwR9u49O2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COCOMELON POPULAR SONGS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944078&extension=ts&play_token=lu72I8lxSA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COCOMELON SHAPES AND COLORS AND MUSIC
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944077&extension=ts&play_token=cdYtCJvc8D
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 CODENAME: KIDS NEXT DOOR
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944076&extension=ts&play_token=k6QtUG4679
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COURAGE THE COWARDLY DOG
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944075&extension=ts&play_token=8nDi0gIZQ6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 COW AND CHICKEN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944074&extension=ts&play_token=zdBJGtBocg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DARIA
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944073&extension=ts&play_token=a1zimhqwXl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DAWSON'S CREEK
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944072&extension=ts&play_token=nCeDoZaYC3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DC SUPER HERO GIRLS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944071&extension=ts&play_token=Ihz8UtoaBj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DETECTIVE CONAN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944070&extension=ts&play_token=jbLlF5h7ll
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DIARY OF A FUTURE PRESIDENT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944068&extension=ts&play_token=VvoBOaL0Yh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DIARY OF A FUTURE PRESIDENT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944069&extension=ts&play_token=SvL1WTW0En
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DISNEY FAMILY SUNDAYS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944035&extension=ts&play_token=tQaDBK2TU1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DRAGON BALL Z
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944067&extension=ts&play_token=u6ubt4N3wG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DRAKE & JOSH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944066&extension=ts&play_token=XcW8wQXo1j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DUCKTALES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944064&extension=ts&play_token=IXYQqQTyAQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 DUCKTALES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944065&extension=ts&play_token=wKCEH3lL6n
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 ELENA OF AVALOR
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944034&extension=ts&play_token=6b0NeSrnJQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 FAIRLY ODDPARENTS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944063&extension=ts&play_token=D8DPnDK7ID
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 FREE REIN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944033&extension=ts&play_token=YJldLVXjDv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 FULLER HOUSE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944032&extension=ts&play_token=k8SKDENMWE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 FUTURAMA
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944062&extension=ts&play_token=AGDHjDbrj0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 GIRL MEETS FARM
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944031&extension=ts&play_token=QBj2BOPFgi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 GOGGLEBOX
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944030&extension=ts&play_token=mT9vM57Nn3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 GOLDEN POUCH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944029&extension=ts&play_token=66cO1xAjeW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 GOOSEBUMPS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944061&extension=ts&play_token=ERYVtLdamx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 HANNAH MONTANA
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944028&extension=ts&play_token=c7kzSUzOqF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 HAPPY HOME
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944027&extension=ts&play_token=wJ1RtH8bSX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 HARVEY BEAKS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944026&extension=ts&play_token=91EuuXNsME
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 HENRY DANGER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944060&extension=ts&play_token=PqeOxxDY01
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 HOUSE OF ANUBIS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944025&extension=ts&play_token=nHYrVOZy5h
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 JAKE AND THE NEVER LAND PIRATES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944024&extension=ts&play_token=xPKYeUgnpl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 JAMIE JOHNSON
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944023&extension=ts&play_token=O4zbppo2Jf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 JESSIE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944059&extension=ts&play_token=6aJZ0IU6iF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 JOHNNY BRAVO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944058&extension=ts&play_token=3RqL8aWswp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 JUST ADD MAGIC
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944022&extension=ts&play_token=vsG5R8WmZt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 KING OF THE HILL
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944057&extension=ts&play_token=keXN7XBf5p
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 KNIGHT SQUAD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944056&extension=ts&play_token=qvaKC7srnd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 LIFE WITH DEREK
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944021&extension=ts&play_token=WnefNsfztq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 MALCOLM IN THE MIDDLE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944020&extension=ts&play_token=n5pwItQnH0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 MILES FROM TOMORROWLAND
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944019&extension=ts&play_token=BgWvHYdrKg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 MILO MURPHY'S LAW
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944018&extension=ts&play_token=eprl0O4Nft
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 MY PERFECT LANDING
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944017&extension=ts&play_token=KQlPEZukvn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 ONE PUNCH MAN WANPANMAN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944055&extension=ts&play_token=DQ8MWZoudD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 PEPPA PIG
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944054&extension=ts&play_token=4nvgxqYzk6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 PJ MASKS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944053&extension=ts&play_token=POHuVXJQUK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 POWER RANGERS IN SPACE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944052&extension=ts&play_token=xYZOHdkJ1I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 POWER RANGERS TURBO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944051&extension=ts&play_token=mNTsrndQNV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 POWER RANGERS ZEO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944050&extension=ts&play_token=xD3phIJMcx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 RAVEN'S HOME
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944049&extension=ts&play_token=iM64VYRvWh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 RECESS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944048&extension=ts&play_token=SMdLudWc36
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 RIDE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944016&extension=ts&play_token=MyTRC3dYdb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 SEE DAD RUN
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944015&extension=ts&play_token=6sfSYOX8OI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 SHAKE IT UP
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944014&extension=ts&play_token=qJPGC4Pvtf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 SOFIA THE FIRST
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944013&extension=ts&play_token=9kpvWY7xE0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 SONIC UNDERGROUND
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944046&extension=ts&play_token=bDujOe9tQd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 SPLITTING UP TOGETHER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944012&extension=ts&play_token=FhP9PSnlvR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 SPONGEBOB SQUAREPANTS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944045&extension=ts&play_token=4jld9BXp6C
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 TERRY CREWS SAVES CHRISTMAS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944011&extension=ts&play_token=QeVeEvol1Y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE FLINTSTONES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944010&extension=ts&play_token=G4ADxwKpS2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE INBESTIGATORS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944009&extension=ts&play_token=8zmkiya66V
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE JETSONS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944044&extension=ts&play_token=eQYj2zV2cI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE JOY OF PAINTING
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944008&extension=ts&play_token=Y1oq4n5uwg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE LITTLE MERMAID
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944007&extension=ts&play_token=NJUyjwNtoy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE NEXT STEP
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944006&extension=ts&play_token=PseAmQF6AJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE OWL HOUSE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944043&extension=ts&play_token=oHANmWBA8G
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE POWERPUFF GIRLS
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944042&extension=ts&play_token=wJK6Q7vP5c
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE SUITE LIFE ON DECK
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944005&extension=ts&play_token=9P2WwkrBDC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE WORST WITCH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944040&extension=ts&play_token=mGXH3OxCeP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 THE WORST WITCH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944041&extension=ts&play_token=llgWcBOaOe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 TOM AND JERRY TALES
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944039&extension=ts&play_token=xj4eN8yXMx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 UNIKITTY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944004&extension=ts&play_token=3BZX2QW8HQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 WANDER OVER YONDER
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944003&extension=ts&play_token=KVe0CLN4H0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",24/7 YOUNG DRACULA
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944002&extension=ts&play_token=o49Z33YXoR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/24-7.png" group-title="24/7 KIDS/FAMILY VIP",THE TEENAGE WITCH
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1944047&extension=ts&play_token=425pGhYy9r
+#EXTINF:-1 tvg-chno="98" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="KIDS",Nicktoons
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3674.ts
+#EXTINF:-1 tvg-chno="104" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="KIDS",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="KIDS",Pop TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3863.ts
+
+
+
+
+
 ###############################################################################
 ###############################################################################
 #################    ENTERTAINMENT     ##########################################
@@ -1147,6 +810,664 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=194
 
 ##############################################     USA    ENTERTAINMENT     ########################################################################################################
 
+
+#EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="ENTERTAINMENT",A&E TV
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="ENTERTAINMENT",ABC
+http://stream.cammonitorplus.net/1809/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="ENTERTAINMENT",ACC Network
+http://23.237.104.106:8080/USA_ACCN/mpegts
+#EXTINF:-1 tvg-chno="4" tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="Adult Swim" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="ENTERTAINMENT",Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="ENTERTAINMENT",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="ASPiRE.HD.us2" tvg-name="Aspire" tvg-logo="https://i.gyazo.com/0dec42cc5ef48c489cc10db906dc5b9b.png" group-title="ENTERTAINMENT",Aspire
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21630.ts
+#EXTINF:-1 tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="ENTERTAINMENT",AXS TV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="ENTERTAINMENT",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="ENTERTAINMENT",BET
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
+#EXTINF:-1 tvg-chno="13" tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="ENTERTAINMENT",Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-chno="17" tvg-id="Bravo.HD.us2" tvg-name="Bravo TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="ENTERTAINMENT",Bravo TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2655.ts
+#EXTINF:-1 tvg-chno="18" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="ENTERTAINMENT",Buzzr
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="ENTERTAINMENT",CBS
+http://stream.cammonitorplus.net/1810/index.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="ENTERTAINMENT",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-chno="26" tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="ENTERTAINMENT",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 tvg-chno="29" tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="ENTERTAINMENT",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-chno="30" tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82470_dark_360w_270h.png" group-title="ENTERTAINMENT",Comedy TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/77411.ts
+#EXTINF:-1 tvg-chno="31" tvg-id="Comet.us2" tvg-name="Comet TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="ENTERTAINMENT",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117160_dark_360w_270h.png" group-title="ENTERTAINMENT",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="COZI.TV.us2" tvg-name="Cozi TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78851_dark_360w_270h.png" group-title="ENTERTAINMENT",Cozi TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2604.ts
+#EXTINF:-1 tvg-chno="36" tvg-id="WPIX-DT.us_locals1" tvg-name="CW" tvg-logo="https://i.gyazo.com/afd5b481b327d204087dfde6a7741f9d.png" group-title="ENTERTAINMENT",CW
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3115.ts
+#EXTINF:-1 tvg-chno="43" tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="https://i.gyazo.com/f73b80e3eb56cec06df6705d00e2f422.png" group-title="ENTERTAINMENT",E! Entertainment
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="WFLD-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="ENTERTAINMENT",Fox
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="ENTERTAINMENT",Freeform TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2502.ts
+#EXTINF:-1 tvg-chno="56" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="ENTERTAINMENT",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="ENTERTAINMENT",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="ENTERTAINMENT",FX Movie Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
+#EXTINF:-1 tvg-chno="59" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="ENTERTAINMENT",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="ENTERTAINMENT",FYI TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30924.ts
+#EXTINF:-1 tvg-chno="61" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="ENTERTAINMENT",Game Show Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648975.ts
+#EXTINF:-1 tvg-chno="62" tvg-id="get.us2" tvg-name="getTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82563_dark_360w_270h.png" group-title="ENTERTAINMENT",getTV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/30928.ts
+#EXTINF:-1 tvg-chno="65" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="ENTERTAINMENT",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png" group-title="ENTERTAINMENT",Hallmark Family
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/660922.ts
+#EXTINF:-1 tvg-chno="67" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="ENTERTAINMENT",Hallmark Mystery
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2492.ts
+#EXTINF:-1 tvg-chno="73" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="ENTERTAINMENT",HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="ENTERTAINMENT",INSP
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/74682.ts
+#EXTINF:-1 tvg-chno="76" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="ENTERTAINMENT",ION TV
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/555699.ts
+#EXTINF:-1 tvg-chno="77" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="ENTERTAINMENT",Lifetime
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645914.ts
+#EXTINF:-1 tvg-chno="78" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="ENTERTAINMENT",Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-chno="84" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="ENTERTAINMENT",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="ENTERTAINMENT",Outdoor Channel
+http://23.237.104.106:8080/USA_OUTDOOR/mpegts
+#EXTINF:-1 tvg-chno="101" tvg-id="Ovation.HD.us2" tvg-name="Ovation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15807_dark_360w_270h.png" group-title="ENTERTAINMENT",Ovation
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/31180.ts
+#EXTINF:-1 tvg-chno="102" tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen" tvg-logo="https://i.gyazo.com/68db5ec4dba40181592406e7c3128fc7.png" group-title="ENTERTAINMENT",Oxygen
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3756.ts
+#EXTINF:-1 tvg-chno="103" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="ENTERTAINMENT",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="ENTERTAINMENT",Smithsonian Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3812.ts
+#EXTINF:-1 tvg-chno="117" tvg-id="Space.City.Home.Network.HD.us2" tvg-name="Space City Home Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77744_dark_360w_270h.png" group-title="ENTERTAINMENT",Space City Home Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/663927.ts
+#EXTINF:-1 tvg-chno="128" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="ENTERTAINMENT",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="131" tvg-id="TLC.HD.(US).us2" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="ENTERTAINMENT",TLC
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2594.ts
+#EXTINF:-1 tvg-chno="132" tvg-id="TNT.HD.us2" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="ENTERTAINMENT",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="ENTERTAINMENT",truTV
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="ENTERTAINMENT",TV Land
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.ts
+#EXTINF:-1 tvg-chno="138" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="ENTERTAINMENT",TV One
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.ts
+#EXTINF:-1 tvg-chno="139" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="ENTERTAINMENT",USA Network
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3767.ts
+#EXTINF:-1 tvg-chno="140" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="ENTERTAINMENT",VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="Vice.HD.us2" tvg-name="Vice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="ENTERTAINMENT",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-id="WE.tv.HD.us2" tvg-name="We Tv" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="ENTERTAINMENT",We Tv
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="ENTERTAINMENT",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+#EXTINF:-1 channel-id="mjh-7now-fast" tvg-id="mjh-7now-fast" tvg-logo="https://i.mjh.nz/.images/auto-7now-fast-c5b39e.png" group-title="ENTERTAINMENT",7now
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/7now-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-7bravo-fast" tvg-id="mjh-7bravo-fast" tvg-logo="https://i.mjh.nz/.images/auto-7bravo-fast-04647e.png" tvg-chno="75" group-title="ENTERTAINMENT", 7Bravo
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/7bravo-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="ENTERTAINMENT", 7NEWS Spotlight
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas32-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-surveillancecentral-fast" tvg-id="mjh-surveillancecentral-fast" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="ENTERTAINMENT", Surveillance Central
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="mjh-bluelight-fast" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="ENTERTAINMENT", Blue Light
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bluelight-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="ENTERTAINMENT", Real Emergency
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/real-emergency-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="ENTERTAINMENT", Medical And Rescue
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="ENTERTAINMENT", 24 Hours in A&E
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas39-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="ENTERTAINMENT", Bondi Rescue
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas41-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="ENTERTAINMENT", Outback Truckers
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-truckinghell-fast" tvg-id="mjh-truckinghell-fast" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="ENTERTAINMENT", Trucking Hell
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/truckinghell-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="ENTERTAINMENT", Anglers Paradise
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/anglersparadise-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-rmc-fast" tvg-id="mjh-rmc-fast" tvg-logo="https://i.mjh.nz/.images/auto-rmc-fast-cd77f2.png" group-title="ENTERTAINMENT", River Monsters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/rmc-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-wtn-fast" tvg-id="mjh-wtn-fast" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="ENTERTAINMENT", Wicked Tuna
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/wtn-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-highwaythruhell" tvg-id="mjh-10-highwaythruhell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="ENTERTAINMENT", Highway Thru Hell
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="ENTERTAINMENT", COPS
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-cops.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="ENTERTAINMENT", Medical Emergency
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-medical-emergency.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="ENTERTAINMENT",CSI Crime Scene Investigation
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="ENTERTAINMENT", NCIS
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/ncis-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="ENTERTAINMENT", Seinfeld
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/seinfeld-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-comedy-fast" tvg-id="mjh-bbc-comedy-fast" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="ENTERTAINMENT", BBC Comedy
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="ENTERTAINMENT", 9Crime
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/9crime-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="mjh-10-deadlywomen" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="ENTERTAINMENT", Deadly Women
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-deadlywomen.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-crime-time" tvg-id="mjh-10-crime-time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="ENTERTAINMENT", Crime Time
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-crime-time.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-crime-hunters" tvg-id="mjh-10-crime-hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="ENTERTAINMENT", Crime Hunters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-crime-hunters.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-logo="https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo" group-title="ENTERTAINMENT", 48 Hours
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="ENTERTAINMENT", True Stories
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-true-stories.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-married-at-first-sight-fast" tvg-id="mjh-married-at-first-sight-fast" tvg-logo="https://imageresizer.static9.net.au/OCF69HZLp4AWm0cGB8bvgx4U8mQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585176%2Fsquircle_mafs.png" group-title="ENTERTAINMENT", Married At First Sight
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="ENTERTAINMENT", BBC Top Gear
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-aircrashinvestigations-fast" tvg-id="mjh-aircrashinvestigations-fast" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="ENTERTAINMENT",Air Crash Investigations
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-betterhomesandgardens-fast" tvg-id="mjh-betterhomesandgardens-fast" tvg-logo="https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png" group-title="ENTERTAINMENT",Better Homes And Gardens
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/betterhomesandgardens-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas33-fast" tvg-id="mjh-cas33-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="ENTERTAINMENT",The Yorkshire Vet
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas33-fast.m3u8
+#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="ENTERTAINMENT",Mythbusters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/mythbusters-fast.m3u8
+#EXTINF:-1 channel-id="mjh-cas24-fast" tvg-id="mjh-cas24-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="ENTERTAINMENT",Bondi Vet
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas24-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-kitchennightmares-fast" tvg-id="mjh-kitchennightmares-fast" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="ENTERTAINMENT", Kitchen Nightmares
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-heki-fast" tvg-id="mjh-heki-fast" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="ENTERTAINMENT", Hells Kitchen
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/heki-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-art-fast" tvg-id="mjh-art-fast" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="ENTERTAINMENT", Antiques Road Trip
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/art-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-bbc-antiques-roadshow-247-fast" tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="ENTERTAINMENT", BBC Antiques Roadshow
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-travelaus-fast" tvg-id="mjh-travelaus-fast" tvg-logo="https://i.mjh.nz/.images/auto-travelaus-fast-cfd556.png" group-title="ENTERTAINMENT",Travel Australia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/travelaus-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-mightymachines-fast" tvg-id="mjh-mightymachines-fast" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="ENTERTAINMENT",Mighty Machines
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/mightymachines-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="mjh-cas21-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="ENTERTAINMENT",Ghost Hunters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas21-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="ENTERTAINMENT", 9Mystery&Paranormal
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="ENTERTAINMENT", Haunt TV
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-haunt-tv.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-ghosthunters" tvg-id="mjh-10-ghosthunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="ENTERTAINMENT", Ghost Hunters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-ghosthunters.m3u8
+
+
+
+#EXTINF:-1 channel-id="mjh-onthecase-fast" tvg-id="mjh-onthecase-fast" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="ENTERTAINMENT",On The Case
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/onthecase-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-cas25-fast" tvg-id="mjh-cas25-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas25-fast-fb94a0.png" group-title="ENTERTAINMENT",Australia's Got Talent
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas25-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="ENTERTAINMENT",Home and Away Classics
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas26-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="ENTERTAINMENT", Water Rats
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/waterrats-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="ENTERTAINMENT", Winners and Losers
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-judgejudy-fast" tvg-id="mjh-judgejudy-fast" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="ENTERTAINMENT", Judge Judy
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/judgejudy-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="ENTERTAINMENT", All-Star Cinema
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/all-starcinema-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="ENTERTAINMENT", Blue Heelers
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/blueheelers-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-acountrypractice-fast" tvg-id="mjh-acountrypractice-fast" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="ENTERTAINMENT", A Country Practice
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/acountrypractice-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="ENTERTAINMENT", True Crime Files
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-belowdeckvault-fast" tvg-id="mjh-belowdeckvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png" group-title="ENTERTAINMENT", Below Deck Vault
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/belowdeckvault-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-tvsn-fast" tvg-id="mjh-tvsn-fast" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" tvg-chno="77" group-title="ENTERTAINMENT", TVSN
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/tvsn-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-etc-fast" tvg-id="mjh-etc-fast" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="ENTERTAINMENT", Escape to the Country
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/etc-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-therealhousewivesvault-fast" tvg-id="mjh-therealhousewivesvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="ENTERTAINMENT", The Real Housewives VAULT
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/therealhousewivesvault-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-botchedvault-fast" tvg-id="mjh-botchedvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="ENTERTAINMENT", Botched VAULT
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/botchedvault-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="mjh-cas40-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="ENTERTAINMENT", Million Dollar Listing VAULT
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas40-fast.m3u8
+
+
+
+#EXTINF:-1 channel-id="mjh-dance-moms-247-fast" tvg-id="mjh-dance-moms-247-fast" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="ENTERTAINMENT", Dance Moms 24/7
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-lmn-fast" tvg-id="mjh-lmn-fast" tvg-logo="https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png" group-title="ENTERTAINMENT", LMN
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/lmn-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="mjh-the-block-247-fast" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="ENTERTAINMENT", The Block 24/7
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/the-block-247-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-h2-fast" tvg-id="mjh-h2-fast" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="ENTERTAINMENT", H2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/h2-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="ENTERTAINMENT", 60 Minutes Australia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="ENTERTAINMENT", Drive
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/drive-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-bbc-home-garden-fast" tvg-id="mjh-bbc-home-garden-fast" tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="ENTERTAINMENT", BBC Home & Garden
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-home-garden-fast.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-10-haveyoubeenpayingattention" tvg-id="mjh-10-haveyoubeenpayingattention" tvg-logo="https://10.com.au/ip/s3/2024/12/17/20963e84ceedc64212b60c21c883e5c4-1356262.png?image-profile=logo" group-title="ENTERTAINMENT", Have You Been Paying Attention?
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-haveyoubeenpayingattention.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtv-jersey-shore" tvg-id="mjh-10-mtv-jersey-shore" tvg-logo="https://10.com.au/ip/s3/2024/07/22/c0f6c4c235b6c6c3cfbce14921c9296a-1328660.png?image-profile=logo" group-title="ENTERTAINMENT", MTV Jersey Shore
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-mtv-jersey-shore.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-world-of-survivor" tvg-id="mjh-10-world-of-survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="ENTERTAINMENT", World Of Survivor
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-world-of-survivor.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="ENTERTAINMENT", Becker
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-becker.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-demanddrama" tvg-id="mjh-10-demanddrama" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c74394cd357189d5310b9c1a661279d5-1401182.png?image-profile=logo" group-title="ENTERTAINMENT", Demand Drama
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-demanddrama.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" group-title="ENTERTAINMENT", The Graham Norton Show
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-grahamnorton.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="ENTERTAINMENT", 8 Out Of 10 Cats
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtvridiculousness" tvg-id="mjh-10-mtvridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="ENTERTAINMENT", MTV Ridiculousness
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-mtvridiculousness.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-cheapseats" tvg-id="mjh-10-cheapseats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="ENTERTAINMENT", The Cheap Seats
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-cheapseats.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-thankgodyourehere" tvg-id="mjh-10-thankgodyourehere" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="ENTERTAINMENT", Thank God You're Here
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-south-park" tvg-id="mjh-10-south-park" tvg-logo="https://10.com.au/ip/s3/2023/08/03/41a79ba6a28f011b379ea68d41c28ea0-1253591.png?image-profile=logo" group-title="ENTERTAINMENT", South Park
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-south-park.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" group-title="ENTERTAINMENT", Adult Animation
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-adultanimation.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="ENTERTAINMENT", rookie-blue
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-rookieblue.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="ENTERTAINMENT", Heartland
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-heartland.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="ENTERTAINMENT", Prisoner: Cell Block H
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="ENTERTAINMENT", The Twilight Zone
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="ENTERTAINMENT", Diagnosis Murder
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-diagnosismurder.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="mjh-10-projectrunway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="ENTERTAINMENT", Project Runway
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-projectrunway.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-americas-next-top-model" tvg-id="mjh-10-americas-next-top-model" tvg-logo="https://10.com.au/ip/s3/2023/06/28/8db83f030cafec640ddec14612d03daa-1246018.png?image-profile=logo" group-title="ENTERTAINMENT", America's Next Top Model
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-americas-next-top-model.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-australias-next-top-model" tvg-id="mjh-10-australias-next-top-model" tvg-logo="https://10.com.au/ip/s3/2024/06/03/224a876a47cdb7e1a8b3bb1eeca17565-1318253.png?image-profile=logo" group-title="ENTERTAINMENT", Australia's Next Top Model
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-australias-next-top-model.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="ENTERTAINMENT", MasterChef
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-masterchef.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-twentyfoursevengameshows" tvg-id="mjh-10-twentyfoursevengameshows" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c583accb5c213a54fd36f23a829c5ba4-1401207.png?image-profile=logo" group-title="ENTERTAINMENT", 24/7 Gameshows
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-theonlywayisessex" tvg-id="mjh-10-theonlywayisessex" tvg-logo="https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo" group-title="ENTERTAINMENT", The Only Way Is Essex
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-theonlywayisessex.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtvgeordieshore" tvg-id="mjh-10-mtvgeordieshore" tvg-logo="https://10.com.au/ip/s3/2024/02/19/bf63da35ab6b66b6af03dec697ccaf99-1298650.png?image-profile=logo" group-title="ENTERTAINMENT", MTV Geordie Shore
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-mtvgeordieshore.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-mtv-reality" tvg-id="mjh-10-mtv-reality" tvg-logo="https://10.com.au/ip/s3/2023/09/25/f51b3f2548dfdb88949cdbd13f037679-1266119.png?image-profile=logo" group-title="ENTERTAINMENT", MTV Reality
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-mtv-reality.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="mjh-10-undercoverboss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo" group-title="ENTERTAINMENT", Undercover Boss
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-undercoverboss.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-hardcorepawn" tvg-id="mjh-10-hardcorepawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="ENTERTAINMENT", Hardcore Pawn
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-hardcorepawn.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-wicked-tuna" tvg-id="mjh-10-wicked-tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="ENTERTAINMENT", Wicked Tuna
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-wicked-tuna.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-embarrassing-bodies" tvg-id="mjh-10-embarrassing-bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo" group-title="ENTERTAINMENT", Embarrassing Bodies
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-anthonybourdain" tvg-id="mjh-10-anthonybourdain" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="ENTERTAINMENT", Anthony Bourdain: Parts Unknown
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-anthonybourdain.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-wildest" tvg-id="mjh-10-wildest" tvg-logo="https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo" group-title="ENTERTAINMENT", Wildest
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-wildest.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-shockwave" tvg-id="mjh-10-shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="ENTERTAINMENT", Shockwave
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-shockwave.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-historyandwarfare" tvg-id="mjh-10-historyandwarfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="ENTERTAINMENT", History & Warfare
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="ENTERTAINMENT", Sharks & Other Predators
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-documentaryshell.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-romancemovies" tvg-id="mjh-10-romancemovies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="ENTERTAINMENT", Romance Movies
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-romancemovies.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="ENTERTAINMENT", Moviesphere
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-moviesphere.m3u8
+
+
+################################################################################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45619.png" group-title="US| ENTERTAINMENT",US| A&E HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=45619&extension=ts&play_token=Q260XpmLiZ
@@ -1760,139 +2081,130 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=145
 ##########################################    DISCOVERY / DOCUMENTARY     ###############################################################################################################
 
 
+#################################    100%   WORKING    #######################################################################################################
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ANIMALPLANET.png" group-title="UK| DISCOVERY +",D+| ANIMAL PLANET FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549398&extension=ts&play_token=dLFZAuWhBz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYHISTORY.png" group-title="UK| DISCOVERY +",D+| DISCOVERY HISTORY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549400&extension=ts&play_token=Jkqu1TNxWy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYSCIENCE.png" group-title="UK| DISCOVERY +",D+| DISCOVERY SCIENCE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549401&extension=ts&play_token=KdQ79bXuSD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYTURBO.png" group-title="UK| DISCOVERY +",D+| DISCOVERY TURBO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549402&extension=ts&play_token=AV97AvgI7Y
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DMAX.png" group-title="UK| DISCOVERY +",D+| DMAX
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549403&extension=ts&play_token=4M0sBBP2HL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" group-title="UK| DISCOVERY +",D+| FOOD NETWORK
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549404&extension=ts&play_token=CCj4yLFI8U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HGTV.png" group-title="UK| DISCOVERY +",D+| HGTV
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549405&extension=ts&play_token=EjBn2PqV4C
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ID.png" group-title="UK| DISCOVERY +",D+| ID
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549406&extension=ts&play_token=BXSHDA3SRw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUEST.png" group-title="UK| DISCOVERY +",D+| QUEST HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549397&extension=ts&play_token=Ped7K6bXlY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUESTRED.png" group-title="UK| DISCOVERY +",D+| QUEST RED HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549407&extension=ts&play_token=x2mVQcljJu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALLY.png" group-title="UK| DISCOVERY +",D+| REALLY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549408&extension=ts&play_token=a2da5iaS1N
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" group-title="UK| DISCOVERY +",D+| TLC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=549409&extension=ts&play_token=yl9zYxqNg1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164005.png" group-title="UK| DOCUMENTARY",UK| 5 SELECT
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164005&extension=ts&play_token=fLMU8q65Qw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" group-title="UK| DOCUMENTARY",UK| ANIMAL PLANET FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30582&extension=ts&play_token=ldkOTJ85B4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164033.png" group-title="UK| DOCUMENTARY",UK| ANIMAL PLNT +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164033&extension=ts&play_token=IT1R3O3NP1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014333.png" group-title="UK| DOCUMENTARY",UK| CRIME INVESTIGATION +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1014333&extension=ts&play_token=jXMyEhEa5L
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30551.png" group-title="UK| DOCUMENTARY",UK| CRIME INVESTIGATION FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30551&extension=ts&play_token=vAulBBfxwy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164044.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164044&extension=ts&play_token=PvBkCNPRSu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30549&extension=ts&play_token=fh9PmoDsx2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074678.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1074678&extension=ts&play_token=SeDAmMGaem
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45283.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY HISTORY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=45283&extension=ts&play_token=i1yhJh6jMc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45281.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY SCIENCE
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=45281&extension=ts&play_token=nJdQzgI74h
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074679.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY SD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1074679&extension=ts&play_token=lV9fw6JwGV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45279.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY TURBO
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=45279&extension=ts&play_token=MQ4CFTzawg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014338.png" group-title="UK| DOCUMENTARY",UK| DISCOVERY TURBO +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1014338&extension=ts&play_token=vt0skUTvNY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164004.png" group-title="UK| DOCUMENTARY",UK| DMAX
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164004&extension=ts&play_token=j7Tdz0jxLC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164042.png" group-title="UK| DOCUMENTARY",UK| DMAX +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164042&extension=ts&play_token=OtU9I0UK4Z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1283923.png" group-title="UK| DOCUMENTARY",UK| EARTHX TV
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1283923&extension=ts&play_token=6CAPZfEr2l
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" group-title="UK| DOCUMENTARY",UK| HISTORY 2 FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30535&extension=ts&play_token=Gw5Fd5UuLW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" group-title="UK| DOCUMENTARY",UK| HISTORY FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30534&extension=ts&play_token=TcjA7wlzvr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164051.png" group-title="UK| DOCUMENTARY",UK| ID +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164051&extension=ts&play_token=LlVqeob3oC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/45270.png" group-title="UK| DOCUMENTARY",UK| INVESTIGATION DISCOVERY
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=45270&extension=ts&play_token=2wiHSFXvEf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" group-title="UK| DOCUMENTARY",UK| NAT GEO +1
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1014334&extension=ts&play_token=k5qGIIvRhH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30526.png" group-title="UK| DOCUMENTARY",UK| NAT GEO FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30526&extension=ts&play_token=t4K5A4Pe03
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057011.png" group-title="UK| DOCUMENTARY",UK| NAT GEO HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1057011&extension=ts&play_token=fH0rfYBHEJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057012.png" group-title="UK| DOCUMENTARY",UK| NAT GEO SD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1057012&extension=ts&play_token=MUr4fwcTg6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30525.png" group-title="UK| DOCUMENTARY",UK| NAT GEO WILD FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=30525&extension=ts&play_token=kyk8gwJwtm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057013.png" group-title="UK| DOCUMENTARY",UK| NAT GEO WILD HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1057013&extension=ts&play_token=hUqasTyQOv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1057014.png" group-title="UK| DOCUMENTARY",UK| NAT GEO WILD SD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1057014&extension=ts&play_token=OajP4GEKA5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164073.png" group-title="UK| DOCUMENTARY",UK| SKY CRIME FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164073&extension=ts&play_token=9MymNrTO4T
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" group-title="UK| DOCUMENTARY",UK| SKY DOCUMENTARIES FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164072&extension=ts&play_token=LFyXhStXFt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074676.png" group-title="UK| DOCUMENTARY",UK| SKY DOCUMENTARIES HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1074676&extension=ts&play_token=F2vIz0w7A9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1074677.png" group-title="UK| DOCUMENTARY",UK| SKY DOCUMENTARIES SD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1074677&extension=ts&play_token=Kh6PXqLwQc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014335.png" group-title="UK| DOCUMENTARY",UK| SKY HISTORY HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1014335&extension=ts&play_token=wSBDeL2T0A
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1014336.png" group-title="UK| DOCUMENTARY",UK| SKY HISTORY/H2 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1014336&extension=ts&play_token=2Mmbn8DeAX
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" group-title="UK| DOCUMENTARY",UK| SKY NATURE FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=164071&extension=ts&play_token=Nan1ywKW5u
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/79718.png" group-title="UK| DOCUMENTARY",UK| TRAVEL CHANNEL
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=79718&extension=ts&play_token=RYURbdX8wj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CRIMEINVESTIGATION.png" group-title="UK| DOCUMENTARY HEVC",UK| CRIME INVESTIGATION HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458757&extension=ts&play_token=AZkr8FalOp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CRIMEINVESTIGATION.png" group-title="UK| DOCUMENTARY HEVC",UK| CRIME INVESTIGATION HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458763&extension=ts&play_token=RkoUaLZDOE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" group-title="UK| DOCUMENTARY HEVC",UK| DISCOVERY HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458756&extension=ts&play_token=UIPGkQ5ZMq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERY.png" group-title="UK| DOCUMENTARY HEVC",UK| DISCOVERY HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458759&extension=ts&play_token=Yks7p9bD1p
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="UK| DOCUMENTARY HEVC",UK| Nat Geo WIld HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458748&extension=ts&play_token=KXUtQqIsTG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATGEOWLD.png" group-title="UK| DOCUMENTARY HEVC",UK| NAT GEO WIld HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458745&extension=ts&play_token=iSCeoU8sUf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" group-title="UK| DOCUMENTARY HEVC",UK| NATIONAL GEO HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458749&extension=ts&play_token=YnHv9OUZOv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NATIONALGEO.png" group-title="UK| DOCUMENTARY HEVC",UK| NATIONAL GEO HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458746&extension=ts&play_token=uPEBr35sLI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY CRIME HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458761&extension=ts&play_token=FVDc8FkH9a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCRIME.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY CRIME HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458760&extension=ts&play_token=Rvb1V5gg2z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY HISTORY 2 HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458752&extension=ts&play_token=LXv1QFIss3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY2.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY HISTORY 2 HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458750&extension=ts&play_token=2474DmmgVh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY HISTORY HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458753&extension=ts&play_token=0KpZhgmxVg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYHISTORY.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY HISTORY HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458751&extension=ts&play_token=mGOl6FbKOw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY NATURE HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458747&extension=ts&play_token=gKtgJWrOFt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNATURE.png" group-title="UK| DOCUMENTARY HEVC",UK| SKY NATURE HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458758&extension=ts&play_token=YBKoUNr6ES
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SYFY.png" group-title="UK| DOCUMENTARY HEVC",UK| SYFY HEVC FHD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458754&extension=ts&play_token=kJlbD3rTJD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SYFY.png" group-title="UK| DOCUMENTARY HEVC",UK| SYFY HEVC HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:8F:31:A8&stream=1458755&extension=ts&play_token=n9jOROPYUj
+#EXTINF:-1 tvg-chno="7" tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTARY",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61469_dark_360w_270h.png" group-title="DOCUMENTARY",Crime & Investigation Network
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+#EXTINF:-1 tvg-chno="37" tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="DOCUMENTARY",Discovery Channel
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-chno="38" tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="DOCUMENTARY",Discovery Family Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2598.ts
+#EXTINF:-1 tvg-chno="39" tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="DOCUMENTARY",Discovery Life
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2597.ts
+#EXTINF:-1 tvg-chno="40" tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="DOCUMENTARY",Discovery Science
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2595.ts
+#EXTINF:-1 tvg-chno="72" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="DOCUMENTARY",History Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/645913.ts
+#EXTINF:-1 tvg-chno="75" tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="DOCUMENTARY",Investigation Discovery
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/88083.ts
+#EXTINF:-1 tvg-chno="85" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="DOCUMENTARY",National Geographic
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
+
+###############################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" group-title="DOCUMENTARY",UK: ANIMAL PLANET 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262729&extension=ts&play_token=rPIdyb6HRr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" group-title="DOCUMENTARY",UK: DISCOVERY HISTORY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262725&extension=ts&play_token=lnBQHvv1GV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" group-title="DOCUMENTARY",UK: DISCOVERY HISTORY +1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=707007&extension=ts&play_token=g5rU9SALMb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" group-title="DOCUMENTARY",UK: DISCOVERY PLUS 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=910033&extension=ts&play_token=fJKKltCSaZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?49739" group-title="DOCUMENTARY",UK: DISCOVERY SCIENCE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262726&extension=ts&play_token=NjkRZIzLr8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6165.jpg?61364" group-title="DOCUMENTARY",UK: DISCOVERY TURBO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262727&extension=ts&play_token=DgFDaXqLoy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="DOCUMENTARY",UK: DISCOVERY+ 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262724&extension=ts&play_token=8I4hOy2D4m
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/812.jpg?37020" group-title="DOCUMENTARY",UK: DMAX
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262723&extension=ts&play_token=8vJQJ0umhP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?55978" group-title="DOCUMENTARY",UK: FOOD NETWORK
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262722&extension=ts&play_token=yq1S3lNRVJ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13003.jpg?99826" group-title="DOCUMENTARY",UK: HGTV
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262721&extension=ts&play_token=2kJ9eO8DwV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13227.jpg?ver=21854" group-title="DOCUMENTARY",UK: ID
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262718&extension=ts&play_token=sZVYqrWdnT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12026.jpg?41142" group-title="DOCUMENTARY",UK: QUEST 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262728&extension=ts&play_token=XRGSvXyol7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12203.jpg?35875" group-title="DOCUMENTARY",UK: QUEST RED
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262720&extension=ts&play_token=M71GJez4c7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12159.jpg?69972" group-title="DOCUMENTARY",UK: REALLY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262719&extension=ts&play_token=AghZ2Zyytu
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/734.png?42621" group-title="DOCUMENTARY",UK: TLC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=262717&extension=ts&play_token=g9Ji6Kzz8a
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?69851" group-title="DOCUMENTARY",UK: BLOOMBERG HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717705&extension=ts&play_token=LgNlNw97ga
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658" group-title="DOCUMENTARY",UK: BLOOMBERG HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717714&extension=ts&play_token=dhRYQ234dv
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?53935" group-title="DOCUMENTARY",UK: CRIME INVESTIGATION HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717710&extension=ts&play_token=PAZ0o28lab
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?79027" group-title="DOCUMENTARY",UK: CRIME INVESTIGATION HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717719&extension=ts&play_token=5DzCRzOZoc
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" group-title="DOCUMENTARY",UK: DISCOVERY HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717711&extension=ts&play_token=i0fQh3RoVl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1419.jpg?13591" group-title="DOCUMENTARY",UK: DISCOVERY HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717720&extension=ts&play_token=6rJ5leaZYD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338" group-title="DOCUMENTARY",UK: HISTORY 2 HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717706&extension=ts&play_token=xnVDrzx3iy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?7924" group-title="DOCUMENTARY",UK: HISTORY 2 HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717717&extension=ts&play_token=RMe3wWv9zv
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366" group-title="DOCUMENTARY",UK: HISTORY HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717707&extension=ts&play_token=HM5JxFYXho
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?77583" group-title="DOCUMENTARY",UK: HISTORY HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717718&extension=ts&play_token=6vFmS07BYk
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1395.png?11908" group-title="DOCUMENTARY",UK: NAT GEO WILD HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717709&extension=ts&play_token=WwDc0ZqQPt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6658.png?24469" group-title="DOCUMENTARY",UK: NAT GEO WILD HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717716&extension=ts&play_token=iebuiU07NV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?60971" group-title="DOCUMENTARY",UK: NATIONAL GEO HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717708&extension=ts&play_token=mHR2vDPsDe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/60.jpg?4690" group-title="DOCUMENTARY",UK: NATIONAL GEO HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717715&extension=ts&play_token=Bg1UHtr5K5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?33829" group-title="DOCUMENTARY",UK: TLC HEVC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717704&extension=ts&play_token=8UIhqnEK3L
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/604.png?44351" group-title="DOCUMENTARY",UK: TLC HEVC HD
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=717713&extension=ts&play_token=qg44GrOTqp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6620.png?67556" group-title="DOCUMENTARY",UK: NATIONAL GEOGRAPHIC +1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=402155&extension=ts&play_token=GmXMmTorBw
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/625.png?91005" group-title="DOCUMENTARY",UK: NATIONAL GEOGRAPHIC WILD 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162381&extension=ts&play_token=fcZK4x5wBy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7953.jpg?81264" group-title="DOCUMENTARY",UK: CRIME INVESTIGATION +1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=402156&extension=ts&play_token=g6ncHb6FPe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY",UK: DISCOVERY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162387&extension=ts&play_token=OtCDTp6aSS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY",UK: DISCOVERY +1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162393&extension=ts&play_token=vnDi6lS6Ga
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY",UK: DISCOVERY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162375&extension=ts&play_token=H2UjJdaM44
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY",UK: DISCOVERY HISTORY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162388&extension=ts&play_token=ijyxfXGMph
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY",UK: DISCOVERY SCIENCE
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162390&extension=ts&play_token=UUddkrAguE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY",UK: DISCOVERY TURBO +1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=402152&extension=ts&play_token=5yDGxVjA0c
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="DOCUMENTARY",UK: DISCOVERY TURBO
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162392&extension=ts&play_token=NpGLWz0dT2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY",UK: HISTORY 2 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162379&extension=ts&play_token=YSOFOR5g8E
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="DOCUMENTARY",UK: HISTORY 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162378&extension=ts&play_token=iufJztjP54
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="DOCUMENTARY",UK: INVESTIGATION DISCOVERY +1
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=402153&extension=ts&play_token=K9sllkQUbW
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10583.png?49361" group-title="DOCUMENTARY",UK: INVESTIGATION DISCOVERY
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162396&extension=ts&play_token=nfKC9Suq4A
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673" group-title="DOCUMENTARY",UK: LOVE NATURE 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162385&extension=ts&play_token=iqs68MH9UO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263" group-title="DOCUMENTARY",UK: SKY NATURE 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162384&extension=ts&play_token=E6Ng50PiAq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/616.png?39036" group-title="DOCUMENTARY",UK:: NATIONAL GEOGRAPHIC 4K
+http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:E3:B0&stream=162380&extension=ts&play_token=DGuVTS2scQ
 
 
 
@@ -3667,6 +3979,44 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 ###################################################################################
 ###################    MOVIES     ##################################################
 ###################################################################################
+
+#############################  100% WORKING     #################################################################################################################################################################################
+
+#EXTINF:-1 tvg-chno="68" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIES",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-chno="69" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="MOVIES",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+#EXTINF:-1 tvg-chno="70" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="MOVIES",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-chno="71" tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="MOVIES",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="MOVIES",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 tvg-chno="111" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="MOVIES",Showtime Extreme
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
+#EXTINF:-1 tvg-chno="116" tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="MOVIES",Sony Movie Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
+#EXTINF:-1 tvg-chno="125" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="MOVIES",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 tvg-chno="126" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="MOVIES",Starz Encore Classic
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3953.ts
+
+#EXTINF:-1 tvg-chno="127" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="MOVIES",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="MOVIES",Turner Classic Movies
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+
+##################################################################################################################################################################################################################
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/150359.png" group-title="US| MOVIES NETWORK",US| A-Z CLASSIC FLIX
