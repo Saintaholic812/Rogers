@@ -864,12 +864,6 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/BBC_America_2017.svg" group-title="ENTERTAINMENT",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/playlist.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="ENTERTAINMENT", Becker
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-becker.m3u8
-
-
 #EXTINF:-1 tvg-chno="12" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="ENTERTAINMENT",BET
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/647385.ts
 
@@ -1651,14 +1645,19 @@ https://s2host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/thegooddoc/GOOD_DOCTOR_THE_TitleTreatment400x200.png" group-title="TV SHOWS",THE GOOD DOCTOR
 https://amg00497-amg00497c37-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00497-amg00497c37-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
 
-#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners"  x-source-url="https://lionsgatechannels.com/channel/the-conners" group-title="TV SHOWS",The Conners
+#EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners"  x-source-url="https://lionsgatechannels.com/channel/the-conners" group-title="TV SHOWS",THE CONNORS
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 
 #EXTINF:-1 channel-id="66ba495ffe11e5000881f049" tvg-id="66ba495ffe11e5000881f049" tvg-chno="295" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="TV SHOWS", CHEERS & FRASIER
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 
+#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="TV SHOWS", BECKER
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-becker.m3u8
 
-#EXTINF:-1 tvg-logo="https://db6iftd8li11q.cloudfront.net/AngerManagement_LGLaunch_Guide_Logo_White_800x200.png"group-title="TV SHOWS", Anger Management
+
+#EXTINF:-1 tvg-logo="https://db6iftd8li11q.cloudfront.net/AngerManagement_LGLaunch_Guide_Logo_White_800x200.png"group-title="TV SHOWS", ANGER MANAGEMENT
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
 
 #EXTINF:-1 channel-id="633354b63df9700007f6a1b7" tvg-id="633354b63df9700007f6a1b7" tvg-chno="290" tvg-name="Sitcom Legends" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" group-title="TV SHOWS", Sitcom Legends
