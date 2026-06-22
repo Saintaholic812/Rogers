@@ -1646,8 +1646,6 @@ https://s2host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 ################################################################################################################################################################################################################################
 #####################################    TV SHOWS       #############################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/thegooddoc/GOOD_DOCTOR_THE_TitleTreatment400x200.png" group-title="TV SHOWS",THE GOOD DOCTOR
-https://amg00497-amg00497c37-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n2/playlist/amg00497-amg00497c37-amgplt0023/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.dmake=[DEVICE_MAKE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.hoteltype=[HOTEL_TYPE]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]&channel_name=REPLACE_ME&coppa=0&network_name=REPLACE_ME
 
 #EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners"  x-source-url="https://lionsgatechannels.com/channel/the-conners" group-title="TV SHOWS",THE CONNORS
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
@@ -1986,6 +1984,71 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Science Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Science_2017.svg" group-title="DOCUMENTARY",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY",##### US - DOCUMANTARY #####
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8zNDg1My50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - AHC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi82ODI0MjAudHM=
+tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="DOCUMENTARY",Animal Planet
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQzMS50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - BBC EARTH HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8yNzM1NzgudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - BEACH TV - FLORIDA - ALABAMA HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMDYwMTc5LnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - BEACH TV - MYRTLE BEACH - GRAND STRAND HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMDYwMTc3LnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - CRIME & INVESTIGATION HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQ0MS50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - CURIOSITY CHANNEL HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMzk3OTAzLnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DESTINATION AMERICA HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83NjI5NDgudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DESTINATION AMERICA UHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84MjU4NS50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY CHANNEL HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQ0MC50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY FAMILY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQzOS50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY HISTORY
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xNDg3MTkudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY INVESTIGATION EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xNDE4NDQ4LnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY INVESTIGATION WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84Nzg0MTcudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY LIFE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTM0OC50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISCOVERY SCIENCE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQzNy50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - DISTRICT OF COLUMBIA NETWORK HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMDYwMTY4LnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - GREAT AMERICAN COUNTRY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84MzEyMC50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - HISTORY CHANNEL FHD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQzNS50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - INVESTIGATION DISCOVERY HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQzNC50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - MAGNOLIA UHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8yNzcxMzUudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - NAT GEO WILD HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQxNy50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - NATIONAL GEOGRAPHIC EAST HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQxNi50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - NATIONAL GEOGRAPHIC WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTQzMy50cw==
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - OUTDOOR CHANNEL HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8yODY1MDUudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - SMITHSONIAN CHANNEL EAST HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi85ODQ4NDMudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - SMITHSONIAN CHANNEL WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMTU1OTcudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - Stingray Nature Escape HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi82MDYyMDQudHM=
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - TBD HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMDYwMTYwLnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - WAPA AMERICA HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMDYwMTYxLnRz
+#EXTINF:-1 group-title="AM | USA | DOCUMENTARY",US - WILD EARTH UHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8yNzcxMzQudHM=
 
 ###############################################################################################################################################################################################################################
 
@@ -2405,38 +2468,6 @@ https://vz-6c38baf6-966.b-cdn.net/bbc043f2-1617-4c7c-9afe-4d83e9d6fcdc/1280x720/
 ############    FOX SPORTS AUSTRALIA      #########    
 ###################################################
 ###################################################
-
-
-#EXTINF:-1 group-title="SPORT/AUST & NZ",AU: - KAYO UFC MAIN EVENT
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMjgzNzcwLnRz
-
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83MTYzOTkudHM=
-
-#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| - FOX SPORTS 501 CRICKET
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84MzE3NC50cw==
-
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84MzE3NS50cw==
-
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
-
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8xMTkwMTc1LnRz
-
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83ODE1NS50cw==
-
-#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84MzE3Ni50cw==
-
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83ODE1Ni50cw==
-
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi83ODE1Ny50cw==
-
-#EXTINF:-1 tvg-id="FoxSportsMore.au"tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi84MzE3Ny50cw==
 
 
 #EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
@@ -3814,6 +3845,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Cinemax_logo_2008.svg" group-title="MOVIES",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg" group-title="Premium Channels",Cinemax (East)
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="MOVIES",HBO Zone
