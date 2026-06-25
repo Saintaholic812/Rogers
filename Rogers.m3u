@@ -600,22 +600,25 @@ https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playl
 
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1600209&extension=ts&play_token=vpBpqQB3yJ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B8:50:25&stream=1600209&extension=ts&play_token=SouAL9Ft5v
 
 #EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="KIDS", Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 MALCOLM IN THE MIDDLE 4K
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1013443&extension=ts&play_token=7S49QK02Bm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/piconsnew/cinemania.jpg" group-title="US| CINEMA TV SHOWS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: MALCOLM IN THE MIDDLE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B8:50:25&stream=696113&extension=ts&play_token=uelXq9jifq
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 COBRA KAI
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:B6:DF:09&stream=1601028&extension=ts&play_token=1iNvaRD25B
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: COBRA KAI
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:B8:50:25&stream=1601028&extension=ts&play_token=3Rmh0U7o3L
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993042/600x200.png?type=white_cropped" group-title="KIDS" ,American Ninja Warrior
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 #EXTINF:-1 tvg-id="US700005ID" tvg-name="WWE Superstar Central" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20260421T142358SQUARE.png" group-title="KIDS",WWE Superstar Central
 https://dpv6ceilvhyrw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/cb057fb1-5af8-4aca-9641-86ed99826bac/3.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="KIDS",WWE Summerslam
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:46:62:60&stream=1311211&extension=ts&play_token=FouNkXPNv9
 
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/WWE/Wrestling_Legends_TV_LG_Logo-400x200.png" group-title="KIDS", Wrestling Legends TV
@@ -10906,7 +10909,11 @@ http://innovationtv.eu:80/play/live.php?mac=00:1A:79:46:62:60&stream=997056&exte
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| TNT BOX OFFICE FHD
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:46:62:60&stream=507138&extension=ts&play_token=jbW3RbdVLq
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",WWE Summerslam
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:46:62:60&stream=1311211&extension=ts&play_token=FouNkXPNv9#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 01: Roman One (6.19 7:00 PM ET)
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:46:62:60&stream=1311211&extension=ts&play_token=FouNkXPNv9
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 01: Roman One (6.19 7:00 PM ET)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:B9:35&stream=1855358&extension=ts&play_token=5HM8FzU6GS
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 02: GCW Race Against Time (6.19 8:00 PM ET)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:B9:35&stream=1855357&extension=ts&play_token=n131diUdEd
