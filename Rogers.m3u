@@ -955,16 +955,21 @@ https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playl
 
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B8:50:25&stream=1600209&extension=ts&play_token=SouAL9Ft5v
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:90:54:51&stream=1600209&extension=ts&play_token=NBQoPpHTKI
+
 
 #EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="KIDS", Happy Days
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/piconsnew/cinemania.jpg" group-title="KIDS",US: MALCOLM IN THE MIDDLE 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B8:50:25&stream=696113&extension=ts&play_token=uelXq9jifq
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:90:54:51&stream=696113&extension=ts&play_token=lmjsbNYfgv
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: COBRA KAI
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B8:50:25&stream=1601028&extension=ts&play_token=3Rmh0U7o3L
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/piconsnew/cinemania.jpg" group-title="KIDS",US: COBRA KAI 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:90:54:51&stream=696239&extension=ts&play_token=WHVeurCaob
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 NETFLIX WWE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:90:54:51&stream=1013543&extension=ts&play_token=RZ44auzGqD
+
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993042/600x200.png?type=white_cropped" group-title="KIDS" ,American Ninja Warrior
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993042/hls/master.m3u8?ads.xumo_channelId=99993042&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=lgchannels_us_nbcuamericanninjawarrior_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99993042&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
