@@ -241,13 +241,14 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="MELBOURNE" , SKY NEWS AUSTRALIA
+#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="MELBOURNE", SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="MELBOURNE", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
+
 #EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="MELBOURNE", 7 MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -853,6 +854,19 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sbs-5nsw.m3u8
+
+
+#################################################################################################################
+###################   HOBART/DARWIN/CANBERRA    ##################################################################
+###################################################################################################################
+
+#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="HOBART/DARWIN/CANBERRA" , SKY NEWS AUSTRALIA
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="HOBART/DARWIN/CANBERRA" , ABC NEWS
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://c.mjh.nz/abc-news.m3u8
 
 
 #EXTINF:-1 channel-id="mjh-abc-tas" tvg-id="mjh-abc-tas" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-chno="21" group-title="HOBART/DARWIN/CANBERRA" , ABC TV HOBART
