@@ -955,6 +955,17 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 ######################################
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7: YOUNG SHELDON
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:92:7C&stream=1600209&extension=ts&play_token=hFtx5Xpy5P
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 MALCOLM IN THE MIDDLE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:92:7C&stream=1013443&extension=ts&play_token=DSNcCBU5nP
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 NETFLIX WWE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:92:7C&stream=1013543&extension=ts&play_token=r1Kin9l3Fh
+
+
 #EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png"group-title="KIDS", 5 MINUTE CRAFT
 https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
