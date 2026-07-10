@@ -968,7 +968,10 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 NETFLIX WWE 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:E7:92:7C&stream=1013543&extension=ts&play_token=r1Kin9l3Fh
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE5NDIudHM=
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",UK: 24/7 WWE SUPERSLAM HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzExNDA2LnRz
 
 
 #EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png"group-title="KIDS", 5 MINUTE CRAFT
@@ -3650,9 +3653,246 @@ http://23.237.104.106:8080/USA_OAN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Science Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Science_2017.svg" group-title="DOCUMENTARY",Science Channel
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARY",##### US - DOCUMANTARY #####
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N3ZWV0bm9kZS5jb206ODAvbGl2ZS81MjQ3NjNGMjRDMDU4MjUvTFl3b3dNUTdNRi8zNDg1My50cw==
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY DOCUMENTARIES FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjc3MTQ2LnRz
 
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY DOCUMENTARIES HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjM0LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY DOCUMENTARIES SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjMzLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY CRIME FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjUxLnRz
+
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY CRIME HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDQxLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY CRIME HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjUyLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY NATURE HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDM3LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY NATURE HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTkzOTIwLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY NATURE SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjUwLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY HISTORY HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDUxLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK SKY HISTORY2 HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDUyLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK CRIME&INVESTIGATION FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjQ5LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - CRIME&INVESTIGATION FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzAwNzMudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - CRIME+INV HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDU5LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - TRT WORLD FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA1NzE4NS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - TRT WORLD HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTA1NzE4NC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO WILD HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczMTAudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO WILD HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDU4LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO WILD SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjQ3LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDc0LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO HD ◉,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczMDkudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjQ2LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDY0LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczMTQudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HISTORY HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzAwNzcudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HISTORY SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjM5LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY SCIENCE HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzAwNzkudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY TURBO SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzAwODIudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTc2OTEudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjM3LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY 2 HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczMTEudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY 2 SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjM4LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - ANIMAL PLANET HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczMTUudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - ANIMAL PLANET SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjQ4LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzAwNzUudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjQ0LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzQ4MjQzLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczMTIudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - BBC EARTH HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjczNTc3LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - VIRGIN MEDIA THREE SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzAwOTIudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY DOCUMENTARIES FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NzE0Ni50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY DOCUMENTARIES HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzNC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY DOCUMENTARIES SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzMy50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK -  SKY CRIME FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1MS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY CRIME HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ0MS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY CRIME HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1Mi50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY NATURE HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQzNy50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY NATURE HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE5MzkyMC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY NATURE SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1MC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY HISTORY HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1MS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - SKY HISTORY2 HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1Mi50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - CRIME&INVESTIGATION FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0OS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - CRIME&INVESTIGATION FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDczLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - CRIME+INV HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1OS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - TRT WORLD FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNTcxODUudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - TRT WORLD HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNTcxODQudHM=
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO WILD HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzEwLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO WILD HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1OC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO WILD SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0Ny50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ3NC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO HD ◉,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzA5LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - NAT GEO FHD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0Ni50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HEVC,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ2NC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzE0LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HISTORY HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc3LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY HISTORY SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzOS50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY SCIENCE HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc5LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - DISCOVERY TURBO SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDgyLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3NjkxLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzNy50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY 2 HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzExLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - HISTORY 2 SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzOC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - ANIMAL PLANET HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzE1LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - ANIMAL PLANET SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0OC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc1LnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0NC50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0My50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzEyLnRz
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - BBC EARTH HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3MzU3Ny50cw==
+
+#EXTINF:-1 group-title="DOCUMENTARY",UK - VIRGIN MEDIA THREE SD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDkyLnRz
 
 
 ##################################
@@ -4223,6 +4463,61 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 group-title="SPORT/AUST & NZ",AU:,AU - ESPN 2 | UHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTMudHM=
 
+
+AU - FOX SPORTS 501,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Mi50cw==
+AU - FOX SPORTS 502,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0My50cw==
+AU - FOX SPORTS 503,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0NC50cw==
+AU - FOX SPORTS 504,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0NS50cw==
+AU - FOX SPORTS 505,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYxNzE5MS50cw==
+AU - FOX SPORTS 506,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYxNzE5Mi50cw==
+AU - FOX SPORTS 507,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Ni50cw==
+AU - FOX SPORTS NEWS,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Ny50cw==
+AU - FOX CRICKET HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzgzNTgxOS50cw==
+AU - SKY RACING 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MS50cw==
+AU - SKY RACING 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MC50cw==
+AU - RACING,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0OS50cw==
+AU - RACING.COM MELBOURNE,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MC50cw==
+AU - RACING.COM NATIONAL,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MS50cw==
+AU - RACING.COM PERTH,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1Mi50cw==
+
+AU - FOX SPORTS 501,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS 502,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS 503,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS 504,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS 505,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS 506,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS 507,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX SPORTS NEWS,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - FOX CRICKET HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODM1ODE5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - SKY RACING 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - SKY RACING 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - RACING,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - RACING.COM MELBOURNE,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - RACING.COM NATIONAL,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+AU - RACING.COM PERTH,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+
+NZ - SKY SPORT 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU2OC50cw==
+NZ - SKY SPORT 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4Ny50cw==
+NZ - SKY SPORT 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4OC50cw==
+NZ - SKY SPORT 3 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4OS50cw==
+NZ - SKY SPORT 4 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5MC50cw==
+NZ - SKY SPORT 5 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5MS50cw==
+NZ - SKY SPORT 6 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Mi50cw==
+NZ - SKY SPORT 7 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5My50cw==
+NZ - SKY SPORT 8 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5NC50cw==
+NZ - SKY SPORT 9 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5NS50cw==
+NZ - SKY SPORT 10 SELECT HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Ni50cw==
+NZ - SPARK SPORTS EVENT 1,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Ny50cw==
+NZ - SPARK SPORTS EVENT 2,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5OC50cw==
+NZ - SPARK SPORTS EVENT 3,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5OS50cw==
+NZ - SPARK SPORTS EVENT 4,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMC50cw==
+NZ - SPARK SPORTS EVENT 5,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMS50cw==
+NZ - SPARK SPORTS EVENT 6,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMi50cw==
+NZ - SPARK SPORTS EVENT 7,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMy50cw==
+NZ - SPARK SPORTS EVENT 8,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNC50cw==
+NZ - SPARK SPORTS EVENT 9,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNS50cw==
+NZ - SPARK SPORTS EVENT 10,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNi50cw==
 
 
 
@@ -5602,6 +5897,260 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 ######################## MOVIES     #################################################
 #########################################################################################
 
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="US - HBO EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO EAST HD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODU1LnRz
+
+#EXTINF:-1 tvg-id="HBO2.(Pacific).us2" tvg-name="US - HBO WEST HD" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODU0LnRz
+
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-name="US - HBO HITS EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO HITS EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEyNzEwMTgudHM=
+
+#EXTINF:-1 tvg-id="360north.us" tvg-name="US - HBO HITS WEST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO HITS WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODgxLnRz
+
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US - RETRO PLEX EAST HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/RETROPLEX.png" group-title="MOVIES",US - RETRO PLEX EAST HD
+
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODg2LnRz
+
+#EXTINF:-1 tvg-id="RetroPlex.HD.(Pacific)us2" tvg-name="US - RETRO PLEX WEST HD" tvg-logo="https://go4.pw/AMERICA/USA/RETROPLEX.png" group-title="MOVIES",US - RETRO PLEX WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNjAxNTkudHM=
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="US - HBO COMEDY HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO COMEDY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODY2LnRz
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="US - HBO ZONE HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO ZONE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzgzMTM1LnRz
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="US - HBO SIGNATURE HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="MOVIES",US - HBO SIGNATURE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODY1LnRz
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US - PARAMOUNT+ WITH SHOWTIME EAST FHD ◉" tvg-logo="https://go4.pw/USA/para.png" group-title="MOVIES",US - PARAMOUNT+ WITH SHOWTIME EAST FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE0Mjc5MTIudHM=
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="US - PARAMOUNT+ WITH SHOWTIME WEST FHD" tvg-logo="https://go4.pw/USA/para.png" group-title="MOVIES",US - PARAMOUNT+ WITH SHOWTIME WEST FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE0Mjc5MTMudHM=
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US - SHOWTIME EAST HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME EAST HD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODUzLnRz
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US - SHOWTIME WEST HD ◉" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODUyLnRz
+
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US - SHOWTIME 2 HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME 2 HD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODkzLnRz
+
+#EXTINF:-1 tvg-id="Showtime.2.HD.(Pacific).us2" tvg-name="US - SHOWTIME 2 WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME 2 WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwMzI0OTQudHM=
+
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="US - SHO x BET HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHO x BET HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE4OTI5OC50cw==
+
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="US - SHOWTIME NEXT HD ◉" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME NEXT HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODk4LnRz
+
+#EXTINF:-1 tvg-id="Showtime.Next.HD.(Pacific).us2" tvg-name="US - SHOWTIME NEXT WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME NEXT WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwMzI0OTUudHM=
+
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="US - SHOWTIME SHOWCASE EAST HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME SHOWCASE EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODk0LnRz
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.(Pacific).us2" tvg-name="US - SHOWTIME SHOWCASE WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME SHOWCASE WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwMzI0OTYudHM=
+
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="US - SHOWTIME FAMILY ZONE HD ◉" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME FAMILY ZONE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODk2LnRz
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US - SHOWTIME EXTREME HD ◉ " tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME EXTREME HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODk1LnRz
+
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US - SHOWTIME WOMEN EAST HD ◉" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME WOMEN EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODk3LnRz
+
+#EXTINF:-1 tvg-id="Showtime.Women.HD.(Pacific).us2" tvg-name="US - SHOWTIME WOMEN WEST HD" tvg-logo="https://go4.pw/USA/show.png" group-title="MOVIES",US - SHOWTIME WOMEN WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwMzI0OTcudHM=
+
+#EXTINF:-1 tvg-id="starz.us" tvg-name="US - STARZ EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODYyLnRz
+
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US - STARZ WEST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODczLnRz
+
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="US - STARZ EDGE HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ EDGE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODg4LnRz
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US - STARZ CINEMA HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ CINEMA HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODY0LnRz
+
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="US - STARZ COMEDY HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ COMEDY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODg3LnRz
+
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US - STARZ KIDS AND FAMILY HD ◉ " tvg-logo="https://go4.pw/usa/16.png" group-title="MOVIES",US - STARZ KIDS AND FAMILY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODc3LnRz
+
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US - STARZ IN BLACK EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ IN BLACK EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODg5LnRz
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific)us2" tvg-name="US - STARZ IN BLACK WEST HD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ IN BLACK WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwMzI0OTMudHM=
+
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="US - STARZ ENCORE HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODcwLnRz
+
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="US - STARZ ENCORE ACTION HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE ACTION HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODk5LnRz
+
+#EXTINF:-1 tvg-id="starzencorefamily.us" tvg-name="US - STARZ ENCORE FAMILY HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE FAMILY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODc4LnRz
+
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US - STARZ ENCORE WEST HD" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODcyLnRz
+
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="US - STARZ ENCORE CLASSIC HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE CLASSIC HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODc0LnRz
+
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US - STARZ ENCORE BLACK HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE BLACK HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODc1LnRz
+
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US - STARZ ENCORE WESTERNS HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE WESTERNS HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODc2LnRz
+
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="US - STARZ ENCORE SUSPENSE HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE SUSPENSE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODc5LnRz
+#EXTINF:-1 tvg-id="starzencoreespanol.us" tvg-name="US - STARZ ENCORE ESPANYOL HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/STARZ.png" group-title="MOVIES",US - STARZ ENCORE ESPANYOL HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzIwMDk1OS50cw==
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US - CINEMAX EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MOVIES",US - CINEMAX EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxOTA0LnRz
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US - CINEMAX WEST HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MOVIES",US - CINEMAX WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODYwLnRz
+
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="US - CINEMAX ACTION MAX EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MOVIES",US - CINEMAX ACTION MAX EAST HD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxOTA1LnRz
+
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US - CINEMAX 5 STARMAX HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MOVIES",US - CINEMAX 5 STARMAX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODY4LnRz
+
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US - CINEMAX MORE MAX EAST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MOVIES",US - CINEMAX MORE MAX EAST HD
+ttps://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEyNjkzNDEudHM=
+
+#EXTINF:-1 tvg-id="moremaxpacific.us" tvg-name="US - CINEMAX MORE MAX WEST HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png" group-title="MOVIES",US - CINEMAX MORE MAX WEST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxOTAwLnRz
+
+#EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="US - MGM+ EAST HD ◉" tvg-logo="https://go4.pw/USA/mgm.png" group-title="MOVIES",US - MGM+ EAST HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODU3LnRz
+
+#EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="US - MGM+ HITS HD ◉" tvg-logo="https://go4.pw/USA/mgm.png" group-title="MOVIES",US - MGM+ HITS HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODU4LnRz
+
+#EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="US - MGM+ MARQUEE HD ◉" tvg-logo="https://go4.pw/USA/mgm.png" group-title="MOVIES",US - MGM+ MARQUEE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODYzLnRz
+
+#EXTINF:-1 tvg-id="screenpix.us" tvg-name="US - SCREENPIX HD ◉" tvg-logo="https://go4.pw/USA/screenpix.png" group-title="MOVIES",US - SCREENPIX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NTAxMS50cw==
+
+#EXTINF:-1 tvg-id="screenpixaction.us" tvg-name="US - SCREENPIX ACTION HD ◉" tvg-logo="https://go4.pw/USA/screenpixa.png" group-title="MOVIES",US - SCREENPIX ACTION HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NTAxMi50cw==
+
+#EXTINF:-1 tvg-id="screenpixvoices.us" tvg-name="US - SCREENPIX VOICES HD ◉" tvg-logo="https://go4.pw/USA/screenpixv.png" group-title="MOVIES",US - SCREENPIX VOICES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NTAxMy50cw==
+
+#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="US - SCREENPIX WESTERNS HD ◉" tvg-logo="https://go4.pw/USA/screenpixw.png" group-title="MOVIES",US - SCREENPIX WESTERNS HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NTAxNC50cw==
+
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="US - GET TV HD" tvg-logo="https://go4.pw/USA/gettv.png" group-title="MOVIES",US - GET TV HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEzODI0ODYudHM=
+
+#EXTINF:-1 tvg-id="cinesony.us" tvg-name="US - CINE SONY HD" tvg-logo="https://go4.pw/AMERICA/USA/SONYMOVIESHD.png" group-title="MOVIES",US - CINE SONY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODYxLnRz
+
+#EXTINF:-1 tvg-id="Cine.Life.US.us2" tvg-name="US - CINE LIFE HD" tvg-logo="https://go4.pw/USA/cinelife.png" group-title="MOVIES",US - CINE LIFE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzIwMDk2MS50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="US - COMEDY DYNAMICS HD" tvg-logo="https://go4.pw/USA/comedy.png" group-title="MOVIES",US - COMEDY DYNAMICS HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NTAxNS50cw==
+
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="US - TURNER CLASSIC MOVIES HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/TURNERCLASSICMOVIES.png" group-title="MOVIES",US - TURNER CLASSIC MOVIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODY5LnRz
+
+#EXTINF:-1 tvg-id="tfd.us" tvg-name="US - THE FILM DETECTIVE HD" tvg-logo="https://go4.pw/USA/film.png" group-title="MOVIES",US - THE FILM DETECTIVE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzIwMDk2MC50cw==
+
+#EXTINF:-1 tvg-id="indieplex.us" tvg-name="US - INDIE PLEX HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/INDIEPLEX.png" group-title="MOVIES",US - INDIE PLEX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODg1LnRz
+
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US - MOVIE PLEX HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/MOVIEPLEX.png" group-title="MOVIES",US - MOVIE PLEX HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODg0LnRz
+
+#EXTINF:-1 tvg-id="" tvg-name="US - MIRAMAX MOVIE CHANNEL" tvg-logo="https://go4.pw/USA/mir.png" group-title="MOVIES",US - MIRAMAX MOVIE CHANNEL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEyOTM2NjQudHM=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US - GREAT AMERICAN FAITH & LIVING HD" tvg-logo="https://go4.pw/USA/great.png" group-title="MOVIES",US - GREAT AMERICAN FAITH & LIVING HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNjAxNjkudHM=
+
+#EXTINF:-1 tvg-id="" tvg-name="US - AFRO HD" tvg-logo="https://go4.pw/USA/AFRO.png" group-title="MOVIES",US - AFRO HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNjAxNzUudHM=
+
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US - HDNET MOVIES HD" tvg-logo="https://go4.pw/AMERICA/USA/HDnetMovies.png" group-title="MOVIES",US - HDNET MOVIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxODgzLnRz
+
+#EXTINF:-1 tvg-id="" tvg-name="US - HOLLYWOOD SUITE 70s HD ◉" tvg-logo="https://go4.pw/USA/HOLLYWOODSUITE70s.png" group-title="MOVIES",US - HOLLYWOOD SUITE 70s HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDg0Ni50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="US - HOLLYWOOD SUITE 80s & 90s HD ◉" tvg-logo="https://go4.pw/USA/HOLLYWOODSUITE80s.png" group-title="MOVIES",US - HOLLYWOOD SUITE 80s & 90s HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDg0Ny50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="US - HOLLYWOOD SUITE 2000s HD ◉" tvg-logo="https://go4.pw/USA/HOLLYWOODSUITE2000.png" group-title="MOVIES",US - HOLLYWOOD SUITE 2000s HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDg0OC50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="US - HOLLYWOOD SUITE 2010s+ HD ◉" tvg-logo="https://go4.pw/USA/HOLLYWOODSUITE2010s+.png" group-title="MOVIES",US - HOLLYWOOD SUITE 2010s+ HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDg0NS50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="US - MY TIME MOVIE NETWORK HD" tvg-logo="https://go4.pw/AUSTRALIA/Mytime Movie Network.png" group-title="MOVIES",US - MY TIME MOVIE NETWORK HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwMzI0OTkudHM=
+
+#EXTINF:-1 tvg-id="" tvg-name="US - GRAVITAS MOVIES HD" tvg-logo="https://go4.pw/USA/SD2/gravitas.png" group-title="MOVIES",US - GRAVITAS MOVIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk3ODM1Mi50cw==
+
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US - SONY MOVIE CHANNEL HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/SONYMOVIESHD.png" group-title="MOVIES",US - SONY MOVIE CHANNEL HD ◉
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxNDE1LnRz
+
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US - LIFETIME MOVIES HD" tvg-logo="https://go4.pw/AMERICA/USA/LIFETIME-1.png" group-title="MOVIES",US - LIFETIME MOVIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcxNDEzLnRz
+
+
+#EXTINF:-1 tvg-id="Filmrise.Western.us2" tvg-name="US - FILMRISE WESTERN HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE WESTERN HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgzNS50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.Unsolved.us2" tvg-name="US - FILMRISE UNSOLVED MYSTERIES HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE UNSOLVED MYSTERIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgzNC50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.Mysteries.us2" tvg-name="US - FILMRISE MYSTERIES HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE MYSTERIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgzMy50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.Free.us2" tvg-name="US - FILMRISE FREE MOVIES HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE FREE MOVIES HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgzMi50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.True.Crime.us2" tvg-name="US - FILMRISE TRUE CRIME HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE TRUE CRIME HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgzMS50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.Action.us2" tvg-name="US - FILMRISE ACTION HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE ACTION HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgzMC50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.Horror.us2" tvg-name="US - FILMRISE HORROR HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE HORROR HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgyOS50cw==
+
+#EXTINF:-1 tvg-id="Filmrise.Sci-Fi.us2" tvg-name="US - FILMRISE SCI-FI HD" tvg-logo="https://go4.pw/usa/Filmrise_Kids_HD.png" group-title="MOVIES",US - FILMRISE SCI-FI HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgyOC50cw==
+
+US - FILMRISE PELÍCULAS GRATIS HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4NDgyNy50cw==
+
+############################################################################################################################################################################################################################
+###############################################################   UK   MOVIES    #########################################################################################################################################
+##########################################################################################################################################################################################################################
 
 
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK - SKY CINEMA ACTION FHD ◉" tvg-logo="https://go4.pw/UK/skycnac.png" group-title="MOVIES",UK - SKY CINEMA ACTION FHD
@@ -5711,6 +6260,79 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZl
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1NS50cw==
 #EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK - SKY CHRISTMAS HEVC" tvg-logo="https://go4.pw/UK/skyy.png" group-title="MOVIES",UK - SKY CHRISTMAS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ0NS50cw==
+
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK - SKY CINEMA ACTION FHD ◉" tvg-logo="https://go4.pw/UK/skycnac.png" group-title="MOVIES",UK - SKY CINEMA ACTION UHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzg3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK - SKY CINEMA COMEDY FHD ◉" tvg-logo="https://go4.pw/UK/skycncmy.png" group-title="MOVIES",UK - SKY CINEMA COMEDY UHD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzg1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK - SKY CINEMA DRAMA HD" tvg-logo="https://go4.pw/UK/skycnmdr.png" group-title="MOVIES",UK - SKY CINEMA DRAMA UHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3MzgzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK - SKY CINEMA GREATS FHD ◉" tvg-logo="https://go4.pw/UK/skycng.png" group-title="MOVIES",UK - SKY CINEMA GREATS UHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3MzgyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD ◉" tvg-logo="https://go4.pw/UK/hits.png" group-title="MOVIES",UK - SKY CINEMA HITS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3MzgxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD ◉" tvg-logo="https://go4.pw/UK/hits.png" group-title="MOVIES",UK - SKY CINEMA HITS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3MzgwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK - SKY CINEMA PREMIERE HD" tvg-logo="https://go4.pw/UK/skycinemapremier1.png" group-title="MOVIES",UK - SKY CINEMA OSCARS
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzc5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skyscifi.uk" tvg-name="UK - SKY SCI-FI HEVC" tvg-logo="https://go4.pw/UK/skysci.png" group-title="MOVIES",UK - SKY SCI-FI HORROR HEVC
+
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzc4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD ◉" tvg-logo="https://go4.pw/UK/hits.png" group-title="MOVIES",UK - SKY CINEMA OSCARS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzc3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK - SKY CINEMA THRILLER FHD ◉" tvg-logo="https://go4.pw/UK/skcnil.png" group-title="MOVIES",UK - SKY CINEMA THRILLER FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzc2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skydocumentary.uk" tvg-name="UK - SKY CINEMA PREMIERE HD" tvg-logo="https://go4.pw/UK/skycinemapremier1.png" group-title="MOVIES",UK - SKY DOCUMENTARIES
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NTc3Mzc0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK - SKY CINEMA ACTION FHD ◉" tvg-logo="https://go4.pw/UK/skycnac.png" group-title="MOVIES",UK - SKY CINEMA ACTION 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM4NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK - SKY CINEMA COMEDY FHD ◉" tvg-logo="https://go4.pw/UK/skycncmy.png" group-title="MOVIES",UK - SKY CINEMA COMEDY FHD 
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM4NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK - SKY CINEMA DRAMA HD" tvg-logo="https://go4.pw/UK/skycnmdr.png" group-title="MOVIES",UK - SKY CINEMA DRAMA HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM4MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK - SKY CINEMA GREATS FHD ◉" tvg-logo="https://go4.pw/UK/skycng.png" group-title="MOVIES",UK - SKY CINEMA GREATS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM4MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD ◉" tvg-logo="https://go4.pw/UK/hits.png" group-title="MOVIES",UK - SKY CINEMA HITS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM4MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD ◉" tvg-logo="https://go4.pw/UK/hits.png" group-title="MOVIES",UK - SKY CINEMA OSCARS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM4MCZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK - SKY CINEMA PREMIERE HD" tvg-logo="https://go4.pw/UK/skycinemapremier1.png" group-title="MOVIES",UK - SKY CINEMA PREMIERE
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM3OSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skyscifi.uk" tvg-name="UK - SKY SCI-FI HEVC" tvg-logo="https://go4.pw/UK/skysci.png" group-title="MOVIES",UK - SKY SCI-FI HORROR HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM3OCZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK - SKY CINEMA HITS FHD ◉" tvg-logo="https://go4.pw/UK/hits.png" group-title="MOVIES",UK - SKY CINEMA OSCARS FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM3NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK - SKY CINEMA THRILLER FHD ◉" tvg-logo="https://go4.pw/UK/skcnil.png" group-title="MOVIES",UK - SKY CINEMA THRILLER FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM3NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+#EXTINF:-1 tvg-id="skydocumentary.uk" tvg-name="UK - SKY CINEMA PREMIERE HD" tvg-logo="https://go4.pw/UK/skycinemapremier1.png" group-title="MOVIES",UK - SKY DOCUMENTARIES
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTU3NzM3NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
+
+
+
+
+
 
 #############################################################################################################################################################################################################################
 #################################################################    SKY STORE    #########################################################################################################################################
