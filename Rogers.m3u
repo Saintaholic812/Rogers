@@ -4428,73 +4428,148 @@ https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992288
 
 #EXTINF:-1 ,tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,KAYO UFC MAIN EVENT
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTI4Mzc3MC50cw==
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS NEWS
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE2Mzk5LnRz
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 501 FHD
+
+#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODMxNzQudHM=
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 502 FHD
+
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODMxNzUudHM=
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 502 FHD [BK]
+
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL [BK]
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTE5MDE3NS50cw==
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 503 FHD
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTUudHM=
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 504 FHD
+
+#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODMxNzYudHM=
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 505 FHD
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTYudHM=
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 506 FHD
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTcudHM=
-#EXTINF:-1 , tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png"group-title="SPORT/AUST & NZ",AU:,FOX SPORTS 507 FHD
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODMxNzcudHM=
+
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - SKY RACING 1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDMyNzAudHM=
+
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - SKY RACING 2
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDMyNjkudHM=
+
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - BEIN SPORTS 1 UHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxMzcudHM=
+
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - BEIN SPORTS 2 UHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxMzgudHM=
+
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - BEIN SPORTS 3 UHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxMzkudHM=
+
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - ESPN | HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTQudHM=
+
 #EXTINF:-1 group-title="SPORT/AUST & NZ",AU:,AU - ESPN 1 | UHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTIudHM=
+
 #EXTINF:-1 group-title="SPORT/AUST & NZ",AU:,AU - ESPN 2 | UHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTMudHM=
 
 
-AU - FOX SPORTS 501,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Mi50cw==
-AU - FOX SPORTS 502,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0My50cw==
-AU - FOX SPORTS 503,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0NC50cw==
-AU - FOX SPORTS 504,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0NS50cw==
-AU - FOX SPORTS 505,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYxNzE5MS50cw==
-AU - FOX SPORTS 506,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYxNzE5Mi50cw==
-AU - FOX SPORTS 507,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Ni50cw==
-AU - FOX SPORTS NEWS,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Ny50cw==
-AU - FOX CRICKET HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzgzNTgxOS50cw==
-AU - SKY RACING 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MS50cw==
-AU - SKY RACING 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MC50cw==
-AU - RACING,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0OS50cw==
-AU - RACING.COM MELBOURNE,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MC50cw==
-AU - RACING.COM NATIONAL,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MS50cw==
-AU - RACING.COM PERTH,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1Mi50cw==
+#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Mi50cw==
 
-AU - FOX SPORTS 501,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS 502,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS 503,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS 504,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS 505,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS 506,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS 507,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX SPORTS NEWS,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - FOX CRICKET HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODM1ODE5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - SKY RACING 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - SKY RACING 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - RACING,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - RACING.COM MELBOURNE,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - RACING.COM NATIONAL,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-AU - RACING.COM PERTH,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0My50cw==
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0NC50cw==
+
+#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0NS50cw==
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYxNzE5MS50cw==
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYxNzE5Mi50cw==
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Ni50cw==
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0Ny50cw==
+
+AU - FOX CRICKET HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzgzNTgxOS50cw==
+
+AU - SKY RACING 1 HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MS50cw==
+
+AU - SKY RACING 2 HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MC50cw==
+
+AU - RACING,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0OS50cw==
+
+AU - RACING.COM MELBOURNE,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MC50cw==
+
+AU - RACING.COM NATIONAL,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MS50cw==
+
+AU - RACING.COM PERTH,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1Mi50cw==
+
+#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODM1ODE5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+AU - SKY RACING 1 HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+AU - SKY RACING 2 HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+AU - RACING,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+AU - RACING.COM MELBOURNE,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+AU - RACING.COM NATIONAL,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+AU - RACING.COM PERTH,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 
 
 NZ - SKY SPORT 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU2OC50cw==
