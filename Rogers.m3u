@@ -4826,20 +4826,32 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODMxNzcudHM=
 
-#EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - SKY RACING 1
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="HORSERACING" , Sky Racing #1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDMyNzAudHM=
 
-#EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - SKY RACING 2
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="HORSERACING" , Sky Racing #2
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDMyNjkudHM=
 
-#EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - BEIN SPORTS 1 UHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxMzcudHM=
 
-#EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - BEIN SPORTS 2 UHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxMzgudHM=
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" , Racing.com
+https://i.mjh.nz/.r/racing-fast.m3u8
 
-#EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - BEIN SPORTS 3 UHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxMzkudHM=
+#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="HORSERACING" , Sky Racing #1
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="HORSERACING" , Sky Racing #2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-2.m3u8
+
 
 #EXTINF:-1 ,group-title="SPORT/AUST & NZ",AU:AU - ESPN | HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzgxNTQudHM=
@@ -4878,22 +4890,22 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2Ix
 AU - FOX CRICKET HD,
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzgzNTgxOS50cw==
 
-AU - SKY RACING 1 HD,
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="HORSERACING" , Sky Racing #1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MS50cw==
 
-AU - SKY RACING 2 HD,
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="HORSERACING" , Sky Racing #2
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1Lzg3OTg4MC50cw==
 
-AU - RACING,
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" , Racing.com
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg0OS50cw==
 
-AU - RACING.COM MELBOURNE,
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" , Racing.com MELBOURNE,
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MC50cw==
 
-AU - RACING.COM NATIONAL,
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" , Racing.com NATIONAL,
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1MS50cw==
 
-AU - RACING.COM PERTH,
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" , Racing.com PERTH,
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzI1OTg1Mi50cw==
 
 #EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
@@ -4923,46 +4935,50 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xp
 #EXTINF:-1 tvg-id="FoxCricket.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="SPORT/AUST & NZ",AU| KAYO - FOX SPORTS 501 CRICKET
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODM1ODE5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 
-AU - SKY RACING 1 HD,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-
-AU - SKY RACING 2 HD,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09ODc5ODgwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-
-AU - RACING,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-
-AU - RACING.COM MELBOURNE,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-
-AU - RACING.COM NATIONAL,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
-
-AU - RACING.COM PERTH,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 
 
-NZ - SKY SPORT 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU2OC50cw==
-NZ - SKY SPORT 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4Ny50cw==
-NZ - SKY SPORT 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4OC50cw==
-NZ - SKY SPORT 3 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4OS50cw==
-NZ - SKY SPORT 4 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5MC50cw==
-NZ - SKY SPORT 5 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5MS50cw==
-NZ - SKY SPORT 6 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Mi50cw==
-NZ - SKY SPORT 7 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5My50cw==
-NZ - SKY SPORT 8 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5NC50cw==
-NZ - SKY SPORT 9 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5NS50cw==
-NZ - SKY SPORT 10 SELECT HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Ni50cw==
-NZ - SPARK SPORTS EVENT 1,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Ny50cw==
-NZ - SPARK SPORTS EVENT 2,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5OC50cw==
-NZ - SPARK SPORTS EVENT 3,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5OS50cw==
-NZ - SPARK SPORTS EVENT 4,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMC50cw==
-NZ - SPARK SPORTS EVENT 5,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMS50cw==
-NZ - SPARK SPORTS EVENT 6,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMi50cw==
-NZ - SPARK SPORTS EVENT 7,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMy50cw==
-NZ - SPARK SPORTS EVENT 8,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNC50cw==
-NZ - SPARK SPORTS EVENT 9,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNS50cw==
-NZ - SPARK SPORTS EVENT 10,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNi50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 1 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU2OC50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 1 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4Ny50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 2 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4OC50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 3 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU4OS50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 4 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5MC50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 5 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5MS50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 6 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Mi50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 7 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5My50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 8 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5NC50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 9 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5NS50cw==
+#EXTINF:-1 ,NZ - SKY SPORT 10 SELECT HD,
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Ni50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 1
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5Ny50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 2
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5OC50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 3
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDU5OS50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 4
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMC50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 5
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMS50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 6
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMi50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 7
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwMy50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 8
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNC50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 9
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNS50cw==
+#EXTINF:-1 ,NZ - SPARK SPORTS EVENT 10
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYzMDYwNi50cw==
 
 
 
