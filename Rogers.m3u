@@ -962,6 +962,9 @@ http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1600209&exten
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",YOUNG SHELDON
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B5:28:65&stream=1600209&extension=ts&play_token=Yz9HK7jy6J
 
+#EXTINF:-1 tvg-logo="https://iili.io/HiS85NI.md.png" group-title="KIDS",BLUEY
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1519991&extension=ts&play_token=BFG5315LFB
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",US: 24/7 JURASSIC PARK
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=485188&extension=ts&play_token=AUC20vG0hz
 
