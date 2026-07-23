@@ -965,15 +965,24 @@ http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B5:28:65&stream=1600209&ex
 #EXTINF:-1 tvg-logo="https://iili.io/HiS85NI.md.png" group-title="KIDS",BLUEY
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1519991&extension=ts&play_token=BFG5315LFB
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",US: 24/7 JURASSIC PARK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",US:JURASSIC PARK
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=485188&extension=ts&play_token=AUC20vG0hz
 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MALCOLM IN THE MIDDLE
+http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1599949&extension=ts&play_token=0WNa0nF2JG
 
 #EXTINF:-1 tvg-id="" tvg-name="US - GOLD TV | MALCOLM IN THE MIDDLE HD " tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="KIDS",MALCOLM IN THE MIDDLE HD 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDEyMy50cw==
 
+
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",HAPPY DAYS
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1600884&extension=ts&play_token=XoMWar5w0J
+
+
+#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="KIDS",HAPPY DAYS
+https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
+
 
 #EXTINF:-1 tvg-id=""group-title="KIDS",COBRA KAI FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDM0OC50cw==
@@ -989,9 +998,6 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png"group-title="KIDS", 5 MINUTE CRAFT
 https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 
-
-#EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="KIDS", Happy Days
-https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLD TV " tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="KIDS", TAKESHI'S CASTLE FHD,
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDEyOS50cw==
@@ -6612,55 +6618,55 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 01 - 6pm CARS Tour North Wilkesboro
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 01 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605787&extension=ts&play_token=9ubwnGWGqp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 02 - 6pm Short Track Super Series Fonda
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 02 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605786&extension=ts&play_token=adu4MqW1Kp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 03 - 6:15pm HLR Jokers Jackpot Eldora
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 03 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605785&extension=ts&play_token=AOt0G1cxLp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 04 - 7pm Southern Nationals Modoc
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 04 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605784&extension=ts&play_token=471dtaarNr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 05 - 7:15pm Lucas Oil Late Models Shelby
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 05 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605783&extension=ts&play_token=U0ocQruJqY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 06 - 8pm KKM Challenge Series Coles
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 06 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605781&extension=ts&play_token=SRMjfOtYZO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 07 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 07 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605780&extension=ts&play_token=KoGPZCiZm5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 08 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 08 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605779&extension=ts&play_token=jRljgLcOqb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 09 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 09 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605778&extension=ts&play_token=3wLU8kIsHL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 10 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 10 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605782&extension=ts&play_token=1zaPiCtqIx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 11 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 11 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605777&extension=ts&play_token=1ZUKncQxZr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 12 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 12 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605776&extension=ts&play_token=3UVwXKZeJ0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 13 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 13 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605775&extension=ts&play_token=HDZJ3D7oWG
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 14 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 14 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605774&extension=ts&play_token=BLaulytUv0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 15 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 15 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605773&extension=ts&play_token=dFf8YqVLlR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 16 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 16 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605772&extension=ts&play_token=sO7GvNGRgV
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 17 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 17 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605771&extension=ts&play_token=EZaptOsH9W
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 18 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 18 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605770&extension=ts&play_token=BoJMH208pu
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 19 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 19 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605769&extension=ts&play_token=GLmxKijnlt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 20 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 20 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605768&extension=ts&play_token=nSPqG9jDrI
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 21 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 21 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605767&extension=ts&play_token=l1w9yslcFy
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 22 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 22 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605766&extension=ts&play_token=ODOLJd6Ylw
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 23 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 23 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605765&extension=ts&play_token=D5AX5d5dbl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 24 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 24 -
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605764&extension=ts&play_token=dGqZT5xVli
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 25 - NO EVENT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 25 - 
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605763&extension=ts&play_token=YvcVgoe2du
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:7D:F1:6E&stream=605762&extension=ts&play_token=vnNu6pOjqN
