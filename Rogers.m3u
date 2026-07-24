@@ -955,6 +955,10 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 ######################################
 
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="KIDS" ,DEAL OR NO DEAL AUST
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTQ4ODM1LnRz
+
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",YOUNG SHELDON
 http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1600209&extension=ts&play_token=rHmyxWnO6z
 
