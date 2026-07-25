@@ -29,6 +29,9 @@
 #EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="BRISBANE" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="BRISBANE",AU| SKY NEWS WEATHER
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
+
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="BRISBANE", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -247,6 +250,9 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 #EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="MELBOURNE", SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="MELBOURNE",AU| SKY NEWS WEATHER
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
+
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="MELBOURNE", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -403,6 +409,9 @@ https://i.mjh.nz/.r/c31.m3u8
 
 #EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="SYDNEY" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="SYEDNEY",AU| SKY NEWS WEATHER
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -5351,7 +5360,42 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="KAYO MAIN EVENT",AU  FOX SPORTS 507 HD
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B5:28:65&stream=441301&extension=ts&play_token=Sw0eWLByzE
 
-
+#EXTINF:-1 tvg-id="FoxSports501.au" tvg-logo="http://picons.cmshulk.com/picons/646971.png" group-title="KAYO MAIN EVENT", FOX SPORTS 501 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646971&extension=ts&play_token=q1VDoOLs83
+#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://picons.cmshulk.com/picons/646970.png" group-title="KAYO MAIN EVENT", FOX SPORTS 502 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646970&extension=ts&play_token=oI3FrffOS4
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://picons.cmshulk.com/picons/646969.png" group-title="KAYO MAIN EVENT", FOX SPORTS 503 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646969&extension=ts&play_token=Fy63hocbWv
+#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://picons.cmshulk.com/picons/646968.png" group-title="KAYO MAIN EVENT", FOX SPORTS 504 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646968&extension=ts&play_token=zQOQIgT1f6
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://picons.cmshulk.com/picons/646967.png" group-title="KAYO MAIN EVENT", FOX SPORTS 505 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646967&extension=ts&play_token=THW968srIp
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="http://picons.cmshulk.com/picons/646966.png" group-title="KAYO MAIN EVENT", FOX SPORTS 506 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646966&extension=ts&play_token=jFjAGWbyyS
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/foxsportshd.png" group-title="KAYO MAIN EVENT", FOX SPORTS 507 HD
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646965&extension=ts&play_token=rAT74czlNG
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="KAYO MAIN EVENT", FOX SPORTS NEWS
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646972&extension=ts&play_token=LPHirdWYib
+#EXTINF:-1 tvg-id="ESPN.au" tvg-id="FoxSportsMore.au"  tvg-logo="http://picons.cmshulk.com/picons/1520168.png" group-title="KAYO MAIN EVENT", KAYO - ESPN 1
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520168&extension=ts&play_token=FgYyCC3yWL
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="http://picons.cmshulk.com/picons/1520167.png" group-title="KAYO MAIN EVENT", KAYO - ESPN 2
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520167&extension=ts&play_token=Kq8psNqMid
+#EXTINF:-1 tvg-id="FoxSports501.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 501 CRICKET
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520176&extension=ts&play_token=3iBSSAuBMZ
+#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 502 LEAUGE
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520171&extension=ts&play_token=5rJrm46nfQ
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 503
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520175&extension=ts&play_token=pOQd9bKSUh
+#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 504 FOTTY
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520170&extension=ts&play_token=E5pvPPd8w3
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 505
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520174&extension=ts&play_token=HUU5agp0OM
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 506
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520169&extension=ts&play_token=K2fPkNi6vF
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 507
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520173&extension=ts&play_token=wLWyomhDb5
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS NEWS
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520172&extension=ts&play_token=Laab9iFgN5
 
 ###################################################
 ###################################################
