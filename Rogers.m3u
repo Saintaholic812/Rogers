@@ -991,6 +991,11 @@ https://i.mjh.nz/.r/powercombatreplays-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bowlsreplays-fast.m3u8
 
+
+#EXTINF:-1 channel-id="mjh-bowlsreplays-fast" tvg-id="mjh-bowlsreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-bowlsreplays-fast-7a5a56.png" group-title="COMM GAMES" , Bowls Replays
+https://csm-e-cesevextprdausw2live-009132e2c7453890b.bln1.yospace.com/csm/extlive/sevenprd01,CAS20/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905819.png" group-title="COMM GAMES" ,TNT SPORTS | Event 1
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596285&extension=ts&play_token=6MKiJdMjfg
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1905819.png" group-title="COMM GAMES" ,TNT SPORTS | Event 2
