@@ -956,7 +956,7 @@ https://c.mjh.nz/abc-news.m3u8
 #######################################################################################################################################################################################################################
 ######################################################################################################################################################################################################################
 
-#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="COMM GAMES", 7 NETWORK
+#EXTINF:-1 channel-id="mjh-misc15-fast" tvg-id="mjh-misc15-fast" tvg-logo="https://i.mjh.nz/.images/auto-misc15-fast-cff9f1.png" group-title="COMM GAMES", 7 NETWORK
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-04cacd93e305180ea.bln1.yospace.com/csm/extlive/sevenprd01,SSC1/index.m3u8
@@ -982,8 +982,42 @@ https://i.mjh.nz/.r/powercombatreplays-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bowlsreplays-fast.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596285.png" group-title="COMM GAMES" ,TNT SPORTS | Event 1
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596285&extension=ts&play_token=6MKiJdMjfg
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596284.png" group-title="COMM GAMES" ,TNT SPORTS | Event 2
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596284&extension=ts&play_token=KWk9FnLXDo
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596283.png" group-title="COMM GAMES" ,TNT SPORTS | Event 3
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596283&extension=ts&play_token=tZI3IfSyaG
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596282.png" group-title="COMM GAMES" ,TNT SPORTS | Event 4
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596282&extension=ts&play_token=esqDB8VCMp
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596281.png" group-title="COMM GAMES" ,TNT SPORTS | Event 5
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596281&extension=ts&play_token=MQpIfptuo4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596280.png" group-title="COMM GAMES" ,TNT SPORTS | Event 6
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596280&extension=ts&play_token=cvTlHGTCWP
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596279.png" group-title="COMM GAMES" ,TNT SPORTS | Event 7
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596279&extension=ts&play_token=JXiLvLVUSc
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596278.png" group-title="COMM GAMES" ,TNT SPORTS | Event 8
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596278&extension=ts&play_token=aywFh90rG0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596277.png" group-title="COMM GAMES" ,TNT SPORTS | Event 9
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596277&extension=ts&play_token=kyrMJf2r3t
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596276.png" group-title="COMM GAMES" ,TNT SPORTS | Event 10
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596276&extension=ts&play_token=Jf7fXtZrvY
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596275.png" group-title="COMM GAMES" ,TNT SPORTS | Event 11
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596275&extension=ts&play_token=008NeI8BL0
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596274.png" group-title="COMM GAMES" ,TNT SPORTS | Event 12
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596274&extension=ts&play_token=lddlzUTEQ8
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596273.png" group-title="COMM GAMES" ,TNT SPORTS | Event 13
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596273&extension=ts&play_token=efqeE399eN
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596272.png" group-title="UK| TNT SPORTS EVENT",TNT SPORTS | Event 14
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596272&extension=ts&play_token=Zikv60ExoF
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596271.png" group-title="COMM GAMES" ,TNT SPORTS | Event 15
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596271&extension=ts&play_token=DmeLO83yIs
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596270.png" group-title="COMM GAMES" ,TNT SPORTS | Event 16
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596270&extension=ts&play_token=cV1TqM7P8x
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596269.png" group-title="COMM GAMES" ,TNT SPORTS | Event 17
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596269&extension=ts&play_token=E01bt33wcw
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1596268.png" group-title="COMM GAMES" ,TNT SPORTS | Event 18
+http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1596268&extension=ts&play_token=moteeAieoU
 #######################################
 #######################################
 ############      KIDS         ########
