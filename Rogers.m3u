@@ -5313,6 +5313,12 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 ###################################################
 ############    KAYO MAIN EVENT CHANNELS        ###############
 ###################################################
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="KAYO MAIN EVENT",LIVE EVENT 04 -  Tszyu
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023137&extension=ts&play_token=cnsNpJhW31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="KAYO MAIN EVENT",LIVE EVENT 05 - Tszyu
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023138&extension=ts&play_token=q3GmCyJI6T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="KAYO MAIN EVENT",LIVE EVENT 16 - AMA Supercross Championship Washougal
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023149&extension=ts&play_token=Z5ZnDxojYf
 
 
 #EXTINF:-1 ,tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT",AU:,KAYO UFC/MAIN EVENT
@@ -6504,79 +6510,136 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsun
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/OB5IN82O4PXYXX0AA6XZ/hls3/now,-1m/m.m3u8?ads.channel_name=NOMADslow+tv&ads.content_cat=IAB1-5&ads.content_genre=Health%2CLifestyle%2CRelaxing&ads.content_id=SNO100&ads.content_language=en&ads.content_title=beaver+moon+antennae&ads.ic=IAB1-7&ads.provider=NOMADslow&ads.rating=TVG&ads.app_name=Whale+TV%2B&ads.device_make=&ads.device_model=&ads.did=38e6b610-6985-4dfb-a19e-42a08ef288d2&ads.gdpr=0&ads.gdpr_consent=&ads.h=&ads.w=&ads.url=whaletvplus.com&ads.us_privacy=1YNN&ads.lmt=0&ads.livestream=1&ads.coppa=0
 
 #################################################################################################################################################################################################################################
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 04 -  Tszyu
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023137&extension=ts&play_token=cnsNpJhW31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 05 - Tszyu
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023138&extension=ts&play_token=q3GmCyJI6T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 16 - AMA Supercross Championship Washougal
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023149&extension=ts&play_token=Z5ZnDxojYf
 
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - 11am UAE Warriors 72
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1022191&extension=ts&play_token=gMzxzfMoFD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 02 - 11am Mecum Auctions Harrisburg
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1022190&extension=ts&play_token=8TZFyws7bI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 03 - 6pm High Limit Racing Ransomville
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1022189&extension=ts&play_token=hZgNAl0Rqb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 04 - 6:15pm USAC Indiana Sprint Week IMS
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023137&extension=ts&play_token=fZ233ajvTn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 05 - 7pm Southern Nationals Sugar Creek
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023138&extension=ts&play_token=IpXoijvHTv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 06 - 7:30pm IWR Insane Rumble 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023140&extension=ts&play_token=0E1sWI4iT4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 07 - 8:15pm Jackson Motorplex Sprints
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023141&extension=ts&play_token=HzMLNcvTZk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 08 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023142&extension=ts&play_token=4B3TyvpeAz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 09 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023143&extension=ts&play_token=zro4QPDJdP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 10 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023139&extension=ts&play_token=3i5LfgPWXj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 11 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023144&extension=ts&play_token=qPgLsaKNds
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 12 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023145&extension=ts&play_token=vEdLHwwoYn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 13 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023146&extension=ts&play_token=Pn7GwPFz42
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 14 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023147&extension=ts&play_token=Qq84xF08mI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 15 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023148&extension=ts&play_token=pcOusw47P7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 16 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023149&extension=ts&play_token=EwKdf7myvA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 17 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023150&extension=ts&play_token=Gt5joa5PxC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 18 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023151&extension=ts&play_token=JTl1hEkvSq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 19 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023152&extension=ts&play_token=zwzbaZrTeI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 20 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023153&extension=ts&play_token=LIJupuT7B8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - 9am UFC Fight Night Ankalaev v Guskov
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1022191&extension=ts&play_token=WHuN4JsTqQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 02 -Joshua v Prenga
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1022190&extension=ts&play_token=ZXeRceaHsx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 03 - 7pm BKFC Fight Night Reyno v Krejci
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1022189&extension=ts&play_token=IcAcPxEQTx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 04 -  Tszyu
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023137&extension=ts&play_token=cnsNpJhW31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 05 - Tszyu
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023138&extension=ts&play_token=q3GmCyJI6T
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 06 - NO EVENT
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023140&extension=ts&play_token=ex6M0eVEWX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 07 - 11am Mecum Auctions Harrisburg
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023141&extension=ts&play_token=YBFbDvktC2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 08 - 2pm TNT Extreme Summer Explosion
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023142&extension=ts&play_token=az3wzd9Poa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 09 - 2:30pm Evolution Fight Rosolini
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023143&extension=ts&play_token=hzSO2rdoVB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 10 - 5pm FMS Fight Night 11 (em Portuguese)
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023139&extension=ts&play_token=CgTZzGUDt7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 11 - 7pm Fight to Win 322
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023144&extension=ts&play_token=S8kzdvzjQ8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 12 - 8/10pm PFL DC Jean v Musaev
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023145&extension=ts&play_token=Lxg3tDfmue
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 13 - 8pm BKB 57 Anarchy in the UK
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023146&extension=ts&play_token=1LX8cuXpgU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 14 - 11:30pm Pancrase 364
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023147&extension=ts&play_token=TpyFrLB0jE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 15 - 10:45am AMSOIL Championship Off Road
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023148&extension=ts&play_token=ckRq1p7ikp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 16 - AMA Supercross Championship Washougal
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023149&extension=ts&play_token=Z5ZnDxojYf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 17 - 3pm RoC Sportsman Shangri La II
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023150&extension=ts&play_token=8nLoxX4QhG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 18 - 6pm World of Outlaws Late Models Fairbury
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023151&extension=ts&play_token=8w1unBJKfI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 19 - 6pm USAC Indiana Sprint Week Kokomo
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023152&extension=ts&play_token=gYU1QN48MM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 20 - 6pm Weekly Racing Fonda
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023153&extension=ts&play_token=KxmYVqQpI8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 21 -  Leeds vs Plymouth
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023154&extension=ts&play_token=Z7ABTRILly
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 22 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023155&extension=ts&play_token=tRuwpZUQU3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 23 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023156&extension=ts&play_token=QthWROvz4B
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 24 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023157&extension=ts&play_token=AErS9TIQif
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 25 - NO EVENT
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023158&extension=ts&play_token=CA2wYyul6L
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023154&extension=ts&play_token=NPCPeVhGdz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 22 - 6:15pm High Limit Racing Port Royal
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023155&extension=ts&play_token=8UeXqloXn5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 23 - 6:30pm Sharon Late Models
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023156&extension=ts&play_token=zxz3wvD2Hc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 24 - 6:30pm IRA Sprints Cedar Lake
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023157&extension=ts&play_token=SMfpcnxLer
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 25 - 7:45pm American Sprint Car Series Dodge City
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023158&extension=ts&play_token=YVSvtn84Vz
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023159&extension=ts&play_token=ml7Ek6SNwn
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023159&extension=ts&play_token=WN3KeK9rrK
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 27 - FREEDOM STAGE Tomorrowland 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1023160&extension=ts&play_token=CaXKEhvKGm
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023160&extension=ts&play_token=q7UnDJF00M
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 28 - ONE WORLD RADIO Live from Tomorrowland 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127303&extension=ts&play_token=rQ5kcUdjHZ
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127303&extension=ts&play_token=nlKp9se0Um
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 29 - MAINSTAGE SHORTS Tomorrowland 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127305&extension=ts&play_token=hIAz43gxBy
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127305&extension=ts&play_token=XdfHd5Tj4l
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 30 - FREEDOM STAGE SHORTS Tomorrowland 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127306&extension=ts&play_token=41GRx3PZK6
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127306&extension=ts&play_token=i7XiMI2mD2
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 31 - GOBI Live From Coachella 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127307&extension=ts&play_token=3n4l6Bu9Ct
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127307&extension=ts&play_token=YKI7ApMJDH
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 32 - QUASAR Live From Coachella 2026
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127308&extension=ts&play_token=xifhT536fr
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127308&extension=ts&play_token=I7jgxeo1r5
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 33 -
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127309&extension=ts&play_token=sDcUw7gatV
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127309&extension=ts&play_token=2VJ1uccl9Z
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 34 -
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1127310&extension=ts&play_token=wExB3xiRnS
-
-
-
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1127310&extension=ts&play_token=6KHbDTbC8a
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",Live Football 01 -  Birmingham 15:00 Nottingham Forest 02/08
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1893884&extension=ts&play_token=CHcKZCZW2F
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UFC 294: Pre-Fight Press Conference
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1333143&extension=ts&play_token=3g7aN4eQp3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 1 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507155&extension=ts&play_token=KXcORvjEZE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 10 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507164&extension=ts&play_token=6n0BuKLkqE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 11 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507165&extension=ts&play_token=wR3YHVMXBC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 12 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507166&extension=ts&play_token=YE9uS9SugB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 13 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507167&extension=ts&play_token=oo34xfEmDz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 14 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507168&extension=ts&play_token=PmPpd3DM10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 15 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507169&extension=ts&play_token=38ikWGE7b9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 16 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507170&extension=ts&play_token=wDmFC8QtyI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 17 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507171&extension=ts&play_token=0LAVtqV3Pe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 18 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507172&extension=ts&play_token=bJepMCyCl3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 19 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507173&extension=ts&play_token=z2uhk9AHOa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 2 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507156&extension=ts&play_token=SrMbM3Ua8Z
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 20 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507174&extension=ts&play_token=ETyyHHag7S
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 24/7 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507154&extension=ts&play_token=9CqMlDYjbH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 3 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507157&extension=ts&play_token=vbNcWZoCGL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 4 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507158&extension=ts&play_token=JuNWnd6hjX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 5 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507159&extension=ts&play_token=qhOUaz8lM8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 6 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507160&extension=ts&play_token=zeMQbtl6B2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 7 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507161&extension=ts&play_token=2SYaMHFjNe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 8 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507162&extension=ts&play_token=NK3YfG2ZYM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| FITE TV 9 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507163&extension=ts&play_token=uOpzCu21dz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| ITV BOX OFFICE HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507136&extension=ts&play_token=Hwc8Dwj4j0
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| SKY SPORTS BOX OFFICE HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=997056&extension=ts&play_token=TdNW2aH3MG
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",UK| TNT BOX OFFICE FHD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=507138&extension=ts&play_token=LqOWMnbhUy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",WWE Summerslam
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1311211&extension=ts&play_token=ewpa70VWGv
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png" group-title="US| STAN PPV",AU (STAN 01) | Prague: Day 5  WTA 250 (2026-07-24 19:00:29)
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1909975&extension=ts&play_token=sy1qaTqZei
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/staun.png" group-title="US| STAN PPV",AU (STAN 02) | Hamburg: Day 5  WTA 250 (2026-07-24 19:00:34)
