@@ -4634,6 +4634,26 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZl
 
 ###############################################################################################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES",Top Movies
+https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Mission Impossible
+https://www.goodiptv.club/huya/26355792
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Terminators
+https://www.goodiptv.club/huya/20985841
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Avengers
+https://www.goodiptv.club/yy/1354936167
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Marvels ver 1
+https://www.goodiptv.club/yy/1354930233
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Marvels ver 2
+https://www.goodiptv.club/yy/1382745091
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Marvels ver 3
+https://www.goodiptv.club/yy/1382735585
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Marvels ver 4
+https://www.goodiptv.club/huya/30080181
+
+
+###############################################################################################################################################################################################################################
+
 #EXTINF:-1 tvg-id="" tvg-name="US - CM HOLLYWOOD 1 FHD" tvg-logo="https://go4.pw/cinemania.png" group-title="CINEMANIA HOLLYWOOD",US - CM HOLLYWOOD 1 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDAyOC50cw==
 #EXTINF:-1 tvg-id="" tvg-name="US - CM HOLLYWOOD 1 FHD" tvg-logo="https://go4.pw/cinemania.png" group-title="CINEMANIA HOLLYWOOD",US - CM HOLLYWOOD 2 FHD
@@ -6105,6 +6125,13 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1612561&exten
 #############################################################################################
 ###############################   USA SPORT     #################################
 #############################################################################################
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg"  group-title="SPORT/USA", US: FOX SPORTS 1
+https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png"  group-title="SPORT/USA", US: FOX SPORTS 2
+https://stream1.freetv.fun/952f17ed6ddc4c6f54c7de57d1a9149562b95d74cac5aebffe14e0b340385b7a.ctv
+
+
 
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORT/USA", US: FOX SPORTS 1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45571&extension=ts&play_token=1c3gMMnvzu
