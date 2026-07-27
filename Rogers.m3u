@@ -976,6 +976,23 @@ https://csm-e-cesevextprdausw2live-04cacd93e305180ea.bln1.yospace.com/csm/extliv
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/misc15-fast.m3u8
 
+
+#EXTINF:-1 channel-id="mjh-glasgowglory-fast" tvg-id="mjh-glasgowglory-fast" tvg-logo="https://i.mjh.nz/.images/auto-glasgowglory-fast-687d7c.png" group-title="COMM GAMES" , Glasgow Glory
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/glasgowglory-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-swimmingreplays-fast" tvg-id="mjh-swimmingreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="COMM GAMES" , Swimming Replays
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-gymnasticsreplays-fast" tvg-id="mjh-gymnasticsreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-gymnasticsreplays-fast-65b990.png" group-title="COMM GAMES" , Gymnastics Replays
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/gymnasticsreplays-fast.m3u8
+
+
 #EXTINF:-1 channel-id="mjh-swimmingreplays-fast" tvg-id="mjh-swimmingreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="COMM GAMES" , Swimming Replays
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
