@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
 #EXTM3U x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz"
-#EXTM3U x-tvg-url="https://tvpass.org/epg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Roku/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
@@ -992,6 +991,10 @@ https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/gymnasticsreplays-fast.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="COMM GAMES" ,Gymnastics
+https://csm-e-cesevextprdausw2live-0f9d55e46c748a65b.bln1.yospace.com/csm/extlive/sevenprd01,CAS09/index.m3u8?
+
+
 
 #EXTINF:-1 channel-id="mjh-swimmingreplays-fast" tvg-id="mjh-swimmingreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="COMM GAMES" , Swimming Replays
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -1003,19 +1006,10 @@ https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/powercombatreplays-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-powercombatreplays-fast" tvg-id="mjh-powercombatreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="COMM GAMES" ,3X3
-https://csm-e-cesevextprdausw2live-009a4ebe437d90238.bln1.yospace.com/csm/extlive/sevenprd01,MISC15/6.m3u8?
-
-
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="COMM GAMES" ,Glasgow
-https://csm-e-cesevextprdausw2live-009a4ebe437d90238.bln1.yospace.com/csm/extlive/sevenprd01,MISC15/6.m3u8?
-
-#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="COMM GAMES" ,Gymnastics
-https://csm-e-cesevextprdausw2live-0f9d55e46c748a65b.bln1.yospace.com/csm/extlive/sevenprd01,CAS09/index.m3u8?
 
 
 
-#EXTINF:-1 channel-id="mjh-powercombatreplays-fast" tvg-id="mjh-powercombatreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="COMM GAMES" ,TEAMS 
+#EXTINF:-1 channel-id="mjh-powercombatreplays-fast" tvg-id="mjh-powercombatreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="COMM GAMES" ,BASKETBALL
 https://csm-e-cesevextprdausw2live-049ffae661453a45f.bln1.yospace.com/csm/extlive/sevenprd01,CAS06/index.m3u8
 
 
