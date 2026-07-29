@@ -409,7 +409,7 @@ https://i.mjh.nz/.r/c31.m3u8
 #EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="SYDNEY" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="SYEDNEY",AU| SKY NEWS WEATHER
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="SYDNEY",AU| SKY NEWS WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS
