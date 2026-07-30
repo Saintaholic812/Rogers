@@ -38,33 +38,39 @@ https://c.mjh.nz/abc-news.m3u8
 
 
 
-#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" tvg-chno="71" group-title="BRISBANE", 7 BRISBANE
+#EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" tvg-chno="71" group-title="BRISBANE",7 BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seven-bri.m3u8
 
-#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE", 7 SUNSHINE COAST
+#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE",7 SUNSHINE COAST
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-04cacd93e305180ea.bln1.yospace.com/csm/extlive/sevenprd01,SSC1/index.m3u8
 
-#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/auto-7two-bri-701123.png" tvg-chno="72" group-title="Brisbane" , 7two
+#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE",Seven Sunshine Coast
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/seven-ssc.m3u8
+
+
+#EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/auto-7two-bri-701123.png" tvg-chno="72" group-title="BRISBANE",7two
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7two-bri.m3u8
 
-#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" tvg-chno="74" group-title="Brisbane" , 7mate
+#EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png" tvg-chno="74" group-title="BRISBANE",7mate
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7mate-bri.m3u8
 
-#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-logo="https://i.mjh.nz/.images/auto-7flix-bri-c6badc.png" tvg-chno="76" group-title="Brisbane" , 7flix
+#EXTINF:-1 channel-id="mjh-7flix-bri" tvg-id="mjh-7flix-bri" tvg-logo="https://i.mjh.nz/.images/auto-7flix-bri-c6badc.png" tvg-chno="76" group-title="BRISBANE",7flix
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7flix-bri.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-7flix-regional" tvg-id="mjh-7flix-regional" tvg-logo="https://i.mjh.nz/.images/auto-7flix-regional-c6badc.png" group-title="BRISBANE", 7FLIX REGIONAL
+#EXTINF:-1 channel-id="mjh-7flix-regional" tvg-id="mjh-7flix-regional" tvg-logo="https://i.mjh.nz/.images/auto-7flix-regional-c6badc.png" group-title="BRISBANE",7FLIX REGIONAL
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7flix-regional.m3u8
@@ -257,22 +263,22 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="Melbourne" , Seven
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="MELBOURNE",Seven
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seven-mel.m3u8
 
-#EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/auto-7two-mel-701123.png" tvg-chno="72" group-title="Melbourne" , 7two
+#EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/auto-7two-mel-701123.png" tvg-chno="72" group-title="MELBOURNE",7two
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7two-mel.m3u8
 
-#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/auto-7mate-mel-360d60.png" tvg-chno="74" group-title="Melbourne" , 7mate
+#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/auto-7mate-mel-360d60.png" tvg-chno="74" group-title="MELBOURNE",7mate
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7mate-mel.m3u8
 
-#EXTINF:-1 channel-id="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-logo="https://i.mjh.nz/.images/auto-7flix-mel-c6badc.png" tvg-chno="76" group-title="Melbourne" , 7flix
+#EXTINF:-1 channel-id="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-logo="https://i.mjh.nz/.images/auto-7flix-mel-c6badc.png" tvg-chno="76" group-title="MELBOURNE",7flix
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7flix-mel.m3u8
@@ -417,22 +423,22 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" tvg-chno="71" group-title="Sydney" , Seven
+#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" tvg-chno="71" group-title="SYDNEY",Seven
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seven-syd.m3u8
 
-#EXTINF:-1 channel-id="mjh-7two-syd" tvg-id="mjh-7two-syd" tvg-logo="https://i.mjh.nz/.images/auto-7two-syd-701123.png" tvg-chno="72" group-title="Sydney" , 7two
+#EXTINF:-1 channel-id="mjh-7two-syd" tvg-id="mjh-7two-syd" tvg-logo="https://i.mjh.nz/.images/auto-7two-syd-701123.png" tvg-chno="72" group-title="SYDNEY",7two
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7two-syd.m3u8
 
-#EXTINF:-1 channel-id="mjh-7mate-syd" tvg-id="mjh-7mate-syd" tvg-logo="https://i.mjh.nz/.images/auto-7mate-syd-360d60.png" tvg-chno="74" group-title="Sydney" , 7mate
+#EXTINF:-1 channel-id="mjh-7mate-syd" tvg-id="mjh-7mate-syd" tvg-logo="https://i.mjh.nz/.images/auto-7mate-syd-360d60.png" tvg-chno="74" group-title="SYDNEY",7mate
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7mate-syd.m3u8
 
-#EXTINF:-1 channel-id="mjh-7flix-syd" tvg-id="mjh-7flix-syd" tvg-logo="https://i.mjh.nz/.images/auto-7flix-syd-c6badc.png" tvg-chno="76" group-title="Sydney" , 7flix
+#EXTINF:-1 channel-id="mjh-7flix-syd" tvg-id="mjh-7flix-syd" tvg-logo="https://i.mjh.nz/.images/auto-7flix-syd-c6badc.png" tvg-chno="76" group-title="SYDNEY",7flix
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7flix-syd.m3u8
