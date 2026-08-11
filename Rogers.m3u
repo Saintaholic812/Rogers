@@ -8830,6 +8830,15 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1612561&exten
 #############################################################################################
 ###############################   USA SPORT     #################################
 #############################################################################################
+#EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", FOX SOCCER PLUS
+http://vocotv.live:80/Sanchez01/Sanchez01/916
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg"  group-title="SPORT/USA", US: FOX SPORTS 1
+http://vocotv.live:80/Sanchez01/Sanchez01/915
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png"  group-title="SPORT/USA", US: FOX SPORTS 2
+http://vocotv.live:80/Sanchez01/Sanchez01/914
+
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg"  group-title="SPORT/USA", US: FOX SPORTS 1
 https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.ctv
@@ -8840,8 +8849,6 @@ https://stream1.freetv.fun/952f17ed6ddc4c6f54c7de57d1a9149562b95d74cac5aebffe14e
 
 #EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORT/USA", US: FOX SPORTS 1
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45571&extension=ts&play_token=1c3gMMnvzu
-#EXTINF:-1 tvg-id="Fox Sports 1 HD.us" tvg-name="Fox Sports 1"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORT/USA",Fox Sports 1 SD
-https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-chno="66" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORT/USA", US: FOX SPORTS 1
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/263.ts
 
@@ -8850,16 +8857,11 @@ http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
 
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORT/USA", US: FOX SPORTS 2
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=45570&extension=ts&play_token=Op3H3pbK5X
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORT/USA", Fox Sports 2 SD
-https://tvpass.org/live/FoxSports2/hd
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", US: FOX SOCCER PLUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=429583&extension=ts&play_token=yMs1mNKHsh
 #EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", FOX SOCCER PLUS
 http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1968452&extension=ts&play_token=cZ4vg81u7g
-
-#EXTINF:-1 tvg-id="espn-news" tvg-logo="https://static.wixstatic.com/media/6048cf_c414434d9e634e998114aef0219732b4~mv2.png/v1/fill/w_298,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_c414434d9e634e998114aef0219732b4~mv2.png" tvg-name="ESPN News" group-title="SPORT/USA",ESPN News
-https://tvpass.org/live/ESPNews/sd
 
 
 
@@ -8868,13 +8870,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1847451&exte
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORT/USA", ESPN 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1847454&extension=ts&play_token=ZDq10Jp3nc
-#EXTINF:-1  tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="https://static.wixstatic.com/media/6048cf_2cc5736161454cc0beeb675dc842a6f5~mv2.jpg/v1/fill/w_298,h_290,al_c,lg_1,q_80,enc_avif,quality_auto/espn.jpg" group-title="SPORT/USA",ESPN SD
-https://tvpass.org/live/ESPN/hd
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png"group-title="SPORT/USA", ESPN 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1847453&extension=ts&play_token=9Aidzt8wyk
-#EXTINF:-1  tvg-id="ESPN2.HD.us2" tvg-logo="https://static.wixstatic.com/media/6048cf_3a9cd6f69e03495ba15823ddb12d05b2~mv2.jpg/v1/fill/w_298,h_290,al_c,lg_1,q_80,enc_avif,quality_auto/espn2).jpg"  group-title="SPORT/USA",ESPN2 SD
-https://tvpass.org/live/ESPN2/hd
 
 
 #EXTINF:-1  tvg-id="ESPN2.(Alternate).us2" tvg-logo="http://51.158.145.100/picons/logos/CARIBBEAN/ESPNSEC.png" group-title="SPORT/USA",  ESPN SEC
@@ -8882,67 +8880,30 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1847452&exte
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_de529114ea2d423e9950a452c8415145~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/espnuu.png" group-title="SPORT/USA",ESPN U SD
-https://tvpass.org/live/ESPNU/hd
 
 #EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265" group-title="SPORT/USA", TSN 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=414142&extension=ts&play_token=7tPIrWB4eb
 
-#EXTINF:-1  tvg-id="tsn1" tvg-name="TSN1" tvg-logo="https://static.wixstatic.com/media/6048cf_81b00e38bad44bc09acc7dc5d5c91546~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn1.png" group-title="SPORT/USA",TSN1 SD
-https://tvpass.org/live/tsn1/sd
 
 #EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265" group-title="SPORT/USA", TSN 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=414141&extension=ts&play_token=gbFAcpmW97
-#EXTINF:-1  tvg-id="tsn2" tvg-name="TSN2" tvg-logo="https://static.wixstatic.com/media/6048cf_9f6076aec9b04f489ccc902b1da053d0~mv2.png/v1/fill/w_420,h_179,al_c,lg_1,q_85,enc_avif,quality_auto/tsn2.png" group-title="SPORT/USA",TSN2 SD
-https://tvpass.org/live/tsn2/hd
 
 #EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265" group-title="SPORT/USA", TSN 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=414140&extension=ts&play_token=K3ET67GbhS
-#EXTINF:-1  tvg-id="tsn3" tvg-name="TSN3"  tvg-logo="https://static.wixstatic.com/media/6048cf_04d4aceedd02492d8b31c0396fe0f0a6~mv2.png/v1/fill/w_246,h_242,al_c,lg_1,q_85,enc_avif,quality_auto/tsn3.png" group-title="SPORT/USA",TSN3 SD
-https://tvpass.org/live/tsn3/hd
 
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265" group-title="SPORT/USA", TSN 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=414139&extension=ts&play_token=m0qQm7d0ac
-#EXTINF:-1  tvg-id="tsn4" tvg-name="TSN4" tvg-logo="https://static.wixstatic.com/media/6048cf_40250356fdba4ed08f4ff7d751260bf1~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn4.png" group-title="SPORT/USA",TSN4 PPV
-https://tvpass.org/live/tsn4/hd
 
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1950.png?25265" group-title="SPORT/USA", TSN 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=414138&extension=ts&play_token=6mkXNUmOPK
-#EXTINF:-1  tvg-id="tsn5" tvg-name="TSN5"  tvg-logo="https://static.wixstatic.com/media/6048cf_7fa3bb7a14c043d688a51a91559bd60f~mv2.png/v1/fill/w_315,h_315,al_c,lg_1,q_85,enc_avif,quality_auto/tsn5.png" group-title="SPORT/USA",TSN5 S
-https://tvpass.org/live/tsn5/hd
-
-#EXTINF:-1  "tvg-logo="https://static.wixstatic.com/media/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg/v1/fill/w_192,h_160,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/6048cf_e01c21b1f64448e8a0aa01cd8ef138f9~mv2.jpg" group-title="SPORT/USA",Yes Network
-https://tvpass.org/live/yes-network/hd
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_927f060d32084f538f28ab88df60ed64~mv2.jpg/v1/fill/w_508,h_164,al_c,lg_1,q_80,enc_avif,quality_auto/msgmadisond%20(1).jpg"   group-title="SPORT/USA",MSG Madison Square Gardens
-https://tvpass.org/live/msg-madison-square-gardens/hd
 
-
-#EXTINF:-1  tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA"  tvg-logo="https://static.wixstatic.com/media/6048cf_aa64a8e06fc24cb4a40d6188b2ba8d31~mv2.png/v1/fill/w_363,h_271,al_c,lg_1,q_85,enc_avif,quality_auto/cbssports.png" group-title="SPORT/USA",CBS Sports
-https://tvpass.org/live/CBSSportsNetworkUSA/hd
-
-#EXTINF:-1  tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network"  tvg-logo="https://static.wixstatic.com/media/6048cf_3d6caa9d5b8a4aeda556588f0b3ff4cb~mv2.jpg/v1/fill/w_352,h_242,al_c,lg_1,q_80,enc_avif,quality_auto/chicargo1).jpg" group-title="SPORT/USA",Chicago Sports Network
-https://tvpass.org/live/chicago-sports-network/hd
 
 #EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network"  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT/USA",NBC Sports
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT/USA",NBC Sports Bay Area
-https://tvpass.org/live/nbc-sports-bay-area/hd
-
-#EXTINF:-1  tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston"  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT/USA",NBC Sports Boston
-https://tvpass.org/live/nbc-sports-boston/hd
-
-#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California"   tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT/USA",NBC Sports California
-https://tvpass.org/live/nbc-sports-california/hd
-
-#EXTINF:-1  tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia"  tvg-logo="https://static.wixstatic.com/media/6048cf_daf0cd6cfa054a93a05d74efc368cc9d~mv2.png/v1/fill/w_298,h_300,al_c,lg_1,q_85,enc_avif,quality_auto/nbcsports.png" group-title="SPORT/USA",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/hd
-
-#EXTINF:-1  tvg-id="new-england-sports-network" tvg-name="New England Sports Network"  tvg-logo="https://static.wixstatic.com/media/6048cf_b93e3110fc394937943cd2c14dddfff8~mv2.png/v1/fill/w_418,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/nesnd.png" group-title="SPORT/USA", New England Sports Network
-https://tvpass.org/live/new-england-sports-network/hd
 
 
 ###############################################################################################
