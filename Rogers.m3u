@@ -25,7 +25,7 @@
 #############################
 
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="BRISBANE" , SKY NEWS AUSTRALIA
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="BRISBANE",AU| SKY NEWS WEATHER
@@ -252,7 +252,7 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="MELBOURNE", SKY NEWS AUSTRALIA
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="MELBOURNE", SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="MELBOURNE",AU| SKY NEWS WEATHER
@@ -412,7 +412,7 @@ https://i.mjh.nz/.r/c31.m3u8
 #############################
 #############################
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="SYDNEY" , SKY NEWS AUSTRALIA
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="SYDNEY" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="SYDNEY",AU| SKY NEWS WEATHER
@@ -585,7 +585,7 @@ https://i.mjh.nz/.r/snowy-mountains.m3u8
 ###################################
 ###################################
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="ADELAIDE" , SKY NEWS AUSTRALIA
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="ADELAIDE" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="ADELAIDE", ABC NEWS
@@ -740,7 +740,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ################################################################################################
 
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="PERTH" , SKY NEWS AUSTRALIA
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="PERTH" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="PERTH", ABC NEWS
@@ -879,7 +879,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ###################   HOBART/DARWIN/CANBERRA    ##################################################################
 ###################################################################################################################
 
-#EXTINF:-1  channel-id="Sky News Australia / SKY.au" tvg-id="Sky News Australia / SKY.au" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png"  group-title="HOBART/DARWIN/CANBERRA" , SKY NEWS AUSTRALIA
+#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="HOBART/DARWIN/CANBERRA" , SKY NEWS AUSTRALIA
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="HOBART/DARWIN/CANBERRA" , ABC NEWS
