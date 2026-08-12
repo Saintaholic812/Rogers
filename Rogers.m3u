@@ -25,7 +25,7 @@
 #############################
 
 
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , SKY24 NEWS
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -254,8 +254,10 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="MELBOURNE", SKY NEWS AUSTRALIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-news-now.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="MELBOURNE",AU| SKY NEWS WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
@@ -414,8 +416,10 @@ https://i.mjh.nz/.r/c31.m3u8
 #############################
 #############################
 
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="SYDNEY" , SKY NEWS AUSTRALIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-news-now.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="SYDNEY",AU| SKY NEWS WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
@@ -587,8 +591,10 @@ https://i.mjh.nz/.r/snowy-mountains.m3u8
 ###################################
 ###################################
 
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="ADELAIDE" , SKY NEWS AUSTRALIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-news-now.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="ADELAIDE", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -742,8 +748,10 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ################################################################################################
 
 
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="PERTH" , SKY NEWS AUSTRALIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-news-now.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="PERTH", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -881,8 +889,10 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ###################   HOBART/DARWIN/CANBERRA    ##################################################################
 ###################################################################################################################
 
-#EXTINF:-1 channel-id="mjh-sky-news-now" tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="HOBART/DARWIN/CANBERRA" , SKY NEWS AUSTRALIA
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-news-now.m3u8
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="HOBART/DARWIN/CANBERRA" , ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -969,59 +979,6 @@ https://c.mjh.nz/abc-news.m3u8
 ########################################################################################################################################################################################################################
 #########################################################   RELAX    ###############################################################################################################################################
 ######################################################################################################################################################################################################################
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 1 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=779155&extension=ts&play_token=GhSLvRMA79
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 10 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790886&extension=ts&play_token=X4uJCfUZXq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 11 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790885&extension=ts&play_token=yjAMovnHzW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 12 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790884&extension=ts&play_token=fyoRTE35mi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 13 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790883&extension=ts&play_token=19t54Hj1RO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 14 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790882&extension=ts&play_token=U3211BpcJm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 15 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790881&extension=ts&play_token=G4EJWl4Hv4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 2 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=781817&extension=ts&play_token=3bJFxb2wzJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 3 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=781816&extension=ts&play_token=BiYeOre0A0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 4 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=782795&extension=ts&play_token=gvhwGOtbmU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 5 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=782794&extension=ts&play_token=6N1rHWBbd0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 6 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790890&extension=ts&play_token=4rjzwCOJgw
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 7 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790889&extension=ts&play_token=rkyFacfFOX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 8 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790888&extension=ts&play_token=mxpuRF1Pml
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",4K: RELAX 9 ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=790887&extension=ts&play_token=utNC8tfpw8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX ALGERIA ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=1008543&extension=ts&play_token=Vwo24984w3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX AUSTRALIA ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791176&extension=ts&play_token=YeXJnGTQGF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX EARTH NATURE ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791175&extension=ts&play_token=R2pAz7pc0i
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX FOREST ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791174&extension=ts&play_token=0tKMbA35bC
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX ICELAND ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791179&extension=ts&play_token=pkhO6kLtJV
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX INSPIRATIONAL MOTIVATIONAL ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791173&extension=ts&play_token=nI5PRR0X3O
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX MOROCCO ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791180&extension=ts&play_token=jWIhOWq2sw
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX NORWAY ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791178&extension=ts&play_token=oPW3SSq26o
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX THE OCEAN ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791172&extension=ts&play_token=I0FOFS7eXB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX TROPICAL BEACH ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791171&extension=ts&play_token=ZI2v3U4y1C
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" group-title="4K| RELAX",RX: RELAX TURKEY ᵁᴴᴰ 3840P
-http://pro.8k.yachts:80/play/live.php?mac=00:1A:79:D2:03:86&stream=791177&extension=ts&play_token=Beka9sqboh
-
 
 #######################################
 #######################################
