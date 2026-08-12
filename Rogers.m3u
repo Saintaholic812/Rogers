@@ -8010,14 +8010,14 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="NRL", KAYO - FOX SPORTS 502 LEAUGE
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520171&extension=ts&play_token=5rJrm46nfQ
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="NRL",AU: FOX SPORTS 502 HD
+#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="NRL",AU: FOX SPORTS 502 HD
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:58:0D:75&stream=441306&extension=ts&play_token=PiEwqXA6qs
 
 #EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU: FOX SPORTS 502 NRL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441306&extension=ts&play_token=MgZK07I9Gi
-#EXTINF:-1 tvg-id="FoxLeague.au"tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU| FOX SPORTS 502 HD
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU| FOX SPORTS 502 HD
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646970&extension=ts&play_token=FrPtlyBMhZ
-#EXTINF:-1 tvg-tvg-id="FoxLeague.au"logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU| KAYO - FOX SPORTS 502 LEAUGE
+#EXTINF:-1 tvg-tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU| KAYO - FOX SPORTS 502 LEAUGE
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520171&extension=ts&play_token=dTf3QIYL9O
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 1
