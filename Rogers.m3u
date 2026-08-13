@@ -1,11 +1,14 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-au.xml.gz"
 #EXTM3U x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Roku/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/refs/heads/main/lg_epg_us.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/canada5.xml.gz"
 #EXTM3U x-tvg-url="https://www.open-epg.com/merged/unitedkingdom.xml.gz"
@@ -25,12 +28,12 @@
 #############################
 
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="BRISBANE" , NEWS24
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="BRISBANE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="BRISBANE",AU| SKY NEWS WEATHER
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="BRISBANE",AU|  NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="BRISBANE", ABC NEWS
@@ -119,34 +122,34 @@ https://i.mjh.nz/.r/seven-tsv.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seven-wby.m3u8
 
-#EXTINF:-1 channel-id="mjh-channel-9-qld" tvg-id="mjh-channel-9-qld" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" tvg-chno="91" group-title="BRISBANE", 9 BRISBANE
+#EXTINF:-1 channel-id="mjh-channel-9-qld" tvg-id="mjh-channel-9-qld" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9ALKb6YEk7B51fW3RJlaovAWqL6_l-vA0e6-JEBccnOjoyOl_GXdMIb1u30_Kz2puS768FJsfRA7Jpc-sg-jqFrkvghMh74UnUm2TvQE109V7toz5-07OW9WbHw" tvg-chno="91" group-title="BRISBANE", 9 BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/channel-9-qld.m3u8
 
-#EXTINF:-1 channel-id="mjh-channel-9-gold-coast" tvg-id="mjh-channel-9-gold-coast" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="BRISBANE", 9 GOLD COAST
+#EXTINF:-1 channel-id="mjh-channel-9-gold-coast" tvg-id="mjh-channel-9-gold-coast" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9ALKb6YEk7B51fW3RJlaovAWqL6_l-vA0e6-JEBccnOjoyOl_GXdMIb1u30_Kz2puS768FJsfRA7Jpc-sg-jqFrkvghMh74UnUm2TvQE109V7toz5-07OW9WbHw" group-title="BRISBANE", 9 GOLD COAST
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/channel-9-gold-coast.m3u8
 
 
 
-#EXTINF:-1 channel-id="mjh-gem-qld" tvg-id="mjh-gem-qld" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="BRISBANE", 9GEM BRISBANE
+#EXTINF:-1 channel-id="mjh-gem-qld" tvg-id="mjh-gem-qld" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9BYgm5rAEhCcW6xAmvXIiJfI-MFhBQngOLpb3E5ShN7lGG_Gv5hr1XVLJYUqleSFm6hxR3Jl3WBtRn2kek8rV07W7GkDtCkwJF0_64A304KG9Yo984irHw" tvg-chno="92" group-title="BRISBANE", 9GEM BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/gem-qld.m3u8
 
-#EXTINF:-1 channel-id="mjh-go-qld" tvg-id="mjh-go-qld" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="BRISBANE", 9GO BRISBANE
+#EXTINF:-1 channel-id="mjh-go-qld" tvg-id="mjh-go-qld" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/DTwFoUbDzD3pzP319zNQEM0wwTlDyG1_0nIn9_bF2tak04FdNzjxb6WF2I9xsj0IaG-NAlqOuvDsMn6FzU1hUMCl0-YfJ3qRSVxC8BtFRM5J43lhLcLv" tvg-chno="93" group-title="BRISBANE", 9GO BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/go-qld.m3u8
 
-#EXTINF:-1 channel-id="mjh-life-qld" tvg-id="mjh-life-qld" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="BRISBANE", 9 LIFE BRISBANE
+#EXTINF:-1 channel-id="mjh-life-qld" tvg-id="mjh-life-qld" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/QP86gvjipIfvk_XAUGSc4t2alEKysEoqBcwSWxMwdIWkn2RjItwnAznx82KJm1-uma-CO55tUZOlmJ080usKLHoNlXlO90F2SjpuDb1wRHAKYFwVTaOw" tvg-chno="94" group-title="BRISBANE", 9 LIFE BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/life-qld.m3u8
 
-#EXTINF:-1 channel-id="mjh-rush-qld" tvg-id="mjh-rush-qld" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="BRISBANE", 9 RUSH BRISBANE
+#EXTINF:-1 channel-id="mjh-rush-qld" tvg-id="mjh-rush-qld" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/ncfDYu4dhqya6ut1KVzo-viJsOi9Whpp1tYHYJ-uppSX2ZKu9hMU0A-xUidGdMKw4pwVkJsNpxcIhJCL7ZQIUFBVcYun8RqChrF6QIen7uFGEqQDI74yxUPq" tvg-chno="96" group-title="BRISBANE", 9 RUSH BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rush-qld.m3u8
@@ -254,12 +257,12 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="MELBOURNE" , NEWS24
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="MELBOURNE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="MELBOURNE",AU| SKY NEWS WEATHER
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="MELBOURNE",AU| NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="MELBOURNE", ABC NEWS
@@ -287,27 +290,27 @@ https://csm-e-cesevextprdausw2live-01c12921115b661eb.bln1.yospace.com/csm/extliv
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-01c12921115b661eb.bln1.yospace.com/csm/extlive/sevenprd01,MEL6/index.m3u8?
 
-#EXTINF:-1 channel-id="mjh-channel-9-vic" tvg-id="mjh-channel-9-vic" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" tvg-chno="91" group-title="MELBOURNE", 9 MELBOURNE
+#EXTINF:-1 channel-id="mjh-channel-9-vic" tvg-id="mjh-channel-9-vic" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9ALKb6YEk7B51fW3RJlaovAWqL6_l-vA0e6-JEBccnOjoyOl_GXdMIb1u30_Kz2puS768FJsfRA7Jpc-sg-jqFrkvghMh74UnUm2TvQE109V7toz5-07OW9WbHw" tvg-chno="91" group-title="MELBOURNE", 9 MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/channel-9-vic.m3u8
 
-#EXTINF:-1 channel-id="mjh-gem-vic" tvg-id="mjh-gem-vic" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="MELBOURNE", 9 GEM MELBOURNE
+#EXTINF:-1 channel-id="mjh-gem-vic" tvg-id="mjh-gem-vic" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9BYgm5rAEhCcW6xAmvXIiJfI-MFhBQngOLpb3E5ShN7lGG_Gv5hr1XVLJYUqleSFm6hxR3Jl3WBtRn2kek8rV07W7GkDtCkwJF0_64A304KG9Yo984irHw" tvg-chno="92" group-title="MELBOURNE", 9 GEM MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/gem-vic.m3u8
 
-#EXTINF:-1 channel-id="mjh-go-vic" tvg-id="mjh-go-vic" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="MELBOURNE", 9 GO MELBOURNE
+#EXTINF:-1 channel-id="mjh-go-vic" tvg-id="mjh-go-vic" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/DTwFoUbDzD3pzP319zNQEM0wwTlDyG1_0nIn9_bF2tak04FdNzjxb6WF2I9xsj0IaG-NAlqOuvDsMn6FzU1hUMCl0-YfJ3qRSVxC8BtFRM5J43lhLcLv" tvg-chno="93" group-title="MELBOURNE", 9 GO MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/go-vic.m3u8
 
-#EXTINF:-1 channel-id="mjh-life-vic" tvg-id="mjh-life-vic" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="MELBOURNE", 9 LIFE MELBOURNE
+#EXTINF:-1 channel-id="mjh-life-vic" tvg-id="mjh-life-vic" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/QP86gvjipIfvk_XAUGSc4t2alEKysEoqBcwSWxMwdIWkn2RjItwnAznx82KJm1-uma-CO55tUZOlmJ080usKLHoNlXlO90F2SjpuDb1wRHAKYFwVTaOw" tvg-chno="94" group-title="MELBOURNE", 9 LIFE MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/life-vic.m3u8
 
-#EXTINF:-1 channel-id="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="MELBOURNE", 9 RUSH MELBOURNE
+#EXTINF:-1 channel-id="mjh-rush-vic" tvg-id="mjh-rush-vic" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/ncfDYu4dhqya6ut1KVzo-viJsOi9Whpp1tYHYJ-uppSX2ZKu9hMU0A-xUidGdMKw4pwVkJsNpxcIhJCL7ZQIUFBVcYun8RqChrF6QIen7uFGEqQDI74yxUPq" tvg-chno="96" group-title="MELBOURNE", 9 RUSH MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rush-vic.m3u8
@@ -416,12 +419,12 @@ https://i.mjh.nz/.r/c31.m3u8
 #############################
 #############################
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="SYDNEY" , NEWS24
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="SYDNEY" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SKY-NEWS-WEATHER.png" group-title="SYDNEY",AU| SKY NEWS WEATHER
+#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="SYDNEY",AU| NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS
@@ -449,27 +452,27 @@ https://csm-e-cesevextprdausw2live-01c12921115b661eb.bln1.yospace.com/csm/extliv
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-01c12921115b661eb.bln1.yospace.com/csm/extlive/sevenprd01,SYD6/index.m3u8?
 
-#EXTINF:-1 channel-id="mjh-channel-9-nsw" tvg-id="mjh-channel-9-nsw" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" tvg-chno="91" group-title="SYDNEY", 9 SYDNEY
+#EXTINF:-1 channel-id="mjh-channel-9-nsw" tvg-id="mjh-channel-9-nsw" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9ALKb6YEk7B51fW3RJlaovAWqL6_l-vA0e6-JEBccnOjoyOl_GXdMIb1u30_Kz2puS768FJsfRA7Jpc-sg-jqFrkvghMh74UnUm2TvQE109V7toz5-07OW9WbHw" tvg-chno="91" group-title="SYDNEY", 9 SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 
-#EXTINF:-1 channel-id="mjh-gem-nsw" tvg-id="mjh-gem-nsw" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="SYDNEY", 9 GEM SYDNEY
+#EXTINF:-1 channel-id="mjh-gem-nsw" tvg-id="mjh-gem-nsw" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9BYgm5rAEhCcW6xAmvXIiJfI-MFhBQngOLpb3E5ShN7lGG_Gv5hr1XVLJYUqleSFm6hxR3Jl3WBtRn2kek8rV07W7GkDtCkwJF0_64A304KG9Yo984irHw" tvg-chno="92" group-title="SYDNEY", 9 GEM SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/gem-nsw.m3u8
 
-#EXTINF:-1 channel-id="mjh-go-nsw" tvg-id="mjh-go-nsw" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="SYDNEY", 9 GO SYDNEY
+#EXTINF:-1 channel-id="mjh-go-nsw" tvg-id="mjh-go-nsw" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/DTwFoUbDzD3pzP319zNQEM0wwTlDyG1_0nIn9_bF2tak04FdNzjxb6WF2I9xsj0IaG-NAlqOuvDsMn6FzU1hUMCl0-YfJ3qRSVxC8BtFRM5J43lhLcLv" tvg-chno="93" group-title="SYDNEY", 9 GO SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/go-nsw.m3u8
 
-#EXTINF:-1 channel-id="mjh-life-nsw" tvg-id="mjh-life-nsw" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="SYDNEY", 9 LIFE SYDNEY
+#EXTINF:-1 channel-id="mjh-life-nsw" tvg-id="mjh-life-nsw" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/QP86gvjipIfvk_XAUGSc4t2alEKysEoqBcwSWxMwdIWkn2RjItwnAznx82KJm1-uma-CO55tUZOlmJ080usKLHoNlXlO90F2SjpuDb1wRHAKYFwVTaOw" tvg-chno="94" group-title="SYDNEY", 9 LIFE SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/life-nsw.m3u8
 
-#EXTINF:-1 channel-id="mjh-rush-nsw" tvg-id="mjh-rush-nsw" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="SYDNEY", 9 RUSH SYDNEY
+#EXTINF:-1 channel-id="mjh-rush-nsw" tvg-id="mjh-rush-nsw" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/ncfDYu4dhqya6ut1KVzo-viJsOi9Whpp1tYHYJ-uppSX2ZKu9hMU0A-xUidGdMKw4pwVkJsNpxcIhJCL7ZQIUFBVcYun8RqChrF6QIen7uFGEqQDI74yxUPq" tvg-chno="96" group-title="SYDNEY", 9 RUSH SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/rush-nsw.m3u8
@@ -591,7 +594,7 @@ https://i.mjh.nz/.r/snowy-mountains.m3u8
 ###################################
 ###################################
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="ADELAIDE" , NEWS24
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="ADELAIDE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -748,7 +751,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ################################################################################################
 
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="PERTH" , NEWS24
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="PERTH" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -889,7 +892,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ###################   HOBART/DARWIN/CANBERRA    ##################################################################
 ###################################################################################################################
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png"  group-title="HOBART/DARWIN/CANBERRA" , NEWS24
+#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="HOBART/DARWIN/CANBERRA" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -4932,15 +4935,13 @@ https://www.goodiptv.club/yy/1382735585
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Marvels ver 4
 https://www.goodiptv.club/huya/30080181
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ADAM DRIVER
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601214&extension=ts&play_token=jNlvvxdpMI
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ADAM SANDLER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601213&extension=ts&play_token=JNDrXSsjVm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ADAMSANDLER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ADAM SANDLER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601212&extension=ts&play_token=33jW6V9D4i
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: AL PACINO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601211&extension=ts&play_token=y7cyYIWb04
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ALICIAVIKANDER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ALICIA VIKANDER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601210&extension=ts&play_token=r2X0JhGfgG
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ALLISON JANNEY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601209&extension=ts&play_token=vpMcahdpfV
@@ -4972,7 +4973,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601197&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601196&extension=ts&play_token=9h3lvbmjDV
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRUCE LEE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601195&extension=ts&play_token=c0Zfjwwpla
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRUCE WILLIS MOVIE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRUCE WILLIS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601194&extension=ts&play_token=9UL54PCl4F
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRYAN CRANSTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601193&extension=ts&play_token=7eEppDDFAN
@@ -4998,7 +4999,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601184&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601183&extension=ts&play_token=PEufCpNDK8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DENZEL WASHINGTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601182&extension=ts&play_token=y2ephei47H
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ELVIS PRESLEY MOVIE S
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ELVIS PRESLEY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601181&extension=ts&play_token=fuSQDSNzbN
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: EVAN RACHEL WOOD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601180&extension=ts&play_token=NeemV1kcMc
@@ -5164,7 +5165,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601101&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601100&extension=ts&play_token=aKtWKgEQ8w
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RIZ AHMED
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601099&extension=ts&play_token=4Bw6VPYRjN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBERT DE NIRO MOVIES
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBERT DE NIRO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601098&extension=ts&play_token=2utZlGUJCW
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBERT DOWNEY JR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601097&extension=ts&play_token=MLU1J3doAY
@@ -8586,45 +8587,47 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 ########################################################################   NRL    ######################################################################################################################################
 ###################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="NRL", KAYO - FOX SPORTS 502 LEAUGE
+#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/OYTShtamUlGIWtc5Qrx1mMGEkbMjo2xKNa26_KbwBPtUE8PKDKE6xLlk4vgOFgjAWpYF1usFo1ZEUmUYvF9iqMluMMYKp3k9FGea7fXAudbydCPu" group-title="NRL", KAYO - FOX SPORTS 502
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520171&extension=ts&play_token=5rJrm46nfQ
 
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="NRL",AU: FOX SPORTS 502 HD
+#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/A-gl2TA0M4OFOFNLZSbz3MOAyM-I1HaKYiqKWuluHs5Olecwq_ipjwmUybeECf-zYxR3JjWVwoZfSoLBzEIe03clOpmhcDrCCDrn_ukXmVcYGw" group-title="NRL",AU: FOX SPORTS 502
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:58:0D:75&stream=441306&extension=ts&play_token=PiEwqXA6qs
 
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU: FOX SPORTS 502 NRL
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/EBiwMwpLrQAlkxEB-bvm5CsFef7WUTNOXZMN-9mxYscssga4xrxqn83iU6hunClNoLxiGLs10RA3KbyKzZ2_rlXYNtKoMZWXeF90_BT5zCNMvVbv_wgHzztOUOJM8UM" group-title="NRL",AU: FOX SPORTS 502
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441306&extension=ts&play_token=MgZK07I9Gi
-#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU| FOX SPORTS 502 HD
+
+#EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/EBiwMwpLrQAlkxEB-bvm5CsFef7WUTNOXZMN-9mxYscssga4xrxqn83iU6hunClNoLxiGLs10RA3KbyKzZ2_rlXYNtKoMZWXeF90_BT5zCNMvVbv_wgHzztOUOJM8UM" group-title="NRL",AU| FOX SPORTS 502
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646970&extension=ts&play_token=FrPtlyBMhZ
-#EXTINF:-1 tvg-tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="NRL",AU| KAYO - FOX SPORTS 502 LEAUGE
+
+#EXTINF:-1 tvg-tvg-id="FoxLeague.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/EBiwMwpLrQAlkxEB-bvm5CsFef7WUTNOXZMN-9mxYscssga4xrxqn83iU6hunClNoLxiGLs10RA3KbyKzZ2_rlXYNtKoMZWXeF90_BT5zCNMvVbv_wgHzztOUOJM8UM" group-title="NRL",AU| KAYO - FOX SPORTS 502
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520171&extension=ts&play_token=dTf3QIYL9O
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 1
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9ydXdtIwrtkebOFlbCz0JzeM9RDjqInb5RfK-veyJpNIGCjaYDBhf4-b-RNvWL8_0VFfDgioVorMl4Bd338n2M9vGz-qtb7LXTMINuzGBEZ47kR87LsV" group-title="NRL",NZ: SKY SPORT 1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzUyLnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 2
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Gk7nNI0QIu9Wfj3EitCvSl6LB4iQReHxJkEhYPtJfpToyDr31s6aRQNkj4l-IuWmxOESZ2xxyTZyyX0Rrx7j5r9sJ_R1TyftWpZZ7ndY72IrB-pfiBfO" group-title="NRL",NZ: SKY SPORT 2
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ2LnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 3
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Rx6cxEPR3buvSduqkCmL5E-QJFN5FYk7Ue9G5oZXiWTh2h9VO6hnrilKUp03Am1WdRfjmnwh8Gs0rsA9YDGjrOEhBJF0BWcPNVEe7z5f3pLMUMZlKm5T" group-title="NRL",NZ: SKY SPORT 3
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ3LnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 4
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Lp3rVjlAqSoG8T6TQU95VKEH2leY94OU8PVbx3nvaUJBwZJGhEyUew8zgzNjBquCJM3Ydoor_I_O8ss9uNt8NVU_Z2nfHczDs155qTYZYYXSMUdqGTyz" group-title="NRL",NZ: SKY SPORT 4
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ4LnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 5
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/qt-7uBhgADDMnPuvG9sz4KM42KFOtmO4oCOqHno6PcKyCqzmpLaPBWMlLSdAEYmhTJXf_4wN0cNPyJIIUh--v4MGPUzjCg1WWtyfRWIVHZNgbgKuzG0_" group-title="NRL",NZ: SKY SPORT 5
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzI2LnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 6
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/FcHcJnXnur31l7-2XlAH3NsLDMLD0lv_Zqwo7GoOnRydJkO-yMMFM2BO6MDYuQ2kzve74BiZih16pfeg0nxsiIBir8m8vhNDPOopUdWPos0YqJtQojz8" group-title="NRL",NZ: SKY SPORT 6
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzM3LnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 7
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PmDYpZqQnAEVhplneNwExoRkIivlwdFVWxNAI0841hstygpe-qEI-QsnAI5Y9mWH1KADNqdSniTtcxr5q2EqDcLkiN9LIRFOjcs05L72wAxjYNZqbROA" group-title="NRL",NZ: SKY SPORT 7
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzUwLnRz
 
-#EXTINF:-1 tvg-id="Sky.Sport.8.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 8
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/631_JVtclkryPSssO8VtPQpIiChHf_Jhf_eAXsifQ80bb8LsR_Cos7rPx1S57y-PYNX-s8hy8DZv8VN4elW4mrQuPsguSvqc39klmf9cRSfCYUC2CI5tEejq4GCGVs1hvaul" group-title="NRL",NZ: SKY SPORT 8
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzUxLnRz
 
 
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="NRL",NZ: SKY SPORT 9
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/CB8yzVMbNO2Q6wNMHd3fXHJzdECj6pm6_LxhgLMXR1Ha8IcToNLlc2MFtJfnPFlwU5GQ3Olrvn_2Sp-7q4Jo4kng_VsiA1e52jXXJrDOhlYSC96aggTM" group-title="NRL",NZ: SKY SPORT 9
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzQwLnRz
 
 
@@ -8633,45 +8636,64 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 ###################################################
 
 
-#EXTINF:-1 ,tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT",AU:,KAYO UFC/MAIN EVENT
+#EXTINF:-1 ,tvg-id="MainEventUFC.au;Main Event UFC.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/RGydVQx0pd8h7-4okK0XSYeCUZuAWdAehVTUxPgAkYo7ZtGIqtoZ2t5I9IKCFb_-krjItIpMWwpMLevWdxwR-YT5rQIhAepXb1j5QFTB8V_VjGh4gxS88FY" group-title="KAYO MAIN EVENT",AU:,KAYO UFC/MAIN EVENT
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTI4Mzc3MC50cw==
 
-#EXTINF:-1 ,tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT",AU:,KAYO MAIN EVENT PPV
+#EXTINF:-1 ,tvg-id="MainEventUFC.au;Main Event UFC.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/MgLPLziwliM3T-xqm6DwxMIXr7kYOg0euPqR5Ik_MXlmBVHEzrmba8sfiAkzReCNLmFDAFBeNItPR2-FdMw_hVmwLB3GLDoB_oblqWk9daNbvSqWgX_EdA" group-title="KAYO MAIN EVENT",AU:,KAYO MAIN EVENT PPV
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDI4NTg4LnRz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 01 - 
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1022191&extension=ts&play_token=WHuN4JsTqQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 02 -
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1022190&extension=ts&play_token=ZXeRceaHsx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 03 - 
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1022189&extension=ts&play_token=IcAcPxEQTx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 04 -  
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023137&extension=ts&play_token=cnsNpJhW31
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 05 - 
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023138&extension=ts&play_token=q3GmCyJI6T
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="UK| PPV EVENTS",LIVE EVENT 06 - 
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:65:39:00&stream=1023140&extension=ts&play_token=ex6M0eVEWX
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 01: Hasty Bake High Limit Room Live at Knoxville (8.12 5:00 PM ET)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855430&extension=ts&play_token=TdMW1zvedj
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 02: Tekton 250 Battle at Berlin (8.12 5:00 PM ET)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855429&extension=ts&play_token=pXaJJEG7hF
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 03: Knoxville Raceway (8.12 6:00 PM ET)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855428&extension=ts&play_token=5ykv4abJSo
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 04
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855427&extension=ts&play_token=u5183Wss7L
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 05
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855426&extension=ts&play_token=EdOpkPkdJt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855425&extension=ts&play_token=5Py9mAGEu1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855424&extension=ts&play_token=cAde1ZCyna
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 08
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855423&extension=ts&play_token=W7BozZlgrr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 09
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855422&extension=ts&play_token=tCPHEcduh0
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1855421&extension=ts&play_token=OaiUB6QTOt
 
 #EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="KAYO MAIN EVENT", FOX SPORTS NEWS
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=646972&extension=ts&play_token=LPHirdWYib
-#EXTINF:-1 tvg-id="FoxSports501.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 501 CRICKET
+
+#EXTINF:-1 tvg-id="FoxSports501.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/7UNuffD7_YkPPCTBb3sQVMmfb6Ea6QDOWtAVGYJUMrfafKiEPE8c0M0Y0r3NmAusjLvrsRKeA4mJe7Dh1crHQr2lyxb83EFLkKeqfe2DPxvxhmVe8yQUIrYNuw4MUhFS" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 501 CRICKET
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520176&extension=ts&play_token=3iBSSAuBMZ
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 502 LEAUGE
+
+#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/EBiwMwpLrQAlkxEB-bvm5CsFef7WUTNOXZMN-9mxYscssga4xrxqn83iU6hunClNoLxiGLs10RA3KbyKzZ2_rlXYNtKoMZWXeF90_BT5zCNMvVbv_wgHzztOUOJM8UM" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 502 LEAUGE
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520171&extension=ts&play_token=5rJrm46nfQ
-#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 503
+
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/9tWi9PBO_EkUgxY0PwWeAOpuymTVcfxfJEdBePpUVbUG7P5c1-7jTbvgJ-kuudfXpFGG_Ey6W-ZwKP-m5mRtUXZlVY-c0ekgGR1e2GKJdTmzWFCTmHJinNFxCCGZErMMkfw" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 503
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520175&extension=ts&play_token=pOQd9bKSUh
-#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 504 FOOTY
+
+#EXTINF:-1 tvg-id="FoxFooty.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/hC8Y4FwnjN_41OcnefjVAMyLejPcd5i33ovVpGhPp4d-YfD0GdieqQTr-VeVO7PUI1KiqPGDbua5Z5Lcl8DKTFJ5lFBJDykmMxt5tXziQKkLm9ravtM8vAOmQo5m-g" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 504 AFL
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520170&extension=ts&play_token=E5pvPPd8w3
-#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 505
+
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/UpsSSTMg0l9SZnKEEgguag3b9JIw4itakw0gK240XmgxmPaHA4_V9KWTnPYfgPmkbCa6R4FSzTtyPXygEkEkZ3pRJPSxw3vqEnTjoYkpfwFroXwoLVKVi9XutF9Wwjsqt90" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 505
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520174&extension=ts&play_token=HUU5agp0OM
-#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 506
+
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Ay5CYj2jVMrguVUmvxg2rghkLwz6FgNl6YMDMm2wGM5tLrQbOTILoDEDGnzQxY_Eb695MqsByDmugCPO6H9O8c8ckN26WRQUeNZ8nHy7ovZ9T0FC7Ig7Rv2Hutmyp6bUZWQ" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 506
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520169&extension=ts&play_token=K2fPkNi6vF
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 507
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Zhc06G1dV6xe23juUB4sjMcLEo3FWc156RKVzex9z5OZ9PhNIGMZCCNw46DvdEsdexuz_M4WSstEbc9agnX67cHYlhwYyHgvoAwNjjv_i4kX946kw0krwb6garedJEc14FHC" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS 507
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520173&extension=ts&play_token=wLWyomhDb5
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://103.176.90.118/picons/logos/logos/KAYO-FOX-SPORTS.png" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS NEWS
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="KAYO MAIN EVENT", KAYO - FOX SPORTS NEWS
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520172&extension=ts&play_token=Laab9iFgN5
-#EXTINF:-1 tvg-id="ESPN.au" tvg-id="FoxSportsMore.au"  tvg-logo="http://picons.cmshulk.com/picons/1520168.png" group-title="KAYO MAIN EVENT", KAYO - ESPN 1
+
+#EXTINF:-1 tvg-id="ESPN.au" tvg-id="FoxSportsMore.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/7gR88AUB4d5r4BOvXPFlkiofAXwfRWpFyyBHj_DLMyjHTs_wL8cwSwdROesDGzXV3vx7vBmIC0Ch6kVVHMH2ilOHhI4KERuXDM0Hm8_WDyE" group-title="KAYO MAIN EVENT", KAYO - ESPN 1
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520168&extension=ts&play_token=FgYyCC3yWL
-#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="http://picons.cmshulk.com/picons/1520167.png" group-title="KAYO MAIN EVENT", KAYO - ESPN 2
+
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/TQO09z_4Lpt3ffLP3HTW7s3hTkaS7z9nuJBTZCpPgYDI0DPr5NXj3q-0-7yrRwTo_Ri_y2SCTCNdF6tMtEVQ5pdRLhF6_8u-S-xg8G7vH4iS" group-title="KAYO MAIN EVENT", KAYO - ESPN 2
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520167&extension=ts&play_token=Kq8psNqMid
 
 ###################################################
@@ -8834,13 +8856,13 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575134&ex
 #EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 7 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670257&extension=ts&play_token=FWkmP7CQ0V
 
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 8
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/631_JVtclkryPSssO8VtPQpIiChHf_Jhf_eAXsifQ80bb8LsR_Cos7rPx1S57y-PYNX-s8hy8DZv8VN4elW4mrQuPsguSvqc39klmf9cRSfCYUC2CI5tEejq4GCGVs1hvaul" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575133&extension=ts&play_token=YiYjmn1bYe
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS PREMIER LEAGUE 4K
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/631_JVtclkryPSssO8VtPQpIiChHf_Jhf_eAXsifQ80bb8LsR_Cos7rPx1S57y-PYNX-s8hy8DZv8VN4elW4mrQuPsguSvqc39klmf9cRSfCYUC2CI5tEejq4GCGVs1hvaul" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS PREMIER LEAGUE 4K
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670268&extension=ts&play_token=BLLinmRkky
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 8
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/631_JVtclkryPSssO8VtPQpIiChHf_Jhf_eAXsifQ80bb8LsR_Cos7rPx1S57y-PYNX-s8hy8DZv8VN4elW4mrQuPsguSvqc39klmf9cRSfCYUC2CI5tEejq4GCGVs1hvaul" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 8
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575133&extension=ts&play_token=xYpYznhNjm
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS PREMIER LEAGUE 4K
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/631_JVtclkryPSssO8VtPQpIiChHf_Jhf_eAXsifQ80bb8LsR_Cos7rPx1S57y-PYNX-s8hy8DZv8VN4elW4mrQuPsguSvqc39klmf9cRSfCYUC2CI5tEejq4GCGVs1hvaul" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS PREMIER LEAGUE 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670268&extension=ts&play_token=kZNCqiQSm5
 
 #EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 9
@@ -8852,14 +8874,14 @@ http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575132&ex
 #EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?23945" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS 9 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670256&extension=ts&play_token=rVfrSv7TjG
 
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?23641" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS SELECT 4K
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/47BeqickLIOYWBEIH0Uzz8mYtRYMzkFTSeMciM1Uy3yx45b0xMl_-Ld7hP9fnrlAnzbxGmxL8MuVtEGuwwm7Hw36gvLfjly1AMMe_xeN2BO6Qf-0V7ovFy8Xqn4" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS SELECT 4K
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=670267&extension=ts&play_token=hgsh5znDpi
-#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?23641" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS SELECT 4K
+#EXTINF:-1  tvg-id="Sky.Sport.Select.nz" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/47BeqickLIOYWBEIH0Uzz8mYtRYMzkFTSeMciM1Uy3yx45b0xMl_-Ld7hP9fnrlAnzbxGmxL8MuVtEGuwwm7Hw36gvLfjly1AMMe_xeN2BO6Qf-0V7ovFy8Xqn4" group-title="SPORT/AUST & NZ",NZ: SKY SPORTS SELECT 4K
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=670267&extension=ts&play_token=Z3enQ4eiKy
 
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/47BeqickLIOYWBEIH0Uzz8mYtRYMzkFTSeMciM1Uy3yx45b0xMl_-Ld7hP9fnrlAnzbxGmxL8MuVtEGuwwm7Hw36gvLfjly1AMMe_xeN2BO6Qf-0V7ovFy8Xqn4" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=575131&extension=ts&play_token=ZAH2tj5Wee
-#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6470.png?60878" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT
+#EXTINF:-1 tvg-id="Sky.Sport.Select.nz"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/47BeqickLIOYWBEIH0Uzz8mYtRYMzkFTSeMciM1Uy3yx45b0xMl_-Ld7hP9fnrlAnzbxGmxL8MuVtEGuwwm7Hw36gvLfjly1AMMe_xeN2BO6Qf-0V7ovFy8Xqn4" group-title="SPORT/AUST & NZ",NZ: SKY SPORT 10 SELECT
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=575131&extension=ts&play_token=5CPfnpARCb
 
 #EXTINF:-1  tvg-id="ESPN.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/espn.png" group-title="SPORT/AUST & NZ",AU: ESPN 1
@@ -8938,46 +8960,66 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625241&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625240&extension=ts&play_token=CMTikXJzVC
 
 
-#EXTINF:-1 channel_id="StanSport1.au;Stan Sport 1.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 01) | 
+#EXTINF:-1 channel_id="StanSport1.au;Stan Sport 1.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/pYWN_W_0wKUUAw8cRu5n1CC-yt79gL7nm7-AWvpanvFFUvx7IMqcyA7uI9wfCjuOmonbDovXykuvIpn72yz4tILxsY2f4olUC3J8xC9HMKie" group-title="SPORT/AUST & NZ", AU (STAN 01)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966356&extension=ts&play_token=npjmUTcdSG
-#EXTINF:-1 channel_id="StanSport2.au;Stan Sport 2.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 02) |
+
+#EXTINF:-1 channel_id="StanSport2.au;Stan Sport 2.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Vgt9Oa0i_WUBC5q9lQteHHPmJAu1WlU9mSIa02mV1dreJOceWpj97Hk2cOEEuWp_Ef04DejA6F7DSFrwPvX0VN_rJIpbyCVT9PEt1xG9XOl1" group-title="SPORT/AUST & NZ", AU (STAN 02)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966355&extension=ts&play_token=EvkVENoD4q
-#EXTINF:-1 channel_id="StanSport3.au;Stan Sport 3.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 03) |
+
+#EXTINF:-1 channel_id="StanSport3.au;Stan Sport 3.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/uDDYpTMYpnG3NgYpJDNcxsyBFZjE9O-f59YG7B986nIXSrha-fyxEfxhXPVjbcuGin_W4cUvfo0hISmjTRhyAK5_XCelXmCrZXttN8arBFoZ" group-title="SPORT/AUST & NZ", AU (STAN 03)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966354&extension=ts&play_token=7jSdHzQtdY
-#EXTINF:-1 channel_id="StanSport4.au;Stan Sport 4.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 04) |
+
+#EXTINF:-1 channel_id="StanSport4.au;Stan Sport 4.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/S18O5Tc0exNj8r_EoJX9bLfJa-BZuJVql6wF9_I_JQ4nob2j6zoLRbdVaIdR9Zg0lap2n9lss0c7ALmw_jgsSwNM1zXqcxmL69FgrhdeyFBF" group-title="SPORT/AUST & NZ", AU (STAN 04)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966353&extension=ts&play_token=L4p412j4cf
-#EXTINF:-1 channel_id="StanSport5.au;Stan Sport 5.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 05) |
+
+#EXTINF:-1 channel_id="StanSport5.au;Stan Sport 5.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tPlrwVBDtTlYuWADfI3ky9o1K37g0zH45OSRUqJwEfJtPOy8StrwFeZ9RQMqBk2XbVUHX7gPfzMUpD85kx6htZDOwZhtPfEWOscjjD0vAfcX" group-title="SPORT/AUST & NZ", AU (STAN 05)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966352&extension=ts&play_token=ZQKluNKofq
-#EXTINF:-1 channel_id="StanSport6.au;Stan Sport 6.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 06) |
+
+#EXTINF:-1 channel_id="StanSport6.au;Stan Sport 6.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/hAvQBH143h-97vFh0nCCbYTgJpXmi8P6zWdOwiFyFj0pMXaTC-fc8zd3oDONEW78lx096Q1bAQinCMTaasyJvQkgIrteT0taP48OLtY2FsJb" group-title="SPORT/AUST & NZ", AU (STAN 06)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966351&extension=ts&play_token=YdsLZDuFaT
-#EXTINF:-1 channel_id="StanSport7.au;Stan Sport 7.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 07) |
+
+#EXTINF:-1 channel_id="StanSport7.au;Stan Sport 7.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/3LkNoejk2fjFFt1lWHI3NsEJJJJ1QHHTv4XszmsHJDGw6mv78eRksv8m9rggRIV_FWXX0n9rie4RBF4tm237CZMStsO0zGPT0Yw9yMHDx8Sx" group-title="SPORT/AUST & NZ", AU (STAN 07)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966350&extension=ts&play_token=h5b4IEbajp
-#EXTINF:-1 channel_id="StanSport8.au;Stan Sport 8.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 08) | 
+
+#EXTINF:-1 channel_id="StanSport8.au;Stan Sport 8.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/bEaBkrqeg_30oAzCV2EDosYPqx7kvX2hhEV1E41Ml597EaD7xVbMdaGSSy0mzBf7p9qzvrF4CF4WN4OilLnCD3472gxcnp6SEcMpceNtAiSH" group-title="SPORT/AUST & NZ", AU (STAN 08)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966349&extension=ts&play_token=tMkbY2Uamf
-#EXTINF:-1 channel_id="StanSport9.au;Stan Sport 9.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 09) | 
+
+#EXTINF:-1 channel_id="StanSport9.au;Stan Sport 9.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/xOLWZflKUmQpf-bghpPhK2lRZ4bwOquSqP_o5PF8LSM-1l_vhQBIClBlln-P97WzR32M2tT9M-E2dk1LKlvqFtRTsHI_woTdkw4gitzEKnjv" group-title="SPORT/AUST & NZ", AU (STAN 09)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966348&extension=ts&play_token=BbSEfjqmew
-#EXTINF:-1 channel_id="StanSport10.au;Stan Sport 10.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 10) |
+
+#EXTINF:-1 channel_id="StanSport10.au;Stan Sport 10.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/R2zEX27_2TlLg7KGilU9fCVNRoo8SFXMbiG1FpLfNhrWtBHspqUzyTCISBATDJInyJpTprpvro1zRadXIVBSPXTM9OqQSdyy5NaaeH0W7OW_oQ" group-title="SPORT/AUST & NZ", AU (STAN 10)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966347&extension=ts&play_token=sbINtDGDeP
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 11) |
+
+#EXTINF:-1 channel_id="StanSport11.au;Stan Sport 11.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/TCMwUpvpAvQ1DFhLAwFaOv0RlAClsIAFB4HyiczmpK9GIobx13mncSlNfnC5diaJ5BvDERPhEw83xUkfnWGZXSboFsT3dBit2xsfaQBVhHFqwg" group-title="SPORT/AUST & NZ", AU (STAN 11)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966346&extension=ts&play_token=wTDnNgXg6I
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 12) |
+
+#EXTINF:-1 channel_id="StanSport12.au;Stan Sport 12.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/6qMkicnn3v6uzfPg2XOsIk6wxyghok_aLP24Qrx0AXGj98Gn0fZNzZ1VXdGrdiF21PM3sjOlo-nhOnWNxE1pSAozQRQcQ9a93AtLPfx3O6591w" group-title="SPORT/AUST & NZ", AU (STAN 12)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966345&extension=ts&play_token=HRwRpUhDDT
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 13) |
+
+#EXTINF:-1 channel_id="StanSport13.au;Stan Sport 13.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/CpICdFI2pPVUlek-tIELFRMc4Fapz9rOItB7z6OQVOguKq2eSxbjPDgqzX1ySyut-wuZI_ikxl4sN0Uw9qezsu3LMIIU9ju8qJSdCh1u-dhOYA" group-title="SPORT/AUST & NZ", AU (STAN 13)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966344&extension=ts&play_token=YBvEELPmc6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 14) |
+
+#EXTINF:-1 channel_id="StanSport14.au;Stan Sport 14.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/C9wsAJn7PZUAi8dvNlFBAHEGis9bo2ZBgY5llqq4HmPUvoBMxt5wUrptDzfOSTGOYTP6__wW8_VEUg74iP-vZADsIXowxHb9gO7YAbA3na9B0Q" group-title="SPORT/AUST & NZ", AU (STAN 14)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966343&extension=ts&play_token=g8cWCTsSig
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 15) |
+
+#EXTINF:-1 channel_id="StanSport15.au;Stan Sport 15.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/ewG7PjrnC3GqpPQ9y4p_UOqWjesXmAgzgbjWuZKZnfAqYk1F36ssZqx5JgUtQfmyzkDggOlkxOn8EdPrTDg6sSUxUc061bPnbaJDV94aQd7ceA" group-title="SPORT/AUST & NZ", AU (STAN 15)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966342&extension=ts&play_token=6AttdyKBjX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 16) |
+
+#EXTINF:-1 channel_id="StanSport16.au;Stan Sport 16.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/cScNf2C6_C5d7CMt36l15hc5jIL33qW-jwdgzLK-Ij1g7oERpOKEkLtW5haDMQx3fNvayMiuMhMGPoOE8TYEV6U4XdODGix0Bqc2qKenmm4crw" group-title="SPORT/AUST & NZ", AU (STAN 16)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966341&extension=ts&play_token=o3MzuGeBK5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 17) |
+
+#EXTINF:-1 channel_id="StanSport17.au;Stan Sport 17.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tJjE-VvTtIc_whq0jtX0mW7c0uLT5NjUCevm0NkR1b9AdT3wkau6_OqzGWCaahXf1x9jrVBM0d7bNpzOHmHQi13HcN7Z2rQ0CUruCGP8K1lprA" group-title="SPORT/AUST & NZ", AU (STAN 17)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966340&extension=ts&play_token=wvit4easXq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 18) |
+
+#EXTINF:-1 channel_id="StanSport18.au;Stan Sport 18.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/uE14j5ns26SqBGsQWQZnrPuZ9m25t6HcwtE7t4fNG0oX_gVEY0ZDUAk9Wm6ybJlvpPvZgBRLa87zRVjYrckwreHM1TsuSibmEXrXOBy1s6QOJw" group-title="SPORT/AUST & NZ", AU (STAN 18)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966339&extension=ts&play_token=AM1drggJAe
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 19) |
+
+#EXTINF:-1 channel_id="StanSport19.au;Stan Sport 19.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/YthltLJB9Mkq_vof5OPrsK_DR2OLUtPsDuSkzTxeld154cHIWbEyoDXhmSm01NowmevFiEnN-Pz2D7xEvWicUKiBEuTdyY6YbpF6vVgEPGQkEA" group-title="SPORT/AUST & NZ", AU (STAN 19)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966338&extension=ts&play_token=qpzHzGkBDI
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 20) | 
+
+#EXTINF:-1 channel_id="StanSport20.au;Stan Sport 20.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/lbkPALIb7MUSQrvpkPuITSB_ukgDpicJPi4JH4382XufJYJBBakTGNP8snDMonXeyOJDsBEQeAQI7Slp4_I0u0_4lyVaq5YgV_XnKXlWhNdJ6w" group-title="SPORT/AUST & NZ", AU (STAN 20)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966337&extension=ts&play_token=IimZ3rX796
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 21) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1966336&extension=ts&play_token=HcDTIro1ci
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13746.jpg?ver=81467" group-title="SPORT/AUST & NZ", AU (STAN 22) |
@@ -9527,8 +9569,9 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/
 #############################################
 
 
-#EXTINF:-1  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" , Racing.com
+#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -9536,12 +9579,12 @@ https://i.mjh.nz/.r/racing-fast.m3u8
 https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="HORSERACING" , Sky Racing #1
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/nG8v-QB96pX6zMrSa9a7aMJEDwI2-OsbU3EuPVEqgOcvVoN5xlw17UKLm1-chL52eVA95ruKKJkvh4aXW1AeVRw3WtmYQSeqRu228T-wKoPygC2aekw" group-title="HORSERACING" , Sky Racing #1
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-racing-1.m3u8
 
-#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="HORSERACING" , Sky Racing #2
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Ne2C189ZHsZyPchX7lN22_sNWHoRGi8IOow_7gaGpNWxDsn1ZbmKeYoKJXOe85KIAcY1AfCWVzcrwH7BN5LHgiBZmW_RnBFgRvBDHgD_goHeBEk9irs" group-title="HORSERACING" , Sky Racing #2
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-racing-2.m3u8
