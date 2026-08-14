@@ -11676,10 +11676,18 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9s
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156876.png" group-title="HORSERACING" ,RACING.COM PERTH
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg1MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?35022" group-title="HORSERACING" ,NZ: TRACK SIDE 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?35022" group-title="HORSERACING" ,NZ: TRACK SIDE 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:E0:80&stream=2006149&extension=ts&play_token=8NnZpeEQNr
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/120/11277.png?35022" group-title="HORSERACING" ,NZ: TRACK SIDE 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/120/11277.png?35022" group-title="HORSERACING" ,NZ: TRACK SIDE 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:E0:80&stream=2006148&extension=ts&play_token=vwxy6oxjgX
+
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?35022" group-title="HORSERACING" ,NZ -TRACK SIDE 1
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMDg5LnRz
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/11277.png?35022" group-title="HORSERACING" ,NZ -TRACK SIDE 2
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMDkwLnRz
+
+
+
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-RACING.png" group-title="HORSERACING" , SKY SPORTS RACING HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1365979&extension=ts&play_token=NohJf4TEwQ
