@@ -28,12 +28,12 @@
 #############################
 
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="BRISBANE" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="BRISBANE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="BRISBANE",AU|  NEWS24 WEATHER
+#EXTINF:-1 #EXTINF:-1 channel-id="SkyNewsWeatherChannel.au" tvg-id="SkyNewsWeatherChannel.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="BRISBANE",AU|  NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="BRISBANE", ABC NEWS
@@ -41,7 +41,7 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-
+SkyNewsWeatherChannel.au
 
 #EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" tvg-chno="71" group-title="BRISBANE",7 BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -257,12 +257,12 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="MELBOURNE" , NEWS24
+#EXTINF:-1 channel-id="427660" tvg-id="427660" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="MELBOURNE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="MELBOURNE",AU| NEWS24 WEATHER
+#EXTINF:-1 #EXTINF:-1 #EXTINF:-1 channel-id="SkyNewsWeatherChannel.au" tvg-id="SkyNewsWeatherChannel.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="MELBOURNE",AU| NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="MELBOURNE", ABC NEWS
@@ -419,12 +419,12 @@ https://i.mjh.nz/.r/c31.m3u8
 #############################
 #############################
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="SYDNEY" , NEWS24
+#EXTINF:-1 channel-id="SkyNewsUK.au;Sky News UK.au" tvg-id="SkyNewsUK.au;Sky News UK.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="SYDNEY" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="SYDNEY",AU| NEWS24 WEATHER
+#EXTINF:-1 #EXTINF:-1 #EXTINF:-1 channel-id="SkyNewsWeatherChannel.au" tvg-id="SkyNewsWeatherChannel.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="SYDNEY",AU| NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS
@@ -594,7 +594,7 @@ https://i.mjh.nz/.r/snowy-mountains.m3u8
 ###################################
 ###################################
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="ADELAIDE" , NEWS24
+#EXTINF:-1 channel-id="SkyNewsAustralia.au" tvg-id="SkyNewsAustralia.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="ADELAIDE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -751,7 +751,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ################################################################################################
 
 
-#EXTINF:-1 channel-id="447000" tvg-id="447000" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="PERTH" , NEWS24
+#EXTINF:-1 channel-id="SkyNewsRegional.au" tvg-id="SkyNewsRegional.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="PERTH" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -1405,7 +1405,7 @@ https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_netwo
 
 #EXTINF:-1 tvg-id="5star.uk" tvg-name="UK - 5 STAR SD" tvg-logo="https://go4.pw/UK/5star.png" group-title="ENTERTAINMENT",UK - 5 STAR Max
 https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/694516
-#EXTINF:-1 tvg-id="" tvg-name="US - AMC Thrillers HD" tvg-logo="https://go4.pw/USA/AMC_THRILLERS.png" group-title="ENTERTAINMENT",US - AMC Thrillers
+#EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMCThrillers.us" tvg-logo="https://go4.pw/USA/AMC_THRILLERS.png" group-title="ENTERTAINMENT",US - AMC Thrillers
 https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/606994
 #EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US - AMERICAN HEROES FHD ◉" tvg-logo="https://go4.pw/USA/ahc.png" group-title="ENTERTAINMENT",US - AMERICAN HEROES
 https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2663
@@ -1447,7 +1447,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzEzMzAudHM=
 #EXTINF:-1 tvg-id="" tvg-name="US - AMC PRESENTS HD" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="ENTERTAINMENT",US - AMC PRESENTS HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjAxMDgwLnRz
-#EXTINF:-1 tvg-id="" tvg-name="US - AMC Thrillers HD" tvg-logo="https://go4.pw/USA/AMC_THRILLERS.png" group-title="ENTERTAINMENT",US - AMC Thrillers HD
+#EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="US - AMC Thrillers HD" tvg-logo="https://go4.pw/USA/AMC_THRILLERS.png" group-title="ENTERTAINMENT",US - AMC Thrillers HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTAzMjQ5OC50cw==
 #EXTINF:-1 tvg-id="amcplus.us" tvg-name="US - AMC+ HD" tvg-logo="https://go4.pw/AMERICA/USA/AMC.png" group-title="ENTERTAINMENT",US - AMC+ HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjAxMDczLnRz
@@ -2200,7 +2200,7 @@ https://i.mjh.nz/.r/7afl-fast.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/7bravo-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="ENTERTAINMENT", 7NEWS Spotlight
+#EXTINF:-1 channel-id="562759" tvg-id="562759" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="ENTERTAINMENT", 7NEWS Spotlight
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/cas32-fast.m3u8
@@ -2694,7 +2694,7 @@ https://i.mjh.nz/.r/10-wicked-tuna.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-anthonybourdain" tvg-id="mjh-10-anthonybourdain" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="ENTERTAINMENT", Anthony Bourdain: Parts Unknown
+#EXTINF:-1 channel-id="538956" tvg-id="538956" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="ENTERTAINMENT", Anthony Bourdain: Parts Unknown
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-anthonybourdain.m3u8
@@ -4358,7 +4358,7 @@ https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png"  group-title="CRIME/MEDICAL", True Crime Files
 https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7SPL_Logo.png" group-title="CRIME/MEDICAL", 7NEWS Spotlight
+#EXTINF:-1 channel-id="562759" tvg-id="562759" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7SPL_Logo.png" group-title="CRIME/MEDICAL", 7NEWS Spotlight
 https://i.mjh.nz/.r/cas32-fast.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
 
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1201/lg/371c00/LG-Logo-PNG-100x100_v1.png" group-title="CRIME/MEDICAL", JAIL
@@ -5302,95 +5302,95 @@ https://www.goodiptv.club/yy/1382735585
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="MOVIES", Marvels ver 4
 https://www.goodiptv.club/huya/30080181
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ADAM SANDLER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ADAM SANDLER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601213&extension=ts&play_token=JNDrXSsjVm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ADAM SANDLER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ADAM SANDLER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601212&extension=ts&play_token=33jW6V9D4i
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: AL PACINO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",AL PACINO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601211&extension=ts&play_token=y7cyYIWb04
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ALICIA VIKANDER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ALICIA VIKANDER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601210&extension=ts&play_token=r2X0JhGfgG
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ALLISON JANNEY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ALLISON JANNEY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601209&extension=ts&play_token=vpMcahdpfV
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: AMY ADAMS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",AMY ADAMS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601208&extension=ts&play_token=t7ph2xsPvD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ANNETTE BENING
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ANNETTE BENING
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601207&extension=ts&play_token=kUaKnR1ZP4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BACK TO THE FUTURE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BACK TO THE FUTURE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601206&extension=ts&play_token=iUA3cyhSb7
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BEN FOSTER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BEN FOSTER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601205&extension=ts&play_token=UA9oeJNq5S
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BEN MENDELSOHN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BEN MENDELSOHN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601204&extension=ts&play_token=XaWNGCUusr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BENEDICT CUMBERBATCH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BENEDICT CUMBERBATCH
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601203&extension=ts&play_token=9VbA9vHc86
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BENICIO DEL TORO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BENICIO DEL TORO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601202&extension=ts&play_token=OwmZ5ywcib
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BEST CHRISTMAS MOVIE S 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BEST CHRISTMAS MOVIE S 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601201&extension=ts&play_token=QXNJ6n2K75
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BEST CHRISTMAS MOVIE S 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BEST CHRISTMAS MOVIE S 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601200&extension=ts&play_token=XNLrxu2k1D
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BEST CHRISTMAS MOVIE S 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BEST CHRISTMAS MOVIE S 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601199&extension=ts&play_token=leyQKyJNYg
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BOB ODENKIRK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BOB ODENKIRK
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601198&extension=ts&play_token=X0zDUdUBLR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRADLEY COOPER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BRADLEY COOPER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601197&extension=ts&play_token=g9jAnEQZ3c
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRIE LARSON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BRIE LARSON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601196&extension=ts&play_token=9h3lvbmjDV
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRUCE LEE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BRUCE LEE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601195&extension=ts&play_token=c0Zfjwwpla
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRUCE WILLIS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BRUCE WILLIS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601194&extension=ts&play_token=9UL54PCl4F
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: BRYAN CRANSTON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",BRYAN CRANSTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601193&extension=ts&play_token=7eEppDDFAN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CARRIE COON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CARRIE COON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601192&extension=ts&play_token=rQictQZoaf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CATE BLANCHETT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CATE BLANCHETT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601191&extension=ts&play_token=I3L9W51yNx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CHARLIZE THERON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CHARLIZE THERON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601190&extension=ts&play_token=2koFFR0Yfx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CHIWETEL EJIOFOR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CHIWETEL EJIOFOR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601189&extension=ts&play_token=zDFvnxTfta
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CHRIS PINE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CHRIS PINE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601188&extension=ts&play_token=oHnzojaOMS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CHRISTIAN BALE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CHRISTIAN BALE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601187&extension=ts&play_token=v8467dU8aH
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CHRISTOPHER NOLAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CHRISTOPHER NOLAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601186&extension=ts&play_token=wolds5izog
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: CLAIRE FOY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CLAIRE FOY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601185&extension=ts&play_token=vP3ibQfswc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DANIEL KALUUYA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",DANIEL KALUUYA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601184&extension=ts&play_token=hvYe14t56y
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DAVID OYELOWO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",DAVID OYELOWO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601183&extension=ts&play_token=PEufCpNDK8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: DENZEL WASHINGTON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",DENZEL WASHINGTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601182&extension=ts&play_token=y2ephei47H
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ELVIS PRESLEY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ELVIS PRESLEY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601181&extension=ts&play_token=fuSQDSNzbN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: EVAN RACHEL WOOD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",EVAN RACHEL WOOD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601180&extension=ts&play_token=NeemV1kcMc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FAMILY 2021
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",FAMILY 2021
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601179&extension=ts&play_token=KG9zsnEJly
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: FAST AND FURIOUS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",FAST AND FURIOUS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601178&extension=ts&play_token=qvvYIOhnEk
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GANGSTER MOVIE S
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GANGSTER MOVIE S
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601177&extension=ts&play_token=3rGyc9uBpb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GARY OLDMAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GARY OLDMAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601176&extension=ts&play_token=BoNORy6t2U
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GINA RODRIGUEZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GINA RODRIGUEZ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601175&extension=ts&play_token=ygDF4gAnPJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: GUY RICHIE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",GUY RICHIE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601174&extension=ts&play_token=waCIFgcyL0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HAILEE STEINFELD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",HAILEE STEINFELD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601173&extension=ts&play_token=Fr1YXTqk0c
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HORROR2021
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",HORROR2021
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601172&extension=ts&play_token=412MfxNdYT
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: HUGH JACKMAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",HUGH JACKMAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601171&extension=ts&play_token=D6gSzkNNhx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: IDRIS ELBA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",IDRIS ELBA
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601170&extension=ts&play_token=O000JTHR1N
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JACKIE CHAN ACTION MOVIE  1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JACKIE CHAN ACTION MOVIE  1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601169&extension=ts&play_token=k90ffC7KI1
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JACKIE CHAN ACTION MOVIE  2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601168&extension=ts&play_token=GMqvdzPBMZ
@@ -5412,87 +5412,87 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601161&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601160&extension=ts&play_token=9iSJ8yqiR9
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JACKIE CHAN CLASSIC KUNGFU 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601159&extension=ts&play_token=heU49JxGmf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JAKE GYLLENHAAL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JAKE GYLLENHAAL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601158&extension=ts&play_token=tVJFJuqjse
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JAMES BONDS 007
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JAMES BONDS 007
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601157&extension=ts&play_token=itwJiYKD9Q
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JANELLE MONAE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JANELLE MONAE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601156&extension=ts&play_token=A1wBV04QjX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JAVIER BARDEM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JAVIER BARDEM
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601155&extension=ts&play_token=uktBjh54L2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JEAN CLAUDE VAN DAMME
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JEAN CLAUDE VAN DAMME
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601154&extension=ts&play_token=FVU0VCd78h
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JEFFREY WRIGHT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JEFFREY WRIGHT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601153&extension=ts&play_token=SUQHfgM5uF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JENNIFER LAWRENCE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JENNIFER LAWRENCE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601152&extension=ts&play_token=NoNECuyJDU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JESSE PLEMONS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JESSE PLEMONS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601151&extension=ts&play_token=sqSZrpLQT9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JESSICA CHASTAIN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JESSICA CHASTAIN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601150&extension=ts&play_token=RYodtrOJaZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JET LI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JET LI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601149&extension=ts&play_token=mnpBtAhFhJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JOAQUIN PHOENIX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JOAQUIN PHOENIX
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601148&extension=ts&play_token=4ixJf9IPNn
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JOEL EDGERTON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JOEL EDGERTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601147&extension=ts&play_token=6IviIioUlo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JOHN WAYNE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JOHN WAYNE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601146&extension=ts&play_token=rjwkpZQZON
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JONAH HILL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JONAH HILL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601145&extension=ts&play_token=wJHBVHuMcm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JOSH BROLIN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JOSH BROLIN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601144&extension=ts&play_token=J6EcEgXw7h
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: JULIANNE MOORE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",JULIANNE MOORE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601143&extension=ts&play_token=6n7YZJVlwq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KATE WINSLET
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",KATE WINSLET
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601142&extension=ts&play_token=DjNjMtns9f
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KERI RUSSELL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",KERI RUSSELL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601141&extension=ts&play_token=YM8QvcIaM4
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KUNGFU
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601140&extension=ts&play_token=I17vFQC1Ef
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: KYLE CHANDLER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",KYLE CHANDLER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601139&extension=ts&play_token=woF370bOsf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LAKEITH STANFIELD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",LAKEITH STANFIELD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601138&extension=ts&play_token=mECSe4Gmug
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LEONARDO DICAPRIO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",LEONARDO DICAPRIO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601137&extension=ts&play_token=cRK6d5wQ2Q
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LETITIA WRIGHT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",LETITIA WRIGHT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601136&extension=ts&play_token=JPC5WqP3Ca
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LORD OF THE RINGS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",LORD OF THE RINGS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601135&extension=ts&play_token=nxJ6Os9m5M
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LUCAS HEDGES
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",LUCAS HEDGES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601134&extension=ts&play_token=gABsy9hx4p
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: LUPITA NYONG'O
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",LUPITA NYONG'O
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601133&extension=ts&play_token=2v5tiRvnZ0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MAHERSHALA ALI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MAHERSHALA ALI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601132&extension=ts&play_token=azEO6bDLPJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MARGOT ROBBIE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MARGOT ROBBIE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601131&extension=ts&play_token=Q4PxX8R2De
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MARK RUFFALO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MARK RUFFALO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601130&extension=ts&play_token=zVp2qPkUbZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MARK RUFFALO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MARK RUFFALO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601129&extension=ts&play_token=dq6DlzJJTL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MARK RYLANCE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MARK RYLANCE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601128&extension=ts&play_token=TcDhF8ENLe
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MARTIN FREEMAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MARTIN FREEMAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601127&extension=ts&play_token=Goc7sMydRY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MATT DAMON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MATT DAMON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601126&extension=ts&play_token=yl52YYYvGA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MATTHEW RHYS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MATTHEW RHYS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601125&extension=ts&play_token=egeBERSKXX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MERYL STREEP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MERYL STREEP
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601124&extension=ts&play_token=RhMzES1BM5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MICHAEL B JORDAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MICHAEL B JORDAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601123&extension=ts&play_token=zSNhtgPVHC
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MICHAEL FASSBENDER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MICHAEL FASSBENDER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601122&extension=ts&play_token=zi5y9foy7Q
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MICHAEL JACKSON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MICHAEL JACKSON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601121&extension=ts&play_token=4jdalYidD1
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MICHAEL KEATON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MICHAEL KEATON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601120&extension=ts&play_token=dlgLuh5mST
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MICHAEL SHANNON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MICHAEL SHANNON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601119&extension=ts&play_token=7OZG0Hpkod
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MICHAEL STUHLBARG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",MICHAEL STUHLBARG
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601118&extension=ts&play_token=tMsusft3OF
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MOVIE 2020 CHANNEL 01
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601117&extension=ts&play_token=99RpSjsqPf
@@ -5512,55 +5512,55 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601111&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601110&extension=ts&play_token=WPWx3t0oCE
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: MOVIE 2020 CHANNEL 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601109&extension=ts&play_token=CpXjzOrdJF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: NAOMIE HARRIS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",NAOMIE HARRIS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601108&extension=ts&play_token=a6ilXXiTnG
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: NATALIE PORTMAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",NATALIE PORTMAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601107&extension=ts&play_token=HfLY3CUltx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: NICOLAS CAGE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",NICOLAS CAGE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601106&extension=ts&play_token=VNuoTtgaf4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: OCTAVIA SPENCER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",OCTAVIA SPENCER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601105&extension=ts&play_token=wYjKfkfD4b
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: OSCAR ISAAC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",OSCAR ISAAC
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601104&extension=ts&play_token=4gkCec77ia
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: PAUL DANO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PAUL DANO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601103&extension=ts&play_token=YTQyzCAdwJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RACHEL WEISZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",RACHEL WEISZ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601102&extension=ts&play_token=VuGL641qnS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RALPH FIENNES
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",RALPH FIENNES
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601101&extension=ts&play_token=XLTOAQbHkk
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: REESE WITHERSPOON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",REESE WITHERSPOON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601100&extension=ts&play_token=aKtWKgEQ8w
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RIZ AHMED
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",RIZ AHMED
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601099&extension=ts&play_token=4Bw6VPYRjN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBERT DE NIRO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ROBERT DE NIRO
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601098&extension=ts&play_token=2utZlGUJCW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBERT DOWNEY JR
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ROBERT DOWNEY JR
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601097&extension=ts&play_token=MLU1J3doAY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBIN WILLIAMS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ROBIN WILLIAMS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601096&extension=ts&play_token=fmarK0ymfX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROBIN WRIGHT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ROBIN WRIGHT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601095&extension=ts&play_token=z2oh8XClLn
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ROCKY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ROCKY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601094&extension=ts&play_token=oTJ47CZsmN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: RYAN GOSLING
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",RYAN GOSLING
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601093&extension=ts&play_token=MSaJqNUuHD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SAM ROCKWELL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",SAM ROCKWELL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601092&extension=ts&play_token=veZzD4AMuH
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SAMUEL L JACKSON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",SAMUEL L JACKSON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601091&extension=ts&play_token=s95gxIrmTF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SAOIRSE RONAN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",SAOIRSE RONAN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601090&extension=ts&play_token=RUyrnVeVeF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SARAH PAULSON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",SARAH PAULSON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601089&extension=ts&play_token=GdYXnEXulO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SCI-FI 2021
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",SCI-FI 2021
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601088&extension=ts&play_token=HvUo9gkRsF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SCIFI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",SCIFI
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601087&extension=ts&play_token=pLcKSk4ydf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: STERLING K BROWN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",STERLING K BROWN
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601086&extension=ts&play_token=vZ6VSpE7ig
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: STEVE CARELL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",STEVE CARELL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601085&extension=ts&play_token=Sxn6SH8JvL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: STEVEN SEAGAL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",STEVEN SEAGAL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601084&extension=ts&play_token=UoqsTwH2WR
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SUPERSTAR ACTION MOVIE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601083&extension=ts&play_token=WtTrFhnY6w
@@ -5612,110 +5612,411 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601061&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601060&extension=ts&play_token=3cFSkkDHJE
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: SUPERSTAR STAR WARS MOVIE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601059&extension=ts&play_token=7rWgUO8osd
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TARAJI P HENSON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TARAJI P HENSON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601058&extension=ts&play_token=elrr5I7Yz5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TATIANA MASLANY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TATIANA MASLANY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601057&extension=ts&play_token=NUZXG20lJF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE EQUALIZER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",THE EQUALIZER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601056&extension=ts&play_token=t3OlClQmaW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: THE GODFATHER
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",THE GODFATHER
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601055&extension=ts&play_token=q6bhfvtwl5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TIFFANY HADDISH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TIFFANY HADDISH
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601054&extension=ts&play_token=ZRSr4IDBKW
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TILDA SWINTON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TILDA SWINTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601053&extension=ts&play_token=nnAhZN8Kbv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TIMOTHEE CHALAMET
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TIMOTHEE CHALAMET
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601052&extension=ts&play_token=q64iOl3oGh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TOM CRUISE 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TOM CRUISE 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601051&extension=ts&play_token=dwCm3pCrrm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TOM CRUISE 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TOM CRUISE 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601050&extension=ts&play_token=CHyrjKmU1P
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TOM HANKS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TOM HANKS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601049&extension=ts&play_token=6262U4IACj
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TOM HARDY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TOM HARDY
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601048&extension=ts&play_token=LK5QBi6rPi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: TOM HIDDLESTON
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",TOM HIDDLESTON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601047&extension=ts&play_token=fUro1Jra60
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: VIOLA DAVIS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",VIOLA DAVIS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601046&extension=ts&play_token=Fn3Kz4YnoG
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: WILL SMITH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",WILL SMITH
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601045&extension=ts&play_token=eVVFk3dOvS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",24/7: ZOMBIE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="US| 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",ZOMBIE
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=1601044&extension=ts&play_token=MKCCqkbDes
 
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  COMEDY MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559089&extension=ts&play_token=re4ejneBKd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  COMEDY MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466981&extension=ts&play_token=8ijrGATJ4K
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  EDDY MURPHY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559076&extension=ts&play_token=El7Wgua0Bc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  EDDY MURPHY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466972&extension=ts&play_token=yCFYbRL6K4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  MR BEAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559078&extension=ts&play_token=03x9WASwdR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  MR BEAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466980&extension=ts&play_token=Vm6jRagfjM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  THRILLER MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559087&extension=ts&play_token=Yt6rz5phvQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7  THRILLER MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466982&extension=ts&play_token=3I6TYHL2Wb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/24.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 24 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466919&extension=ts&play_token=R4Ii0vKxAp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/30-ROCK.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 30 ROCK 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466918&extension=ts&play_token=c9cfF2dKKz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 48 HOURS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979215&extension=ts&play_token=PTMyjuZk3n
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/80s-MOVIES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 80s MOVIES 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466863&extension=ts&play_token=Yqvvo8KZoF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 80S REWIND
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979138&extension=ts&play_token=2ywuxEuReE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 90210
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979136&extension=ts&play_token=cPtYYCFSVt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/A-CHRISTMAS-CAROL.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 A CHRISTMAS CAROL FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466908&extension=ts&play_token=ClKy88OuHl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ADAM-SANDLER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ADAM SANDLER 4K
+###########################################################################################################################################################################################################################################################################################################    ACTORS      #########################@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ADAM-SANDLER.png" group-title="ACTORS",ADAM SANDLER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466882&extension=ts&play_token=MhZ9ozMsyJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AEW-DYNAMITE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 AEW DYNAMITE 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466903&extension=ts&play_token=YRW7t0b2Vx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 AL PACINO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",AL PACINO
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478671&extension=ts&play_token=10bipteGXa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 AL PACINO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",AL PACINO
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466979&extension=ts&play_token=VAdr5Qs3he
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ALVIN.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ALVIN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466786&extension=ts&play_token=weL07eEQ9A
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 AMC +
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466841&extension=ts&play_token=K3t45cpFbi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AMERICAN-DAD.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 AMERICAN DAD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466858&extension=ts&play_token=bh1BV30K8V
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ANNABELLE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ANNABELLE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466785&extension=ts&play_token=1hc4xLc4O1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ANT-MAN.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ANT-MAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466779&extension=ts&play_token=y83NuZDjOC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ARCHER
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467017&extension=ts&play_token=J0b8woRvJu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ARNOLD SCHWARZENEGGER
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",ARNOLD SCHWARZENEGGER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478672&extension=ts&play_token=KX9XEVctOo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ARNOLD-SCHWARZNEGGER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ARNOLD SCHWARZNEGGER 4K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ARNOLD-SCHWARZNEGGER.png" group-title="ACTORS",ARNOLD SCHWARZNEGGERR
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466881&extension=ts&play_token=z5IIjiG4iB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ARNOLD SCHWARZUSAEGGER
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",ARNOLD SCHWARZUSAEGGER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466978&extension=ts&play_token=l8hZ9FoXTu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ARRESTED-DEVELOPMUSAT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ARRESTED DEVELOPMUSAT 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466917&extension=ts&play_token=GDmQmm1Xxh
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Arrow_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ARROW 4k
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466924&extension=ts&play_token=nTYgKSpZj9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BACK TO THE FUTURE
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/brad_pitt/brad_pitt_PNG13.png" group-title="ACTORS",BRAD PITT
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466865&extension=ts&play_token=0evSBpLYLX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",BRUCE LEE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559082&extension=ts&play_token=Osezf7tTMW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",BRUCE LEE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466983&extension=ts&play_token=N9TuLU7uTT
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",EDDY MURPHY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559076&extension=ts&play_token=El7Wgua0Bc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",EDDY MURPHY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466972&extension=ts&play_token=yCFYbRL6K4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",JIM CARREY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559080&extension=ts&play_token=ywTThnlnHf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",JIM CARREY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466975&extension=ts&play_token=fsAqG3f2F4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JOHNNY-DEPP.png" group-title="ACTORS",JOHNNY DEPP
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466880&extension=ts&play_token=74luuA6GqP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LIAM-NESSON.png" group-title="ACTORS",LIAM NESSON
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466879&extension=ts&play_token=JQQd9Pu0g3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",QUENTIN TARANTINO
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559113&extension=ts&play_token=Y0Z8wZtaIi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" QUUSATIN TARANTINO
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466993&extension=ts&play_token=aNtXXRtGPi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",STEVEN SEAGAL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478697&extension=ts&play_token=71POPZ4STD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",STEVEN SEAGAL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466977&extension=ts&play_token=YbJhZpb3da
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STEVUSA-SEGAL.png" group-title="ACTORS",STEVEN SEGAL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466866&extension=ts&play_token=YA8wn3NM5G
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SYLVESTER-STALLON.png" group-title="ACTORS",SYLVESTER STALLON
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466878&extension=ts&play_token=l2lU7zWh2v
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VAN-DAMME.png" group-title="ACTORS",VAN DAMME
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466793&extension=ts&play_token=S01HPFZnfH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VAN-DAMME.png" group-title="ACTORS",VAN DAMME
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466780&extension=ts&play_token=62p1Lyil29
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/190-1901634_christmas-outdoor-movie-night-will-ferrell-elf.png" group-title="ACTORS",WILL FERRELL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466920&extension=ts&play_token=MaTHJxa6Qk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="ACTORS",WILL FERRELL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478704&extension=ts&play_token=PxSVe7NXhW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",WILL FERRELL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467022&extension=ts&play_token=VCnZp9lgZC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="ACTORS",WILL FERRELL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466987&extension=ts&play_token=JqkXYkyT4L
+
+
+
+
+###############################################################################################################################################################################################################################
+###############################################################################    GROUP   MOVIES    ########################################################################################################################
+########################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/80s-MOVIES.png" group-title="GROUP MOVIES",80s MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466863&extension=ts&play_token=Yqvvo8KZoF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="GROUP MOVIES",80S REWIND
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979138&extension=ts&play_token=2ywuxEuReE
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/A-CHRISTMAS-CAROL.png" group-title="GROUP MOVIES",A CHRISTMAS CAROL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466908&extension=ts&play_token=ClKy88OuHl
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",BACK TO THE FUTURE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559092&extension=ts&play_token=VuoiefZtgX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BACK TO THE FUTURE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",BACK TO THE FUTURE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467014&extension=ts&play_token=0HQxks4Lr8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bad_boys.svg/2560px-Bad_boys.svg.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BAD BOYS 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bad_boys.svg/2560px-Bad_boys.svg.png" group-title="GROUP MOVIES",BAD BOYS
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466900&extension=ts&play_token=xZe2vUmjIh
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/58428ba1a6515b1e0ad75ab0.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BATMAN 4K
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/58428ba1a6515b1e0ad75ab0.png" group-title="GROUP MOVIES",BATMAN
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466886&extension=ts&play_token=USzE7o4lyG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BATMAN MOVIES
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",BATMAN
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478673&extension=ts&play_token=wjOfRXKLvP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BATMAN MOVIES
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",BATMAN
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467026&extension=ts&play_token=S594NHdBRO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="GROUP MOVIES",BLACK CINEMA
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979161&extension=ts&play_token=pfsveDMnvE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",BLADE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559093&extension=ts&play_token=1LBeySJiwD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",BLADE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467013&extension=ts&play_token=jNAcLeWJcY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BRIDGET-JONES-DIARY.png" group-title="GROUP MOVIES",BRIDGET JONES DIARY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466784&extension=ts&play_token=orvtb82zdV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CAPTAIN-AMERICA.png" group-title="GROUP MOVIES",CAPTAIN AMERICA
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466778&extension=ts&play_token=5jPosrSdSW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHUCKY.png" group-title="GROUP MOVIES",CHUCKY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466788&extension=ts&play_token=VVfU895Rpk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",COMEDY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559089&extension=ts&play_token=re4ejneBKd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",COMEDY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466981&extension=ts&play_token=8ijrGATJ4K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLASSIC-WAR-MOVIES.png" group-title="GROUP MOVIES",CLASSIC WAR MOVIES 1 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466856&extension=ts&play_token=TO8YQwk9iB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLASSIC-WAR-MOVIES.png" group-title="GROUP MOVIES",CLASSIC WAR MOVIES 2 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466860&extension=ts&play_token=v8C4zLLUpX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",CRIME MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559090&extension=ts&play_token=OKp4k2QEjl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",CRIME MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466984&extension=ts&play_token=sNPbmIvaXh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",DIE HARD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559118&extension=ts&play_token=NkwEP1Jqzb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",DIE HARD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466989&extension=ts&play_token=3vycZto2qt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DIE-HARD.png" group-title="GROUP MOVIES",DIE HARD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466789&extension=ts&play_token=PpcTwvdhrm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DR-STRANGE.png" group-title="GROUP MOVIES",DR STRANGE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466777&extension=ts&play_token=de21uUsNLY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/EPIX.png" group-title="GROUP MOVIES",EPIX
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466843&extension=ts&play_token=C1nBh3AXoG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",FAMILY MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559088&extension=ts&play_token=qsbRT03EiW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",FAMILY MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466985&extension=ts&play_token=zYVMh0PT52
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FAST-FURIOUS.png" group-title="GROUP MOVIES",FAST & FURIOUS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466814&extension=ts&play_token=8VJasDM0iK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",FIFTY SHADES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559094&extension=ts&play_token=5izantY6i3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",FIFTY SHADES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467012&extension=ts&play_token=bDw45St3j9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",FRIDAY THE 13TH
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559100&extension=ts&play_token=f5kCReQr5p
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",FRIDAY THE 13TH
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467006&extension=ts&play_token=GTFyiWAonu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GARDIANS-OF-THE-GALAXY.png" group-title="GROUP MOVIES",GARDIANS OF THE GALAXY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466776&extension=ts&play_token=9HydKyxIPJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/GHOSTBUSTERS.png" group-title="GROUP MOVIES",GHOSTBUSTERS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466790&extension=ts&play_token=WdKT5LsQFH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",GREASE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559095&extension=ts&play_token=WkceEvh4Wk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",GREASE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467011&extension=ts&play_token=xRCXmLmrr4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",HARRY POTTER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559096&extension=ts&play_token=Y0Vrnh1KKg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",HARRY POTTER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467010&extension=ts&play_token=z560UzkZHr
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/3/Harry-Potter-Logo-PNG-Clipart.png" group-title="GROUP MOVIES",HARRY POTTER 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466899&extension=ts&play_token=wPLX3FZ1qY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HBO.png" group-title="GROUP MOVIES",HBO CHANNEL 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466906&extension=ts&play_token=PLP0PsBX1l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HORROR-CHANNEL.png" group-title="GROUP MOVIES",HORROR CHANNEL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466875&extension=ts&play_token=AVRTXIknc1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",HORROR MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559091&extension=ts&play_token=XCE0nADe1I
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",HORROR MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466986&extension=ts&play_token=ORBZZ0jd0y
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iceage-logo.svg/1150px-Iceage-logo.svg.png" group-title="GROUP MOVIES",ICE AGE 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466898&extension=ts&play_token=z4LCeEjq7J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",INDIANA JONES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559097&extension=ts&play_token=ZJ4BPgHQNg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",INDIANA JONES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467009&extension=ts&play_token=OhoH3n47P2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/INDIANA-JONES.png" group-title="GROUP MOVIES",INDIANA JONES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466791&extension=ts&play_token=nlFDAcgye4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/INSIDIOUS.png" group-title="GROUP MOVIES",INSIDIOUS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466792&extension=ts&play_token=vc0b03dkB2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/IRON-MAN.png" group-title="GROUP MOVIES",IRON MAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466775&extension=ts&play_token=2GIppK1CLv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",JAMES BOND
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559077&extension=ts&play_token=HMNjxJMcXy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",JAMES BOND
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466974&extension=ts&play_token=ySvzSzvtYe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JAMES-BOND007.png" group-title="GROUP MOVIES",JAMES BOND 007
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466876&extension=ts&play_token=qxktNuL5Kk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",JASON BOURNE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559079&extension=ts&play_token=FRy3am0Kn5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",JASON BOURNE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466973&extension=ts&play_token=73aCu9aHRD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Jason_Bourne_%282016%29_film_logo.png" group-title="GROUP MOVIES",JASON BOURNE 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466897&extension=ts&play_token=otKubsXgdd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",JCVD MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559098&extension=ts&play_token=QD4M0dNbTb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",JCVD MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467008&extension=ts&play_token=KnZaK1T7lI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/JETLI.png" group-title="GROUP MOVIES",JET LI MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466877&extension=ts&play_token=AFLx1YQI9B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JOHN-WICK.png" group-title="GROUP MOVIES",JOHN WICK
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466818&extension=ts&play_token=VWFYGCUHIy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JUMANJI.png" group-title="GROUP MOVIES",JUMANJI
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466896&extension=ts&play_token=gBK1NWPOlo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",JURASSIC PARK
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559099&extension=ts&play_token=JZgczkxzSo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",JURASSIC PARK
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467007&extension=ts&play_token=t6vX9aURKn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JURASSIC-WORLD-PARK.png" group-title="GROUP MOVIES",JURASSIC WORLD/PARK
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466794&extension=ts&play_token=ECn1baXxEN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LETHAL-WEAPON.png" group-title="GROUP MOVIES",LETHAL WEAPON
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466819&extension=ts&play_token=wHmkltBYpo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",LORD OF THE RINGS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559101&extension=ts&play_token=Leq38LIGh4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",LORD OF THE RINGS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467005&extension=ts&play_token=gMMh1fVOgn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",MATRIX
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559102&extension=ts&play_token=ndQeC9n2Zn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",MATRIX
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467004&extension=ts&play_token=81hOLlKMuu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",MEN IN BLACK
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559103&extension=ts&play_token=Sm5am2LcbD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MONEY-HEIST.png" group-title="GROUP MOVIES",MONEY HEIST 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466957&extension=ts&play_token=GPDzwylhfb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MORTAL-KOMBAT.png" group-title="GROUP MOVIES",MORTAL KOMBAT
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466798&extension=ts&play_token=BAL8PDbdYe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NIGHT-AT-THE-MUSEUM.png" group-title="GROUP MOVIES",NIGHT AT THE MUSEUM
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466799&extension=ts&play_token=qIYEo9ubo5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PARANORMAL-ACTIVITY.png" group-title="GROUP MOVIES",PARANORMAL ACTIVITY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466800&extension=ts&play_token=eWcJ6J3mMZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",PIRATES OF THE CARIBBEAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559105&extension=ts&play_token=fxXm8tmWuD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",PIRATES OF THE CARIBBEAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467001&extension=ts&play_token=yFdI79Fy9z
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/212-2127449_pirates-of-the-caribbean-png-transparUSAt-pirates-of.png" group-title="GROUP MOVIES",PIRATES OF THE CARIBBEAN 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466894&extension=ts&play_token=relgjIUooJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PITCH-PERFECT.png" group-title="GROUP MOVIES",PITCH PERFECT 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466893&extension=ts&play_token=Vd0hZ6YQCz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PIXAR.png" group-title="GROUP MOVIES",PIXAR CHANNEL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466869&extension=ts&play_token=J4cpHbDY4T
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",PLANET OF THE APES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559106&extension=ts&play_token=aniVdUWNax
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",PLANET OF THE APES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467000&extension=ts&play_token=xEuS4yeh67
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PLANET-OF-THE-APES.png" group-title="GROUP MOVIES",PLANET OF THE APES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466801&extension=ts&play_token=fwxzUHMF6C
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",POLICE ACADEMY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559108&extension=ts&play_token=YJnOPyiaxz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",POLICE ACADEMY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466998&extension=ts&play_token=24jv5rznmU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",PREDATOR/ALIEN MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559107&extension=ts&play_token=aZKyEVZIr6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",PREDATOR/ALIUSA MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466999&extension=ts&play_token=76AWAk9K90
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",RAMBO
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559081&extension=ts&play_token=wcJMtSud5E
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",RAMBO
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466976&extension=ts&play_token=HqUnQta3uI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",ROCKY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559109&extension=ts&play_token=TJ31HTfxet
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",ROCKY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466997&extension=ts&play_token=98WoM9HQ0r
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/182-1824036_rocky-balboa-movie-t-shirt-rocky-balboa-logo.png" group-title="GROUP MOVIES",ROCKY 4K
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466892&extension=ts&play_token=SjB859ajkG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",ROMANCE MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559110&extension=ts&play_token=2CRjln2Bxm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",OMANCE MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466996&extension=ts&play_token=tEL2e0qsLy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",RUSH HOUR
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559111&extension=ts&play_token=1uFbQ8Y3HS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",RUSH HOUR
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466995&extension=ts&play_token=zzzc8D5LpB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSH-HOUR.png" group-title="GROUP MOVIES",RUSH HOUR
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466803&extension=ts&play_token=HHsp7qpM0z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SANTA-CLAUS.png" group-title="GROUP MOVIES",SANTA CLAUS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466907&extension=ts&play_token=qltvHZ1Rah
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SAW.png" group-title="GROUP MOVIES",SAW
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466804&extension=ts&play_token=UuPGKx1KxQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SCARY-MOVIE.png" group-title="GROUP MOVIES",SCARY MOVIE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466805&extension=ts&play_token=QiLnsxT9B5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",SCIFI MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559112&extension=ts&play_token=FFE8W1jxL0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",SCIFI MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466994&extension=ts&play_token=gzWYiez3db
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPIDER-MAN.png" group-title="GROUP MOVIES",SPIDER MAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466807&extension=ts&play_token=D0JfvH70QS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",SPORTS MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559114&extension=ts&play_token=RDVvoBLFxh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",SPORTS MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466992&extension=ts&play_token=FV8zFDOhPg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPY-KIDS.png" group-title="GROUP MOVIES",SPY KIDS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466808&extension=ts&play_token=rEqZObH2LW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",STAR TREK MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559115&extension=ts&play_token=7rwuTItXOn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",STAR TREK MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466991&extension=ts&play_token=O7pgtK0wKt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",STAR WARS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559116&extension=ts&play_token=7NGPiYHENz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",STAR WARS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466990&extension=ts&play_token=6G4makG5Zs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-WARS.png" group-title="GROUP MOVIES",STAR WARS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466810&extension=ts&play_token=Lx0eqfF26X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",SUPERHERO MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559117&extension=ts&play_token=cGg4HtF2mY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TERMINATOR.png" group-title="GROUP MOVIES",TERMINATOR
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466821&extension=ts&play_token=iyf2FeHqkr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",TEXAS CHAINSAW MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467002&extension=ts&play_token=VVzVMd0rUB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="GROUP MOVIES",THRILLER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559087&extension=ts&play_token=Yt6rz5phvQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="GROUP MOVIES",THRILLER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466982&extension=ts&play_token=3I6TYHL2Wb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-CROCODILE-DUNDEE.png" group-title="GROUP MOVIES",THE CROCODILE DUNDEE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466812&extension=ts&play_token=AoGS4UOGdU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-EXPUSADABLES.png" group-title="GROUP MOVIES",THE EXPENADABLES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466813&extension=ts&play_token=5YGYP4A7aJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-GODFATHER.png" group-title="GROUP MOVIES",THE GODFATHER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466815&extension=ts&play_token=Nixogdssh4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-HANGOVER.png" group-title="GROUP MOVIES",THE HANGOVER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466816&extension=ts&play_token=Bxue8SGWIJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-HOBBIT.png" group-title="GROUP MOVIES",THE HOBBIT 
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466891&extension=ts&play_token=bWLQqqJvA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HORROR.png" group-title="GROUP MOVIES",THE HORROR CHANNEL
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466904&extension=ts&play_token=1838cVQdRU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-HUNGER-GAMES.png" THE HUNGER GAMES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466817&extension=ts&play_token=4qq2vvSGpE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-MATRIX.png" THE MATRIX
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466796&extension=ts&play_token=vbsEy441AI
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/THOR.png" group-title="GROUP MOVIES",THOR
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466773&extension=ts&play_token=wHWkH8eQkU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOM-HARDY.png" group-title="GROUP MOVIES",TOM HARDY COLLECTION
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466868&extension=ts&play_token=hZdf23THvk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TOMB-RAIDER.png" group-title="GROUP MOVIES",TOMB RAIDER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466795&extension=ts&play_token=Lt3wm70Qel
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOP-MOVIES.png" group-title="GROUP MOVIES",TOP MOVIES
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466867&extension=ts&play_token=RYLB3vwWBP
+#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="GROUP MOVIES",TRANSFORMERS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466890&extension=ts&play_token=6P6XbBD7pn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TWILIGHT.png" group-title="GROUP MOVIES",TWILIGHT
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466889&extension=ts&play_token=0JQR9DP2dv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="GROUP MOVIES",WAR MOVIES 1
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466852&extension=ts&play_token=ia49YLovVa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="GROUP MOVIES",WAR MOVIES 2
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466853&extension=ts&play_token=w8DeBXc3bj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="GROUP MOVIES",WAR MOVIES 3
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466854&extension=ts&play_token=DS3WZHdXqM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="GROUP MOVIES",WAR MOVIES 4
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466855&extension=ts&play_token=vv9tXpFOwv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="GROUP MOVIES",WAR MOVIES 5
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466859&extension=ts&play_token=n8nssZDBWb
+
+
+
+
+
+
+#######################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA|MR BEAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559078&extension=ts&play_token=03x9WASwdR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA|MR BEAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466980&extension=ts&play_token=Vm6jRagfjM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/24.png" group-title="24/7 MOVIES & SERIES",USA|24 
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466919&extension=ts&play_token=R4Ii0vKxAp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/30-ROCK.png" group-title="24/7 MOVIES & SERIES",USA|30 ROCK
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466918&extension=ts&play_token=c9cfF2dKKz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA|48 HOURS
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979215&extension=ts&play_token=PTMyjuZk3n
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA|90210
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979136&extension=ts&play_token=cPtYYCFSVt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AEW-DYNAMITE.png" group-title="24/7 MOVIES & SERIES",USA|AEW DYNAMITE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466903&extension=ts&play_token=YRW7t0b2Vx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ALVIN.png" group-title="24/7 MOVIES & SERIES",USA|ALVIN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466786&extension=ts&play_token=weL07eEQ9A
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/amcmehd.png" group-title="24/7 MOVIES & SERIES",USA|AMC +
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466841&extension=ts&play_token=K3t45cpFbi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AMERICAN-DAD.png" group-title="24/7 MOVIES & SERIES",USA|AMERICAN DAD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466858&extension=ts&play_token=bh1BV30K8V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ANNABELLE.png" group-title="24/7 MOVIES & SERIES",USA|ANNABELLE
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466785&extension=ts&play_token=1hc4xLc4O1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ANT-MAN.png" group-title="24/7 MOVIES & SERIES",USA|ANT-MAN
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466779&extension=ts&play_token=y83NuZDjOC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA|ARCHER
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467017&extension=ts&play_token=J0b8woRvJu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ARRESTED-DEVELOPMUSAT.png" group-title="24/7 MOVIES & SERIES",USA|ARRESTED DEVELOPMUSAT
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466917&extension=ts&play_token=GDmQmm1Xxh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Arrow_logo.png" group-title="24/7 MOVIES & SERIES",USA|ARROW
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466924&extension=ts&play_token=nTYgKSpZj9
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BET HER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979156&extension=ts&play_token=fsk2QzCZ17
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BET.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BET+
@@ -5728,32 +6029,16 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478684&
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467025&extension=ts&play_token=8i6ehh9GiD
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BILLY THE EXTERMINATOR
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466988&extension=ts&play_token=sxILkyzSar
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BLACK CINEMA
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979161&extension=ts&play_token=pfsveDMnvE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BLADE MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559093&extension=ts&play_token=1LBeySJiwD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BLADE MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467013&extension=ts&play_token=jNAcLeWJcY
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BONANZA
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478685&extension=ts&play_token=QRbxnHOd3k
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BONANZA
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467024&extension=ts&play_token=2oEJia2nM2
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BOXING
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979163&extension=ts&play_token=YAfuPzAdIj
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/brad_pitt/brad_pitt_PNG13.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BRAD PITT 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466865&extension=ts&play_token=0evSBpLYLX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/BRIDGET-JONES-DIARY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BRIDGET JONES DIARY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466784&extension=ts&play_token=orvtb82zdV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BRUCE LEE MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559082&extension=ts&play_token=Osezf7tTMW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BRUCE LEE MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466983&extension=ts&play_token=N9TuLU7uTT
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BUFFY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 BUFFY
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466885&extension=ts&play_token=5aiYbwtTPk
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b179b54a-c6c2-4d81-8417-1bb908ea5ec1/db2xhd5-b0eb82bd-d4c6-4e9c-a4cd-03da960afae7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CALIFORNICATION 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466923&extension=ts&play_token=KCeT1JLYcB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CAPTAIN-AMERICA.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CAPTAIN AMERICA
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466778&extension=ts&play_token=5jPosrSdSW
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CHAPPELLE'S SHOW
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478690&extension=ts&play_token=A6J9BYXpE3
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CHAPPELLE'S SHOW
@@ -5768,20 +6053,10 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466787
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979149&extension=ts&play_token=nW5GtJ5OZa
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHUCK.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CHUCK 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466922&extension=ts&play_token=A9P9cA9KpY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHUCKY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CHUCKY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466788&extension=ts&play_token=VVfU895Rpk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLASSIC-WAR-MOVIES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CLASSIC WAR MOVIES 1 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466856&extension=ts&play_token=TO8YQwk9iB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CLASSIC-WAR-MOVIES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CLASSIC WAR MOVIES 2 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466860&extension=ts&play_token=v8C4zLLUpX
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cobra-kai-logo-A77A93D23E-seeklogo.com.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 COBRA KAI 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466921&extension=ts&play_token=IJP6jZfeHb
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/COLUMBO-MR-PETER-FALK.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 COLUMBO MR PETER FALK 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466914&extension=ts&play_token=ehncVkMoKO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CRIME MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559090&extension=ts&play_token=OKp4k2QEjl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CRIME MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466984&extension=ts&play_token=sNPbmIvaXh
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CSI-MIAMI.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 CSI MIAMI
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466884&extension=ts&play_token=404mE5QrVK
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DEADLIEST CATCH
@@ -5796,12 +6071,6 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559123&
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467027&extension=ts&play_token=cWBGtisxH7
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/DEKKOO.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DEKKOO
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466842&extension=ts&play_token=ggScPnooBZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DIE HARD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559118&extension=ts&play_token=NkwEP1Jqzb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DIE HARD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466989&extension=ts&play_token=3vycZto2qt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DIE-HARD.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DIE HARD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466789&extension=ts&play_token=PpcTwvdhrm
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-DOCUMUSATARY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DISCOVERY+ DOC 1
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466871&extension=ts&play_token=l98wOfWop5
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-DOCUMUSATARY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DISCOVERY+ DOC 2
@@ -5810,118 +6079,32 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466870
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466902&extension=ts&play_token=rX7EUIem5e
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-DOCUMUSATARY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DISCOVERY+ IMAX
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466872&extension=ts&play_token=d2cOPG8UAv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DR-STRANGE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 DR STRANGE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466777&extension=ts&play_token=de21uUsNLY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/EPIX.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 EPIX
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466843&extension=ts&play_token=C1nBh3AXoG
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/EROS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 EROS
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466844&extension=ts&play_token=YVv5Is2bnD
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/EVERYBODY-LOVES-RAYMOND.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 EVERYBODY LOVES RAYMOND 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466948&extension=ts&play_token=rildX5A5z1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FAMILY MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559088&extension=ts&play_token=qsbRT03EiW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FAMILY MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466985&extension=ts&play_token=zYVMh0PT52
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FAST-FURIOUS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FAST & FURIOUS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466814&extension=ts&play_token=8VJasDM0iK
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FEAR FACTOR
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979207&extension=ts&play_token=1nzXmuYWXI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FIFTY SHADES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559094&extension=ts&play_token=5izantY6i3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FIFTY SHADES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467012&extension=ts&play_token=bDw45St3j9
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/FLING.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FLING
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466845&extension=ts&play_token=ZCMTh8HHKD
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/FRASIER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FRASIER 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466947&extension=ts&play_token=UAWY0ul1Vp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FRIDAY THE 13TH
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559100&extension=ts&play_token=f5kCReQr5p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FRIDAY THE 13TH
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467006&extension=ts&play_token=GTFyiWAonu
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/FRIUSADS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 FRIUSADS 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466946&extension=ts&play_token=t67k3YNpKC
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/GAME-OF-THRONES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GAME OF THRONES 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466961&extension=ts&play_token=WnuMcYWjJw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GARDIANS-OF-THE-GALAXY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GARDIANS OF THE GALAXY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466776&extension=ts&play_token=9HydKyxIPJ
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/GHOST-WHISPERER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GHOST WHISPERER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466962&extension=ts&play_token=FuUznzEPXU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/GHOSTBUSTERS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GHOSTBUSTERS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466790&extension=ts&play_token=WdKT5LsQFH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GREASE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559095&extension=ts&play_token=WkceEvh4Wk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GREASE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467011&extension=ts&play_token=xRCXmLmrr4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GUNSMOKE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 GUNSMOKE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466873&extension=ts&play_token=0ie98pBPT8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hallmark.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HALLMARK CHANNEL
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466874&extension=ts&play_token=v8oiWk48Sw
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HALLOWEUSA.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HALLOWEUSA 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466864&extension=ts&play_token=OWHus7gOHH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HARRY POTTER
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559096&extension=ts&play_token=Y0Vrnh1KKg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HARRY POTTER
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467010&extension=ts&play_token=z560UzkZHr
-#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/3/Harry-Potter-Logo-PNG-Clipart.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HARRY POTTER 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466899&extension=ts&play_token=wPLX3FZ1qY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HBO.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HBO CHANNEL 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466906&extension=ts&play_token=PLP0PsBX1l
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HORROR-CHANNEL.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HORROR CHANNEL
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466875&extension=ts&play_token=AVRTXIknc1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HORROR MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559091&extension=ts&play_token=XCE0nADe1I
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HORROR MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466986&extension=ts&play_token=ORBZZ0jd0y
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/HOW-I-MET-YOUR-MOTHER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 HOW I MET YOUR MOTHER 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466945&extension=ts&play_token=ALSBgEyaFi
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Iceage-logo.svg/1150px-Iceage-logo.svg.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ICE AGE 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466898&extension=ts&play_token=z4LCeEjq7J
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 INDIANA JONES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559097&extension=ts&play_token=ZJ4BPgHQNg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 INDIANA JONES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467009&extension=ts&play_token=OhoH3n47P2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/INDIANA-JONES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 INDIANA JONES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466791&extension=ts&play_token=nlFDAcgye4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/INSIDIOUS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 INSIDIOUS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466792&extension=ts&play_token=vc0b03dkB2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/IRON-MAN.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 IRON MAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466775&extension=ts&play_token=2GIppK1CLv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JAMES BOND
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559077&extension=ts&play_token=HMNjxJMcXy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JAMES BOND
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466974&extension=ts&play_token=ySvzSzvtYe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/JAMES-BOND007.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JAMES BOND 007
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466876&extension=ts&play_token=qxktNuL5Kk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JASON BOURNE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559079&extension=ts&play_token=FRy3am0Kn5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JASON BOURNE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466973&extension=ts&play_token=73aCu9aHRD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Jason_Bourne_%282016%29_film_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JASON BOURNE 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466897&extension=ts&play_token=otKubsXgdd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JCVD MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559098&extension=ts&play_token=QD4M0dNbTb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JCVD MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467008&extension=ts&play_token=KnZaK1T7lI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/JETLI.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JET LI MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466877&extension=ts&play_token=AFLx1YQI9B
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JIM CARREY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559080&extension=ts&play_token=ywTThnlnHf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JIM CARREY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466975&extension=ts&play_token=fsAqG3f2F4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JOHN-WICK.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JOHN WICK
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466818&extension=ts&play_token=VWFYGCUHIy
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JOHNNY CARSON TV
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979228&extension=ts&play_token=E50H74e0Kw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JOHNNY-DEPP.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JOHNNY DEPP 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466880&extension=ts&play_token=74luuA6GqP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JUMANJI.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JUMANJI 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466896&extension=ts&play_token=gBK1NWPOlo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JURASSIC PARK
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559099&extension=ts&play_token=JZgczkxzSo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JURASSIC PARK
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467007&extension=ts&play_token=t6vX9aURKn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JURASSIC-WORLD-PARK.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 JURASSIC WORLD/PARK
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466794&extension=ts&play_token=ECn1baXxEN
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/KEVIN-CAN-WAIT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 KEVIN CAN WAIT 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466965&extension=ts&play_token=cdxJQOUzok
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 KING OF THE HILL
@@ -5934,22 +6117,14 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466960
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467038&extension=ts&play_token=M26Ip1te0T
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/LEAVE-IT-TO-BEAVER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LEAVE IT TO BEAVER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466963&extension=ts&play_token=M66RGGgN52
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LETHAL-WEAPON.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LETHAL WEAPON
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466819&extension=ts&play_token=wHmkltBYpo
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LETTERKUSANY
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467018&extension=ts&play_token=spUt1rmrk3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LIAM-NESSON.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LIAM NESSON 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466879&extension=ts&play_token=JQQd9Pu0g3
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b179b54a-c6c2-4d81-8417-1bb908ea5ec1/d9uxreq-d85ea7d8-7c4f-46e5-98c6-68243be112f8.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LIE TO ME 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466959&extension=ts&play_token=ru9zEow6xe
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/LIFE-TIME.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LIFE TIME
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466846&extension=ts&play_token=IPOQ9hLuL1
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/df/dfbfb8786f46ba433135b363c8abbc1c.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LIMITLESS 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466944&extension=ts&play_token=mAYl2GDNVA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LORD OF THE RINGS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559101&extension=ts&play_token=Leq38LIGh4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LORD OF THE RINGS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467005&extension=ts&play_token=gMMh1fVOgn
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d46764c1-a343-4530-9d8c-e0f157e0a049/dbtb7wl-1ae24332-6b97-4321-b588-c9055448b9ba.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LOST 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466943&extension=ts&play_token=6kXYtnTzvI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/01/Lucifer_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 LUCIFER 4K
@@ -5960,12 +6135,6 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466941
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466940&extension=ts&play_token=lnjsezlL84
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/911ae783-7650-418e-ac38-3e76d089e3ad/ddk8z97-4401117b-0649-4438-a796-bd94c1478b46.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MANIFEST 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466958&extension=ts&play_token=ZN6GkmQTUr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MATRIX
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559102&extension=ts&play_token=ndQeC9n2Zn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MATRIX
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467004&extension=ts&play_token=81hOLlKMuu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MEN IN BLACK
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559103&extension=ts&play_token=Sm5am2LcbD
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MIAMI-VICE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MIAMI VICE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466970&extension=ts&play_token=QW2R80FL65
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MIKE-AND-MOLLY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MIKE AND MOLLY 4k
@@ -5976,10 +6145,6 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466895
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466964&extension=ts&play_token=r0KYXfsY8c
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MODERN-FAMILY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MODERN FAMILY 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466938&extension=ts&play_token=01iudYSv0m
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MONEY-HEIST.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MONEY HEIST 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466957&extension=ts&play_token=GPDzwylhfb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MORTAL-KOMBAT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MORTAL KOMBAT
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466798&extension=ts&play_token=BAL8PDbdYe
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MUBI.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MUBI
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466847&extension=ts&play_token=Ji5ExFassI
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 MUSA IN BLACK
@@ -6034,52 +6199,16 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466832
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466840&extension=ts&play_token=bbZzKPFFRA
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 NFL CHANNEL
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979259&extension=ts&play_token=WcaFgMfBWB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NIGHT-AT-THE-MUSEUM.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 NIGHT AT THE MUSEUM
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466799&extension=ts&play_token=qIYEo9ubo5
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 NIGHT COURT
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467020&extension=ts&play_token=Re9dbbem44
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NXT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 NXT
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466848&extension=ts&play_token=UjYgVqFZC7
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NYPD-Blue.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 NYPD BLUE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466969&extension=ts&play_token=EFOUgPVg5H
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PARANORMAL-ACTIVITY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PARANORMAL ACTIVITY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466800&extension=ts&play_token=eWcJ6J3mMZ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Parks_and_Recreation_%28TV_series%29_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PARKS AND RECREATION 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466937&extension=ts&play_token=L8X6tOKzAg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PIRATES OF THE CARIBBEAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559105&extension=ts&play_token=fxXm8tmWuD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PIRATES OF THE CARIBBEAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467001&extension=ts&play_token=yFdI79Fy9z
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/212-2127449_pirates-of-the-caribbean-png-transparUSAt-pirates-of.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PIRATES OF THE CARIBBEAN 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466894&extension=ts&play_token=relgjIUooJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PITCH-PERFECT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PITCH PERFECT 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466893&extension=ts&play_token=Vd0hZ6YQCz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PIXAR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PIXAR CHANNEL
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466869&extension=ts&play_token=J4cpHbDY4T
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PLANET OF THE APES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559106&extension=ts&play_token=aniVdUWNax
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PLANET OF THE APES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467000&extension=ts&play_token=xEuS4yeh67
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PLANET-OF-THE-APES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PLANET OF THE APES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466801&extension=ts&play_token=fwxzUHMF6C
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 POLICE ACADEMY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559108&extension=ts&play_token=YJnOPyiaxz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 POLICE ACADEMY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466998&extension=ts&play_token=24jv5rznmU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PREDATOR/ALIEN MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559107&extension=ts&play_token=aZKyEVZIr6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PREDATOR/ALIUSA MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466999&extension=ts&play_token=76AWAk9K90
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Prison_Break_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 PRISON BREAK 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466936&extension=ts&play_token=mkC0vAXP48
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 QUENTIN TARANTINO MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559113&extension=ts&play_token=Y0Z8wZtaIi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 QUUSATIN TARANTINO MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466993&extension=ts&play_token=aNtXXRtGPi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 RAMBO
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559081&extension=ts&play_token=wcJMtSud5E
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 RAMBO
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466976&extension=ts&play_token=HqUnQta3uI
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 REALITY
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979278&extension=ts&play_token=wqNFMkiH1p
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/REBA.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 REBA
@@ -6092,36 +6221,10 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466935
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466849&extension=ts&play_token=vKJDKBKjmr
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 RICK AND MORTY
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467016&extension=ts&play_token=VBlxF45unJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROCKY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559109&extension=ts&play_token=TJ31HTfxet
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROCKY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466997&extension=ts&play_token=98WoM9HQ0r
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/182-1824036_rocky-balboa-movie-t-shirt-rocky-balboa-logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROCKY 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466892&extension=ts&play_token=SjB859ajkG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROMANCE MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559110&extension=ts&play_token=2CRjln2Bxm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROMANCE MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466996&extension=ts&play_token=tEL2e0qsLy
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROSEANNE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467019&extension=ts&play_token=aRokpU313I
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/529/82/png-clipart-roseanne-season-6-icon-thumbnail.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 ROSEANNE 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466934&extension=ts&play_token=28HVzmgwMM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 RUSH HOUR
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559111&extension=ts&play_token=1uFbQ8Y3HS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 RUSH HOUR
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466995&extension=ts&play_token=zzzc8D5LpB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/RUSH-HOUR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 RUSH HOUR
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466803&extension=ts&play_token=HHsp7qpM0z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SANTA-CLAUS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SANTA CLAUS FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466907&extension=ts&play_token=qltvHZ1Rah
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SAW.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SAW
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466804&extension=ts&play_token=UuPGKx1KxQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SCARY-MOVIE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SCARY MOVIE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466805&extension=ts&play_token=QiLnsxT9B5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SCIFI MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559112&extension=ts&play_token=FFE8W1jxL0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SCIFI MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466994&extension=ts&play_token=gzWYiez3db
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Scorpion_Logo_%28TV-Serie%29.PNG/1200px-Scorpion_Logo_%28TV-Serie%29.PNG" group-title="24/7 MOVIES & SERIES",USA| 24/7 SCORPION 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466933&extension=ts&play_token=5RIxEftnz1
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SCREAM.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SCREAM
@@ -6146,52 +6249,20 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467037
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478642&extension=ts&play_token=NOl0ymZ4v1
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SIX MILLION DOLLAR MAN
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467036&extension=ts&play_token=ioYXmyCZfl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPIDER-MAN.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SPIDER MAN
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466807&extension=ts&play_token=D0JfvH70QS
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SPONGEBOB SQUAREPANTS
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467021&extension=ts&play_token=In9iWSk1ls
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SPORTS MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559114&extension=ts&play_token=RDVvoBLFxh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SPORTS MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466992&extension=ts&play_token=FV8zFDOhPg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPY-KIDS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SPY KIDS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466808&extension=ts&play_token=rEqZObH2LW
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/STANDUP-COMEDY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAND UP COMEDY FHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466851&extension=ts&play_token=CEEQ0BsxFv
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-TREK.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAR TREK
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466809&extension=ts&play_token=R8QmwL26bl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAR TREK MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559115&extension=ts&play_token=7rwuTItXOn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAR TREK MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466991&extension=ts&play_token=O7pgtK0wKt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAR WARS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559116&extension=ts&play_token=7NGPiYHENz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAR WARS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466990&extension=ts&play_token=6G4makG5Zs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-WARS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STAR WARS
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466810&extension=ts&play_token=Lx0eqfF26X
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STEP-UP.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STEP UP
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466811&extension=ts&play_token=OywLIb7tFU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STEVEN SEAGAL
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478697&extension=ts&play_token=71POPZ4STD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STEVUSA SEAGAL
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466977&extension=ts&play_token=YbJhZpb3da
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STEVUSA-SEGAL.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 STEVUSA SEGAL 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466866&extension=ts&play_token=YA8wn3NM5G
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SUITS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SUITS 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466953&extension=ts&play_token=OhVzTTfLXE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SUPERHERO MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=559117&extension=ts&play_token=cGg4HtF2mY
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SUPERNATURAL.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SUPERNATURAL 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466952&extension=ts&play_token=4ZiJAbuFED
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SYLVESTER-STALLON.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 SYLVESTER STALLON 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466878&extension=ts&play_token=l2lU7zWh2v
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TBN
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979302&extension=ts&play_token=Zy4tqhEAu7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TERMINATOR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TERMINATOR
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466821&extension=ts&play_token=iyf2FeHqkr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TEXAS CHAINSAW MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467002&extension=ts&play_token=VVzVMd0rUB
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THAT-70S-SHOW.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THAT 70S SHOW 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466930&extension=ts&play_token=kINcwyf4gy
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE ANDY GRIFFITH SHOW
@@ -6226,28 +6297,14 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478657&
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467031&extension=ts&play_token=rsJIlS1Ns1
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE CAROL BURNETT SHOW
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979308&extension=ts&play_token=XZba6DYzxG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-CROCODILE-DUNDEE.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE CROCODILE DUNDEE
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466812&extension=ts&play_token=AoGS4UOGdU
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/THE-DUSAES-OF-HAZZARD.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE DUSAES OF HAZZARD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466971&extension=ts&play_token=6J7wxlQ7WI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-EXPUSADABLES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE EXPUSADABLES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466813&extension=ts&play_token=5YGYP4A7aJ
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/THE-FLINTSTONES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE FLINTSTONES
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466862&extension=ts&play_token=A64kFxFEgF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE FRESH PRINCE OF BEL-AIR
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466911&extension=ts&play_token=YRj2iu5qns
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE FRESH PTINCE OF BEL AIR 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466929&extension=ts&play_token=xN29Dewgvg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-GODFATHER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE GODFATHER
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466815&extension=ts&play_token=Nixogdssh4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-HANGOVER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE HANGOVER
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466816&extension=ts&play_token=Bxue8SGWIJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-HOBBIT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE HOBBIT 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466891&extension=ts&play_token=bWLQqqJvAu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HORROR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE HORROR CHANNEL 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466904&extension=ts&play_token=1838cVQdRU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-HUNGER-GAMES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE HUNGER GAMES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466817&extension=ts&play_token=4qq2vvSGpE
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/hulk/hulk_PNG123.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE INCREDIBLE HULK 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466901&extension=ts&play_token=pzoWBesDUh
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/THE-JEFFERSONS.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE JEFFERSONS
@@ -6260,8 +6317,6 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466887
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478662&extension=ts&play_token=Ify8RI5dLF
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE LOVE BOAT
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467030&extension=ts&play_token=S5w9E6922s
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-MATRIX.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE MATRIX
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466796&extension=ts&play_token=vbsEy441AI
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/THE-MAZE-RUNNER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE MAZE RUNNER
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466820&extension=ts&play_token=XkmjQN5SEE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Muppet_Show_logo.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THE MUPPET SHOW 4k
@@ -6286,54 +6341,20 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466782
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466888&extension=ts&play_token=aSvxiwNIc0
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THIS OLD HOUSE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979315&extension=ts&play_token=ufouyh07T1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/THOR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 THOR
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466773&extension=ts&play_token=wHWkH8eQkU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOM-HARDY.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TOM HARDY COLLECTION
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466868&extension=ts&play_token=hZdf23THvk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TOMB-RAIDER.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TOMB RAIDER
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466795&extension=ts&play_token=Lt3wm70Qel
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/topgear.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TOP GEAR
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466857&extension=ts&play_token=z220ewUFuj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TOP-MOVIES.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TOP MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466867&extension=ts&play_token=RYLB3vwWBP
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/580b57fbd9996e24bc43c081.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TRANSFORMERS 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466890&extension=ts&play_token=6P6XbBD7pn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TWILIGHT.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TWILIGHT 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466889&extension=ts&play_token=0JQR9DP2dv
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TWO-AND-A-HALF-MUSA.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 TWO AND A HALF MUSA 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466926&extension=ts&play_token=Q2yeQlsp46
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UNDERWORLD.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 UNDERWORLD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466822&extension=ts&play_token=IfwDrL1wT4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VAN-DAMME.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 VAN DAMME
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466793&extension=ts&play_token=S01HPFZnfH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VAN-DAMME.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 VAN DAMME
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466780&extension=ts&play_token=62p1Lyil29
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5e/d1/f8/5ed1f8bde8c4618d40a26b979a724867.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 VIKINGS 4k
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466925&extension=ts&play_token=9lrSEDUASo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WAR MOVIES 1 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466852&extension=ts&play_token=ia49YLovVa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WAR MOVIES 2 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466853&extension=ts&play_token=w8DeBXc3bj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WAR MOVIES 3 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466854&extension=ts&play_token=DS3WZHdXqM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WAR MOVIES 4 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466855&extension=ts&play_token=vv9tXpFOwv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WAR.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WAR MOVIES 5 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466859&extension=ts&play_token=n8nssZDBWb
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WESTERN TV
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979336&extension=ts&play_token=hSv0uHlL0J
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/PLUTO-TV.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WESTERNS
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=979337&extension=ts&play_token=kvV9GU4bgO
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b179b54a-c6c2-4d81-8417-1bb908ea5ec1/d8j54w4-61b26207-12cd-47f3-b65b-aff8dc4d897a.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WHITE COLLAR 4K
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466949&extension=ts&play_token=hGiMMme3LN
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/190-1901634_christmas-outdoor-movie-night-will-ferrell-elf.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WILL FERRELL 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466920&extension=ts&play_token=MaTHJxa6Qk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/24.7.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WILL FERRELL MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=478704&extension=ts&play_token=PxSVe7NXhW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WILL FERRELL MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1467022&extension=ts&play_token=VCnZp9lgZC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MOVISE247.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WILL FERRELL MOVIES
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466987&extension=ts&play_token=JqkXYkyT4L
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/WOLFOO.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WOLFOO
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1466781&extension=ts&play_token=bWu5B9L6da
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/WRONG-TURN.png" group-title="24/7 MOVIES & SERIES",USA| 24/7 WRONG TURN
@@ -10983,7 +11004,7 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431811
 #EXTINF:-1 ,tvg-id="MainEventUFC.au;Main Event UFC.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/RGydVQx0pd8h7-4okK0XSYeCUZuAWdAehVTUxPgAkYo7ZtGIqtoZ2t5I9IKCFb_-krjItIpMWwpMLevWdxwR-YT5rQIhAepXb1j5QFTB8V_VjGh4gxS88FY" group-title="KAYO MAIN EVENT",AU:,KAYO UFC/MAIN EVENT
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTI4Mzc3MC50cw==
 
-#EXTINF:-1 ,tvg-id="MainEventUFC.au;Main Event UFC.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/MgLPLziwliM3T-xqm6DwxMIXr7kYOg0euPqR5Ik_MXlmBVHEzrmba8sfiAkzReCNLmFDAFBeNItPR2-FdMw_hVmwLB3GLDoB_oblqWk9daNbvSqWgX_EdA" group-title="KAYO MAIN EVENT",AU:,KAYO MAIN EVENT PPV
+#EXTINF:-1 ,tvg-id="MainEvent.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/MgLPLziwliM3T-xqm6DwxMIXr7kYOg0euPqR5Ik_MXlmBVHEzrmba8sfiAkzReCNLmFDAFBeNItPR2-FdMw_hVmwLB3GLDoB_oblqWk9daNbvSqWgX_EdA" group-title="KAYO MAIN EVENT",AU:,KAYO MAIN EVENT PPV
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDI4NTg4LnRz
 
 
@@ -11167,11 +11188,11 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 channel_id="StanSport9.au;Stan Sport 9.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/xOLWZflKUmQpf-bghpPhK2lRZ4bwOquSqP_o5PF8LSM-1l_vhQBIClBlln-P97WzR32M2tT9M-E2dk1LKlvqFtRTsHI_woTdkw4gitzEKnjv" group-title="SPORT/AUST & NZ", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
-#EXTINF:-1 channel_id="StanSport10.au;Stan Sport 10.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/R2zEX27_2TlLg7KGilU9fCVNRoo8SFXMbiG1FpLfNhrWtBHspqUzyTCISBATDJInyJpTprpvro1zRadXIVBSPXTM9OqQSdyy5NaaeH0W7OW_oQ" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport10.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/R2zEX27_2TlLg7KGilU9fCVNRoo8SFXMbiG1FpLfNhrWtBHspqUzyTCISBATDJInyJpTprpvro1zRadXIVBSPXTM9OqQSdyy5NaaeH0W7OW_oQ" group-title="SPORT/AUST & NZ", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgxLnRz
 
 
-#EXTINF:-1 channel_id="StanSport11.au;Stan Sport 11.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/TCMwUpvpAvQ1DFhLAwFaOv0RlAClsIAFB4HyiczmpK9GIobx13mncSlNfnC5diaJ5BvDERPhEw83xUkfnWGZXSboFsT3dBit2xsfaQBVhHFqwg" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport11.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/TCMwUpvpAvQ1DFhLAwFaOv0RlAClsIAFB4HyiczmpK9GIobx13mncSlNfnC5diaJ5BvDERPhEw83xUkfnWGZXSboFsT3dBit2xsfaQBVhHFqwg" group-title="SPORT/AUST & NZ", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgyLnRz
 
 
@@ -11416,37 +11437,37 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:E0:80&stream=1535863&exte
 
 
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/iOre3ifds1GIhAygYqfkpsMuyfPbhF1OMMhvGtgBrGT79jsQtSNZ4gNf1JgdapPJSiMCY9VVfSvHjf6Ay3EH80FPEVKgY2Pk0VTjIrsMO2FREtWD26ad" group-title="SPORT/AUST & NZ", AU: OPTUS 1
+#EXTINF:-1 tvg-id="OptusSport1.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/iOre3ifds1GIhAygYqfkpsMuyfPbhF1OMMhvGtgBrGT79jsQtSNZ4gNf1JgdapPJSiMCY9VVfSvHjf6Ay3EH80FPEVKgY2Pk0VTjIrsMO2FREtWD26ad" group-title="SPORT/AUST & NZ", AU: OPTUS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=625250&extension=ts&play_token=S5xLfdwTga
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tegRC3-DVFcGZx4uW-SR2MSEa9ULc03JCvshRFkVvWQRjC6CqHrbE1IMoVpxVlN_wJfmc6EHBz0KETligQIsQfqZWflaATHUc5_Ew-ShZ0A9gyYMyjqG" group-title="SPORT/AUST & NZ", AU: OPTUS 2
+#EXTINF:-1 tvg-id="OptusSport2.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tegRC3-DVFcGZx4uW-SR2MSEa9ULc03JCvshRFkVvWQRjC6CqHrbE1IMoVpxVlN_wJfmc6EHBz0KETligQIsQfqZWflaATHUc5_Ew-ShZ0A9gyYMyjqG" group-title="SPORT/AUST & NZ", AU: OPTUS 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625249&extension=ts&play_token=x1oog7Hp7V
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/khqru-DpuT2rJ3DD8TXv9IaBdNr_Pu-yTaGHLm3k_1ee_FhnDLXtC-sud7HMSjw-ic-NKKFeNeL6PKH3kEeouFgTOGuN9AdpVRRM1Pi32RE5aILgs1Nn" group-title="SPORT/AUST & NZ", AU: OPTUS 3
+#EXTINF:-1 tvg-id="OptusSport3.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/khqru-DpuT2rJ3DD8TXv9IaBdNr_Pu-yTaGHLm3k_1ee_FhnDLXtC-sud7HMSjw-ic-NKKFeNeL6PKH3kEeouFgTOGuN9AdpVRRM1Pi32RE5aILgs1Nn" group-title="SPORT/AUST & NZ", AU: OPTUS 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625248&extension=ts&play_token=IqrniFDu7D
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PQyhS2wzyZFHxsIfCOYeDb9KnBH49tDrLDkII7ShxJAlQWWhlwsEsOJDTmC412kb7JuVYKzg-T2_gZwyU-xnz41STXhK_lwgpMfAq9vixjk5SovexPiw" group-title="SPORT/AUST & NZ", AU: OPTUS 4
+#EXTINF:-1 tvg-id="OptusSport4.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PQyhS2wzyZFHxsIfCOYeDb9KnBH49tDrLDkII7ShxJAlQWWhlwsEsOJDTmC412kb7JuVYKzg-T2_gZwyU-xnz41STXhK_lwgpMfAq9vixjk5SovexPiw" group-title="SPORT/AUST & NZ", AU: OPTUS 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625247&extension=ts&play_token=EhMIihb071
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PBc_lN0cnam9qxZdB_mUBTLBD1EDW_Op6OobwRJRdVdtOh8xAkClHQIbUnQgDf7YU_-fUrpdTl0TbXEbiVO6fccg_576ZdqcyCf7IVYFNGc5L5t0JB7y" group-title="SPORT/AUST & NZ", AU: OPTUS 5
+#EXTINF:-1 tvg-id="OptusSport5.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PBc_lN0cnam9qxZdB_mUBTLBD1EDW_Op6OobwRJRdVdtOh8xAkClHQIbUnQgDf7YU_-fUrpdTl0TbXEbiVO6fccg_576ZdqcyCf7IVYFNGc5L5t0JB7y" group-title="SPORT/AUST & NZ", AU: OPTUS 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625246&extension=ts&play_token=lIjOD3Q5GN
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/60q6zg4x2Vgfj38OhdapIQ6CupDlYnRN9w_5HnNVFLgM1iA78DndOXJcrikFjoEC0H981y9sCi5uQwZfk-yYY4g74awcyfLt2oIIjQYG9H4R2LWSPr9h" group-title="SPORT/AUST & NZ", AU: OPTUS 6
+#EXTINF:-1 tvg-id="OptusSport6.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/60q6zg4x2Vgfj38OhdapIQ6CupDlYnRN9w_5HnNVFLgM1iA78DndOXJcrikFjoEC0H981y9sCi5uQwZfk-yYY4g74awcyfLt2oIIjQYG9H4R2LWSPr9h" group-title="SPORT/AUST & NZ", AU: OPTUS 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625245&extension=ts&play_token=VMkJaDBDZ5
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Jpg0wEfwWJRmwUvUCjN63kwMT3GJjiOCIGPMrYMJTV3RpU0Uu_lKJP-DggWXKJEVV86vFD4ynLoAS5_Lekv4uMYOMwZFC9c71FzSJSyF80rGC3q_7us4" group-title="SPORT/AUST & NZ", AU: OPTUS 7
+#EXTINF:-1 tvg-id="OptusSport7.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Jpg0wEfwWJRmwUvUCjN63kwMT3GJjiOCIGPMrYMJTV3RpU0Uu_lKJP-DggWXKJEVV86vFD4ynLoAS5_Lekv4uMYOMwZFC9c71FzSJSyF80rGC3q_7us4" group-title="SPORT/AUST & NZ", AU: OPTUS 7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625244&extension=ts&play_token=J7Qbdc0ABZ
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tl52wrh_aUm2zquB3uuZUYqz3GUTiZnHAmBYW0SKZQbEFVCaP9gcNEj8kcwGZ_6Nq7nL6NeoqbncC97Bloi3_tJ-9Ws9qD9fj88jhdAaibrp4HmMM6_a" group-title="SPORT/AUST & NZ", AU: OPTUS 8
+#EXTINF:-1 tvg-id="OptusSport8.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tl52wrh_aUm2zquB3uuZUYqz3GUTiZnHAmBYW0SKZQbEFVCaP9gcNEj8kcwGZ_6Nq7nL6NeoqbncC97Bloi3_tJ-9Ws9qD9fj88jhdAaibrp4HmMM6_a" group-title="SPORT/AUST & NZ", AU: OPTUS 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625243&extension=ts&play_token=bnhewwz8wT
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/XnNpaxne4PmUGlabB_ARYdg9hZ8w_ae90RrXKF6pAkgtqco25siyfx2wevZQvlmr4GXwLcBEUgHYP7mKT4651Am2ZR8wuZzKmdbmo3plb3aAmoumRtPP" group-title="SPORT/AUST & NZ", AU: OPTUS 9
+#EXTINF:-1 tvg-id="OptusSport9.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/XnNpaxne4PmUGlabB_ARYdg9hZ8w_ae90RrXKF6pAkgtqco25siyfx2wevZQvlmr4GXwLcBEUgHYP7mKT4651Am2ZR8wuZzKmdbmo3plb3aAmoumRtPP" group-title="SPORT/AUST & NZ", AU: OPTUS 9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625242&extension=ts&play_token=JhuL3SJ4rW
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/5KSOeC-Y_2tnBMQdmsy0zhFzhksxZA2YZl1vqPbOhBJUTkmAGhpz8Cl9ctol2ntr8IZDdGTF-Dv-evJomNCbk6lkd7Wc7k8DxNuBiQMCpqCdWCaP0iJzEg" group-title="SPORT/AUST & NZ", AU: OPTUS 10
+#EXTINF:-1 tvg-id="OptusSport10.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/5KSOeC-Y_2tnBMQdmsy0zhFzhksxZA2YZl1vqPbOhBJUTkmAGhpz8Cl9ctol2ntr8IZDdGTF-Dv-evJomNCbk6lkd7Wc7k8DxNuBiQMCpqCdWCaP0iJzEg" group-title="SPORT/AUST & NZ", AU: OPTUS 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625241&extension=ts&play_token=u0HPTQL9kD
 
-#EXTINF:-1 tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/rGWNft_0KnRVDuRzJdC0rF3vA9rFMgbbUsTdQZcqGhAN2EYoFXx1-cc62H2Z7Qxfx1KcD3pkc3fDyZuAIRJU7U2PSMAKqJlOAhuKoOMiU7mjPrlQqSCfoA" group-title="SPORT/AUST & NZ", AU: OPTUS 11
+#EXTINF:-1 tvg-id="OptusSport11.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/rGWNft_0KnRVDuRzJdC0rF3vA9rFMgbbUsTdQZcqGhAN2EYoFXx1-cc62H2Z7Qxfx1KcD3pkc3fDyZuAIRJU7U2PSMAKqJlOAhuKoOMiU7mjPrlQqSCfoA" group-title="SPORT/AUST & NZ", AU: OPTUS 11
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625240&extension=ts&play_token=uN2rBHMI4H
 
 
