@@ -2788,231 +2788,230 @@ https://s2host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 
 ##############################################################################################################################################################################################################################################################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/AE.png" group-title="UNITED STATES",USA| A&E HD
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://51.158.145.100/picons/logos/USANEW/AE.png" group-title="UNITED STATES",USA| A&E HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73310&extension=ts&play_token=dp1mgTijLy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/AMC.png" group-title="UNITED STATES",USA| AMC HD
+#EXTINF:-1  tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="http://51.158.145.100/picons/logos/USANEW/AMC.png" group-title="UNITED STATES",USA| AMC HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73300&extension=ts&play_token=oeBHGXKSBq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/AMERICANHEROES.png" group-title="UNITED STATES",USA| AMERICAN HEROES HD
+#EXTINF:-1  tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American.Heroes.Channel.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/AMERICANHEROES.png" group-title="UNITED STATES",USA| AMERICAN HEROES HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=76971&extension=ts&play_token=PzMjRSbzvy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/ANIMALPLANET.png" group-title="UNITED STATES",USA| ANIMAL PLANET HD
+#EXTINF:-1  tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://51.158.145.100/picons/logos/USANEW/ANIMALPLANET.png" group-title="UNITED STATES",USA| ANIMAL PLANET HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73288&extension=ts&play_token=M581Rp5Nxd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/ANTENNA.png" group-title="UNITED STATES",USA| ANTENNA TV
+#EXTINF:-1 tvg-logo="Antenna.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/ANTENNA.png" group-title="UNITED STATES",USA| ANTENNA TV
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=398882&extension=ts&play_token=DXlOL6s1mf
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/ASIANFOODCHANNEL.png" group-title="UNITED STATES",USA| ASIAN FOOD CHANNEL
+#EXTINF:-1 tvg-logo=""  tvg-logo="http://51.158.145.100/picons/logos/USANEW/ASIANFOODCHANNEL.png" group-title="UNITED STATES",USA| ASIAN FOOD CHANNEL
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105199&extension=ts&play_token=5W12oI7t1u
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/AXS.png" group-title="UNITED STATES",USA| AXS TV HD
+#EXTINF:-1  tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="http://51.158.145.100/picons/logos/USANEW/AXS.png" group-title="UNITED STATES",USA| AXS TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=77022&extension=ts&play_token=OiTBSOWYOa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BBCAMERICA.png" group-title="UNITED STATES",USA| BBC AMERICA HD
+#EXTINF:-1  tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://51.158.145.100/picons/logos/USANEW/BBCAMERICA.png" group-title="UNITED STATES",USA| BBC AMERICA HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73297&extension=ts&play_token=vQbXYoA9oP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BBCBRIT.png" group-title="UNITED STATES",USA| BBC BRIT HD
+#EXTINF:-1 tvg-id=""  tvg-logo="http://51.158.145.100/picons/logos/USANEW/BBCBRIT.png" group-title="UNITED STATES",USA| BBC BRIT HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=473662&extension=ts&play_token=1wc4tjnk1G
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BBCEARTH.png" group-title="UNITED STATES",USA| BBC EARTH HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=104169&extension=ts&play_token=3d4xs3NqFQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BET.png" group-title="UNITED STATES",USA| BET HD
+#EXTINF:-1  tvg-id="BET.HD.us2" tvg-name="BET"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/BET.png" group-title="UNITED STATES",USA| BET HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73305&extension=ts&play_token=y2o6ql6Iz6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BETGOSPEL.png" group-title="UNITED STATES",USA| BET GOSPEL
+#EXTINF:-1  tvg-id="BET.GOSPEL.us2"tvg-logo="http://51.158.145.100/picons/logos/USANEW/BETGOSPEL.png" group-title="UNITED STATES",USA| BET GOSPEL
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=76978&extension=ts&play_token=aXPak4UApO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BETHER.png" group-title="UNITED STATES",USA| BET HER HD
+#EXTINF:-1 tvg-id="BET.Her"  tvg-logo=""  tvg-logo="http://51.158.145.100/picons/logos/USANEW/BETHER.png" group-title="UNITED STATES",USA| BET HER HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105203&extension=ts&play_token=AHE8vvDn3F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BLUEANTENTERTAINMENT.png" group-title="UNITED STATES",USA| BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USANEW/BLUEANTENTERTAINMENT.png" group-title="UNITED STATES",USA| BLUE ANT ENTERTAINMENT
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105205&extension=ts&play_token=zOlS3OWE8L
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BLUEANTEXTREME.png" group-title="UNITED STATES",USA| BLUE ANT EXTREME
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105206&extension=ts&play_token=3PBKRAwT7N
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BOUNCE.png" group-title="UNITED STATES",USA| BOUNCE TV HD
+#EXTINF:-1  tvg-id="Bounce.TV.us2" tvg-name="Bounce TV"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/BOUNCE.png" group-title="UNITED STATES",USA| BOUNCE TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105207&extension=ts&play_token=1IR1OtL6Jv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/BRAVO.png" group-title="UNITED STATES",USA| BRAVO HD
+#EXTINF:-1  tvg-id="Bravo.us2" tvg-name="Bravo TV"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/BRAVO.png" group-title="UNITED STATES",USA| BRAVO HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73301&extension=ts&play_token=NAv1P00iW7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/CLEO.png" group-title="UNITED STATES",USA| CLEO TV HD
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/CLEO.png" group-title="UNITED STATES",USA| CLEO TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1461897&extension=ts&play_token=OjckIrUiKw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/CMT.png" group-title="UNITED STATES",USA| CMT HD
+#EXTINF:-1  tvg-id="CMT.HD.us2" tvg-name="CMT" tvg-logo="http://51.158.145.100/picons/logos/USANEW/CMT.png" group-title="UNITED STATES",USA| CMT HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=77023&extension=ts&play_token=eSORwEQpWt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/COMEDYCENTRAL.png" group-title="UNITED STATES",USA| COMEDY CENTRAL HD
+#EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://51.158.145.100/picons/logos/USANEW/COMEDYCENTRAL.png" group-title="UNITED STATES",USA| COMEDY CENTRAL HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73321&extension=ts&play_token=9IozD2yCsJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/COMEDY.png" group-title="UNITED STATES",USA| COMEDY TV HD
+#EXTINF:-1  tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV" tvg-logo="http://51.158.145.100/picons/logos/USANEW/COMEDY.png" group-title="UNITED STATES",USA| COMEDY TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105210&extension=ts&play_token=lScUIUIsYs
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/COOKINGCHANNEL.png" group-title="UNITED STATES",USA| COOKING CHANNEL HD
+#EXTINF:-1  tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel" tvg-logo="http://51.158.145.100/picons/logos/USANEW/COOKINGCHANNEL.png" group-title="UNITED STATES",USA| COOKING CHANNEL HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73315&extension=ts&play_token=Jn96XUlEXY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/CRIMEINVESTIGATION.png" group-title="UNITED STATES",USA| CRIME & INVESTIGATION HD
+#EXTINF:-1  tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime & Investigation Network" tvg-logo="http://51.158.145.100/picons/logos/USANEW/CRIMEINVESTIGATION.png" group-title="UNITED STATES",USA| CRIME & INVESTIGATION HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105211&extension=ts&play_token=PDO3wx32Nh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/CW.png" group-title="UNITED STATES",USA| CW HD
+#EXTINF:-1  tvg-id="WPIX-DT.us_locals1" tvg-name="CW"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/CW.png" group-title="UNITED STATES",USA| CW HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73265&extension=ts&play_token=GyzTm8q6Y7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERY.png" group-title="UNITED STATES",USA| DISCOVERY HD
+#EXTINF:-1  tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERY.png" group-title="UNITED STATES",USA| DISCOVERY HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73281&extension=ts&play_token=kU7B8ACtJT
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERY.png" group-title="UNITED STATES",USA| DISCOVERY WEST HD
+#EXTINF:-1  tvg-id="Discovery.Channel.(Pacific).us2" tvg-name="Discovery (Pacific)"tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERY.png" group-title="UNITED STATES",USA| DISCOVERY WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105213&extension=ts&play_token=OORmmFSANY
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYIDWEST.png" group-title="UNITED STATES",USA| DISCOVERY ID HD
+#EXTINF:-1  tvg-id="Discovery.ID.Channel.HD.us2" tvg-name="Discovery Channel" tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYIDWEST.png" group-title="UNITED STATES",USA| DISCOVERY ID HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73283&extension=ts&play_token=vjGAgd4XBK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYIDWEST.png" group-title="UNITED STATES",USA| DISCOVERY ID WEST HD
+#EXTINF:-1  tvg-id="Discovery.ID.Channel.(Pacific).us2" tvg-name="Discovery Channel"tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYIDWEST.png" group-title="UNITED STATES",USA| DISCOVERY ID WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105215&extension=ts&play_token=opMWVrR8GE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYFAMILY.png" group-title="UNITED STATES",USA| DISCOVERY FAMILY HD
+#EXTINF:-1  tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel" tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYFAMILY.png" group-title="UNITED STATES",USA| DISCOVERY FAMILY HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73282&extension=ts&play_token=hZAOuQE0FF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYHOMEHEALTH.png" group-title="UNITED STATES",USA| DISCOVERY HOME HEALTH
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYHOMEHEALTH.png" group-title="UNITED STATES",USA| DISCOVERY HOME HEALTH
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=141774&extension=ts&play_token=90NSwys3cH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYLIFE.png" group-title="UNITED STATES",USA| DISCOVERY LIFE HD
+#EXTINF:-1  tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life" tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYLIFE.png" group-title="UNITED STATES",USA| DISCOVERY LIFE HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105218&extension=ts&play_token=Ns0OlHyPxO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYSCIENCE.png" group-title="UNITED STATES",USA| DISCOVERY SCIENCE HD
+#EXTINF:-1  tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science" tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYSCIENCE.png" group-title="UNITED STATES",USA| DISCOVERY SCIENCE HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73280&extension=ts&play_token=vMgwBR3qo6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYSCIENCE.png" group-title="UNITED STATES",USA| DISCOVERY SCIENCE HEVC (NL)
+#EXTINF:-1  tvg-id="Science.Channel.HD.us2" tvg-name="Discovery Science"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYSCIENCE.png" group-title="UNITED STATES",USA| DISCOVERY SCIENCE HEVC (NL)
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105219&extension=ts&play_token=k8BcwjkFAq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYTHEATER.png" group-title="UNITED STATES",USA| DISCOVERY THEATER HD
+#EXTINF:-1  tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life"tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYTHEATER.png" group-title="UNITED STATES",USA| DISCOVERY THEATER HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105221&extension=ts&play_token=sBnSj9hVJR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYTURBO.png" group-title="UNITED STATES",USA| DISCOVERY TURBO
+#EXTINF:-1  tvg-id="Discovery.Turbo.TV.us2" tvg-name="Discovery.Turbo.TV.us2"tvg-logo="http://51.158.145.100/picons/logos/USANEW/DISCOVERYTURBO.png" group-title="UNITED STATES",USA| DISCOVERY TURBO
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=141775&extension=ts&play_token=Ffzv79Z5nq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DIY.png" group-title="UNITED STATES",USA| DIY HD
+#EXTINF:-1 tvg-id="DIY.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/DIY.png" group-title="UNITED STATES",USA| DIY HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73317&extension=ts&play_token=4BC8C4NHVJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/DOG.png" group-title="UNITED STATES",USA| DOG TV HD
+#EXTINF:-1 tvg-id="DOG.TV.us2"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/DOG.png" group-title="UNITED STATES",USA| DOG TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105225&extension=ts&play_token=UDid485IVK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/EENTERTAINMENTWEST.png" group-title="UNITED STATES",USA| E! ENTERTAINMENT HD
+#EXTINF:-1  tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="http://51.158.145.100/picons/logos/USANEW/EENTERTAINMENTWEST.png" group-title="UNITED STATES",USA| E! ENTERTAINMENT HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73314&extension=ts&play_token=j7xXX19fRV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/EENTERTAINMENTWEST.png" group-title="UNITED STATES",USA| E! ENTERTAINMENT WEST HD
+#EXTINF:-1  tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment" tvg-logo="http://51.158.145.100/picons/logos/USANEW/EENTERTAINMENTWEST.png" group-title="UNITED STATES",USA| E! ENTERTAINMENT WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105226&extension=ts&play_token=SdN9ffFeNx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FASHION.png" group-title="UNITED STATES",USA| FASHION TV HD
+#EXTINF:-1 tvg-id="Fashion.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/FASHION.png" group-title="UNITED STATES",USA| FASHION TV
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105228&extension=ts&play_token=vsAyTmOIXz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FASHION.png" group-title="UNITED STATES",USA| FASHION TV FHD HEVC
+#EXTINF:-1 tvg-id="Fashion.TV.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/FASHION.png" group-title="UNITED STATES",USA| FASHION TV 
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105229&extension=ts&play_token=YoO1KEC6UJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FOODNETWORK.png" group-title="UNITED STATES",USA| FOOD NETWORK HD
+#EXTINF:-1  tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://51.158.145.100/picons/logos/USANEW/FOODNETWORK.png" group-title="UNITED STATES",USA| FOOD NETWORK HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73318&extension=ts&play_token=wymOOzQae4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FOXLIFE.png" group-title="UNITED STATES",USA| FOX LIFE HD (EX)
+#EXTINF:-1  tvg-id="WFLD-DT.us_locals1" tvg-name="Fox" tvg-logo="http://51.158.145.100/picons/logos/USANEW/FOXLIFE.png" group-title="UNITED STATES",USA| FOX LIFE HD (EX)
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105233&extension=ts&play_token=n05yUdI5V3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FUSE.png" group-title="UNITED STATES",USA| FUSE HD
+#EXTINF:-1  tvg-id="Fuse.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/FUSE.png" group-title="UNITED STATES",USA| FUSE HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105234&extension=ts&play_token=LWs21MR3J9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FUSEMUSIC.png" group-title="UNITED STATES",USA| FUSE MUSIC HD
+#EXTINF:-1 tvg-id="Fuse.Music.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/FUSEMUSIC.png" group-title="UNITED STATES",USA| FUSE MUSIC HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105235&extension=ts&play_token=h8j2RUpect
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/FYI.png" group-title="UNITED STATES",USA| FYI HD
+#EXTINF:-1  tvg-id="FYI.Channel.HD.us2" tvg-name="FYI TV"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/FYI.png" group-title="UNITED STATES",USA| FYI HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73309&extension=ts&play_token=KkuqbgSs0k
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/GACFAMILY.png" group-title="UNITED STATES",USA| GAC FAMILY
+#EXTINF:-1 tvg-id=""   tvg-logo=""  tvg-logo="http://51.158.145.100/picons/logos/USANEW/GACFAMILY.png" group-title="UNITED STATES",USA| GAC FAMILY
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=76973&extension=ts&play_token=ESzl1oBIxQ
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/GACFAITHFAMILY.png" group-title="UNITED STATES",USA| GAC FAITH & FAMILY HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=287747&extension=ts&play_token=Jfuap8MjGg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/GAMESHOWNETWORK.png" group-title="UNITED STATES",USA| GAME SHOW NETWORK HD
+#EXTINF:-1  tvg-id="Great.Entertainment.Television.us2" tvg-name="Great Entertainment Television"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/GAMESHOWNETWORK.png" group-title="UNITED STATES",USA| GAME SHOW NETWORK HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73312&extension=ts&play_token=ko0N38TvCw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/GAME.png" group-title="UNITED STATES",USA| GAME TV HD
+#EXTINF:-1 tvg-id=""   tvg-logo="http://51.158.145.100/picons/logos/USANEW/GAME.png" group-title="UNITED STATES",USA| GAME TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73254&extension=ts&play_token=rEtjxO1dBE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HEROSICONS.png" group-title="UNITED STATES",USA| HEROS & ICONS HD
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/HEROSICONS.png" group-title="UNITED STATES",USA| HEROS & ICONS HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1461905&extension=ts&play_token=rKAzbfgXzS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HGTV.png" group-title="UNITED STATES",USA| HGTV HD
+#EXTINF:-1 tvg-id="HGTV.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/HGTV.png" group-title="UNITED STATES",USA| HGTV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73316&extension=ts&play_token=5xRLFJCB6d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HGTVWEST.png" group-title="UNITED STATES",USA| HGTV WEST HD
+#EXTINF:-1 tvg-id="HGTV.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/HGTVWEST.png" group-title="UNITED STATES",USA| HGTV WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105236&extension=ts&play_token=KJj391L4KG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HISTORY.png" group-title="UNITED STATES",USA| HISTORY HD
+#EXTINF:-1 tvg-id="History.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/HISTORY.png" group-title="UNITED STATES",USA| HISTORY HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73308&extension=ts&play_token=wW3lttVkYk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HISTORY2.png" group-title="UNITED STATES",USA| HISTORY 2 HD
+#EXTINF:-1 tvg-id="History.2.HD.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/HISTORY2.png" group-title="UNITED STATES",USA| HISTORY 2 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105237&extension=ts&play_token=O1b7TE1vJI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HISTORY2.png" group-title="UNITED STATES",USA| HISTORY 2 FHD
+#EXTINF:-1 tvg-id=History.2.HD.us2""   tvg-logo="http://51.158.145.100/picons/logos/USANEW/HISTORY2.png" group-title="UNITED STATES",USA| HISTORY 2 FHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105238&extension=ts&play_token=MQ58ha1lpi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/MILITARYHISTORY.png" group-title="UNITED STATES",USA| MILITARY HISTORY
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=76969&extension=ts&play_token=KctSGBxwMl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/IFC.png" group-title="UNITED STATES",USA| IFC HD
+#EXTINF:-1 tvg-id="Military.History.Channel.us2"   tvg-logo="http://51.158.145.100/picons/logos/USANEW/MILITARYHISTORY.png" group-title="UNITED STATES",USA| MILITARY HISTORY
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=76969&extension=ts&play_token=KctSGBxwMl#EXTINF:-1  tvg-id="IFC.HD.us2" tvg-name="IFC" tvg-logo="http://51.158.145.100/picons/logos/USANEW/IFC.png" group-title="UNITED STATES",USA| IFC HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73299&extension=ts&play_token=iusc1Z0pFh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/HLN.png" group-title="UNITED STATES",USA| HLN HD
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/HLN.png" group-title="UNITED STATES",USA| HLN HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105239&extension=ts&play_token=i1pdjT8iYh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/HOMESHOPPINGNETWORK.png" group-title="UNITED STATES",USA| HOME SHOPPING NETWORK
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-logo="http://51.158.145.100/picons/logos/USA/HOMESHOPPINGNETWORK.png" group-title="UNITED STATES",USA| HOME SHOPPING NETWORK
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=2041495&extension=ts&play_token=4jpnolt6GC
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/ION.png" group-title="UNITED STATES",USA| ION HD
+#EXTINF:-1  tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="http://51.158.145.100/picons/logos/USANEW/ION.png" group-title="UNITED STATES",USA| ION HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105240&extension=ts&play_token=5xoGHPNJQS
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/IONPLUS.png" group-title="UNITED STATES",USA| ION PLUS HD
+#EXTINF:-1 tvg-id="ION.Plus.Television.HD.us2" 1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/IONPLUS.png" group-title="UNITED STATES",USA| ION PLUS HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1461904&extension=ts&play_token=2j59njb0p5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/JUSTICECENTRAL.png" group-title="UNITED STATES",USA| JUSTICE CENTRAL HD
+#EXTINF:-1 tvg-id="Justice.Central.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/JUSTICECENTRAL.png" group-title="UNITED STATES",USA| JUSTICE CENTRAL HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105241&extension=ts&play_token=Rfde6Y99xc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/LAFF.png" group-title="UNITED STATES",USA| LAFF TV HD
+#EXTINF:-1 tvg-id="Laff.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/LAFF.png" group-title="UNITED STATES",USA| LAFF TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=230685&extension=ts&play_token=vk8flGi2TA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/LAWANDCRIME.png" group-title="UNITED STATES",USA| LAW AND CRIME HD
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/LAWANDCRIME.png" group-title="UNITED STATES",USA| LAW AND CRIME HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105243&extension=ts&play_token=7bPxxp4Isx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/LOCALNOW.png" group-title="UNITED STATES",USA| LOCAL NOW HD
+#EXTINF:-1 tvg-id="Local.Now.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/LOCALNOW.png" group-title="UNITED STATES",USA| LOCAL NOW HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105244&extension=ts&play_token=1DBEqgAGUJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/MAGNOLIANETWORK.png" group-title="UNITED STATES",USA| MAGNOLIA NETWORK
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/MAGNOLIANETWORK.png" group-title="UNITED STATES",USA| MAGNOLIA NETWORK
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=901804&extension=ts&play_token=goX8z9oT7v
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/MAGNOLIA.png" group-title="UNITED STATES",USA| MAGNOLIA UHD
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/MAGNOLIA.png" group-title="UNITED STATES",USA| MAGNOLIA UHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1878637&extension=ts&play_token=WEdKxD1T29
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/MAV.png" group-title="UNITED STATES",USA| MAV TV
+#EXTINF:-1 tvg-id="MAV.TV.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/MAV.png" group-title="UNITED STATES",USA| MAV TV
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=77028&extension=ts&play_token=BiV2RuXYRt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/MOTORTREND.png" group-title="UNITED STATES",USA| MOTOR TREND HD
+#EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/MOTORTREND.png" group-title="UNITED STATES",USA| MOTOR TREND HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105297&extension=ts&play_token=DKwJ51kPlx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOWEST.png" group-title="UNITED STATES",USA| NAT GEO HD
+#EXTINF:-1  tvg-id="National.Geographic.HD.us2" tvg-name="Nat Geo"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOWEST.png" group-title="UNITED STATES",USA| NAT GEO HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73285&extension=ts&play_token=ImAoMTUWM6
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOWEST.png" group-title="UNITED STATES",USA| NAT GEO WEST HD
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOWEST.png" group-title="UNITED STATES",USA| NAT GEO WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105298&extension=ts&play_token=rHqXqdOyJJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOWEST.png" group-title="UNITED STATES",USA| NAT GEO WILD HD
+#EXTINF:-1  tvg-id="National.Geographic.Wild.HD.us2" tvg-name="Nat Geo Wild"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOWEST.png" group-title="UNITED STATES",USA| NAT GEO WILD HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73284&extension=ts&play_token=oazM0FlAoP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOASIA.png" group-title="UNITED STATES",USA| NAT GEO ASIA HD
+#EXTINF:-1 tvg-id="National.Geographic.Asia.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/NATGEOASIA.png" group-title="UNITED STATES",USA| NAT GEO ASIA HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105599&extension=ts&play_token=OmOYGYG776
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/OUTSIDE.png" group-title="UNITED STATES",USA| OUTSIDE TV HD
+#EXTINF:-1 tvg-id="Outside.Television.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/OUTSIDE.png" group-title="UNITED STATES",USA| OUTSIDE TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105301&extension=ts&play_token=EsMPRwV2lr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/OWN.png" group-title="UNITED STATES",USA| OWN HD
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/OWN.png" group-title="UNITED STATES",USA| OWN HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73240&extension=ts&play_token=K3Ubhu7C7E
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/OXYGEN.png" group-title="UNITED STATES",USA| OXYGEN HD
+#EXTINF:-1  tvg-id="Oxygen.HD.us2" tvg-name="Oxygen" tvg-logo="http://51.158.145.100/picons/logos/USANEW/OXYGEN.png" group-title="UNITED STATES",USA| OXYGEN HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73303&extension=ts&play_token=frjBQHt2x5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/OXYGENWEST.png" group-title="UNITED STATES",USA| OXYGEN WEST HD
+#EXTINF:-1  tvg-id="Oxygen.(Pacific).HD.us2" tvg-name="Oxygen" tvg-logo="http://51.158.145.100/picons/logos/USANEW/OXYGENWEST.png" group-title="UNITED STATES",USA| OXYGEN WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105302&extension=ts&play_token=7y5OL8sL2U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/PARAMOUNT.png" group-title="UNITED STATES",USA| PARAMOUNT HD
+#EXTINF:-1  tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://51.158.145.100/picons/logos/USANEW/PARAMOUNT.png" group-title="UNITED STATES",USA| PARAMOUNT HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73248&extension=ts&play_token=tTfRh3mUoc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/PBS.png" group-title="UNITED STATES",USA| PBS HD
+#EXTINF:-1  tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids"tvg-logo="http://51.158.145.100/picons/logos/USANEW/PBS.png" group-title="UNITED STATES",USA| PBS HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73267&extension=ts&play_token=EJLt3aJ00o
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/PIXL.png" group-title="UNITED STATES",USA| PIXL HD
+#EXTINF:-1 tvg-id="Pixl.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/PIXL.png" group-title="UNITED STATES",USA| PIXL HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105304&extension=ts&play_token=7r7w8LXiNG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/PLANETEARTH.png" group-title="UNITED STATES",USA| PLANET EARTH HD
+#EXTINF:-1 tvg-id="Planet.Earth.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/PLANETEARTH.png" group-title="UNITED STATES",USA| PLANET EARTH HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105305&extension=ts&play_token=uipqPQnom4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/POP.png" group-title="UNITED STATES",USA| POP HD
+#EXTINF:-1 tvg-id="POP.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/POP.png" group-title="UNITED STATES",USA| POP HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73311&extension=ts&play_token=W6BCOl0L4T
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/PURSUITCHANNEL.png" group-title="UNITED STATES",USA| PURSUIT CHANNEL HD
+#EXTINF:-1 tvg-id="Pursuit.Channel.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/PURSUITCHANNEL.png" group-title="UNITED STATES",USA| PURSUIT CHANNEL HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105306&extension=ts&play_token=aOKbbaWmPZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/QVC.png" group-title="UNITED STATES",USA| QVC HD
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/QVC.png" group-title="UNITED STATES",USA| QVC HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=77030&extension=ts&play_token=0V7r8vP0WG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/QVC2.png" group-title="UNITED STATES",USA| QVC 2 HD
+#EXTINF:-1 tvg-id="QVC2.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/QVC2.png" group-title="UNITED STATES",USA| QVC 2 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105307&extension=ts&play_token=ziSySE5ZjL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/REELZ.png" group-title="UNITED STATES",USA| REELZ HD
+#EXTINF:-1 tvg-id="ReelzChannel.HD.us2"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/REELZ.png" group-title="UNITED STATES",USA| REELZ HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73219&extension=ts&play_token=XzCuHxTjiP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/RFDTV.png" group-title="UNITED STATES",USA| RFD TV HD
+#EXTINF:-1 tvg-id="RFD.TV.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/RFDTV.png" group-title="UNITED STATES",USA| RFD TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105308&extension=ts&play_token=Og8NTsINhx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/SMITHSONIAN.png" group-title="UNITED STATES",USA| SMITHSONIAN HD
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2"  tvg-logo="http://51.158.145.100/picons/logos/USANEW/SMITHSONIAN.png" group-title="UNITED STATES",USA| SMITHSONIAN HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105310&extension=ts&play_token=yaU5PR8ADq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/SMITHSONIANWEST.png" group-title="UNITED STATES",USA| SMITHSONIAN WEST HD
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/SMITHSONIANWEST.png" group-title="UNITED STATES",USA| SMITHSONIAN WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=141776&extension=ts&play_token=NrA9Agclq0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/USANETWORK.png" group-title="UNITED STATES",USA| USA NETWORK HD
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/USANETWORK.png" group-title="UNITED STATES",USA| USA NETWORK HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105312&extension=ts&play_token=RJ1s6RoTVu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/START.png" group-title="UNITED STATES",USA| START TV
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/START.png" group-title="UNITED STATES",USA| START TV
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105313&extension=ts&play_token=rApA0Hnrbt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/SYFY.png" group-title="UNITED STATES",USA| SYFY HD
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/SYFY.png" group-title="UNITED STATES",USA| SYFY HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73306&extension=ts&play_token=3WMuGGBH5d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/SYFYWEST.png" group-title="UNITED STATES",USA| SYFY WEST HD
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/SYFYWEST.png" group-title="UNITED STATES",USA| SYFY WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105314&extension=ts&play_token=kMU8UaMZhp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TASTEMADE.png" group-title="UNITED STATES",USA| TASTEMADE HD
+#EXTINF:-1 tvg-id="Tastemade.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TASTEMADE.png" group-title="UNITED STATES",USA| TASTEMADE HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1461896&extension=ts&play_token=VGMWkHNijG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TBS.png" group-title="UNITED STATES",USA| TBS HD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TBS.png" group-title="UNITED STATES",USA| TBS HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73292&extension=ts&play_token=uy8uWmse0j
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TBSEAST.png" group-title="UNITED STATES",USA| TBS EAST HD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TBSEAST.png" group-title="UNITED STATES",USA| TBS EAST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1180223&extension=ts&play_token=fWgTDbU7aL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TBSEAST.png" group-title="UNITED STATES",USA| TBS WEST HD
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TBSEAST.png" group-title="UNITED STATES",USA| TBS WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=141777&extension=ts&play_token=WYEieM1ZB7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TLC.png" group-title="UNITED STATES",USA| TLC HD
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TLC.png" group-title="UNITED STATES",USA| TLC HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73289&extension=ts&play_token=B85ZfEPbEI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TLCWEST.png" group-title="UNITED STATES",USA| TLC WEST
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TLCWEST.png" group-title="UNITED STATES",USA| TLC WEST
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105317&extension=ts&play_token=RNe1832baB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRAVELCHANNELWEST.png" group-title="UNITED STATES",USA| TRAVEL CHANNEL HD
+#EXTINF:-1 tvg-id="Travel.Channel.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRAVELCHANNELWEST.png" group-title="UNITED STATES",USA| TRAVEL CHANNEL HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73277&extension=ts&play_token=iZQXOhgU7p
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRAVELCHANNELWEST.png" group-title="UNITED STATES",USA| TRAVEL CHANNEL WEST HD
+#EXTINF:-1 tvg-id="Travel.Channel.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRAVELCHANNELWEST.png" group-title="UNITED STATES",USA| TRAVEL CHANNEL WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105319&extension=ts&play_token=D0DjgeVA8h
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRAVELXP.png" group-title="UNITED STATES",USA| TRAVEL XP HD
+#EXTINF:-1 tvg-id="Travel.XP.Channel.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRAVELXP.png" group-title="UNITED STATES",USA| TRAVEL XP HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1023133&extension=ts&play_token=zAs7qREyrP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRUTV.png" group-title="UNITED STATES",USA| TRUTV HD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRUTV.png" group-title="UNITED STATES",USA| TRUTV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73247&extension=ts&play_token=oXfe7c5Hq2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRUTVWEST.png" group-title="UNITED STATES",USA| TRUTV WEST HD
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TRUTVWEST.png" group-title="UNITED STATES",USA| TRUTV WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105321&extension=ts&play_token=RrSqIVakJ8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/TVONE.png" group-title="UNITED STATES",USA| TV ONE
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/TVONE.png" group-title="UNITED STATES",USA| TV ONE
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=76956&extension=ts&play_token=it75s2Oead
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/UPTV.png" group-title="UNITED STATES",USA| UP TV HD
+#EXTINF:-1 tvg-id="UPtv.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/UPTV.png" group-title="UNITED STATES",USA| UP TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105343&extension=ts&play_token=pMhkImzVK8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/USANETWORK.png" group-title="UNITED STATES",USA| USA NETWORK HD
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/USANETWORK.png" group-title="UNITED STATES",USA| USA NETWORK HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73323&extension=ts&play_token=qtqWjDUYff
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/USANETWORKWEST.png" group-title="UNITED STATES",USA| USA NETWORK WEST HD
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/USANETWORKWEST.png" group-title="UNITED STATES",USA| USA NETWORK WEST HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105322&extension=ts&play_token=nsT8Woqego
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/VH1.png" group-title="UNITED STATES",USA| VH1 HD
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/VH1.png" group-title="UNITED STATES",USA| VH1 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73249&extension=ts&play_token=9QhVtspCjR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/VICELAND.png" group-title="UNITED STATES",USA| VICELAND HD
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/VICELAND.png" group-title="UNITED STATES",USA| VICELAND HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=73307&extension=ts&play_token=nG3fdchzSh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/VICELAND.png" group-title="UNITED STATES",USA| VICELAND HD (UK)
+#EXTINF:-1 tvg-id="Vice.UK.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/VICELAND.png" group-title="UNITED STATES",USA| VICELAND HD (UK)
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=141795&extension=ts&play_token=3bW8OpIGbw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USANEW/WETV.png" group-title="UNITED STATES",USA| WE TV HD
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-logo="http://51.158.145.100/picons/logos/USANEW/WETV.png" group-title="UNITED STATES",USA| WE TV HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=105323&extension=ts&play_token=BzjTFx1a1A
 
 
