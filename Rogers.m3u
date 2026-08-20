@@ -1414,6 +1414,8 @@ https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-63894c1965b8
 #EXTINF:-1 tvg-id="" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1967-LG-Logo-PNG-100x100_v6.png" group-title="ENTERTAINMENT",A%E Storage Wars
 https://aenetworks.global.transmit.live/hls/68b7222512538ddf40f751ca/v1/ae_networks_storagewarsbyae_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1967&wurl_name=StorageWars&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE
 
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-67a37720786c8a28ae4965bb" tvg-id="6a1610bebdf296985fd95603-67a37720786c8a28ae4965bb" tvg-chno="" tvg-name="Storage Wars by A&E" tvg-logo="https://provider-static.plex.tv/c/epg/channels/logos/gracenote/ccc7e00184dfa20eca22c08fa48e10a8.png" group-title="ENTERTAINMENT",Storage Wars by A&E
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67a37720786c8a28ae4965bb/?X-Plex-Token=xhuk4gtbFpXrpAs3EsVB
 
 ##########################################################################################
 ########################  ENTERTAINMENT   #################################################
@@ -4900,6 +4902,9 @@ https://i.mjh.nz/.r/cas39-fast.m3u8
 #EXTINF:-1 channel-id="845b77875b6056d192401e10949948d2" tvg-id="845b77875b6056d192401e10949948d2" tvg-chno="518" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/845b77875b6056d192401e10949948d2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png" group-title="CRIME/MEDICAL", DR G MEDICAL EXAMINER
 https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
 
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5807" tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5807" tvg-chno="" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6af3c623-6bc7-4062-8c5a-c278bc81ba96/FilmRise_DRGMedicalExaminer_Logo_Color.png" group-title="CRIME/MEDICAL",Dr. G: Medical Examiner
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5807/?X-Plex-Token=xhuk4gtbFpXrpAs3EsVB
+
 
 #EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="CRIME/MEDICAL", BONDI RESCUE
 https://i.mjh.nz/.r/cas41-fast.m3u8
@@ -5100,6 +5105,9 @@ https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1931034.png" group-title="COOKING", JAMIE OLIVER 3
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1931034&extension=ts&play_token=4pxraCw7N4
+
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-64b7170c4612b1f48e9ad31e" tvg-id="6a1610bebdf296985fd95603-64b7170c4612b1f48e9ad31e" tvg-chno="" tvg-name="The Jamie Oliver Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5dccd34e-4587-4168-999c-eda400c74715/PLEX_JO_WHT_LOGO_1500X1000_-_Elaine_De_Santiago.png" group-title="United States",The Jamie Oliver 4
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64b7170c4612b1f48e9ad31e/?X-Plex-Token=xhuk4gtbFpXrpAs3EsVB
 
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/1920419.png" group-title="COOKING", BIZARRE FOODS WITH ANDREW ZIMMERN 1
