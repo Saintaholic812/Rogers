@@ -29,12 +29,12 @@
 #############################
 
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="BRISBANE" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="BRISBANE" ,NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
 
-#EXTINF:-1 #EXTINF:-1 channel-id="News24Weather.au" tvg-id="News24Weather.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="BRISBANE",AU|  NEWS24 WEATHER
+#EXTINF:-1 #EXTINF:-1 channel-id="News24Weather.au;News24 Weather.au" tvg-id="News24Weather.au;News24 Weather.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/SMKghgAGIl0itU491o1Y9Z_zGxgHc3Mh3g7jkm_YxpIpxhBfpiPavk5drW2zXY15iDrAoExFNp4uQkjzD7BhRTLBQvYw6Wd67EdRvyizw1Z8_C0zSTiQvsU" group-title="BRISBANE",AU| NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="BRISBANE", ABC NEWS
@@ -42,7 +42,6 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-SkyNewsWeatherChannel.au
 
 #EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" tvg-chno="71" group-title="BRISBANE",7 BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -54,7 +53,7 @@ https://i.mjh.nz/.r/seven-bri.m3u8
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-01c12921115b661eb.bln1.yospace.com/csm/extlive/sevenprd01,SSC1/index.m3u8?
 
-#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE",Seven Sunshine Coast
+#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE",7 SUNSHINE COAST
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seven-ssc.m3u8
@@ -258,7 +257,7 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="MELBOURNE" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="MELBOURNE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -420,7 +419,7 @@ https://i.mjh.nz/.r/c31.m3u8
 #############################
 #############################
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="SYDNEY" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="SYDNEY" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -595,7 +594,7 @@ https://i.mjh.nz/.r/snowy-mountains.m3u8
 ###################################
 ###################################
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="ADELAIDE" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au"  tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="ADELAIDE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -756,7 +755,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ################################################################################################
 
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="PERTH" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="PERTH" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
@@ -901,7 +900,7 @@ https://i.mjh.nz/.r/sbs-5nsw.m3u8
 ###################   HOBART/DARWIN/CANBERRA    ##################################################################
 ###################################################################################################################
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/jcOsI4tY6D7k5-1keQ5Q5O6nawbYhA8xuj4DMU83W8cJQ7U8sp6P3u22qcukTe2CGnybjTdDlWho8K6ahtxwU1GcBuvz2Npr8wHJ78qysnxukO_s"  group-title="HOBART/DARWIN/CANBERRA" , NEWS24
+#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="HOBART/DARWIN/CANBERRA" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
