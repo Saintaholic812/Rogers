@@ -12548,7 +12548,21 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646966&
 #EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646965&extension=ts&play_token=zOzKZUfhjl
 
-
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441368&extension=ts&play_token=048qZGlGTP
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441307&extension=ts&play_token=2SgKN9KWcB
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 NRL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441306&extension=ts&play_token=eqDk558A2P
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 503 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441305&extension=ts&play_token=K0tCKdbwdA
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",FOX SPORTS 504 AFL
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441304&extension=ts&play_token=SoWp3nNvTf
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 505 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441360&extension=ts&play_token=bFZIBBtAY5
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",FOX SPORTS 506 HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441302&extension=ts&play_token=qH7PYy4NUb
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441301&extension=ts&play_token=LqFQXtvBnC
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="SPORT/AUST & NZ",FOX SPORTS NEWS
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441308&extension=ts&play_token=45b02vZmY9
 
 #EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 501
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
