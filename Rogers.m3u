@@ -12519,10 +12519,11 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520167
 ############    FOX SPORTS AUSTRALIA      #########    
 ###################################################
 ###################################################
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 HD
 
+
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX Cricket
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141764
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX 
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX 501
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061804
 #EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141763
