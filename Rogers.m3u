@@ -20,6 +20,10 @@
 #EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/optussport.com.au.channels.xml.gz"
 #EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/foxsports.com.au.channels.xml.gz"
 #EXTM3U X-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/Kayo/epg.xml.gz"
+#EXTM3U X-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml.gz"
+
+
+
 
 
 ##############################
@@ -995,54 +999,6 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-
-########################################################################################################################################################################################################################
-#########################################################   RELAX    ###############################################################################################################################################
-######################################################################################################################################################################################################################
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX AUSTRALIA 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505560&extension=ts&play_token=bB9db4XwSR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX TROPICAL BEACH 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505576&extension=ts&play_token=FRL0bkXvSD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX THE OCEAN 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505575&extension=ts&play_token=WrMfAoqYnR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX SNOW WINTER 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505573&extension=ts&play_token=TOXV9zqING
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX FOREST 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505572&extension=ts&play_token=2GngDinMf3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX FLOWER 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505571&extension=ts&play_token=tOCe362fQ5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX EARTH NATURE 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505570&extension=ts&play_token=ubuEuWYrfr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX NATURE RELAXATION 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505569&extension=ts&play_token=T0yEJszSrk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX MORNING RELAXING 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505568&extension=ts&play_token=cHtVTrUg0C
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX INSPIRATIONAL MOTIVATIONAL 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505567&extension=ts&play_token=CH5yR62226
-
-
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX TURKEY 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505563&extension=ts&play_token=VKCTTS8nhg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX ICELAND 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505558&extension=ts&play_token=qyzrcCeFt8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX MOROCCO 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505557&extension=ts&play_token=48uHsDFVj1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX STARDUST 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505574&extension=ts&play_token=LHPWTfokb3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX EUROPE TOWNS 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505566&extension=ts&play_token=5spkn1OANa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX FOREST AMERICAN 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505565&extension=ts&play_token=94KObDE0f9
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX VIETNAM 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505564&extension=ts&play_token=O1FMjU2PVi
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX SWITZERLAND 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505562&extension=ts&play_token=ccUvAupoHp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX ITALY 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505561&extension=ts&play_token=0NOPf1SKFu
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/LOGOSNEW/4K-RELAX.png" group-title="4K RELAX 1920P",4K| RELAX NORWAY 4K
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1505559&extension=ts&play_token=72HCk7e1aq
 
 #######################################
 #######################################
@@ -3932,62 +3888,6 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 ###########################################################    MUSIC     ################################################################################################################################################
 ##########################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",BARBRA STREISAND
-https://restream-live.realiptv.to:443/09145054/65339468/552843
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Billy Joel
-https://restream-live.realiptv.to:443/09145054/65339468/552844
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Bruce Springsteen
-https://restream-live.realiptv.to:443/09145054/65339468/552845
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Chicago Band
-https://restream-live.realiptv.to:443/09145054/65339468/552846
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Drake
-https://restream-live.realiptv.to:443/09145054/65339468/552847
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Elton John
-https://restream-live.realiptv.to:443/09145054/65339468/551493
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Elvis Presley
-https://restream-live.realiptv.to:443/09145054/65339468/552848
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Eminem
-https://restream-live.realiptv.to:443/09145054/65339468/552849
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Garth Brooks Red Strokes
-https://restream-live.realiptv.to:443/09145054/65339468/552850
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Herb Alpert
-https://restream-live.realiptv.to:443/09145054/65339468/552851
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",JANET JACKSON
-https://restream-live.realiptv.to:443/09145054/65339468/552852
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Madonna
-https://restream-live.realiptv.to:443/09145054/65339468/552853
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Mariah Carey
-https://restream-live.realiptv.to:443/09145054/65339468/552854
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Michael Jackson
-https://restream-live.realiptv.to:443/09145054/65339468/552855
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Music 2024
-https://restream-live.realiptv.to:443/09145054/65339468/708877
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Neil Diamond
-https://restream-live.realiptv.to:443/09145054/65339468/552856
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Paul McCartney
-https://restream-live.realiptv.to:443/09145054/65339468/552857
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Prince
-https://restream-live.realiptv.to:443/09145054/65339468/552858
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Rihanna
-https://restream-live.realiptv.to:443/09145054/65339468/552859
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Rod Stewart
-https://restream-live.realiptv.to:443/09145054/65339468/552860
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",ROLLING STONES
-https://restream-live.realiptv.to:443/09145054/65339468/552861
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",ROLLING STONES
-https://restream-live.realiptv.to:443/09145054/65339468/551494
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Stevie Wonder
-https://restream-live.realiptv.to:443/09145054/65339468/552862
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Taylor Swift
-https://restream-live.realiptv.to:443/09145054/65339468/552863
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",The Beatles
-https://restream-live.realiptv.to:443/09145054/65339468/551495
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",The Supremes
-https://restream-live.realiptv.to:443/09145054/65339468/552864
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Usher
-https://restream-live.realiptv.to:443/09145054/65339468/552865
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/656.png?11783"group-title="MUSIC",Whitney Houston
-https://restream-live.realiptv.to:443/09145054/65339468/552866
 
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVXMAS.png" group-title="MUSIC",UK| MTV XMAS
@@ -6195,90 +6095,6 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZl
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ0NS50cw==
 
 #############################################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
-http://tvmate.icu:8080/live/VM121628/56784321/35254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
-http://tvmate.icu:8080/live/VM121628/56784321/35251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD
-http://tvmate.icu:8080/live/VM121628/56784321/35248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
-http://tvmate.icu:8080/live/VM121628/56784321/35253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
-http://tvmate.icu:8080/live/VM121628/56784321/35252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
-http://tvmate.icu:8080/live/VM121628/56784321/35249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
-http://tvmate.icu:8080/live/VM121628/56784321/35256.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIE NETWORKS",US SONY Movies FHD
-http://tvmate.icu:8080/live/VM121628/56784321/2214.m3u8
-#EXTINF:-1 tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies
-http://tvmate.icu:8080/live/VM121628/56784321/20863.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US STARZ ENCORE Black
-http://tvmate.icu:8080/live/VM121628/56784321/16141.m3u8
-#EXTINF:-1 tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",USA:  Showtime NEXT
-http://tvmate.icu:8080/live/VM121628/56784321/9316.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",USA:  STARZ EDGE
-http://tvmate.icu:8080/live/VM121628/56784321/16143.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="MOVIE NETWORKS",US 5 StarMax
-http://tvmate.icu:8080/live/VM121628/56784321/13381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",US ActionMAX (East)
-http://tvmate.icu:8080/live/VM121628/56784321/21013.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East)
-http://tvmate.icu:8080/live/VM121628/56784321/13380.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East)
-http://tvmate.icu:8080/live/VM121628/56784321/13214.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
-http://tvmate.icu:8080/live/VM121628/56784321/14193.m3u8
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
-http://tvmate.icu:8080/live/VM121628/56784321/12744.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
-http://tvmate.icu:8080/live/VM121628/56784321/12730.m3u8
-#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO
-http://tvmate.icu:8080/live/VM121628/56784321/9264.m3u8
-#EXTINF:-1 tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
-http://tvmate.icu:8080/live/VM121628/56784321/9816.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIE NETWORKS",US HBO Comedy (East)
-http://tvmate.icu:8080/live/VM121628/56784321/17773.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East)
-http://tvmate.icu:8080/live/VM121628/56784321/17772.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East)
-http://tvmate.icu:8080/live/VM121628/56784321/9266.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East)
-http://tvmate.icu:8080/live/VM121628/56784321/9265.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIE NETWORKS",US HDNET MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/16265.m3u8
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max
-http://tvmate.icu:8080/live/VM121628/56784321/17776.m3u8
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US MoviePlex (East)
-http://tvmate.icu:8080/live/VM121628/56784321/1829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
-http://tvmate.icu:8080/live/VM121628/56784321/21012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",US RetroPlex (East)
-http://tvmate.icu:8080/live/VM121628/56784321/66379.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East
-http://tvmate.icu:8080/live/VM121628/56784321/46214.m3u8
-#EXTINF:-1 tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
-http://tvmate.icu:8080/live/VM121628/56784321/13219.m3u8
-#EXTINF:-1 tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
-http://tvmate.icu:8080/live/VM121628/56784321/13220.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East)
-http://tvmate.icu:8080/live/VM121628/56784321/13481.m3u8
-#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East)
-http://tvmate.icu:8080/live/VM121628/56784321/17778.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East)
-http://tvmate.icu:8080/live/VM121628/56784321/17775.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East)
-http://tvmate.icu:8080/live/VM121628/56784321/9301.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz East (S)
-http://tvmate.icu:8080/live/VM121628/56784321/9299.m3u8
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East)
-http://tvmate.icu:8080/live/VM121628/56784321/16263.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz in Black (East)
-http://tvmate.icu:8080/live/VM121628/56784321/17779.m3u8
-#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
-http://tvmate.icu:8080/live/VM121628/56784321/21091.m3u8
-
 
 ###############################################################################################################################################################################################################################
 
@@ -9364,46 +9180,6 @@ http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646970&extens
 #EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9RS3lPJXYd8lyn0AQON0_QJaHZ1SUUNMeUWv-YJFuQ&s" group-title="NRL", FOX SPORTS 502
 http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520171&extension=ts&play_token=dTf3QIYL9O
 
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgB8ZObBf5d7SvcYddvMMgfpss7JXpkFsky_zLOIkK&s=10" group-title="NRL",NZ: SKY SPORT 1
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzUyLnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-YaeCIfdWh8kTKZ71WgDyec7Slt44qLwphEn4ifu&s=10" group-title="NRL",NZ: SKY SPORT 2
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ2LnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75NU-AZqPzKkKHS8TEP7wWFlsAA0n_6tlss_ub0pP&s=10" group-title="NRL",NZ: SKY SPORT 3
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ3LnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7ho752gFPdOPsrxOf8GhYqZ1JqxTLpY-soP7gZAQ&s=10" group-title="NRL",NZ: SKY SPORT 4
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ4LnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ATzqonnVO0sPXr3VFBgNhqssLoGnSZdPlos-jpEk&s=10" group-title="NRL",NZ: SKY SPORT 5
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzI2LnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6EOoekk121TaWNizeuqtnlKpgj8TkiQUfpAavUnazw&s=10" group-title="NRL",NZ: SKY SPORT 6
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzM3LnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQON-5AvpGF5sYJ-pFtGQjHasOWk57JUeRJLwZxYSWSpw&s=10" group-title="NRL",NZ: SKY SPORT 7
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzUwLnRz
-
-#EXTINF:-1 tvg-id="Sky.Sport.8.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIigyGxmSxelR0jZU8mwSAOV3rhJfxh4VFLOl98FVHw&s=10" group-title="NRL",NZ: SKY SPORT 8
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzUxLnRz
-
-
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvLG2v3wejGJP4wKFOhDQ6DwghB1cnaREwQ-qD17f8Q&s=10" group-title="NRL",NZ: SKY SPORT 9
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzQwLnRz
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus Event 1
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455581&extension=ts&play_token=RNExHb8RXS
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 2
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455580&extension=ts&play_token=64nkzuVvvJ
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 3
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455579&extension=ts&play_token=hoqsDdMDP1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 4
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455578&extension=ts&play_token=DI7HtPg0HM
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 5
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455577&extension=ts&play_token=dI489PCZkW
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 6
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455576&extension=ts&play_token=GOcbUVzzdf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",NRL Rugby 1: 
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431825&extension=ts&play_token=qB8wz15Uxt
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",NRL Rugby 2 :
@@ -9436,6 +9212,20 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431820
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431821&extension=ts&play_token=pPLVeQaMIS
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",NRL Rugby 16:
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431834&extension=ts&play_token=0sOFKzgzsZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus Event 1
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455581&extension=ts&play_token=RNExHb8RXS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 2
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455580&extension=ts&play_token=64nkzuVvvJ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 3
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455579&extension=ts&play_token=hoqsDdMDP1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 4
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455578&extension=ts&play_token=DI7HtPg0HM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 5
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455577&extension=ts&play_token=dI489PCZkW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 6
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455576&extension=ts&play_token=GOcbUVzzdf
+
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RUGBY.png" group-title="NRL",Florugby 00
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431818&extension=ts&play_token=UCtdeXXByX
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RUGBY.png" group-title="NRL",Florugby 01
@@ -9511,262 +9301,226 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520167
 ###################################################
 
 
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="SPORT/AUST & NZ",FOX SPORTS NEWS
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="FOX SPORT AUSTRALIA",FOX SPORTS NEWS
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646972&extension=ts&play_token=SeVjVlkIej
 
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 501 HD
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 501
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646971&extension=ts&play_token=94zLwOoFiD
 
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 HD
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 502
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646970&extension=ts&play_token=y5RUrdf5Fb
 
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 503
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646969&extension=ts&play_token=dGM2ycG0VK
 
-#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",FOX SPORTS 504 HD
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 504
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646968&extension=ts&play_token=YiefDsnaFK
 
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 505 HD
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 505
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646967&extension=ts&play_token=9Linp7QWmU
 
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",FOX SPORTS 506 HD
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 506
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646966&extension=ts&play_token=tJL3jJA6bQ
 
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507 HD
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 507
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=646965&extension=ts&play_token=zOzKZUfhjl
 
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441368&extension=ts&play_token=048qZGlGTP
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441307&extension=ts&play_token=2SgKN9KWcB
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 NRL
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX CRICKET 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441368&extension=ts&play_token=048qZGlGTP
+
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX CRICKET
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441307&extension=ts&play_token=2SgKN9KWcB
+
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 502 NRL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441306&extension=ts&play_token=eqDk558A2P
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 503 HD
+
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 503 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441305&extension=ts&play_token=K0tCKdbwdA
-#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",FOX SPORTS 504 AFL
+
+#EXTINF:-1  channel-id="447019"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 504 AFL
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441304&extension=ts&play_token=SoWp3nNvTf
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 505 HD
+
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 505 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441360&extension=ts&play_token=bFZIBBtAY5
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",FOX SPORTS 506 HD
+
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 506 HD
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441302&extension=ts&play_token=qH7PYy4NUb
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441301&extension=ts&play_token=LqFQXtvBnC
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="SPORT/AUST & NZ",FOX SPORTS NEWS
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 507 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441301&extension=ts&play_token=LqFQXtvBnC
+
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="FOX SPORT AUSTRALIA",FOX SPORTS NEWS
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:6F:01:4B&stream=441308&extension=ts&play_token=45b02vZmY9
 
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 501
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 501
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 NRL
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 502 NRL
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0MyZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 503
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 503
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0NCZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",FOX SPORTS 504
+#EXTINF:-1  channel-id="Fox Footy.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 504
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0NSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 505
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 505
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTYxNzE5MSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",FOX SPORTS 506
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 506
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTYxNzE5MiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 507
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0NiZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="SPORT/AUST & NZ", FOX SPORTS NEWS
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="FOX SPORT AUSTRALIA",FOX SPORTS NEWS
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTI1OTg0NyZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX CRICKET HD
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX CRICKET HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3NrdW5reXR2LmxpdmUvcGxheS9saXZlLnBocD9tYWM9MDA6MUE6Nzk6NDE6MUI6MEYmc3RyZWFtPTgzNTgxOSZleHRlbnNpb249dHMmcGxheV90b2tlbj1wWVF4RHJmMk9o
 
 
-#EXTINF:-1  tvg-id="FoxSportsNews.au" tvg-logo="http://photo-tmdb.com/stalker_portal/logos/aus.foxsportsnews.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS NEWS
+#EXTINF:-1  tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="FOX SPORT AUSTRALIA", FOX SPORTS NEWS
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441308&extension=ts&play_token=1JwNdXvLQg
 
 
-#EXTINF:-1  tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?42580" group-title="SPORT/AUST & NZ",AU:WILLOW CRICKET
+#EXTINF:-1  tvg-id="Willow.Cricket.HD.us2" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12260.jpg?42580" group-title="FOX SPORT AUSTRALIA",WILLOW CRICKET
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441368&extension=ts&play_token=GVPPeIsBWe
 play_token=OjkyWu0285
 
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",AU: FOX CRICKET 501
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA", FOX CRICKET 501
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441307&extension=ts&play_token=yis3MEY4an
 
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 502 NRL
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="FOX SPORT AUSTRALIA", FOX SPORTS 502 NRL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441306&extension=ts&play_token=MgZK07I9Gi
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 503
+
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="FOX SPORT AUSTRALIA", FOX SPORTS 503
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441305&extension=ts&play_token=esjL1NFdf7
-#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 504 AFL
+
+#EXTINF:-1  channel-id="FoxFooty.au;Fox Footy.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="FOX SPORT AUSTRALIA", FOX SPORTS 504 AFL
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441304&extension=ts&play_token=jO8pjMrmX0
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 505
+
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="FOX SPORT AUSTRALIA", FOX SPORTS 505
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441360&extension=ts&play_token=jsgf3aXkjI
 
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 506
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="FOX SPORT AUSTRALIA", FOX SPORTS 506
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441302&extension=ts&play_token=ssxMpVgKhB
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",AU: FOX SPORTS 507
+
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="FOX SPORT AUSTRALIA", FOX SPORTS 507
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441301&extension=ts&play_token=xbIRkIX7cR
 
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX Cricket
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX Cricket
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141764
-#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORT/AUST & NZ",FOX 501
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="FOX SPORT AUSTRALIA",FOX 501
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061804
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 HD
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 502 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141763
-#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="SPORT/AUST & NZ",FOX SPORTS 502 HD
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 502 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061805
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 503 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141762
-#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 503 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061806
-#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",FOX SPORTS 504 HD
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 504 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141761
-#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="SPORT/AUST & NZ",FOX SPORTS 504 HD
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 504 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061807
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 505 HD
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 505 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141760
-#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORT/AUST & NZ",FOX SPORTS 505 HD
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 505 HD
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061808
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",FOX SPORTS 506
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 506
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141759
-#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORT/AUST & NZ",FOX SPORTS 506
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 506
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061809
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 507
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141758
-#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORT/AUST & NZ",FOX SPORTS 507
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="FOX SPORT AUSTRALIA",FOX SPORTS 507
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061810
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="SPORT/AUST & NZ",FOX SPORTS NEWS
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="FOX SPORT AUSTRALIA",FOX SPORTS NEWS
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141765
-#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="SPORT/AUST & NZ",FOX SPORTS NEWS
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://iptv-epg.org/images/M1i3ciSKmGKpTqxnXdRWnBjzYs-zwKcozuQqqJyGF3OFJPFk_Vn-6L__Nkqk-OtKr9VteJb3pF_rLJSLS8xaLRD9uGxvIrYKxPGiUu3y16143UWw49H6A9Cafk15Kmdakjmr" group-title="FOX SPORT AUSTRALIA",FOX SPORTS NEWS
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061811
 
-#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="SKYSPORTS NZ", SkySports PL NZ
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sky_Sport_1_4K_UHD.svg/revision/latest/scale-to-width-down/250?cb=20260705180342" group-title="SKYSPORTS NZ", SkySports 1 NZ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809392.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144002" group-title="SKYSPORTS NZ", SkySports 2 NZ
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809393.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143951" group-title="SKYSPORTS NZ", SkySports 3 NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143941" group-title="SKYSPORTS NZ", SkySports 4 NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143710" group-title="SKYSPORTS NZ", SkySports 5 NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest?cb=20230830143701" group-title="SKYSPORTS NZ", SkySports 6 NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest?cb=20230830143651" group-title="SKYSPORTS NZ", SkySports 7 NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144108" group-title="SKYSPORTS NZ", SkySports Selet NZ
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
-
-
 #############     STAN    ############################
-AU - STAN EVENT 01 : ATP 1000 MIAMI – STADIUM – QUARTER-FINAL 1 – MAR 25 – 06:55 PM ET / 10:55 PM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODcyLnRz
-AU - STAN EVENT 02 : TORONTO MAPLE LEAFS @ NEW YORK RANGERS – MAR 25 – 11:25 PM ET / 03:25 AM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODczLnRz
-AU - STAN EVENT 03 : ATP 1000 MIAMI – STADIUM – QUARTER-FINAL 3 – MAR 26 – 04:55 PM ET / 08:55 PM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODc0LnRz
-AU - STAN EVENT 04 : REAL MADRID @ ANADOLU EFES – MAR 26 – 07:40 PM ET / 11:40 PM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODc1LnRz
-AU - STAN EVENT 05 : ATP 1000 MIAMI – STADIUM – QUARTER-FINAL 4 – MAR 26 – 10:55 PM ET / 02:55 AM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODc2LnRz
-AU - STAN EVENT 06 : ATP 1000 MIAMI – STADIUM – QUARTER-FINAL 2 – MAR 26 – 12:25 AM ET / 04:25 AM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODc3LnRz
-AU - STAN EVENT 07 : MINNESOTA TIMBERWOLVES @ HOUSTON ROCKETS – MAR 26 – 01:25 AM ET / 05:25 AM UK,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODc4LnRz
-AU - STAN EVENT 08 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODc5LnRz
 
-
-AU - STAN EVENT 09 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
-AU - STAN EVENT 10 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgxLnRz
-AU - STAN EVENT 11 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgyLnRz
-AU - STAN EVENT 12 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgzLnRz
-AU - STAN EVENT 13 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg0LnRz
-AU - STAN EVENT 14 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg1LnRz
-AU - STAN EVENT 15 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg2LnRz
-AU - STAN EVENT 16 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg3LnRz
-AU - STAN EVENT 17 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg4LnRz
-AU - STAN EVENT 18 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg5LnRz
-AU - STAN EVENT 19 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODkwLnRz
-AU - STAN EVENT 20 :,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODkxLnRz
-
-#EXTINF:-1 channel_id="StanSport1.au;Stan Sport 9.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/pYWN_W_0wKUUAw8cRu5n1CC-yt79gL7nm7-AWvpanvFFUvx7IMqcyA7uI9wfCjuOmonbDovXykuvIpn72yz4tILxsY2f4olUC3J8xC9HMKie" group-title="SPORT/AUST & NZ", AU Northland v Taranaki  NPC Round 3 2026 (2026-08-14 17:00:13)
+#EXTINF:-1 channel_id="StanSport1.au;Stan Sport 1.au" tvg-logo="https://iptv-epg.org/images/pYWN_W_0wKUUAw8cRu5n1CC-yt79gL7nm7-AWvpanvFFUvx7IMqcyA7uI9wfCjuOmonbDovXykuvIpn72yz4tILxsY2f4olUC3J8xC9HMKie" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
 
-#EXTINF:-1 channel_id="StanSport2.au;Stan Sport 1.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Vgt9Oa0i_WUBC5q9lQteHHPmJAu1WlU9mSIa02mV1dreJOceWpj97Hk2cOEEuWp_Ef04DejA6F7DSFrwPvX0VN_rJIpbyCVT9PEt1xG9XOl1" group-title="SPORT/AUST & NZ", AU Tokyo Verdy v Kashiwa Reysol  J.League 2026 (2026-08-14 19:55:29)
+#EXTINF:-1 channel_id="StanSport2.au;Stan Sport 2.au" tvg-logo="https://iptv-epg.org/images/Vgt9Oa0i_WUBC5q9lQteHHPmJAu1WlU9mSIa02mV1dreJOceWpj97Hk2cOEEuWp_Ef04DejA6F7DSFrwPvX0VN_rJIpbyCVT9PEt1xG9XOl1" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
 
-#EXTINF:-1 channel_id="StanSport3.au;Stan Sport 3.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/uDDYpTMYpnG3NgYpJDNcxsyBFZjE9O-f59YG7B986nIXSrha-fyxEfxhXPVjbcuGin_W4cUvfo0hISmjTRhyAK5_XCelXmCrZXttN8arBFoZ" group-title="SPORT/AUST & NZ", AU Lions v Boland Kavaliers  Currie Cup Round 5 2026 (2026-08-14 22:55:29)
+#EXTINF:-1 channel_id="StanSport3.au;Stan Sport 3.au" tvg-logo="https://iptv-epg.org/images/uDDYpTMYpnG3NgYpJDNcxsyBFZjE9O-f59YG7B986nIXSrha-fyxEfxhXPVjbcuGin_W4cUvfo0hISmjTRhyAK5_XCelXmCrZXttN8arBFoZ" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
 
 
-#EXTINF:-1 channel_id="StanSport4.au;Stan Sport 4.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/S18O5Tc0exNj8r_EoJX9bLfJa-BZuJVql6wF9_I_JQ4nob2j6zoLRbdVaIdR9Zg0lap2n9lss0c7ALmw_jgsSwNM1zXqcxmL69FgrhdeyFBF" group-title="SPORT/AUST & NZ", AU Free Practice 1: London  Formula E 2025/26 (2026-08-15 00:50:29)
+#EXTINF:-1 channel_id="StanSport4.au;Stan Sport 4.au" tvg-logo="https://iptv-epg.org/images/S18O5Tc0exNj8r_EoJX9bLfJa-BZuJVql6wF9_I_JQ4nob2j6zoLRbdVaIdR9Zg0lap2n9lss0c7ALmw_jgsSwNM1zXqcxmL69FgrhdeyFBF" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
 
-#EXTINF:-1 channel_id="StanSport5.au;Stan Sport 5.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tPlrwVBDtTlYuWADfI3ky9o1K37g0zH45OSRUqJwEfJtPOy8StrwFeZ9RQMqBk2XbVUHX7gPfzMUpD85kx6htZDOwZhtPfEWOscjjD0vAfcX" group-title="SPORT/AUST & NZ", AU Cincinnati: Day 2: Session 1  WTA 1000 (2026-08-15 01:00:29)
+#EXTINF:-1 channel_id="StanSport5.au;Stan Sport 5.au" tvg-logo="https://iptv-epg.org/images/tPlrwVBDtTlYuWADfI3ky9o1K37g0zH45OSRUqJwEfJtPOy8StrwFeZ9RQMqBk2XbVUHX7gPfzMUpD85kx6htZDOwZhtPfEWOscjjD0vAfcX" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
 
-#EXTINF:-1 channel_id="StanSport6.au;Stan Sport 6.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/hAvQBH143h-97vFh0nCCbYTgJpXmi8P6zWdOwiFyFj0pMXaTC-fc8zd3oDONEW78lx096Q1bAQinCMTaasyJvQkgIrteT0taP48OLtY2FsJb" group-title="SPORT/AUST & NZ", AU Griquas v Sharks  Currie Cup Round 5 2026 (2026-08-15 01:00:34)
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
-
-
-
-#EXTINF:-1 channel_id="StanSport7.au;Stan Sport 7.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/hAvQBH143h-97vFh0nCCbYTgJpXmi8P6zWdOwiFyFj0pMXaTC-fc8zd3oDONEW78lx096Q1bAQinCMTaasyJvQkgIrteT0taP48OLtY2FsJb" group-title="SPORT/AUST & NZ", AU
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
-
-#EXTINF:-1 channel_id="StanSport8.au;Stan Sport 8.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/bEaBkrqeg_30oAzCV2EDosYPqx7kvX2hhEV1E41Ml597EaD7xVbMdaGSSy0mzBf7p9qzvrF4CF4WN4OilLnCD3472gxcnp6SEcMpceNtAiSH" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport6.au;Stan Sport 6.au" tvg-logo="https://iptv-epg.org/images/hAvQBH143h-97vFh0nCCbYTgJpXmi8P6zWdOwiFyFj0pMXaTC-fc8zd3oDONEW78lx096Q1bAQinCMTaasyJvQkgIrteT0taP48OLtY2FsJb" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
 
 
-#EXTINF:-1 channel_id="StanSport9.au;Stan Sport 9.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/xOLWZflKUmQpf-bghpPhK2lRZ4bwOquSqP_o5PF8LSM-1l_vhQBIClBlln-P97WzR32M2tT9M-E2dk1LKlvqFtRTsHI_woTdkw4gitzEKnjv" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport7.au;Stan Sport 7.au" tvg-logo="https://iptv-epg.org/images/3LkNoejk2fjFFt1lWHI3NsEJJJJ1QHHTv4XszmsHJDGw6mv78eRksv8m9rggRIV_FWXX0n9rie4RBF4tm237CZMStsO0zGPT0Yw9yMHDx8Sx" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
 
-#EXTINF:-1 channel_id="StanSport10.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/R2zEX27_2TlLg7KGilU9fCVNRoo8SFXMbiG1FpLfNhrWtBHspqUzyTCISBATDJInyJpTprpvro1zRadXIVBSPXTM9OqQSdyy5NaaeH0W7OW_oQ" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport8.au;Stan Sport 8.au" tvg-logo="https://iptv-epg.org/images/bEaBkrqeg_30oAzCV2EDosYPqx7kvX2hhEV1E41Ml597EaD7xVbMdaGSSy0mzBf7p9qzvrF4CF4WN4OilLnCD3472gxcnp6SEcMpceNtAiSH" group-title="FOX SPORT AUSTRALIA", AU
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
+
+
+
+#EXTINF:-1 channel_id="StanSport9.au;Stan Sport 9.au" tvg-logo="https://iptv-epg.org/images/xOLWZflKUmQpf-bghpPhK2lRZ4bwOquSqP_o5PF8LSM-1l_vhQBIClBlln-P97WzR32M2tT9M-E2dk1LKlvqFtRTsHI_woTdkw4gitzEKnjv" group-title="FOX SPORT AUSTRALIA", AU
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgwLnRz
+
+#EXTINF:-1 channel_id="StanSport10.au" tvg-logo="https://iptv-epg.org/images/R2zEX27_2TlLg7KGilU9fCVNRoo8SFXMbiG1FpLfNhrWtBHspqUzyTCISBATDJInyJpTprpvro1zRadXIVBSPXTM9OqQSdyy5NaaeH0W7OW_oQ" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgxLnRz
 
 
-#EXTINF:-1 channel_id="StanSport11.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/TCMwUpvpAvQ1DFhLAwFaOv0RlAClsIAFB4HyiczmpK9GIobx13mncSlNfnC5diaJ5BvDERPhEw83xUkfnWGZXSboFsT3dBit2xsfaQBVhHFqwg" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport11.au" tvg-logo="https://iptv-epg.org/images/TCMwUpvpAvQ1DFhLAwFaOv0RlAClsIAFB4HyiczmpK9GIobx13mncSlNfnC5diaJ5BvDERPhEw83xUkfnWGZXSboFsT3dBit2xsfaQBVhHFqwg" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgyLnRz
 
 
-#EXTINF:-1 channel_id="StanSport12.au;Stan Sport 12.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/6qMkicnn3v6uzfPg2XOsIk6wxyghok_aLP24Qrx0AXGj98Gn0fZNzZ1VXdGrdiF21PM3sjOlo-nhOnWNxE1pSAozQRQcQ9a93AtLPfx3O6591w" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport12.au;Stan Sport 12.au" tvg-logo="https://iptv-epg.org/images/6qMkicnn3v6uzfPg2XOsIk6wxyghok_aLP24Qrx0AXGj98Gn0fZNzZ1VXdGrdiF21PM3sjOlo-nhOnWNxE1pSAozQRQcQ9a93AtLPfx3O6591w" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODgzLnRz
 
 
-#EXTINF:-1 channel_id="StanSport13.au;Stan Sport 13.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/CpICdFI2pPVUlek-tIELFRMc4Fapz9rOItB7z6OQVOguKq2eSxbjPDgqzX1ySyut-wuZI_ikxl4sN0Uw9qezsu3LMIIU9ju8qJSdCh1u-dhOYA" group-title="SPORT/AUST & NZ", AU Australia v Japan  Flight Centre Series/Men`s International 2026 (2026-08-15 14:30:29)
+#EXTINF:-1 channel_id="StanSport13.au;Stan Sport 13.au" tvg-logo="https://iptv-epg.org/images/CpICdFI2pPVUlek-tIELFRMc4Fapz9rOItB7z6OQVOguKq2eSxbjPDgqzX1ySyut-wuZI_ikxl4sN0Uw9qezsu3LMIIU9ju8qJSdCh1u-dhOYA" group-title="FOX SPORT AUSTRALIA", AU 
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg0LnRz
 
 
-#EXTINF:-1 channel_id="StanSport14.au;Stan Sport 14.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/C9wsAJn7PZUAi8dvNlFBAHEGis9bo2ZBgY5llqq4HmPUvoBMxt5wUrptDzfOSTGOYTP6__wW8_VEUg74iP-vZADsIXowxHb9gO7YAbA3na9B0Q" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport14.au;Stan Sport 14.au" tvg-logo="https://iptv-epg.org/images/C9wsAJn7PZUAi8dvNlFBAHEGis9bo2ZBgY5llqq4HmPUvoBMxt5wUrptDzfOSTGOYTP6__wW8_VEUg74iP-vZADsIXowxHb9gO7YAbA3na9B0Q" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg1LnRz
 
 
-#EXTINF:-1 channel_id="StanSport15.au;Stan Sport 15.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/ewG7PjrnC3GqpPQ9y4p_UOqWjesXmAgzgbjWuZKZnfAqYk1F36ssZqx5JgUtQfmyzkDggOlkxOn8EdPrTDg6sSUxUc061bPnbaJDV94aQd7ceA" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport15.au;Stan Sport 15.au" tvg-logo="https://iptv-epg.org/images/ewG7PjrnC3GqpPQ9y4p_UOqWjesXmAgzgbjWuZKZnfAqYk1F36ssZqx5JgUtQfmyzkDggOlkxOn8EdPrTDg6sSUxUc061bPnbaJDV94aQd7ceA" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg2LnRz
 
 
-#EXTINF:-1 channel_id="StanSport16.au;Stan Sport 16.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/cScNf2C6_C5d7CMt36l15hc5jIL33qW-jwdgzLK-Ij1g7oERpOKEkLtW5haDMQx3fNvayMiuMhMGPoOE8TYEV6U4XdODGix0Bqc2qKenmm4crw" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport16.au;Stan Sport 16.au" tvg-logo="https://iptv-epg.org/images/cScNf2C6_C5d7CMt36l15hc5jIL33qW-jwdgzLK-Ij1g7oERpOKEkLtW5haDMQx3fNvayMiuMhMGPoOE8TYEV6U4XdODGix0Bqc2qKenmm4crw" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg3LnRz
 
 
-#EXTINF:-1 channel_id="StanSport17.au;Stan Sport 17.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tJjE-VvTtIc_whq0jtX0mW7c0uLT5NjUCevm0NkR1b9AdT3wkau6_OqzGWCaahXf1x9jrVBM0d7bNpzOHmHQi13HcN7Z2rQ0CUruCGP8K1lprA" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport17.au;Stan Sport 17.au" tvg-logo="https://iptv-epg.org/images/tJjE-VvTtIc_whq0jtX0mW7c0uLT5NjUCevm0NkR1b9AdT3wkau6_OqzGWCaahXf1x9jrVBM0d7bNpzOHmHQi13HcN7Z2rQ0CUruCGP8K1lprA" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg4LnRz
 
 
-#EXTINF:-1 channel_id="StanSport18.au;Stan Sport 18.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/uE14j5ns26SqBGsQWQZnrPuZ9m25t6HcwtE7t4fNG0oX_gVEY0ZDUAk9Wm6ybJlvpPvZgBRLa87zRVjYrckwreHM1TsuSibmEXrXOBy1s6QOJw" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport18.au;Stan Sport 18.au" tvg-logo="https://iptv-epg.org/images/uE14j5ns26SqBGsQWQZnrPuZ9m25t6HcwtE7t4fNG0oX_gVEY0ZDUAk9Wm6ybJlvpPvZgBRLa87zRVjYrckwreHM1TsuSibmEXrXOBy1s6QOJw" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODg5LnRz
 
 
-#EXTINF:-1 channel_id="StanSport19.au;Stan Sport 19.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/YthltLJB9Mkq_vof5OPrsK_DR2OLUtPsDuSkzTxeld154cHIWbEyoDXhmSm01NowmevFiEnN-Pz2D7xEvWicUKiBEuTdyY6YbpF6vVgEPGQkEA" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport19.au;Stan Sport 19.au" tvg-logo="https://iptv-epg.org/images/YthltLJB9Mkq_vof5OPrsK_DR2OLUtPsDuSkzTxeld154cHIWbEyoDXhmSm01NowmevFiEnN-Pz2D7xEvWicUKiBEuTdyY6YbpF6vVgEPGQkEA" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODkwLnRz
 
 
-#EXTINF:-1 channel_id="StanSport20.au;Stan Sport 20.au" tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/lbkPALIb7MUSQrvpkPuITSB_ukgDpicJPi4JH4382XufJYJBBakTGNP8snDMonXeyOJDsBEQeAQI7Slp4_I0u0_4lyVaq5YgV_XnKXlWhNdJ6w" group-title="SPORT/AUST & NZ", AU
+#EXTINF:-1 channel_id="StanSport20.au;Stan Sport 20.au" tvg-logo="https://iptv-epg.org/images/lbkPALIb7MUSQrvpkPuITSB_ukgDpicJPi4JH4382XufJYJBBakTGNP8snDMonXeyOJDsBEQeAQI7Slp4_I0u0_4lyVaq5YgV_XnKXlWhNdJ6w" group-title="FOX SPORT AUSTRALIA", AU
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMjgyODkxLnRz
 
 
@@ -9775,38 +9529,119 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 
 
 
-#EXTINF:-1 tvg-id="OptusSport1.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/iOre3ifds1GIhAygYqfkpsMuyfPbhF1OMMhvGtgBrGT79jsQtSNZ4gNf1JgdapPJSiMCY9VVfSvHjf6Ay3EH80FPEVKgY2Pk0VTjIrsMO2FREtWD26ad" group-title="SPORT/AUST & NZ", AU: OPTUS 1
+#EXTINF:-1 tvg-id="OptusSport1.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/iOre3ifds1GIhAygYqfkpsMuyfPbhF1OMMhvGtgBrGT79jsQtSNZ4gNf1JgdapPJSiMCY9VVfSvHjf6Ay3EH80FPEVKgY2Pk0VTjIrsMO2FREtWD26ad" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:73:6C:52&stream=625250&extension=ts&play_token=S5xLfdwTga
 
-#EXTINF:-1 tvg-id="OptusSport2.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tegRC3-DVFcGZx4uW-SR2MSEa9ULc03JCvshRFkVvWQRjC6CqHrbE1IMoVpxVlN_wJfmc6EHBz0KETligQIsQfqZWflaATHUc5_Ew-ShZ0A9gyYMyjqG" group-title="SPORT/AUST & NZ", AU: OPTUS 2
+#EXTINF:-1 tvg-id="OptusSport2.au"  tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tegRC3-DVFcGZx4uW-SR2MSEa9ULc03JCvshRFkVvWQRjC6CqHrbE1IMoVpxVlN_wJfmc6EHBz0KETligQIsQfqZWflaATHUc5_Ew-ShZ0A9gyYMyjqG" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625249&extension=ts&play_token=x1oog7Hp7V
 
-#EXTINF:-1 tvg-id="OptusSport3.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/khqru-DpuT2rJ3DD8TXv9IaBdNr_Pu-yTaGHLm3k_1ee_FhnDLXtC-sud7HMSjw-ic-NKKFeNeL6PKH3kEeouFgTOGuN9AdpVRRM1Pi32RE5aILgs1Nn" group-title="SPORT/AUST & NZ", AU: OPTUS 3
+#EXTINF:-1 tvg-id="OptusSport3.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/khqru-DpuT2rJ3DD8TXv9IaBdNr_Pu-yTaGHLm3k_1ee_FhnDLXtC-sud7HMSjw-ic-NKKFeNeL6PKH3kEeouFgTOGuN9AdpVRRM1Pi32RE5aILgs1Nn" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625248&extension=ts&play_token=IqrniFDu7D
 
-#EXTINF:-1 tvg-id="OptusSport4.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PQyhS2wzyZFHxsIfCOYeDb9KnBH49tDrLDkII7ShxJAlQWWhlwsEsOJDTmC412kb7JuVYKzg-T2_gZwyU-xnz41STXhK_lwgpMfAq9vixjk5SovexPiw" group-title="SPORT/AUST & NZ", AU: OPTUS 4
+#EXTINF:-1 tvg-id="OptusSport4.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PQyhS2wzyZFHxsIfCOYeDb9KnBH49tDrLDkII7ShxJAlQWWhlwsEsOJDTmC412kb7JuVYKzg-T2_gZwyU-xnz41STXhK_lwgpMfAq9vixjk5SovexPiw" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625247&extension=ts&play_token=EhMIihb071
 
-#EXTINF:-1 tvg-id="OptusSport5.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PBc_lN0cnam9qxZdB_mUBTLBD1EDW_Op6OobwRJRdVdtOh8xAkClHQIbUnQgDf7YU_-fUrpdTl0TbXEbiVO6fccg_576ZdqcyCf7IVYFNGc5L5t0JB7y" group-title="SPORT/AUST & NZ", AU: OPTUS 5
+#EXTINF:-1 tvg-id="OptusSport5.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/PBc_lN0cnam9qxZdB_mUBTLBD1EDW_Op6OobwRJRdVdtOh8xAkClHQIbUnQgDf7YU_-fUrpdTl0TbXEbiVO6fccg_576ZdqcyCf7IVYFNGc5L5t0JB7y" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 5
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625246&extension=ts&play_token=lIjOD3Q5GN
 
-#EXTINF:-1 tvg-id="OptusSport6.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/60q6zg4x2Vgfj38OhdapIQ6CupDlYnRN9w_5HnNVFLgM1iA78DndOXJcrikFjoEC0H981y9sCi5uQwZfk-yYY4g74awcyfLt2oIIjQYG9H4R2LWSPr9h" group-title="SPORT/AUST & NZ", AU: OPTUS 6
+#EXTINF:-1 tvg-id="OptusSport6.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/60q6zg4x2Vgfj38OhdapIQ6CupDlYnRN9w_5HnNVFLgM1iA78DndOXJcrikFjoEC0H981y9sCi5uQwZfk-yYY4g74awcyfLt2oIIjQYG9H4R2LWSPr9h" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 6
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625245&extension=ts&play_token=VMkJaDBDZ5
 
-#EXTINF:-1 tvg-id="OptusSport7.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Jpg0wEfwWJRmwUvUCjN63kwMT3GJjiOCIGPMrYMJTV3RpU0Uu_lKJP-DggWXKJEVV86vFD4ynLoAS5_Lekv4uMYOMwZFC9c71FzSJSyF80rGC3q_7us4" group-title="SPORT/AUST & NZ", AU: OPTUS 7
+#EXTINF:-1 tvg-id="OptusSport7.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/Jpg0wEfwWJRmwUvUCjN63kwMT3GJjiOCIGPMrYMJTV3RpU0Uu_lKJP-DggWXKJEVV86vFD4ynLoAS5_Lekv4uMYOMwZFC9c71FzSJSyF80rGC3q_7us4" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 7
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625244&extension=ts&play_token=J7Qbdc0ABZ
 
-#EXTINF:-1 tvg-id="OptusSport8.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tl52wrh_aUm2zquB3uuZUYqz3GUTiZnHAmBYW0SKZQbEFVCaP9gcNEj8kcwGZ_6Nq7nL6NeoqbncC97Bloi3_tJ-9Ws9qD9fj88jhdAaibrp4HmMM6_a" group-title="SPORT/AUST & NZ", AU: OPTUS 8
+#EXTINF:-1 tvg-id="OptusSport8.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/tl52wrh_aUm2zquB3uuZUYqz3GUTiZnHAmBYW0SKZQbEFVCaP9gcNEj8kcwGZ_6Nq7nL6NeoqbncC97Bloi3_tJ-9Ws9qD9fj88jhdAaibrp4HmMM6_a" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625243&extension=ts&play_token=bnhewwz8wT
 
-#EXTINF:-1 tvg-id="OptusSport9.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/XnNpaxne4PmUGlabB_ARYdg9hZ8w_ae90RrXKF6pAkgtqco25siyfx2wevZQvlmr4GXwLcBEUgHYP7mKT4651Am2ZR8wuZzKmdbmo3plb3aAmoumRtPP" group-title="SPORT/AUST & NZ", AU: OPTUS 9
+#EXTINF:-1 tvg-id="OptusSport9.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/XnNpaxne4PmUGlabB_ARYdg9hZ8w_ae90RrXKF6pAkgtqco25siyfx2wevZQvlmr4GXwLcBEUgHYP7mKT4651Am2ZR8wuZzKmdbmo3plb3aAmoumRtPP" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 9
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625242&extension=ts&play_token=JhuL3SJ4rW
 
-#EXTINF:-1 tvg-id="OptusSport10.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/5KSOeC-Y_2tnBMQdmsy0zhFzhksxZA2YZl1vqPbOhBJUTkmAGhpz8Cl9ctol2ntr8IZDdGTF-Dv-evJomNCbk6lkd7Wc7k8DxNuBiQMCpqCdWCaP0iJzEg" group-title="SPORT/AUST & NZ", AU: OPTUS 10
+#EXTINF:-1 tvg-id="OptusSport10.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/5KSOeC-Y_2tnBMQdmsy0zhFzhksxZA2YZl1vqPbOhBJUTkmAGhpz8Cl9ctol2ntr8IZDdGTF-Dv-evJomNCbk6lkd7Wc7k8DxNuBiQMCpqCdWCaP0iJzEg" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 10
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625241&extension=ts&play_token=u0HPTQL9kD
 
-#EXTINF:-1 tvg-id="OptusSport11.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/rGWNft_0KnRVDuRzJdC0rF3vA9rFMgbbUsTdQZcqGhAN2EYoFXx1-cc62H2Z7Qxfx1KcD3pkc3fDyZuAIRJU7U2PSMAKqJlOAhuKoOMiU7mjPrlQqSCfoA" group-title="SPORT/AUST & NZ", AU: OPTUS 11
+#EXTINF:-1 tvg-id="OptusSport11.au"   tvg-logo="https://iptv-epg.org/images/182be0c5cdcd5072bb1864cdee4d3d6e/rGWNft_0KnRVDuRzJdC0rF3vA9rFMgbbUsTdQZcqGhAN2EYoFXx1-cc62H2Z7Qxfx1KcD3pkc3fDyZuAIRJU7U2PSMAKqJlOAhuKoOMiU7mjPrlQqSCfoA" group-title="FOX SPORT AUSTRALIA", AU: OPTUS 11
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625240&extension=ts&play_token=uN2rBHMI4H
+
+#####################################################################################################################################################################################################################
+#####################################   NEW ZEALAND  SKY SPORT    ###################################################################################################################################################
+##################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgB8ZObBf5d7SvcYddvMMgfpss7JXpkFsky_zLOIkK&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 1
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzUyLnRz
+#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Sky_Sport_1_4K_UHD.svg/revision/latest/scale-to-width-down/250?cb=20260705180342" group-title="SKYSPORTS NZ", SkySports 1 NZ
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809392.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB-YaeCIfdWh8kTKZ71WgDyec7Slt44qLwphEn4ifu&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 2
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ2LnRz
+#EXTINF:-1 tvg-id="Sky.Sport.2.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144002" group-title="SKYSPORTS NZ", SkySports 2 NZ
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809393.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75NU-AZqPzKkKHS8TEP7wWFlsAA0n_6tlss_ub0pP&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 3
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ3LnRz
+#EXTINF:-1 tvg-id="Sky.Sport.3.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143951" group-title="SKYSPORTS NZ", SkySports 3 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7ho752gFPdOPsrxOf8GhYqZ1JqxTLpY-soP7gZAQ&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 4
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzQ4LnRz
+#EXTINF:-1 tvg-id="Sky.Sport.4.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143941" group-title="SKYSPORTS NZ", SkySports 4 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ATzqonnVO0sPXr3VFBgNhqssLoGnSZdPlos-jpEk&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 5
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzI2LnRz
+#EXTINF:-1 tvg-id="Sky.Sport.5.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830143710" group-title="SKYSPORTS NZ", SkySports 5 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
+
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6EOoekk121TaWNizeuqtnlKpgj8TkiQUfpAavUnazw&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 6
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzM3LnRz
+#EXTINF:-1 tvg-id="Sky.Sport.6.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest?cb=20230830143701" group-title="SKYSPORTS NZ", SkySports 6 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
+
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQON-5AvpGF5sYJ-pFtGQjHasOWk57JUeRJLwZxYSWSpw&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 7
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzUwLnRz
+
+#EXTINF:-1 tvg-id="Sky.Sport.7.nz"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest?cb=20230830143651" group-title="SKYSPORTS NZ", SkySports 7 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIigyGxmSxelR0jZU8mwSAOV3rhJfxh4VFLOl98FVHw&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 8
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNDkwMzUxLnRz
+
+#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144108" group-title="SKYSPORTS NZ", SkySports Selet NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+
+
+#EXTINF:-1 tvg-id="Sky.Sport.9.nz"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvLG2v3wejGJP4wKFOhDQ6DwghB1cnaREwQ-qD17f8Q&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 9
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzQwLnRz
+
+#EXTINF:-1 tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="SKYSPORTS NZ", SkySports PL NZ
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
+
+
+#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports NZ 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="SKYSPORTS NZ",Sky Sports NZ 1 FHD
+http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="SkySports2" tvg-name="Sky Sports NZ 2 FHD" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png?raw=1" group-title="SKYSPORTS NZ",Sky Sports NZ 2 FHD
+http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports NZ 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="SKYSPORTS NZ",Sky Sports NZ 3 FHD
+http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 3" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKYSPORTS NZ", SkySports 3 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
+
+#EXTINF:-1 tvg-id="Sky Sport 4" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKYSPORTS NZ", SkySports 4 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+
+#EXTINF:-1 tvg-id="Sky Sport 5" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKYSPORTS NZ", SkySports 5 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
+
+#EXTINF:-1 tvg-id="Sky Sport 6" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKYSPORTS NZ", SkySports 6 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
+
+#EXTINF:-1 tvg-id="Sky Sport Selet" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SKYSPORTS NZ", SkySports Selet NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+
 
 
 ##################################################   UNITED KINGDOM    ##################################################################################################################################################
@@ -9987,6 +9822,233 @@ http://vocotv.live:80/Sanchez01/Sanchez01/914
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg"  group-title="SPORT/USA", US: FOX SPORTS 1
 https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.ctv
 
+#############################################################################################################################################################################################################################
+#################################################################################    SPORT    ##############################################################################################################################
+#############################################################################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-id="Foxsports1.us" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",FOX SPORTS 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="Foxsports2.us" group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kD5UQB8B6g6p3APlG_hJ_GJhe-AE1RSL8Va8lB00Ig&s=10", FOX SPORTS 2 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0 
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-id="UFC1.UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQy81igwRZaXH2N3VMir9qNTAcUVovlVNGcwKzmkgdlaPvxAMrsW-eGzW7&s=10" group-title="SPORT",UFC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+#EXTINF:-1 tvg-id="HBOBoxing.us" group-title="SPORT" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",HBO Boxing
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="DAZN1" group-title="SPORT"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzan_nkRisBWdBX0WdMP_UUYpUVBonbslwjwSRaDbGqw&s=10", DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
+
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="SPORT", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
+https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aJnBpnq-zOwPtGoj0NeNF6gvYoHYe4rMnBm_My2y4g&s=10" group-title="SPORT", SkySports PL UK
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=30493&extension=ts&play_token=6YkaIAtxC2
+
+#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SPORT", SkySports PL NZ
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
+
+#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports NZ 1 FHD" tvg-logo="https://8upload.com/image/67dcf3f71dbaa/sky-sport-1-nz.png?raw=1" group-title="SPORT",Sky Sports NZ 1 FHD
+http://45.12.32.190:8080/UK-SkySport1NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="SkySports2" tvg-name="Sky Sports NZ 2 FHD" tvg-logo="https://8upload.com/image/67dcf3f712c8a/sky-sport-2-nz.png?raw=1" group-title="SPORT",Sky Sports NZ 2 FHD
+http://45.12.32.190:8080/UK-SkySport2NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports NZ 3 FHD" tvg-logo="https://8upload.com/image/67dcf3f707147/sky-sport-3-nz.png?raw=1" group-title="SPORT",Sky Sports NZ 3 FHD
+http://45.12.32.190:8080/UK-SkySport3NZ/video.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport 3" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SPORT", SkySports 3 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
+
+#EXTINF:-1 tvg-id="Sky Sport 4" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SPORT", SkySports 4 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+
+#EXTINF:-1 tvg-id="Sky Sport 5" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SPORT", SkySports 5 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
+
+#EXTINF:-1 tvg-id="Sky Sport 6" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SPORT", SkySports 6 NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
+
+#EXTINF:-1 tvg-id="Sky Sport Selet" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="SPORT", SkySports Selet NZ
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+
+#EXTINF:-1 tvg-url="" tvg-id="SkySportsF1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LqSAgQQS2Is-SOegn4ritGUjIksb7gPyv1ATMUYARVB5h3loydDzc64&s=10" group-title="SPORT", Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://xemzi.short.gy/2000005
+
+#EXTINF:-1 tvg-id="tntsports1" tvg-name="TNT SPORTS 1" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="SPORT",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="tntsports2" tvg-name="TNT SPORTS 2" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="SPORT",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="tntsports3" tvg-name="TNT SPORTS 3" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="SPORT",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+#EXTINF:-1 tvg-id="tntsports4" tvg-name="TNT SPORTS 4" tvg-logo="https://i.ibb.co/x8j2VVnJ/images-1.png" group-title="SPORT",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="SPORT",TNT SPORTS 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="SPORT",TNT SPORTS 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/120px-Fox_Sports_1_logo.svg.png?_=20170518223725" group-title="SPORT", FOX SPORTS
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/120px-Fox_sports_2_logo.svg.png?_=20170519073754" group-title="SPORT", FOX SPORTS 2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/120px-Fox_sports_3_logo.svg.png?_=20170519075101" group-title="SPORT", FOX SPORTS 3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="SPORT", FS PREMIUM
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="SPORT",TSN SPORTS 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="SPORT",TSN SPORTS 2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="SPORT",TSN SPORTS 3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="SPORT",TSN SPORTS 4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="SPORT",TSN SPORTS 5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="premiersports1" tvg-name="PREMIER SPORTS 1" tvg-logo="https://i.ibb.co/BH2dMpDQ/images-4.png" group-title="SPORT",PREMIER SPORTS 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+
+#EXTINF:-1 tvg-id="premiersports2" tvg-name="PREMIER SPORTS 2" tvg-logo="https://i.ibb.co/BH2dMpDQ/images-4.png" group-title="SPORT",PREMIER SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-id="Eurosport1.uk" group-title="SPORT" tvg-id="" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image.jpg", EuroSport 1
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTINF:-1 tvg-id="Eurosport2.uk" group-title="SPORT"  tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2025/02/24171333/Eurosport-image.jpg", EuroSport 2
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+
+
+
+
+
 
 #################################################
 ################################################
@@ -10018,6 +10080,15 @@ https://i.mjh.nz/.r/sky-racing-2.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WGaFa2syPKNy8EQYRun3Gx1I_bqfReoF2ovQUsQQvg&s=10" group-title="HORSERACING", TRACKSIDE NSW GAMBLING
 https://trackside.akamaized.net/hls/live/2037002/tracksidensw/_720.m3u8
 
+#EXTINF:-1 tvg-id="SkyRacing1.au" tvg-logo="https://media.info/l/o/6/6402.1476053378.png" group-title="HORSERACING", Sky Racing 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="HORSERACING", Sky Racing 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 
 
 
@@ -10047,11 +10118,34 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 ################################################
 ################################################
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="F1Channel.us" tvg-logo="https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo.png" group-title="MOTOSPORT",F1 TV
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MotoGP.us" tvg-name="" tvg-logo="https://cdn.motorsport.com/images/mgl/YN1RZ4b2/s1000/motogp-logo.jpg" group-title="MOTOSPORT",MotoGP
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-Logo-PNG-100x100_v1.png" group-title="MOTOSPORT", Monster Jam
 https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1693&wurl_name=MonsterJam&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-id="F1Channel.ie@SD" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="MOTOSPORT", F1 Channel
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTINF:-1 tvg-id="Motorvision" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="MOTOSPORT",MOTORVISION+
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
+
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png" group-title="MOTOSPORT", MavTV Select
 https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
