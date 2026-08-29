@@ -41,16 +41,10 @@ https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 #EXTINF:-1 channel-id="News24Weather.au" tvg-id="News24Weather.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/News24_Weather.svg/revision/latest/scale-to-width-down/250?cb=20260726120829" group-title="BRISBANE",NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WGaFa2syPKNy8EQYRun3Gx1I_bqfReoF2ovQUsQQvg&s=10" group-title="BRISBANE", TRACKSIDE NSW GAMBLING
-https://trackside.akamaized.net/hls/live/2037002/tracksidensw/_720.m3u8
-
-
-
 #EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="BRISBANE", ABC NEWS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
-
 
 #EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png" tvg-chno="71" group-title="BRISBANE",7 BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -9100,6 +9094,53 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #EXTINF:-1 tvg-id="" tvg-name="US - CRUNCHYROLL HD" tvg-logo="https://go4.pw/USA/18.png" group-title="PREMIUM",US - CRUNCHYROLL HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNjMzMjYyLnRz
 
+#################################################
+################################################
+######       HORSE RACING  #################
+############################################
+#############################################
+
+
+#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , Racing.com
+https://i.mjh.nz/.r/racing-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://iptv-epg.org/images/nG8v-QB96pX6zMrSa9a7aMJEDwI2-OsbU3EuPVEqgOcvVoN5xlw17UKLm1-chL52eVA95ruKKJkvh4aXW1AeVRw3WtmYQSeqRu228T-wKoPygC2aekw" group-title="HORSERACING" , Sky Racing #1
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-1.m3u8
+
+#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://iptv-epg.org/images/Ne2C189ZHsZyPchX7lN22_sNWHoRGi8IOow_7gaGpNWxDsn1ZbmKeYoKJXOe85KIAcY1AfCWVzcrwH7BN5LHgiBZmW_RnBFgRvBDHgD_goHeBEk9irs" group-title="HORSERACING" , Sky Racing #2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-racing-2.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WGaFa2syPKNy8EQYRun3Gx1I_bqfReoF2ovQUsQQvg&s=10" group-title="HORSERACING", TRACKSIDE NSW
+https://trackside.akamaized.net/hls/live/2037002/tracksidensw/_720.m3u8
+
+#EXTINF:-1 tvg-id="SkyRacing1.au" tvg-logo="https://media.info/l/o/6/6402.1476053378.png" group-title="HORSERACING", Sky Racing 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="HORSERACING", Sky Racing 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-RACING.png" group-title="HORSERACING" , SKY SPORTS RACING HD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1365979&extension=ts&play_token=NohJf4TEwQ
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-RACING.png" group-title="HORSERACING" , SKY SPORTS RACING HD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1373098&extension=ts&play_token=kHjkZjCAQJ
+
+
+
+
 ##########################################################################################################################################################################################################################
 ########################################################################################################################################################################################################################
 ###################################  AFL    #########################################################################################################################################################################
@@ -10050,55 +10091,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
 
-#################################################
-################################################
-######       HORSE RACING  #################
-############################################
-#############################################
-
-
-#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , Racing.com
-https://i.mjh.nz/.r/racing-fast.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-sky-racing-1" tvg-id="mjh-sky-racing-1" tvg-logo="https://iptv-epg.org/images/nG8v-QB96pX6zMrSa9a7aMJEDwI2-OsbU3EuPVEqgOcvVoN5xlw17UKLm1-chL52eVA95ruKKJkvh4aXW1AeVRw3WtmYQSeqRu228T-wKoPygC2aekw" group-title="HORSERACING" , Sky Racing #1
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-racing-1.m3u8
-
-#EXTINF:-1 channel-id="mjh-sky-racing-2" tvg-id="mjh-sky-racing-2" tvg-logo="https://iptv-epg.org/images/Ne2C189ZHsZyPchX7lN22_sNWHoRGi8IOow_7gaGpNWxDsn1ZbmKeYoKJXOe85KIAcY1AfCWVzcrwH7BN5LHgiBZmW_RnBFgRvBDHgD_goHeBEk9irs" group-title="HORSERACING" , Sky Racing #2
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-racing-2.m3u8
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_WGaFa2syPKNy8EQYRun3Gx1I_bqfReoF2ovQUsQQvg&s=10" group-title="HORSERACING", TRACKSIDE NSW GAMBLING
-https://trackside.akamaized.net/hls/live/2037002/tracksidensw/_720.m3u8
-
-#EXTINF:-1 tvg-id="SkyRacing1.au" tvg-logo="https://media.info/l/o/6/6402.1476053378.png" group-title="HORSERACING", Sky Racing 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://i.imgur.com/TxQvFnQ.png" group-title="HORSERACING", Sky Racing 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-RACING.png" group-title="HORSERACING" , SKY SPORTS RACING HD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1365979&extension=ts&play_token=NohJf4TEwQ
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-RACING.png" group-title="HORSERACING" , SKY SPORTS RACING HD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1373098&extension=ts&play_token=kHjkZjCAQJ
-
-
 ####################################################
 ####################################################
 #############       COWBOY         ##################
@@ -10483,8 +10475,6 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477536.m3u8
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477537.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="PPV ▎PAY PER VIEW",PPV 50:
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477538.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="PPV ▎PAY PER VIEW",EVENT 01:
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477539.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="PPV ▎PAY PER VIEW",EVENT 02:
@@ -10685,184 +10675,39 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477636.m3u8
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477637.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 01 - 5pm UFC Fight Night Hernandez v Rodrigues
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605787&extension=ts&play_token=1UtYBetAs5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 02 - 6/8pm Rolly v Teofimo
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605786&extension=ts&play_token=s0sqHKGNKi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 03 - (HD) Rolly v Teofimo
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605785&extension=ts&play_token=sUyLDpAIcn
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 04 - 7pm Brand Risk 15 McBroom v Temper
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605784&extension=ts&play_token=X4LxTTa3Ou
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 05 - NO EVENT
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605783&extension=ts&play_token=nIoaXiHF5j
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 06 - 6am Eternal MMA 109
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605781&extension=ts&play_token=bhOAzC7Nmv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 07 - 12/2pm Liddard v Morello
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605780&extension=ts&play_token=t9telwevst
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 08 - 5:30/9pm PFL Cyborg v Vieira
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605779&extension=ts&play_token=m3f3eoCOwb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 09 - 7pm AMW Superbowl of Wrestling
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605778&extension=ts&play_token=o7oHOStHW0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 10 - 8pm Real American Freestyle 12 Dvalishvili v Cejudo 2
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605782&extension=ts&play_token=U7Flt3AVTF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 11 - 10am/1pm AMA Supercross Championship Mechanicsville
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605777&extension=ts&play_token=Pz7wDGM3Hc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 12 - 11am World Fuel Altered Nationals
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605776&extension=ts&play_token=OiSxalLIS6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 13 - 11:00am USAC Bettenhausen 100 Illinois
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605775&extension=ts&play_token=VAxmk2nk2M
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 14 - 5:30pm Millbridge Sprints
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605774&extension=ts&play_token=BmudMLMVnU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 15 - 5:50pm IRA Sprints Wilmot
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605773&extension=ts&play_token=GrrZ8duMHr
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 16 - 6pm Land of Legends Late Models
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605772&extension=ts&play_token=wUf7rXhkFp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 17 - 6pm Cedar Lake Late Models
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605771&extension=ts&play_token=RMRVxTks3f
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 18 - 6pm RoC Sportsman Shangri La II
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605770&extension=ts&play_token=S5U6iWa4C8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 19 - 6pm Living Legends Dream Race Port Royal
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605769&extension=ts&play_token=w33pYjOpk5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 20 - 6:15pm Championship Night Oswego
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605768&extension=ts&play_token=LjzvPS0id9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 21 - 6:30pm Sharon Late Models
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605767&extension=ts&play_token=77eTAIKoV0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 22 - 6:45pm Race for the Million Colorado Natl
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605766&extension=ts&play_token=LgFVDvviSB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 23 - 6:55pm IMCA Weekly Racing 141 Speedway
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605765&extension=ts&play_token=XpbGQ7xBn5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 24 - 7:15pm World of Outlaws Sprint Cars Jackson
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605764&extension=ts&play_token=CRSuq8iOfD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 25 - 7:15pm World of Outlaws Late Models Maquoketa
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605763&extension=ts&play_token=1572o98HOY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605762&extension=ts&play_token=V9M40Jrmtf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 27 - FREEDOM STAGE Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605761&extension=ts&play_token=nR5Y0gx34u
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 28 - ONE WORLD RADIO Live from Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605760&extension=ts&play_token=09bTAJA0Mc
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 29 - MAINSTAGE SHORTS Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605759&extension=ts&play_token=oazOBRLEPw
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 30 - FREEDOM STAGE SHORTS Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605758&extension=ts&play_token=JAmw6JAMQT
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 31 - GOBI Live From Coachella 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605757&extension=ts&play_token=q6TfMXeD1w
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 32 - QUASAR Live From Coachella 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605756&extension=ts&play_token=QlwSsmH6jL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 33 -
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605755&extension=ts&play_token=ebQjAefXam
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="UK| PPV EVENT",LIVE EVENT 34 -
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605754&extension=ts&play_token=49522d69ES
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 01 - 5pm UFC Fight Night Hernandez v Rodrigues
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605889&extension=ts&play_token=Ee9iGf8I5G
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 02 - 6/8pm Rolly v Teofimo
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605888&extension=ts&play_token=G0hkxhv67z
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 03 - (HD) Rolly v Teofimo
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605887&extension=ts&play_token=l1gddNc8Ic
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 04 - 7pm Brand Risk 15 McBroom v Temper
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605886&extension=ts&play_token=jph48xGUR7
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 05 - NO EVENT
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605885&extension=ts&play_token=h0QJjFerQx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 06 - 6am Eternal MMA 109
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605883&extension=ts&play_token=rSJo1JmVz3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 07 - 12/2pm Liddard v Morello
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605882&extension=ts&play_token=ayAol5lmsx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 08 - 5:30/9pm PFL Cyborg v Vieira
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605881&extension=ts&play_token=aCDMNCJWgX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 09 - 7pm AMW Superbowl of Wrestling
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605880&extension=ts&play_token=82hceZ99NU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 10 - 8pm Real American Freestyle 12 Dvalishvili v Cejudo 2
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605884&extension=ts&play_token=JGVk1OO7PJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 11 - 10am/1pm AMA Supercross Championship Mechanicsville
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605879&extension=ts&play_token=gytmKzCwaA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 12 - 11am World Fuel Altered Nationals
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605878&extension=ts&play_token=89RZbc244x
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 13 - 11:00am USAC Bettenhausen 100 Illinois
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605877&extension=ts&play_token=rGM3zpO4qQ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 14 - 5:30pm Millbridge Sprints
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605876&extension=ts&play_token=cp2ofSTlVb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 15 - 5:50pm IRA Sprints Wilmot
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605875&extension=ts&play_token=8McmQ0fqvF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 16 - 6pm Land of Legends Late Models
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605874&extension=ts&play_token=xxlgUup3ql
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 17 - 6pm Cedar Lake Late Models
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605873&extension=ts&play_token=XKuNUwdm3B
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 18 - 6pm RoC Sportsman Shangri La II
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605872&extension=ts&play_token=kiRfGrsdsh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 19 - 6pm Living Legends Dream Race Port Royal
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605871&extension=ts&play_token=1QOsbTm19J
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 20 - 6:15pm Championship Night Oswego
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605870&extension=ts&play_token=LGGT8bCpFU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 21 - 6:30pm Sharon Late Models
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605869&extension=ts&play_token=YQbNDHxjE3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 22 - 6:45pm Race for the Million Colorado Natl
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605868&extension=ts&play_token=RXAspL3ZSD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 23 - 6:55pm IMCA Weekly Racing 141 Speedway
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605867&extension=ts&play_token=CCO5hvOozR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 24 - 7:15pm World of Outlaws Sprint Cars Jackson
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605866&extension=ts&play_token=6KsKhEhWzZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 25 - 7:15pm World of Outlaws Late Models Maquoketa
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605865&extension=ts&play_token=GXLeYfcyyX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605864&extension=ts&play_token=TuUenwqcOP
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 27 - FREEDOM STAGE Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605863&extension=ts&play_token=Kj1ETfVhEy
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 28 - ONE WORLD RADIO Live from Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605862&extension=ts&play_token=CyYSVcTj0f
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 29 - MAINSTAGE SHORTS Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605861&extension=ts&play_token=1kUJcTm5ID
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 30 - FREEDOM STAGE SHORTS Tomorrowland 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605860&extension=ts&play_token=ys6zT4VBRU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 31 - GOBI Live From Coachella 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605859&extension=ts&play_token=VtwXOnW4wH
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 32 - QUASAR Live From Coachella 2026
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605858&extension=ts&play_token=B9CUnvLbLo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 33 -
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605857&extension=ts&play_token=g852evXZZU
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 34 -
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=605856&extension=ts&play_token=2c3EkCFYs7
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE 4K
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1055641&extension=ts&play_token=SToq0ZaEx3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE HD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1055644&extension=ts&play_token=6T9kENpnU8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE HEVC
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1055642&extension=ts&play_token=Xs4kudXo7O
-
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 001) | IMSA Mustang VIR R1 (2026-08-22 09:20:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 001) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831718&extension=ts&play_token=hsnd6HwId2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 002) | Nott`m Forest v. Leeds United (2026-08-22 09:50:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 002) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831717&extension=ts&play_token=w5bcvmnkfp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 003) | Ipswich Town v. Sunderland (2026-08-22 09:50:05)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 003) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831716&extension=ts&play_token=JBvpAhDODt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 004) | Goal Rush: Matchweek 1 (2026-08-22 09:50:10)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 004) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831715&extension=ts&play_token=qypN8CFewv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 005) | La Vuelta a España: Stage 1 (2026-08-22 10:00:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 005) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831714&extension=ts&play_token=731N8f06Cb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 006) | Race Day Live: Budds Creek (2026-08-22 10:00:05)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 006) |
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831713&extension=ts&play_token=DqfEPOvPVA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 007) | IMSA VPRC at VIR | R1 (2026-08-22 12:15:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 007) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831712&extension=ts&play_token=1OepG6LiPY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 008) |  Brentford v. Spurs (2026-08-22 12:30:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 008) |  
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831711&extension=ts&play_token=8VCZuQH4PL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 009) | Motocross Rd. 27: Budds Creek (2026-08-22 13:00:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 009) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831710&extension=ts&play_token=2mkwnG2ogE
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 010) | SF 1: AUS vs. GBR (2026-08-22 13:30:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 010) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831709&extension=ts&play_token=K8qiwEOVWh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 011) | MPC at VIR (2026-08-22 14:08:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 011) |
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831708&extension=ts&play_token=SbtLtFgUog
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 012) | SF 2: JPN vs. USA (2026-08-22 15:30:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 012) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831707&extension=ts&play_token=qmJyBAe1Qh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 013) | IMSA VIR Qualifying (2026-08-22 16:45:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 013) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831706&extension=ts&play_token=qJdp74l318
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 014) | Sporting JAX v. Sun FC (2026-08-22 19:00:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 014) |
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831705&extension=ts&play_token=49GvjNjpNn
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 015) | Trinity FC v. Ascent FC (2026-08-22 20:30:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 015) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831704&extension=ts&play_token=kCMsZ9eK3A
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 016) | La Vuelta a España: Stage 2 (2026-08-23 08:30:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 016) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831703&extension=ts&play_token=zU9G36uCSh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 017) | IMSA VPRC at VIR | R2 (2026-08-23 08:35:00)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 017) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831702&extension=ts&play_token=BNB8ejF7SG
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 018) | Brighton v. Aston Villa (2026-08-23 08:50:00)
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831701&extension=ts&play_token=ztLFbUCL5y
