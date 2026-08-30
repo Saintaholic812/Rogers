@@ -9253,11 +9253,11 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431820
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431821&extension=ts&play_token=pPLVeQaMIS
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",NRL Rugby 16:
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431834&extension=ts&play_token=0sOFKzgzsZ
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus Event 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus Event 1 | Hull Fc vs Warrington Wolves // UK Sat 29 Aug 5:20pm // ET Sat 29 Aug 12:20pm
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455581&extension=ts&play_token=RNExHb8RXS
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 2 Wakefield Trinity vs York Rlfc Knights // UK Sat 29 Aug 5:20pm // ET Sat 29 Aug 12:20pm
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455580&extension=ts&play_token=64nkzuVvvJ
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 3 Toulouse Olympique vs Bradford Bulls // UK Sat 29 Aug 7:50pm // ET Sat 29 Aug 2:50pm
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455579&extension=ts&play_token=hoqsDdMDP1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 4
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455578&extension=ts&play_token=DI7HtPg0HM
@@ -9266,6 +9266,10 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455577
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMd5MS04mdEWMbyA6lNKBbu602zw1wdqMcnWC6oglJng&s=10" group-title="NRL",Super League Plus | Event 6
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1455576&extension=ts&play_token=GOcbUVzzdf
 
+
+Super League Plus Event 1 | Hull Fc vs Warrington Wolves // UK Sat 29 Aug 5:20pm // ET Sat 29 Aug 12:20pm
+Super League Plus Event 2 | Wakefield Trinity vs York Rlfc Knights // UK Sat 29 Aug 5:20pm // ET Sat 29 Aug 12:20pm
+Super League Plus | Event 3 Toulouse Olympique vs Bradford Bulls // UK Sat 29 Aug 7:50pm // ET Sat 29 Aug 2:50pm
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/RUGBY.png" group-title="NRL",Florugby 00
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431818&extension=ts&play_token=UCtdeXXByX
@@ -10707,7 +10711,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632403&exten
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605889&extension=ts&play_token=4kZzskspu0
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 02 -
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605888&extension=ts&play_token=pU8UJ0erBX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 03 -
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 03 - 6pm BKFC 92 Stewart v Gigliotti
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605887&extension=ts&play_token=gF26OHLWr1
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 04 - NO EVENT
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605886&extension=ts&play_token=cRxQynhaBO
