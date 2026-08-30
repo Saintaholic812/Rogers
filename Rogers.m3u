@@ -3977,6 +3977,12 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=163796&
 N################################################################################################################################################################################################################################
 #####################################    TV SHOWS       #############################################################################################################################################
 
+#EXTINF:-1 tvg-id="TheNanny.us@UK" tvg-logo="https://i.imgur.com/1caOriu.png" group-title="TV SHOWS",THE NANNY
+https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
+#EXTINF:-1 tvg-id="TheNanny.us@UK" tvg-logo="https://i.imgur.com/1caOriu.png" group-title="TV SHOWS",THE NANNY
+https://jmp2.uk/plu-6391df52d146a40007c265f3.m3u8
+
+
 #EXTINF:-1 tvg-id="TheConners.us" tvg-name="The Conners"  x-source-url="https://lionsgatechannels.com/channel/the-conners" group-title="TV SHOWS",THE CONNORS
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 
