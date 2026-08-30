@@ -10376,31 +10376,6 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 ################################################################      PAY PER VIEW      #######################################################################################################################################
 ##########################################################################################################################################################################################################################
 
-LIVE EVENT 01 - 3am/6am UFC Fight Night Nurmagomedov v Song
-LIVE EVENT 02 - 12pm MVPW 06 Mayer v Cameron
-LIVE EVENT 03 - 6pm BKFC 92 Stewart v Gigliotti
-LIVE EVENT 04 - 6pm Perry v Jenkins
-LIVE EVENT 05 - 1am No Turning Back 2026
-LIVE EVENT 06 - 11am/2pm Moses v Hrgovic
-LIVE EVENT 07 - 11am Finishers Summer Bash
-LIVE EVENT 08 - 11:30am APFC IPBL Hyderabad v Delhi
-LIVE EVENT 09 - 2pm True Grit Wrestling New Grit Rising
-LIVE EVENT 10 - 5pm Top Level Pro 24 Summer Jam
-LIVE EVENT 11 - 8pm Lara v Ornelas
-LIVE EVENT 12 - 8pm Lopez v Cruz (En Espanol)
-LIVE EVENT 13 - 8pm BKB 58 Trujillo v Terrill
-LIVE EVENT 14 - 8pm HAW Uninvited VI
-LIVE EVENT 15 - 8:45am PDRA Drag Wars
-LIVE EVENT 16 - 10am/1pm AMA Supercross Championship Crawfordsville
-LIVE EVENT 17 - 4:45pm INEX Legends Riverhead
-LIVE EVENT 18 - 5:30pm Millbridge Sprints
-LIVE EVENT 19 - 5:45pm Lucas Oil Late Models Port Royal
-LIVE EVENT 20 - 6pm Land of Legends Late Models
-LIVE EVENT 21 - 6pm Cedar Lake Late Models
-LIVE EVENT 22 - 7:15pm World of Outlaws Sprint Cars Red River
-LIVE EVENT 23 - 7:15pm American Sprint Car Series Big Sky
-LIVE EVENT 24 - 7:15pm World of Outlaws Late Models Shelby
-LIVE EVENT 25 - 7:30pm Knoxville Sprint Cars
 
 
 
@@ -10703,14 +10678,279 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477636.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="PPV ▎PAY PER VIEW",EVENT 99:
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1477637.m3u8
 
+###########################################################################################################################################################################################################################
+#########################################################################   PPV US   ##################################################################################################################################
+#########################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 001) | 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 1 :
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632410&extension=ts&play_token=ey9mjU2QBH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 2 :
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632409&extension=ts&play_token=F7Gh8DyXfK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 3 :
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632408&extension=ts&play_token=pRLcVVqNVt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 4 :
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632407&extension=ts&play_token=YgWZvz2ZPN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 5 :
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632406&extension=ts&play_token=Pa10EBpLGM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 6:
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632405&extension=ts&play_token=4n90qaQMt6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 7:
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632404&extension=ts&play_token=fLviFburiq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",Boxing 8: 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=632403&extension=ts&play_token=7eRmDzyI5X
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 01
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605889&extension=ts&play_token=4kZzskspu0
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 02 -
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605888&extension=ts&play_token=pU8UJ0erBX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 03 -
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605887&extension=ts&play_token=gF26OHLWr1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 04 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605886&extension=ts&play_token=cRxQynhaBO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 05 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605885&extension=ts&play_token=fLfmviaU5n
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 06 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605883&extension=ts&play_token=2CshQH0QjI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 07 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605882&extension=ts&play_token=Z7NuorN9Z6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 08 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605881&extension=ts&play_token=rndbxNA1iv
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 09 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605880&extension=ts&play_token=VqAFgTV7jn
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 10 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605884&extension=ts&play_token=5MVmGJLwBr
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 11 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605879&extension=ts&play_token=wdlhDYVYQm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 12 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605878&extension=ts&play_token=AtX2fRLK9S
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 13 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605877&extension=ts&play_token=6IzobZP5G5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 14 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605876&extension=ts&play_token=T7NFdrWGjG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 15 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605875&extension=ts&play_token=dQDBDUBxnT
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 16 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605874&extension=ts&play_token=o5gfqEPdxl
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 17 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605873&extension=ts&play_token=vTFnHqQ2n7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 18 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605872&extension=ts&play_token=sn9msrqdto
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 19 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605871&extension=ts&play_token=D762bif9AD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 20 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605870&extension=ts&play_token=gxCpDGrmZA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 21 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605869&extension=ts&play_token=Z43j9Aga81
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 22 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605868&extension=ts&play_token=ySHo3jCas2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 23 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605867&extension=ts&play_token=QSZd8sQ7Ko
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 24 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605866&extension=ts&play_token=ZP4urjUyPe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 25 - NO EVENT
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605865&extension=ts&play_token=GHQNkU9ctG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 26 - MAIN STAGE Live From Coachella 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605864&extension=ts&play_token=U72xMBjLHO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 27 - FREEDOM STAGE Tomorrowland 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605863&extension=ts&play_token=ZD7LQIQw3y
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 28 - ONE WORLD RADIO Live from Tomorrowland 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605862&extension=ts&play_token=Q2ZFAmX2Oi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 29 - MAINSTAGE SHORTS Tomorrowland 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605861&extension=ts&play_token=1ucPR9vCOb
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 30 - FREEDOM STAGE SHORTS Tomorrowland 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605860&extension=ts&play_token=xroISM16bO
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 31 - GOBI Live From Coachella 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605859&extension=ts&play_token=RoIqtdb0sC
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 32 - QUASAR Live From Coachella 2026
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605858&extension=ts&play_token=dvBIAJjWtL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 33 -
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605857&extension=ts&play_token=8iLqxTcowK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",LIVE EVENT 34 -
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=605856&extension=ts&play_token=qrOEuXXONN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1055641&extension=ts&play_token=9E02X6e9GB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1055644&extension=ts&play_token=1BryHDtmik
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE HEVC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1055642&extension=ts&play_token=Cj7xJrxaP4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: BOX OFFICE SD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1055643&extension=ts&play_token=W40Akb67ly
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: TNT SPORTS BOX OFFICE 4K
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=844552&extension=ts&play_token=XZbXwJg8pj
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: TNT SPORTS BOX OFFICE HD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=844554&extension=ts&play_token=sRT1OKZUP9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: TNT SPORTS BOX OFFICE HEVC
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=844551&extension=ts&play_token=krNiSTxTwI
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT",US: TNT SPORTS BOX OFFICE SD
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=844553&extension=ts&play_token=l3C4dvcaNd
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 01: 
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855430&extension=ts&play_token=XPtfMx34ve
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 02
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855429&extension=ts&play_token=1A9PKBdpJz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 03
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855428&extension=ts&play_token=GkseiwE8PK
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 04
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855427&extension=ts&play_token=ROABgnLUlx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 05
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855426&extension=ts&play_token=QS7A1fqTph
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 06
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855425&extension=ts&play_token=XRIIoOB2ds
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 07
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855424&extension=ts&play_token=lHqfl8KaZ0
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 08
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855423&extension=ts&play_token=xXwDFyXKlt
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 09
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855422&extension=ts&play_token=hMaupiYXNV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 10
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855421&extension=ts&play_token=4VejEE91a3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 11
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855420&extension=ts&play_token=R3p6yPXpnY
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 12
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855419&extension=ts&play_token=0p3tAfiIhA
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 13
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855418&extension=ts&play_token=Xjd9xk4p5f
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 14
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855417&extension=ts&play_token=mDh1SfNO0t
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 15
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855416&extension=ts&play_token=Pt28adWU09
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 16
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855415&extension=ts&play_token=630Nnr7UQj
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 17
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855414&extension=ts&play_token=x40dwNyWbo
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 18
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855413&extension=ts&play_token=hTQaolErBq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 19
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855412&extension=ts&play_token=VIptlGRdjp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 20
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855411&extension=ts&play_token=mGUkGtXfwE
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 21
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855410&extension=ts&play_token=8DLfzWL4BN
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 22
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855409&extension=ts&play_token=XAg7wtrLx8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 23
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855408&extension=ts&play_token=WMFFqTWjoP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 24
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855407&extension=ts&play_token=bkgCCmuP8Q
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 25
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855406&extension=ts&play_token=b4y9hm1Scs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 26
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855405&extension=ts&play_token=4rjRS6aGg1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 27
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855404&extension=ts&play_token=GpfAKUX81v
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 28
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855403&extension=ts&play_token=TXPwCXUPNX
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 29
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855402&extension=ts&play_token=qfG71X6ngp
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 30
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855401&extension=ts&play_token=sBe1vVSbqV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 31
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855400&extension=ts&play_token=OkIe3033NV
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 32
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855399&extension=ts&play_token=BOUbHqXFRm
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 33
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855398&extension=ts&play_token=BLM4LDGhSi
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 34
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855397&extension=ts&play_token=HoBGl3K09T
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 35
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855396&extension=ts&play_token=qRDAt5D62k
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 36
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855395&extension=ts&play_token=xET0CzjVUf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 37
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855394&extension=ts&play_token=m69cO6t33i
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 38
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855393&extension=ts&play_token=utsi4QLJJZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 39
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855392&extension=ts&play_token=rFPP6KQY0Q
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 40
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855391&extension=ts&play_token=1b2PP4S0Qy
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 41
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855390&extension=ts&play_token=D26jwLRK49
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 42
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855389&extension=ts&play_token=J9SMxwLRPs
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 43
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855388&extension=ts&play_token=NrWhAZY249
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 44
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855387&extension=ts&play_token=NnxhPnFKou
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 45
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855386&extension=ts&play_token=IkemPhlIBH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 46
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855385&extension=ts&play_token=MY1pjT5sPx
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 47
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855384&extension=ts&play_token=SUTAiV7LWh
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 48
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855383&extension=ts&play_token=g6WserI3EZ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 49
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855382&extension=ts&play_token=fwoAph9i8x
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 50
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855381&extension=ts&play_token=iQyIut8ZuB
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 51
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855380&extension=ts&play_token=bPKgh8SabP
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 52
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855379&extension=ts&play_token=K5lCE2s56D
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 53
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855378&extension=ts&play_token=ZdOdXuVmiS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 54
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855377&extension=ts&play_token=mCqiHvDOOf
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 55
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855376&extension=ts&play_token=1WOcBlpVE7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 56
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855375&extension=ts&play_token=Padzgwvpkz
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 57
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855374&extension=ts&play_token=Bev8UPXgkG
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 58
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855373&extension=ts&play_token=bkcAwGOi2t
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 59
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855372&extension=ts&play_token=KrPGc0U1Ed
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 60
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855371&extension=ts&play_token=qpEI98ITx1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 61
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855370&extension=ts&play_token=u7iz5BMziS
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 62
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855369&extension=ts&play_token=zUOqfUcScq
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 63
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855368&extension=ts&play_token=rQzf8IgXX9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 64
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855367&extension=ts&play_token=NcvGiAe6NH
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 65
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855366&extension=ts&play_token=hm1ml38dLe
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 66
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855365&extension=ts&play_token=z1J5PIPASM
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 67
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855364&extension=ts&play_token=irznuDJKPL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 68
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855363&extension=ts&play_token=x1eVFXDv81
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 69
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855362&extension=ts&play_token=9RmOEmEMcL
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="US| PPV EVENT ⁽ᴮᴷ⁾",PPV EVENT 70
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1855361&extension=ts&play_token=K2OGgkO5Jb
+
+
+
+#############################################################################################################################################################################################################################
+###############################################################################   PEACOCK    #################################################################################################################################
+############################################################################################################################################################################################################################
+
+Peacock 01 : Morning News Now LL 8.28.26 start:2026-08-28 11:00:00 stop:2026-08-28 23:30:00
+Peacock 01 : Home Feed: HOU at NYM start:2026-08-29 00:00:00 stop:2026-08-29 03:30:00
+Peacock 02 : Morning News Now MV 1 8.28.26 start:2026-08-28 11:00:00 stop:2026-08-28 23:30:00
+Peacock 02 : Away Feed: HOU at NYM start:2026-08-29 00:00:00 stop:2026-08-29 03:30:00
+Peacock 03 : Morning News Now MV 2 8.28.26 start:2026-08-28 11:00:00 stop:2026-08-28 23:30:00
+Peacock 03 : FTL United v. Brooklyn FC start:2026-08-29 00:30:00 stop:2026-08-29 03:00:00
+Peacock 04 : La Vuelta a España: Stage 7 start:2026-08-28 12:00:00 stop:2026-08-28 17:30:00
+Peacock 04 : Bayern Munich vs. VfB Stuttgart (Español) start:2026-08-28 19:00:00 stop:2026-08-28 22:00:00
+Peacock 05 : AC Milan vs. Venezia (Español) start:2026-08-28 19:30:00 stop:2026-08-28 22:30:00
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 001) | Peacock 01 : Morning News Now LL 8.28.26 start:2026-08-28 11:00:00 stop:2026-08-28 23:30:00
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831718&extension=ts&play_token=hsnd6HwId2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 002) | 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 002) | HOU at NYM start:2026-08-29 00:00:00 stop:2026-08-29 03:30:00
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831717&extension=ts&play_token=w5bcvmnkfp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 003) | 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 003) | Morning News Now MV 1 8.28.26 start:2026-08-28 11:00:00 stop:2026-08-28 23:30:00
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831716&extension=ts&play_token=JBvpAhDODt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 004) | 
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 004) | Bayern Munich vs. VfB Stuttgart (Español) start:2026-08-28 19:00:00 stop:2026-08-28 22:00:00
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831715&extension=ts&play_token=qypN8CFewv
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US| PEACOCK PPV ⱽᴵᴾ",US (Peacock 005) | 
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:FA:37&stream=1831714&extension=ts&play_token=731N8f06Cb
