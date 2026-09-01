@@ -9845,27 +9845,37 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30564&e
 #EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", FOX SOCCER PLUS
 http://vocotv.live:80/Sanchez01/Sanchez01/916
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg"  group-title="SPORT/USA", US: FOX SPORTS 1
+#EXTINF:-1 tvg-id="Foxsports1.us" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",FOX SPORTS 1 HD
 http://vocotv.live:80/Sanchez01/Sanchez01/915
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720210021959688_47.png"  group-title="SPORT/USA", US: FOX SPORTS 2
+#EXTINF:-1 tvg-id="Foxsports2.us" group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kD5UQB8B6g6p3APlG_hJ_GJhe-AE1RSL8Va8lB00Ig&s=10", FOX SPORTS 2 HD
 http://vocotv.live:80/Sanchez01/Sanchez01/914
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2019/05/05/large/20190505202745477845_94.jpg"  group-title="SPORT/USA", US: FOX SPORTS 1
 https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.ctv
 
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/2531.jpg" group-title="SPORT/USA",USA Fox Soccer Plus
+#EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", FOX SOCCER PLUS
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221238
+Fox Sports,
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221332
+#EXTINF:-1 tvg-id="Foxsports1.us" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",FOX SPORTS 1 HD
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221239
+#EXTINF:-1 tvg-id="Foxsports2.us" group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kD5UQB8B6g6p3APlG_hJ_GJhe-AE1RSL8Va8lB00Ig&s=10", FOX SPORTS 2 HD
+http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221240
+
+
+#EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", FOX SOCCER PLUS
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2531.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/3800.jpg" group-title="SPORT/USA",USA FOX Soccer Plus LHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3800.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/2501.jpg" group-title="SPORT/USA",USA Fox Sports 1 (SHD)
+#EXTINF:-1 tvg-id="Foxsports1.us" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",FOX SPORTS 1 HD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2501.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/3732.jpg" group-title="SPORT/USA",USA Fox Sports 1 LHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3732.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/3645.jpg" group-title="SPORT/USA",USA Fox Sports 1 UHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3645.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/2500.jpg" group-title="SPORT/USA",USA Fox Sports 2
+#EXTINF:-1 tvg-id="Foxsports2.us" group-title="SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kD5UQB8B6g6p3APlG_hJ_GJhe-AE1RSL8Va8lB00Ig&s=10", FOX SPORTS 2 HD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/2500.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/3646.jpg" group-title="SPORT/USA",USA Fox Sports 2 UHD
 http://s.rocketdns.info:8080/live/mrrob4t/dQwhxbJUAu/3646.m3u8
