@@ -3648,6 +3648,239 @@ https://restream-live.realiptv.to/Marky0416/2c1744538b/3972
 #EXTINF:-1  tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
+########################################################################################################################################################################################################################
+########################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="TLC HD.my;TLC HD.my" tvg-name="TLC" tvg-logo="https://i.ibb.co.com/g3N7Jrt/tlc.png" group-title="ENTERTAINMENT", TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="TLC HD.my;TLC HD.my" tvg-logo="https://i.ibb.co.com/g3N7Jrt/tlc.png" group-title="ENTERTAINMENT",  TLC Philippines
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48e7373d6be47ecab83a20849f6823e:513ce07a2ee24ffdbe667eff5a9d46a8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="EntertainmentTonight" tvg-name="Entertainment Tonight" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" group-title="ENTERTAINMENT", Entertainment Tonight
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+
+
+#EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="ENTERTAINMENT", FX USA
+https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="ENTERTAINMENT", FX USA (2)
+https://tvsen7.aynascope.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="ENTERTAINMENT", Lifetime USA
+https://tvsen7.aynaott.com/lifetime/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="ENTERTAINMENT", Comedy Central USA
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
+
+#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="ENTERTAINMENT", Laff USA
+https://tvsen7.aynascope.net/laff/index.m3u8
+
+#EXTINF:-1 tvg-id="Laff.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="ENTERTAINMENT", Laff USA (2)
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="ENTERTAINMENT", MTV USA
+https://tvsen6.aynaott.com/mtv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NGC HD.sk"  tvg-logo="https://i.ibb.co.com/DYsDT6K/natgeo.png" group-title="DOCUMENTARY", National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5720d56a19cf667667eb715967deb4f4:5819a139b33e44108816f547f8ca5094
+https://tvcdn.tv.telia.lt/live/eds/National_Geographic_H/DASH_5_CPIX_NPVR/National_Geographic_H.mpd
+
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="https://i.ibb.co.com/Q31HkByM/knowledgeall.png" group-title="DOCUMENTARY",National Geographic Sharks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co.com/pnyMJjF/natgeowild.png" group-title="DOCUMENTARY",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0e5b8f17f98d56a8aee2bb21d4724fdc":"06be94e9406d8e4b7b3ccaec71ccfc31","416d4c90ff0857edac27cde187bea79a":"00659fdcfa5283c82ae7169f7e9a5afa","2457f6494fba519d93407da4afe012b6":"529722c06009351d5a35633af6422533"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/94_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
+
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="DOCUMENTARY",History Channel USA
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyNature.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png" group-title="Knowledge",Sky Nature UK
+https://tvsen6.aynaott.com/skynature/index.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature4K" tvg-name="Love Nature 4K" group-title="DOCUMENTARY" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#EXTINF:-1 group-title="DOCUMENTARY"  tvg-id="Animal Planet HD World"  tvg-logo="https://i.ibb.co.com/tpLZdK6/animalplanet.png", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Animal Planet HD World"  tvg-logo="https://i.ibb.co.com/tpLZdK6/animalplanet.png", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="BBC EARTH" tvg-logo="https://i.ibb.co.com/8zzNQzb/bbcearth.png", BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="Discovery Asia.id" tvg-logo="https://i.ibb.co.com/gj5J7vb/discoasia.png", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="DOCUMENTARY",Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="DOCUMENTARY", Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor" group-title="DOCUMENTARY" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png",Outdoor Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="Astro Showtime.my;Astro Showtime.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7RJVdgSDgSHZlvDXg3nKow","kid":"aZ-4LHCn7Cl_M6pEI7q1EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Astro FAM Time.my;Astro FAM Time.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png",412 Astro FAM Time
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Astro Showcase.my;Astro Showcase.my" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",413 Astro Showcase
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Rock Action.my;Rock Action.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png",414 ROCK Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ooFuWncl1q35-_LATMug-w","kid":"VPL7-vUpXINEgJ0k3KkbEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Rock X Stream.my;Rock X Stream.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",415 ROCK X Stream
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yI_o80udyOEKAOh2pv9BNg","kid":"MlNw1yJWWrXtCaVIujYOEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
+
+#EXTINF:-1 group-title="MOVIES",904 Movies
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017" group-title="MOVIES", HBO Movies USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="MOVIES", HBO West USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HBO_Comedy.svg/revision/latest?cb=20171113181453" group-title="MOVIES",HBO Comedy USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="MoviesNowPlus" tvg-name="MN+" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesNowPlus" tvg-name="MN+" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+ (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
+
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesNow" tvg-name="Movies Now" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="RomedyNow" tvg-name="Romedy Now" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX.mx"  tvg-logo="https://i.ibb.co.com/XjvpyvP/cinemax.png" group-title="MOVIES", Cinemax Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO.mx"  tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES", HBO Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO 2.mx"  tvg-logo="https://i.ibb.co.com/pnByWRT/hbo2.png" group-title="MOVIES", HBO 2 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba3f4d2e982d04e9468199bf100f60ed:8fcc8d2eb588d166eb4a373859c1e563
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HBO-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-logo="https://i.ibb.co.com/r0rYwjC/hbofami.png" group-title="MOVIES", HBO Family Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+
+
+
+
 
 #########################################################################################################################################################################################################################
 ###########################################################    MUSIC     ################################################################################################################################################
