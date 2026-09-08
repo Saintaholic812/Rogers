@@ -1365,34 +1365,10 @@ https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playl
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-63894c1965b848bf2c8a7800" tvg-id="697140a85d851f5e69414688-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="ENTERTAINMENT",5-Minute Crafts
 https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-63894c1965b848bf2c8a7800/?X-Plex-Token=dZ56JCqTc9yQF-zpwAmc
 
-#EXTINF:-1 channel-id="091bf303c7fd2bc2ec6683b1dbbadae1" tvg-id="091bf303c7fd2bc2ec6683b1dbbadae1" tvg-chno="694" tvg-name="Storage Wars by A&E" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="ENTERTAINMENT",Storage Wars by A&E
-https://jmp2.uk/rok-091bf303c7fd2bc2ec6683b1dbbadae1.m3u8
-
 
 ##########################################################################################
 ########################  ENTERTAINMENT   #################################################
 #########################################################################################
-
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK - 5 STAR SD" tvg-logo="https://go4.pw/UK/5star.png" group-title="ENTERTAINMENT",UK - 5 STAR Max
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/694516
-#EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMCThrillers.us" tvg-logo="https://go4.pw/USA/AMC_THRILLERS.png" group-title="ENTERTAINMENT",US - AMC Thrillers
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/606994
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US - AMERICAN HEROES FHD ◉" tvg-logo="https://go4.pw/USA/ahc.png" group-title="ENTERTAINMENT",US - AMERICAN HEROES
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2663
-#EXTINF:-1 tvg-id="catchycomedy.us" tvg-name="US - CATCHY COMEDY SD" tvg-logo="https://go4.pw/USA/CATCHY_COMEDY.png" group-title="ENTERTAINMENT",US - CATCHY COMEDY
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2603
-#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK - 5 STAR SD" tvg-logo="https://go4.pw/UK/5star.png" group-title="ENTERTAINMENT",UK - 5 STAR Max UHD
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/81384
-#EXTINF:-1 tvg-id="" tvg-name="US - FAMILY MOVIE CLASSICS (FMC) FHD" tvg-logo="https://go4.pw/USA/FAMILYMOVIECLASSICS(FMC).png" group-title="ENTERTAINMENT",US - FAMILY MOVIE CLASSICS 
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/665855
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US - FUSE HD" tvg-logo="https://go4.pw/AMERICA/USA/FUSE-1.png" group-title="ENTERTAINMENT",US - FUSE 
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2499
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="US - HALLMARK CHANNEL HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/HALLMARK.png" group-title="ENTERTAINMENT",US - HALLMARK CHANNEL (SHD)
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2494
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US - HALLMARK MOVIES & MYSTERIES HD ◉" tvg-logo="https://go4.pw/AFRICA/NEGIRIA/m-netmovies.png" group-title="ENTERTAINMENT",US - HALLMARK MOVIES & MYSTERIES (SHD)
-https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2492
-
-
 
 
 #EXTINF:-1 tvg-id="aande.us" tvg-name="US - A&E EAST HD ◉" tvg-logo="https://go4.pw/USA/a&ee.png" group-title="ENTERTAINMENT",US - A&E EAST HD ◉
@@ -2122,6 +2098,10 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTE5MzM4OC50cw==
 #EXTINF:-1 tvg-id="sky2.uk" tvg-name="UK - SKY TWO  SD" tvg-logo="https://go4.pw/UK/skyy.png" group-title="ENTERTAINMENT",UK - SKY TWO  SD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNjk0OTMudHM=
+
+#EXTINF:-1 channel-id="091bf303c7fd2bc2ec6683b1dbbadae1" tvg-id="091bf303c7fd2bc2ec6683b1dbbadae1" tvg-chno="694" tvg-name="Storage Wars by A&E" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="ENTERTAINMENT",Storage Wars by A&E
+https://jmp2.uk/rok-091bf303c7fd2bc2ec6683b1dbbadae1.m3u8
+
 #EXTINF:-1 tvg-id="tlcplus1.uk" tvg-name="UK - TLC HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="ENTERTAINMENT",UK - TLC HD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTczNjQudHM=
 #EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA ONE HD" tvg-logo="https://go4.pw/UK/virginmedia11.png" group-title="ENTERTAINMENT",UK - VIRGIN MEDIA ONE HD
