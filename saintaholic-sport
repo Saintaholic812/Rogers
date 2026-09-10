@@ -1,4 +1,15 @@
 #EXTM3U:-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+#EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/optussport.com.au.channels.xml.gz"
+#EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/foxsports.com.au.channels.xml.gz"
+#EXTM3U X-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/Kayo/epg.xml.gz"
+#EXTM3U X-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml.gz"
+
+
+
 
 #################################################
 ################################################
@@ -2589,8 +2600,13 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1500693&exte
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13726.png?ver=70441" group-title="US| FLO RACING PPV",Flo Racing 20
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1500692&extension=ts&play_token=A7goFlb2xP
 
+################################################################################################################################################################################################################################
+#############################################################################################################################################################################################################################
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"
+###########################################################################################################################################################################################################################
+##########################################################   DOMS9 EVENTS    ############################################################################################################################################
+##########################################################################################################################################################################################################################
+
 
 #EXTINF:-1 tvg-chno="1" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Colorado Rockies vs. New York Yankees (EMBEDSPRT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Colorado Rockies vs. New York Yankees (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
