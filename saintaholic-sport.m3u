@@ -8,15 +8,11 @@
 #EXTM3U X-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/Kayo/epg.xml.gz"
 #EXTM3U X-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml.gz"
 
-
-
-
 #################################################
 ################################################
 ######       HORSE RACING  #################
 ############################################
 #############################################
-
 
 #EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
