@@ -998,56 +998,24 @@ https://c.mjh.nz/abc-news.m3u8
 ######################################
 
 
-#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="KIDS" ,DEAL OR NO DEAL AUST
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTQ4ODM1LnRz
-
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",YOUNG SHELDON
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1600209&extension=ts&play_token=rHmyxWnO6z
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",YOUNG SHELDON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:80:E8&stream=1600209&extension=ts&play_token=lZdIc5wCom
 
+#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="KIDS" , Sharks & Other Predators
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-documentaryshell.m3u8
 
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",YOUNG SHELDON
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B5:28:65&stream=1600209&extension=ts&play_token=Yz9HK7jy6J
-
-#EXTINF:-1 tvg-logo="https://iili.io/HiS85NI.md.png" group-title="KIDS",BLUEY
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1519991&extension=ts&play_token=BFG5315LFB
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",US:JURASSIC PARK
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=485188&extension=ts&play_token=AUC20vG0hz
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS", MALCOLM IN THE MIDDLE
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1599949&extension=ts&play_token=0WNa0nF2JG
-
-#EXTINF:-1 tvg-id="" tvg-name="US - GOLD TV | MALCOLM IN THE MIDDLE HD " tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="KIDS",MALCOLM IN THE MIDDLE HD 
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDEyMy50cw==
-
-
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",HAPPY DAYS
-http://pro.jekol.cfd:80/play/live.php?mac=00:1A:79:78:FF:67&stream=1600884&extension=ts&play_token=XoMWar5w0J
-
 
 #EXTINF:-1 channel-id="5f7794162a4559000781fc12" tvg-id="5f7794162a4559000781fc12" tvg-chno="580" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/5f7794162a4559000781fc12/colorLogoPNG_1731835352299.png" group-title="KIDS",HAPPY DAYS
 https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",NETFLIX WWE 4K
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzE5NDIudHM=
-
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",WWE SUPERSLAM HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvNzExNDA2LnRz
-
-
 #EXTINF:-1 tvg-logo="https://kic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/channel_logo/AMG/channel_600x200_3602.png"group-title="KIDS", 5 MINUTE CRAFT
 https://amg02051-soulpublishing-amg02051c7-lg-au-304.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-304/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
-
-
-#EXTINF:-1 tvg-id="" tvg-name="GOLD TV " tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="KIDS", TAKESHI'S CASTLE FHD,
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDEyOS50cw==
 
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993042/600x200.png?type=white_cropped" group-title="KIDS" ,American Ninja Warrior
@@ -3414,122 +3382,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 
 
 
-#EXTINF:-1 tvg-id="Astro Showtime.my;Astro Showtime.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7RJVdgSDgSHZlvDXg3nKow","kid":"aZ-4LHCn7Cl_M6pEI7q1EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Astro FAM Time.my;Astro FAM Time.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png",412 Astro FAM Time
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Astro Showcase.my;Astro Showcase.my" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",413 Astro Showcase
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Rock Action.my;Rock Action.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png",414 ROCK Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ooFuWncl1q35-_LATMug-w","kid":"VPL7-vUpXINEgJ0k3KkbEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
-
-#EXTINF:-1 tvg-id="Rock X Stream.my;Rock X Stream.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",415 ROCK X Stream
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
-###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yI_o80udyOEKAOh2pv9BNg","kid":"MlNw1yJWWrXtCaVIujYOEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
-
-#EXTINF:-1 group-title="MOVIES",904 Movies
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017" group-title="MOVIES", HBO Movies USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="MOVIES", HBO West USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HBO_Comedy.svg/revision/latest?cb=20171113181453" group-title="MOVIES",HBO Comedy USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="MoviesNowPlus" tvg-name="MN+" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="MoviesNowPlus" tvg-name="MN+" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+ (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
-
-#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
-
-#EXTINF:-1 tvg-id="MoviesNow" tvg-name="Movies Now" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="RomedyNow" tvg-name="Romedy Now" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="CINEMAX.mx"  tvg-logo="https://i.ibb.co.com/XjvpyvP/cinemax.png" group-title="MOVIES", Cinemax Mexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
-https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
-
-#EXTINF:-1 tvg-id="HBO.mx"  tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES", HBO Mexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
-
-#EXTINF:-1 tvg-id="HBO 2.mx"  tvg-logo="https://i.ibb.co.com/pnByWRT/hbo2.png" group-title="MOVIES", HBO 2 Mexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba3f4d2e982d04e9468199bf100f60ed:8fcc8d2eb588d166eb4a373859c1e563
-https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HBO-2-HD/default.mpd
-
-#EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-logo="https://i.ibb.co.com/r0rYwjC/hbofami.png" group-title="MOVIES", HBO Family Mexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
-
-
-
-
 
 
 
@@ -5036,6 +4888,122 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 #####################################################################################################################################################################################################################
 #####################################################################################################################################################################################################################
 
+#EXTINF:-1 tvg-id="Astro Showtime.my;Astro Showtime.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=699fb82c70a7ec297f33aa4423bab510:ed12557604838121d996f0d78379caa3
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7RJVdgSDgSHZlvDXg3nKow","kid":"aZ-4LHCn7Cl_M6pEI7q1EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Astro FAM Time.my;Astro FAM Time.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png",412 Astro FAM Time
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Astro Showcase.my;Astro Showcase.my" group-title="MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",413 Astro Showcase
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Rock Action.my;Rock Action.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png",414 ROCK Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54f2fbfaf5295c8344809d24dca91b10:a2816e5a7725d6adf9fbf2c04ccba0fb
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ooFuWncl1q35-_LATMug-w","kid":"VPL7-vUpXINEgJ0k3KkbEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd
+
+#EXTINF:-1 tvg-id="Rock X Stream.my;Rock X Stream.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockXStream.png",415 ROCK X Stream
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=325370d722565ab5ed09a548ba360e10:c88fe8f34b9dc8e10a00e876a6ff4136
+###KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yI_o80udyOEKAOh2pv9BNg","kid":"MlNw1yJWWrXtCaVIujYOEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
+
+#EXTINF:-1 group-title="MOVIES",904 Movies
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_11/dash.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017" group-title="MOVIES", HBO Movies USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="MOVIES", HBO West USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HBO_Comedy.svg/revision/latest?cb=20171113181453" group-title="MOVIES",HBO Comedy USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="MoviesNowPlus" tvg-name="MN+" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesNowPlus" tvg-name="MN+" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+ (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
+
+#EXTINF:-1 tvg-id="MNX" tvg-name="MNX" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg",MNX (2)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
+
+#EXTINF:-1 tvg-id="MoviesNow" tvg-name="Movies Now" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",Movies Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="RomedyNow" tvg-name="Romedy Now" group-title="MOVIES" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX.mx"  tvg-logo="https://i.ibb.co.com/XjvpyvP/cinemax.png" group-title="MOVIES", Cinemax Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO.mx"  tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png" group-title="MOVIES", HBO Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO 2.mx"  tvg-logo="https://i.ibb.co.com/pnByWRT/hbo2.png" group-title="MOVIES", HBO 2 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba3f4d2e982d04e9468199bf100f60ed:8fcc8d2eb588d166eb4a373859c1e563
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HBO-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO FAMILY.mx" tvg-logo="https://i.ibb.co.com/r0rYwjC/hbofami.png" group-title="MOVIES", HBO Family Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+
+
+
 
 
 ################################################################################################################################################################################################################################
@@ -6204,422 +6172,6 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZl
 ###########################################################################################################################################################################################################################
 
 ###########################################################################################################################################################################################################################
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DRUG WARS
-http://tvmate.icu:8080/live/VM121628/56784321/325106.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ROBOT CHICKEN
-http://tvmate.icu:8080/live/VM121628/56784321/325107.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 THE ALFRED HITCHCOCK HOUR
-http://tvmate.icu:8080/live/VM121628/56784321/325109.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DOG THE BOUNTY HUNTER
-http://tvmate.icu:8080/live/VM121628/56784321/325110.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DINOSAURS
-http://tvmate.icu:8080/live/VM121628/56784321/325111.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DINERS, DRIVE-INS AND DIVES
-http://tvmate.icu:8080/live/VM121628/56784321/325112.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DIFF'RENT STROKES
-http://tvmate.icu:8080/live/VM121628/56784321/325113.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DICK VAN DYKE SHOW
-http://tvmate.icu:8080/live/VM121628/56784321/325114.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 JACKIE CHAN MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325115.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 JET LI MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325116.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 SIMPSONS TREEHOUSE OF HORROR
-http://tvmate.icu:8080/live/VM121628/56784321/325117.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DEGRASSI JUNIOR HIGH
-http://tvmate.icu:8080/live/VM121628/56784321/325118.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DEADLIEST CATCH
-http://tvmate.icu:8080/live/VM121628/56784321/325119.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DALLAS
-http://tvmate.icu:8080/live/VM121628/56784321/325120.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 DA ALI G SHOW
-http://tvmate.icu:8080/live/VM121628/56784321/325121.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 CURB YOUR ENTHUSIASM
-http://tvmate.icu:8080/live/VM121628/56784321/325122.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 CRIMINAL MINDS
-http://tvmate.icu:8080/live/VM121628/56784321/325123.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 COLUMBO
-http://tvmate.icu:8080/live/VM121628/56784321/325124.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 CHEERS
-http://tvmate.icu:8080/live/VM121628/56784321/325125.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 CHARMED
-http://tvmate.icu:8080/live/VM121628/56784321/325126.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 CHAPPELLE'S SHOW
-http://tvmate.icu:8080/live/VM121628/56784321/325127.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BURN NOTICE
-http://tvmate.icu:8080/live/VM121628/56784321/325128.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BUFFY THE VAMPIRE SLAYER
-http://tvmate.icu:8080/live/VM121628/56784321/325129.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BROOKLYN NINE-NINE
-http://tvmate.icu:8080/live/VM121628/56784321/325130.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BREAKING BAD
-http://tvmate.icu:8080/live/VM121628/56784321/325131.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BRADY BUNCH
-http://tvmate.icu:8080/live/VM121628/56784321/325132.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BOY MEETS WORLD
-http://tvmate.icu:8080/live/VM121628/56784321/325133.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BOBS BURGERS
-http://tvmate.icu:8080/live/VM121628/56784321/325134.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BILLY THE EXTERMINATOR
-http://tvmate.icu:8080/live/VM121628/56784321/325136.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BEWITCHED
-http://tvmate.icu:8080/live/VM121628/56784321/325137.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ACTION MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325138.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BEAVIS AND BUTTHEAD
-http://tvmate.icu:8080/live/VM121628/56784321/325139.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BAYWATCH
-http://tvmate.icu:8080/live/VM121628/56784321/325140.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 A NIGHTMARE ON ELM STREET
-http://tvmate.icu:8080/live/VM121628/56784321/325141.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BATMAN 1966
-http://tvmate.icu:8080/live/VM121628/56784321/325142.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BARNEY MILLER
-http://tvmate.icu:8080/live/VM121628/56784321/325143.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 BAR RESCUE
-http://tvmate.icu:8080/live/VM121628/56784321/325144.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ARRESTED DEVELOPMENT
-http://tvmate.icu:8080/live/VM121628/56784321/325145.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ARE YOU AFRAID OF THE DARK
-http://tvmate.icu:8080/live/VM121628/56784321/325146.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ARCHER
-http://tvmate.icu:8080/live/VM121628/56784321/325147.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ANCIENT ALIENS
-http://tvmate.icu:8080/live/VM121628/56784321/325148.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 AMERICAN DAD
-http://tvmate.icu:8080/live/VM121628/56784321/325149.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 AMERICAN CHOPPER
-http://tvmate.icu:8080/live/VM121628/56784321/325150.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ALICE
-http://tvmate.icu:8080/live/VM121628/56784321/325151.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ALF
-http://tvmate.icu:8080/live/VM121628/56784321/325152.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 ACCORDING TO JIM
-http://tvmate.icu:8080/live/VM121628/56784321/325153.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 A DIFFERENT WORLD
-http://tvmate.icu:8080/live/VM121628/56784321/325154.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 60 DAYS IN
-http://tvmate.icu:8080/live/VM121628/56784321/325155.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 3RD ROCK FROM THE SUN
-http://tvmate.icu:8080/live/VM121628/56784321/325156.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 24 HOURS IN POLICE CUSTODY
-http://tvmate.icu:8080/live/VM121628/56784321/325157.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 24 HOURS IN POLICE CUSTODY
-http://tvmate.icu:8080/live/VM121628/56784321/325158.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 21 JUMP STREET
-http://tvmate.icu:8080/live/VM121628/56784321/325159.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 X-MEN
-http://tvmate.icu:8080/live/VM121628/56784321/325160.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 WILL FERRELL MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325161.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 WAR MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325162.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 VAMPIRE MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325163.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 TWILIGHT
-http://tvmate.icu:8080/live/VM121628/56784321/325164.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 TRANSPORTER
-http://tvmate.icu:8080/live/VM121628/56784321/325165.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 TRANSFORMERS
-http://tvmate.icu:8080/live/VM121628/56784321/325166.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 THRILLER MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325167.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 THE HANGOVER
-http://tvmate.icu:8080/live/VM121628/56784321/325168.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 MAGNUM PI
-http://tvmate.icu:8080/live/VM121628/56784321/325169.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 THE AVENGERS
-http://tvmate.icu:8080/live/VM121628/56784321/325170.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 SUPERHERO MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325171.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 STEVEN SEAGAL
-http://tvmate.icu:8080/live/VM121628/56784321/325172.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 SPORTS MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325174.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 QUENTIN TARANTINO MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325175.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcBjBFewu0GrAA3fpJuQIUa8GVckEpr4G0-tKZAHPyg&s=10" group-title="24/7 CHANNELS",24/7 SCIFI MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325176.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 RUSH HOUR
-http://tvmate.icu:8080/live/VM121628/56784321/325177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROMANCE MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325178.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROCKY
-http://tvmate.icu:8080/live/VM121628/56784321/325179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 RAMBO
-http://tvmate.icu:8080/live/VM121628/56784321/325180.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POLICE ACADEMY
-http://tvmate.icu:8080/live/VM121628/56784321/325181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PREDATOR/ALIEN MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PLANET OF THE APES
-http://tvmate.icu:8080/live/VM121628/56784321/325183.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PIRATES OF THE CARIBBEAN
-http://tvmate.icu:8080/live/VM121628/56784321/325184.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TEXAS CHAINSAW MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MEN IN BLACK
-http://tvmate.icu:8080/live/VM121628/56784321/325186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MATRIX
-http://tvmate.icu:8080/live/VM121628/56784321/325187.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LORD OF THE RINGS
-http://tvmate.icu:8080/live/VM121628/56784321/325188.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LETHAL WEAPON
-http://tvmate.icu:8080/live/VM121628/56784321/325189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FRIDAY THE 13TH
-http://tvmate.icu:8080/live/VM121628/56784321/325190.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JURASSIC PARK
-http://tvmate.icu:8080/live/VM121628/56784321/325191.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JIM CARREY
-http://tvmate.icu:8080/live/VM121628/56784321/325192.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JCVD MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JASON BOURNE
-http://tvmate.icu:8080/live/VM121628/56784321/325194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JAMES BOND
-http://tvmate.icu:8080/live/VM121628/56784321/325195.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 INDIANA JONES
-http://tvmate.icu:8080/live/VM121628/56784321/325196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 HORROR MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 HARRY POTTER
-http://tvmate.icu:8080/live/VM121628/56784321/325198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 GREASE
-http://tvmate.icu:8080/live/VM121628/56784321/325199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FIFTY SHADES
-http://tvmate.icu:8080/live/VM121628/56784321/325200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FAST AND FURIOUS
-http://tvmate.icu:8080/live/VM121628/56784321/325201.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FAMILY MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325202.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DIE HARD
-http://tvmate.icu:8080/live/VM121628/56784321/325203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CRIME MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BRUCE LEE MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CLINT EASTWOOD
-http://tvmate.icu:8080/live/VM121628/56784321/325206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BOXING MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325207.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BLADE MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325208.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325209.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BACK TO THE FUTURE
-http://tvmate.icu:8080/live/VM121628/56784321/325210.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ARNOLD SCHWARZENEGGER
-http://tvmate.icu:8080/live/VM121628/56784321/325211.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AL PACINO
-http://tvmate.icu:8080/live/VM121628/56784321/325212.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ADAM SANDLER
-http://tvmate.icu:8080/live/VM121628/56784321/325213.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 X-MEN CARTOONS
-http://tvmate.icu:8080/live/VM121628/56784321/325214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ROB ZOMBIE MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TRANSFORMERS CARTOONS
-http://tvmate.icu:8080/live/VM121628/56784321/325216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TOY STORY
-http://tvmate.icu:8080/live/VM121628/56784321/325217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TOM AND JERRY
-http://tvmate.icu:8080/live/VM121628/56784321/325218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 TMNT
-http://tvmate.icu:8080/live/VM121628/56784321/325219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THOMAS AND FRIENDS
-http://tvmate.icu:8080/live/VM121628/56784321/325220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 EVERYBODY HATES CHRIS
-http://tvmate.icu:8080/live/VM121628/56784321/325221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE GARFIELD SHOW
-http://tvmate.icu:8080/live/VM121628/56784321/325223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE FLINTSTONES
-http://tvmate.icu:8080/live/VM121628/56784321/325224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE BATMAN
-http://tvmate.icu:8080/live/VM121628/56784321/325225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SUPER WINGS
-http://tvmate.icu:8080/live/VM121628/56784321/325227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 KUNG FU PANDA
-http://tvmate.icu:8080/live/VM121628/56784321/325228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 EXPEDITION UNKNOWN
-http://tvmate.icu:8080/live/VM121628/56784321/325229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 STAR WARS THE CLONE WARS
-http://tvmate.icu:8080/live/VM121628/56784321/325230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPONGEBOB SQUARE PANTS
-http://tvmate.icu:8080/live/VM121628/56784321/325232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCI-FI MOVIES
-http://tvmate.icu:8080/live/VM121628/56784321/325233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPIDERMAN
-http://tvmate.icu:8080/live/VM121628/56784321/325234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCOOBY-DOO CLASSIC
-http://tvmate.icu:8080/live/VM121628/56784321/325235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SCOOBY-DOO
-http://tvmate.icu:8080/live/VM121628/56784321/325236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 SPONGEBOB SQUAREPANTS
-http://tvmate.icu:8080/live/VM121628/56784321/325237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 RUGRATS
-http://tvmate.icu:8080/live/VM121628/56784321/325238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PUPPY DOG PALS
-http://tvmate.icu:8080/live/VM121628/56784321/325239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POWER RANGERS
-http://tvmate.icu:8080/live/VM121628/56784321/325240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POPEYE
-http://tvmate.icu:8080/live/VM121628/56784321/325241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 POKEMON
-http://tvmate.icu:8080/live/VM121628/56784321/325242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PJ MASKS
-http://tvmate.icu:8080/live/VM121628/56784321/325243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE SMURFS
-http://tvmate.icu:8080/live/VM121628/56784321/325245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PEPPA PIG
-http://tvmate.icu:8080/live/VM121628/56784321/325246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PAW PATROL
-http://tvmate.icu:8080/live/VM121628/56784321/325247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MY LITTLE PONY
-http://tvmate.icu:8080/live/VM121628/56784321/325248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MUPPET BABIES SHOW
-http://tvmate.icu:8080/live/VM121628/56784321/325249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MR BEAN ANIMATED
-http://tvmate.icu:8080/live/VM121628/56784321/325250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MICKEY MOUSE CLUBHOUSE
-http://tvmate.icu:8080/live/VM121628/56784321/325251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 HENRY DANGER
-http://tvmate.icu:8080/live/VM121628/56784321/325252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MARVEL AVENGERS ASSEMBLE
-http://tvmate.icu:8080/live/VM121628/56784321/325253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MCMILLAN AND WIFE
-http://tvmate.icu:8080/live/VM121628/56784321/325254.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LOONEY TUNES
-http://tvmate.icu:8080/live/VM121628/56784321/325255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LITTLE EINSTEINS
-http://tvmate.icu:8080/live/VM121628/56784321/325256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 LEGO STAR WARS
-http://tvmate.icu:8080/live/VM121628/56784321/325257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 JOHNY TEST
-http://tvmate.icu:8080/live/VM121628/56784321/325258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 MORTAL KOMBAT
-http://tvmate.icu:8080/live/VM121628/56784321/325259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 THE PJS
-http://tvmate.icu:8080/live/VM121628/56784321/325260.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 FRAGGLE ROCK
-http://tvmate.icu:8080/live/VM121628/56784321/325261.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ELENA OF AVALOR
-http://tvmate.icu:8080/live/VM121628/56784321/325262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DUCK TALES
-http://tvmate.icu:8080/live/VM121628/56784321/325263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DREAMWORKS ANIMATION
-http://tvmate.icu:8080/live/VM121628/56784321/325264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DRAGON BALL Z
-http://tvmate.icu:8080/live/VM121628/56784321/325265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CHICAGO MED
-http://tvmate.icu:8080/live/VM121628/56784321/325266.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DORA THE EXPLORER
-http://tvmate.icu:8080/live/VM121628/56784321/325267.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DISNEY SONGS
-http://tvmate.icu:8080/live/VM121628/56784321/325268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DISNEY Songs
-http://tvmate.icu:8080/live/VM121628/56784321/325269.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 DISNEY Movies
-http://tvmate.icu:8080/live/VM121628/56784321/325271.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 PARTS UNKNOWN
-http://tvmate.icu:8080/live/VM121628/56784321/325272.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AMERICAN PICKERS
-http://tvmate.icu:8080/live/VM121628/56784321/325273.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 CAPTAIN PLANET AND THE PLANETEERS
-http://tvmate.icu:8080/live/VM121628/56784321/325274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BLAZE AND THE MONSTER MACHINES
-http://tvmate.icu:8080/live/VM121628/56784321/325277.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BEN 10
-http://tvmate.icu:8080/live/VM121628/56784321/325278.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN THE ANIMATED SERIES
-http://tvmate.icu:8080/live/VM121628/56784321/325279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BATMAN BRAVE AND THE BOLD
-http://tvmate.icu:8080/live/VM121628/56784321/325280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 BARNEY
-http://tvmate.icu:8080/live/VM121628/56784321/325281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 A HAUNTING
-http://tvmate.icu:8080/live/VM121628/56784321/325282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 AVATAR
-http://tvmate.icu:8080/live/VM121628/56784321/325283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 ADVENTURE TIME
-http://tvmate.icu:8080/live/VM121628/56784321/325284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",24/7 GAME OF THRONES
-http://tvmate.icu:8080/live/VM121628/56784321/326080.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 All 80s Hits Channel**
-http://tvmate.icu:8080/live/VM121628/56784321/328650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Benny Hill**
-http://tvmate.icu:8080/live/VM121628/56784321/328685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Beverley Hills Cop Movies**
-http://tvmate.icu:8080/live/VM121628/56784321/328690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Big Bang Theory**
-http://tvmate.icu:8080/live/VM121628/56784321/328692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Chips**
-http://tvmate.icu:8080/live/VM121628/56784321/328735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Christmas Fireplace 1**
-http://tvmate.icu:8080/live/VM121628/56784321/328736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Christmas Music and Choir**
-http://tvmate.icu:8080/live/VM121628/56784321/328741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Clocking Off**
-http://tvmate.icu:8080/live/VM121628/56784321/328750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Dad's Army**
-http://tvmate.icu:8080/live/VM121628/56784321/328760.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Dallas**
-http://tvmate.icu:8080/live/VM121628/56784321/328761.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Dark Angel**
-http://tvmate.icu:8080/live/VM121628/56784321/328763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Dexter New Blood**
-http://tvmate.icu:8080/live/VM121628/56784321/328770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Doc Martin**
-http://tvmate.icu:8080/live/VM121628/56784321/328783.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Elvis The Collection**
-http://tvmate.icu:8080/live/VM121628/56784321/328791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Fishing**
-http://tvmate.icu:8080/live/VM121628/56784321/328801.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Floyd**
-http://tvmate.icu:8080/live/VM121628/56784321/328803.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Harry Potter Movies**
-http://tvmate.icu:8080/live/VM121628/56784321/328835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Married With Children**
-http://tvmate.icu:8080/live/VM121628/56784321/328898.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Roy Chubby Brown**
-http://tvmate.icu:8080/live/VM121628/56784321/328973.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Scary Movie**
-http://tvmate.icu:8080/live/VM121628/56784321/328975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Some Mothers Do Av Em**
-http://tvmate.icu:8080/live/VM121628/56784321/328985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Taxi**
-http://tvmate.icu:8080/live/VM121628/56784321/329010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Terry and June**
-http://tvmate.icu:8080/live/VM121628/56784321/329012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The A Team**
-http://tvmate.icu:8080/live/VM121628/56784321/329015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Brittas Empire**
-http://tvmate.icu:8080/live/VM121628/56784321/329020.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Darling Buds of May**
-http://tvmate.icu:8080/live/VM121628/56784321/329022.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The First 48**
-http://tvmate.icu:8080/live/VM121628/56784321/329029.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Good Life**
-http://tvmate.icu:8080/live/VM121628/56784321/329031.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Good Wife**
-http://tvmate.icu:8080/live/VM121628/56784321/329032.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Honeymooners**
-http://tvmate.icu:8080/live/VM121628/56784321/329035.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Man From U.N.C.L.E**
-http://tvmate.icu:8080/live/VM121628/56784321/329041.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The New Avengers**
-http://tvmate.icu:8080/live/VM121628/56784321/329044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 The Pacific**
-http://tvmate.icu:8080/live/VM121628/56784321/329052.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 CHANNELS",247 Two and a Half Men**
-http://tvmate.icu:8080/live/VM121628/56784321/329087.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/1920916.png" group-title="UK| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",PRIME| AMERICAN CRIMES ᴿᴬᵂ
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1920916&extension=ts&play_token=LyxwfcNwnq
