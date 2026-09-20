@@ -975,6 +975,8 @@ https://c.mjh.nz/abc-news.m3u8
 
 #####################################################################################################################################################################################################################
 #######################################################################################################################################################################################################################
+#####################################################################################################################################################################################################################
+
 
 #EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="24/7 CHANNELS" ,24 HOURS in A&E
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8  
@@ -983,6 +985,10 @@ https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extliv
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/2221/lg/13b87f/LG-Logo-PNG-100x100_v1.png"group-title="ENTERTAINMENT", REAL EMERGENCY
+https://d8eac4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUmVhbEVtZXJnZW5jeVN0YW5kYXJkX0hMUw/playlist.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="24/7 CHANNELS" ,MEDICAL AND RESCUE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS12.m3u8   
@@ -997,7 +1003,7 @@ https://i.mjh.nz/.r/10-medical-emergency.m3u8
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8  
 
 #EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="24/7 CHANNELS" ,BORDER SECURITY
-https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8   BORDER SECURITY
+https://csm-e-cesevextprdausw2live-0363db156d028b8f9.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8   BORDER SECURITY AUSTRALIA
 
 
 #EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="mjh-bluelight-fast" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="24/7 CHANNELS" ,BLUE LIGHT COPS
