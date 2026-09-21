@@ -2011,13 +2011,13 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #############################################
 
 
-#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , RACING.COM
+#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" ,RACING.COM
 https://npc-live-sevennetwork.akamaized.net/hls/live/RAC/hdntl=exp=1790041821~acl=%2f*~data=hdntl~hmac=a3b34468375e90f82a5618bec7c167112442c26a96534b6b3c01c7eee4226459/master_1500.m3u8
 
 #EXTINF:-1 channel-id="mjh-racing-fast" tvg-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" , Racing.com
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/racing-fast.m3u8
+https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
 
 
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
