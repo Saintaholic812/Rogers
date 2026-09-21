@@ -2011,8 +2011,8 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #############################################
 
 
-#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , Racing.com
-https://npc-live-sevennetwork.akamaized.net/hls/live/RAC/hdntl=exp=1789878513~acl=%2f*~data=hdntl~hmac=2a83952dd704245c2e1d44f8fa55591696c4ae26866a98f3137b36b1c27d7c45/master_1500.m3u8
+#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://iptv-epg.org/images/mVKJe2V_D7enSv39oXg8knmz3xEcFWbxEjJ-bYVfmnE-gi0Nyrh3FUK3nBz03o1pOtOPQTVz3CMElJgGNXIy37g2_-2Tv5PCFff18xBFeCDLgfD2Bw" group-title="HORSERACING" , RACING.COM
+https://npc-live-sevennetwork.akamaized.net/hls/live/RAC/hdntl=exp=1790041821~acl=%2f*~data=hdntl~hmac=a3b34468375e90f82a5618bec7c167112442c26a96534b6b3c01c7eee4226459/master_1500.m3u8
 
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
