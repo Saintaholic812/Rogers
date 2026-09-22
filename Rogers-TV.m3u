@@ -978,365 +978,365 @@ https://c.mjh.nz/abc-news.m3u8
 #####################################################################################################################################################################################################################
 
 
-#EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="24/7 CHANNELS" ,24 HOURS in A&E
+#EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="24/7" ,24 HOURS in A&E
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8  
 
-#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="24/7 CHANNELS" ,REAL EMERGENCY
+#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="24/7" ,REAL EMERGENCY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/2221/lg/13b87f/LG-Logo-PNG-100x100_v1.png"group-title="24/7 CHANNELS", REAL EMERGENCY
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/2221/lg/13b87f/LG-Logo-PNG-100x100_v1.png"group-title="24/7", REAL EMERGENCY
 https://d8eac4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUmVhbEVtZXJnZW5jeVN0YW5kYXJkX0hMUw/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="24/7 CHANNELS" ,MEDICAL AND RESCUE
+#EXTINF:-1 channel-id="mjh-medicalnrescue-fast" tvg-id="mjh-medicalnrescue-fast" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="24/7" ,MEDICAL AND RESCUE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS12.m3u8   
 
-#EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="24/7 CHANNELS" ,MEDICAL EMERGENCY
+#EXTINF:-1 channel-id="mjh-10-medical-emergency" tvg-id="mjh-10-medical-emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="24/7" ,MEDICAL EMERGENCY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="24/7 CHANNELS" ,BONDI RESCUE
+#EXTINF:-1 channel-id="mjh-cas41-fast" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="24/7" ,BONDI RESCUE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8  
 
-#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="24/7 CHANNELS" ,BORDER SECURITY AUSTRALIA
+#EXTINF:-1 channel-id="mjh-bordersecurityaustralia-fast" tvg-id="mjh-bordersecurityaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="24/7" ,BORDER SECURITY AUSTRALIA
 https://csm-e-cesevextprdausw2live-0363db156d028b8f9.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="mjh-bluelight-fast" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="24/7 CHANNELS" ,BLUE LIGHT COPS
+#EXTINF:-1 channel-id="mjh-bluelight-fast" tvg-id="mjh-bluelight-fast" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="24/7" ,BLUE LIGHT COPS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS13.m3u8  
 
-#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="24/7 CHANNELS" ,COPS
+#EXTINF:-1 channel-id="mjh-10-cops" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="24/7" ,COPS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-cops.m3u8
 
  
-#EXTINF:-1 channel-id="mjh-surveillancecentral-fast" tvg-id="mjh-surveillancecentral-fast" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="24/7 CHANNELS" ,SURVEILLANCE CENTRAL
+#EXTINF:-1 channel-id="mjh-surveillancecentral-fast" tvg-id="mjh-surveillancecentral-fast" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="24/7" ,SURVEILLANCE CENTRAL
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS19.m3u8 
 
-#EXTINF:-1 channel-id="mjh-truckinghell-fast" tvg-id="mjh-truckinghell-fast" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="24/7 CHANNELS" ,TRUCKING HELL
+#EXTINF:-1 channel-id="mjh-truckinghell-fast" tvg-id="mjh-truckinghell-fast" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="24/7" ,TRUCKING HELL
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS16.m3u8   
 
-#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="24/7 CHANNELS" ,OUTBACK TRUCKERS
+#EXTINF:-1 channel-id="mjh-outbacktruckers-fast" tvg-id="mjh-outbacktruckers-fast" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="24/7" ,OUTBACK TRUCKERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS18.m3u8   
 
 
-#EXTINF:-1 channel-id="538922" tvg-id="mjh-10-highwaythruhell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="24/7 CHANNELS",HIGHWAY THRU HELL
+#EXTINF:-1 channel-id="538922" tvg-id="mjh-10-highwaythruhell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="24/7",HIGHWAY THRU HELL
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-highwaythruhell.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1718-LG-Logo-PNG-100x100_v3.png" group-title="24/7 CHANNELS" ,ICE ROAD TRUCKERS
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1718-LG-Logo-PNG-100x100_v3.png" group-title="24/7" ,ICE ROAD TRUCKERS
 https://98537e86.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-wtn-fast" tvg-id="mjh-wtn-fast" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="24/7 CHANNELS" ,WICKED TUNA
+#EXTINF:-1 channel-id="mjh-wtn-fast" tvg-id="mjh-wtn-fast" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="24/7" ,WICKED TUNA
 https://csm-e-cesevextprdausw2live-0171c73eb398a49fe.bln1.yospace.com/csm/extlive/sevenprd01,WTN.m3u8   
 
-#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="mjh-cas21-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="24/7 CHANNELS" ,GHOST HUNTERS
+#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="mjh-cas21-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="24/7" ,GHOST HUNTERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS21.m3u8
 
-#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="24/7 CHANNELS" ,9Mystery&Paranormal
+#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="24/7" ,9Mystery&Paranormal
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-therealhousewivesvault-fast" tvg-id="mjh-therealhousewivesvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="24/7 CHANNELS" ,REAL HOUSEWIVES VAULT
+#EXTINF:-1 channel-id="mjh-therealhousewivesvault-fast" tvg-id="mjh-therealhousewivesvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="24/7" ,REAL HOUSEWIVES VAULT
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS36.m3u8
 
-#EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="24/7 CHANNELS" ,Seinfeld
+#EXTINF:-1 channel-id="mjh-seinfeld-fast" tvg-id="mjh-seinfeld-fast" tvg-logo="https://imageresizer.static9.net.au/yKlUxIHgYC5cpCmL1DYpRCQ6w4o=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585342%2Fgroup-61657.png" group-title="24/7" ,Seinfeld
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seinfeld-fast.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="GOLD TV " tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 CHANNELS",US - MALCOLM IN THE MIDDLE FHD
+#EXTINF:-1 tvg-id="" tvg-name="GOLD TV " tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7",MALCOLM IN THE MIDDLE FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTQwMDEyMy50cw==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="24/7 CHANNELS",Married with Children
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="24/7",Married with Children
 https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="24/7 CHANNELS",Duck Dynasty (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="24/7",Duck Dynasty (1080p)
 https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="24/7 CHANNELS" ,Becker
+#EXTINF:-1 channel-id="mjh-10-becker" tvg-id="mjh-10-becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="24/7" ,Becker
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-becker.m3u8
 
-#EXTINF:-1 channel-id="mjh-bbc-comedy-fast" tvg-id="mjh-bbc-comedy-fast" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="24/7 CHANNELS" ,BBC Comedy
+#EXTINF:-1 channel-id="mjh-bbc-comedy-fast" tvg-id="mjh-bbc-comedy-fast" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="24/7" ,BBC Comedy
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-comedy-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-married-at-first-sight-fast" tvg-id="mjh-married-at-first-sight-fast" tvg-logo="https://imageresizer.static9.net.au/OCF69HZLp4AWm0cGB8bvgx4U8mQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585176%2Fsquircle_mafs.png" group-title="24/7 CHANNELS" ,MARRIED AT FIRST SIGHT
+#EXTINF:-1 channel-id="mjh-married-at-first-sight-fast" tvg-id="mjh-married-at-first-sight-fast" tvg-logo="https://imageresizer.static9.net.au/OCF69HZLp4AWm0cGB8bvgx4U8mQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585176%2Fsquircle_mafs.png" group-title="24/7" ,MARRIED AT FIRST SIGHT
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-judgejudy-fast" tvg-id="mjh-judgejudy-fast" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="24/7 CHANNELS" ,JUDGE JUDY
+#EXTINF:-1 channel-id="mjh-judgejudy-fast" tvg-id="mjh-judgejudy-fast" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="24/7" ,JUDGE JUDY
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS15.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-judge-judy" tvg-id="mjh-10-judge-judy" tvg-logo="https://10.com.au/ip/s3/2022/09/02/461008ac0d02137f713ec0e4883be6c4-1177265.png?image-profile=logo" group-title="24/7 CHANNELS" ,Judge Judy
+#EXTINF:-1 channel-id="mjh-10-judge-judy" tvg-id="mjh-10-judge-judy" tvg-logo="https://10.com.au/ip/s3/2022/09/02/461008ac0d02137f713ec0e4883be6c4-1177265.png?image-profile=logo" group-title="24/7" ,Judge Judy
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-judge-judy.m3u8
 
-#EXTINF:-1 channel-id="mjh-hardcorepawn-fast" tvg-id="mjh-hardcorepawn-fast" tvg-logo="https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png" group-title="24/7 CHANNELS" ,HARDCORE PAWN
+#EXTINF:-1 channel-id="mjh-hardcorepawn-fast" tvg-id="mjh-hardcorepawn-fast" tvg-logo="https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png" group-title="24/7" ,HARDCORE PAWN
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS01.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-hardcorepawn" tvg-id="mjh-10-hardcorepawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="24/7 CHANNELS" ,HARDCORE PAWN
+#EXTINF:-1 channel-id="mjh-10-hardcorepawn" tvg-id="mjh-10-hardcorepawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="24/7" ,HARDCORE PAWN
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-hardcorepawn.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-aircrashinvestigations-fast" tvg-id="mjh-aircrashinvestigations-fast" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="24/7 CHANNELS" ,AIR CRASH Investigations
+#EXTINF:-1 channel-id="mjh-aircrashinvestigations-fast" tvg-id="mjh-aircrashinvestigations-fast" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="24/7" ,AIR CRASH Investigations
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS07.m3u8
 
-#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="24/7 CHANNELS" ,TRUE CRIME FILES
+#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="24/7" ,TRUE CRIME FILES
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS08.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="24/7 CHANNELS" ,7NEWS SPOTLIGHT
+#EXTINF:-1 channel-id="mjh-cas32-fast" tvg-id="mjh-cas32-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="24/7" ,7NEWS SPOTLIGHT
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS32.m3u8
 
-#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="24/7 CHANNELS" ,60 Minutes Australia
+#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="24/7" ,60 Minutes Australia
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-onthecase-fast" tvg-id="mjh-onthecase-fast" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="24/7 CHANNELS" ,ON THE CASE
+#EXTINF:-1 channel-id="mjh-onthecase-fast" tvg-id="mjh-onthecase-fast" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="24/7" ,ON THE CASE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS23.m3u8   
 
-#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="24/7 CHANNELS" ,9Crime
+#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="24/7" ,9Crime
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/9crime-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-h2-fast" tvg-id="mjh-h2-fast" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="24/7 CHANNELS" ,H2
+#EXTINF:-1 channel-id="mjh-h2-fast" tvg-id="mjh-h2-fast" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="24/7" ,H2
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/h2-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-historyandwarfare" tvg-id="mjh-10-historyandwarfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="24/7 CHANNELS" ,History & Warfare
+#EXTINF:-1 channel-id="mjh-10-historyandwarfare" tvg-id="mjh-10-historyandwarfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="24/7" ,History & Warfare
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-historyandwarfare.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-10-wicked-tuna" tvg-id="mjh-10-wicked-tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="24/7 CHANNELS" ,Wicked Tuna
+#EXTINF:-1 channel-id="mjh-10-wicked-tuna" tvg-id="mjh-10-wicked-tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="24/7" ,Wicked Tuna
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-wicked-tuna.m3u8
 
-#EXTINF:-1  tvg-id="091bf303c7fd2bc2ec6683b1dbbadae1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="24/7 CHANNELS",Storage Wars
+#EXTINF:-1  tvg-id="091bf303c7fd2bc2ec6683b1dbbadae1" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/091bf303c7fd2bc2ec6683b1dbbadae1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746034081194_Storage_Wars_HUD_logo_260x147_center_aligned.png" group-title="24/7",Storage Wars
 https://jmp2.uk/rok-091bf303c7fd2bc2ec6683b1dbbadae1.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-10-embarrassing-bodies" tvg-id="mjh-10-embarrassing-bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo" group-title="24/7 CHANNELS" , Embarrassing Bodies
+#EXTINF:-1 channel-id="mjh-10-embarrassing-bodies" tvg-id="mjh-10-embarrassing-bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo" group-title="24/7" , Embarrassing Bodies
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-highwaythruhell" tvg-id="mjh-10-highwaythruhell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="24/7 CHANNELS" ,Highway Thru Hell
+#EXTINF:-1 channel-id="mjh-10-highwaythruhell" tvg-id="mjh-10-highwaythruhell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="24/7" ,Highway Thru Hell
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-highwaythruhell.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="mjh-10-deadlywomen" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="24/7 CHANNELS" ,Deadly Women
+#EXTINF:-1 channel-id="mjh-10-deadlywomen" tvg-id="mjh-10-deadlywomen" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="24/7" ,Deadly Women
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-deadlywomen.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-crime-time" tvg-id="mjh-10-crime-time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="24/7 CHANNELS" ,Crime Time
+#EXTINF:-1 channel-id="mjh-10-crime-time" tvg-id="mjh-10-crime-time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="24/7" ,Crime Time
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-crime-time.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-crime-hunters" tvg-id="mjh-10-crime-hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="24/7 CHANNELS" ,Crime Hunters
+#EXTINF:-1 channel-id="mjh-10-crime-hunters" tvg-id="mjh-10-crime-hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="24/7" ,Crime Hunters
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-crime-hunters.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-logo="https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo" group-title="24/7 CHANNELS" ,48 Hours
+#EXTINF:-1 channel-id="mjh-10-forty-eight-hours" tvg-id="mjh-10-forty-eight-hours" tvg-logo="https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo" group-title="24/7" ,48 Hours
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="24/7 CHANNELS" ,True Stories
+#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="24/7" ,True Stories
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-true-stories.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="24/7 CHANNELS" ,Haunt TV
+#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="24/7" ,Haunt TV
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-haunt-tv.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-ghosthunters" tvg-id="mjh-10-ghosthunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="24/7 CHANNELS" ,Ghost Hunters
+#EXTINF:-1 channel-id="mjh-10-ghosthunters" tvg-id="mjh-10-ghosthunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="24/7" ,Ghost Hunters
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-ghosthunters.m3u8
 
-#EXTINF:-1 channel-id="mjh-cas24-fast" tvg-id="mjh-cas24-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="24/7 CHANNELS" ,BONDI VET
+#EXTINF:-1 channel-id="mjh-cas24-fast" tvg-id="mjh-cas24-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="24/7" ,BONDI VET
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS24.m3u8   
 
-#EXTINF:-1 channel-id="mjh-cas33-fast" tvg-id="mjh-cas33-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="24/7 CHANNELS" ,THE YORKSHIRE VET
+#EXTINF:-1 channel-id="mjh-cas33-fast" tvg-id="mjh-cas33-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="24/7" ,THE YORKSHIRE VET
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS33.m3u8   
 
-#EXTINF:-1 channel-id="mjh-taronga-247-fast" tvg-id="mjh-taronga-247-fast" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="24/7 CHANNELS" ,Taronga 24/7
+#EXTINF:-1 channel-id="mjh-taronga-247-fast" tvg-id="mjh-taronga-247-fast" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="24/7" ,Taronga 24/7
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/taronga-247-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="24/7 CHANNELS" ,MYTHBUSTERS
+#EXTINF:-1 channel-id="mjh-mythbusters-fast" tvg-id="mjh-mythbusters-fast" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="24/7" ,MYTHBUSTERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS05.m3u8   
 
-#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="24/7 CHANNELS" ,Sharks & Other Predators
+#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="24/7" ,Sharks & Other Predators
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-documentaryshell.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="24/7 CHANNELS" ,ANGLERS PARADISE
+#EXTINF:-1 channel-id="mjh-anglersparadise-fast" tvg-id="mjh-anglersparadise-fast" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="24/7" ,ANGLERS PARADISE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS17.m3u8  
 
-#EXTINF:-1 channel-id="mjh-mightymachines-fast" tvg-id="mjh-mightymachines-fast" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="24/7 CHANNELS" ,MIGHTY MACHINES
+#EXTINF:-1 channel-id="mjh-mightymachines-fast" tvg-id="mjh-mightymachines-fast" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="24/7" ,MIGHTY MACHINES
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS35.m3u8   
 
-#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="24/7 CHANNELS" , Drive
+#EXTINF:-1 channel-id="mjh-drive-fast" tvg-id="mjh-drive-fast" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="24/7" , Drive
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/drive-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-botchedvault-fast" tvg-id="mjh-botchedvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="24/7 CHANNELS" ,BOTCHED
+#EXTINF:-1 channel-id="mjh-botchedvault-fast" tvg-id="mjh-botchedvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="24/7" ,BOTCHED
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS37.m3u8  
 
-#EXTINF:-1 channel-id="mjh-heki-fast" tvg-id="mjh-heki-fast" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="24/7 CHANNELS" ,HELLS KITCHEN
+#EXTINF:-1 channel-id="mjh-heki-fast" tvg-id="mjh-heki-fast" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="24/7" ,HELLS KITCHEN
 https://csm-e-cesevextprdausw2live-0171c73eb398a49fe.bln1.yospace.com/csm/extlive/sevenprd01,HEKI.m3u8   
 
-#EXTINF:-1 channel-id="mjh-kitchennightmares-fast" tvg-id="mjh-kitchennightmares-fast" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="24/7 CHANNELS" ,KITCHEN NIGHTMARES
+#EXTINF:-1 channel-id="mjh-kitchennightmares-fast" tvg-id="mjh-kitchennightmares-fast" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="24/7" ,KITCHEN NIGHTMARES
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS10.m3u8  
 
-#EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="mjh-the-block-247-fast" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="24/7 CHANNELS" ,The Block 24/7
+#EXTINF:-1 channel-id="mjh-the-block-247-fast" tvg-id="mjh-the-block-247-fast" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="24/7" ,The Block 24/7
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/the-block-247-fast.m3u8
 
 
 
-#EXTINF:-1 channel-id="mjh-betterhomesandgardens-fast" tvg-id="mjh-betterhomesandgardens-fast" tvg-logo="https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png" group-title="24/7 CHANNELS" ,BETTER HOMES AND GARDEN
+#EXTINF:-1 channel-id="mjh-betterhomesandgardens-fast" tvg-id="mjh-betterhomesandgardens-fast" tvg-logo="https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png" group-title="24/7" ,BETTER HOMES AND GARDEN
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS03.m3u8   
 
-#EXTINF:-1 channel-id="mjh-bbc-home-garden-fast" tvg-id="mjh-bbc-home-garden-fast" tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="24/7 CHANNELS" ,BBC Home & Garden
+#EXTINF:-1 channel-id="mjh-bbc-home-garden-fast" tvg-id="mjh-bbc-home-garden-fast" tvg-logo="https://imageresizer.static9.net.au/RHsGPvwhtEktqfW-Tg4ygRMy1ug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648313%2Fgroup-61771.png" group-title="24/7" ,BBC Home & Garden
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-home-garden-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="mjh-bbc-food-fast" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="24/7 CHANNELS" ,BBC Food
+#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="mjh-bbc-food-fast" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="24/7" ,BBC Food
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-food-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-travelaustralia-fast" tvg-id="mjh-travelaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png" group-title="24/7 CHANNELS" ,TRAVEL AUSTRALIA
+#EXTINF:-1 channel-id="mjh-travelaustralia-fast" tvg-id="mjh-travelaustralia-fast" tvg-logo="https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png" group-title="24/7" ,TRAVEL AUSTRALIA
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS06.m3u8 
 
-#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="mjh-cas40-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="24/7 CHANNELS" ,MILLION DOLLAR LISTING VAULT
+#EXTINF:-1 channel-id="mjh-cas40-fast" tvg-id="mjh-cas40-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="24/7" ,MILLION DOLLAR LISTING VAULT
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS40.m3u8   
 
-#EXTINF:-1 channel-id="mjh-etc-fast" tvg-id="mjh-etc-fast" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="24/7 CHANNELS" ,ESCAPE TO THE COUNTRY
+#EXTINF:-1 channel-id="mjh-etc-fast" tvg-id="mjh-etc-fast" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="24/7" ,ESCAPE TO THE COUNTRY
 https://csm-e-cesevextprdausw2live-0171c73eb398a49fe.bln1.yospace.com/csm/extlive/sevenprd01,ETC.m3u8  
 
-#EXTINF:-1 channel-id="mjh-art-fast" tvg-id="mjh-art-fast" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="24/7 CHANNELS" ,ANTIQUE ROAD TRIP
+#EXTINF:-1 channel-id="mjh-art-fast" tvg-id="mjh-art-fast" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="24/7" ,ANTIQUE ROAD TRIP
 https://csm-e-cesevextprdausw2live-0171c73eb398a49fe.bln1.yospace.com/csm/extlive/sevenprd01,ART.m3u8   
 
-#EXTINF:-1 channel-id="mjh-bbc-antiques-roadshow-247-fast" tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="24/7 CHANNELS" ,BBC Antiques Roadshow
+#EXTINF:-1 channel-id="mjh-bbc-antiques-roadshow-247-fast" tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="24/7" ,BBC Antiques Roadshow
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-belowdeckvault-fast" tvg-id="mjh-belowdeckvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png" group-title="24/7 CHANNELS" ,BELOW DECK Vault
+#EXTINF:-1 channel-id="mjh-belowdeckvault-fast" tvg-id="mjh-belowdeckvault-fast" tvg-logo="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png" group-title="24/7" ,BELOW DECK Vault
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS22.m3u8   
 
-#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="24/7 CHANNELS" ,BBC Top Gear
+#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="24/7" ,BBC Top Gear
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-dance-moms-247-fast" tvg-id="mjh-dance-moms-247-fast" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="24/7 CHANNELS" ,Dance Moms 24/7
+#EXTINF:-1 channel-id="mjh-dance-moms-247-fast" tvg-id="mjh-dance-moms-247-fast" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="24/7" ,Dance Moms 24/7
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 
 
 
-#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="24/7 CHANNELS" ,CSI 
+#EXTINF:-1 channel-id="mjh-csicrimesceneinvestigation-fast" tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="24/7" ,CSI 
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS34.m3u8  
 
-#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="24/7 CHANNELS" ,NCIS
+#EXTINF:-1 channel-id="mjh-ncis-fast" tvg-id="mjh-ncis-fast" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="24/7" ,NCIS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS38.m3u8  
 
-#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="24/7 CHANNELS" ,BLUE HEELERS
+#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="24/7" ,BLUE HEELERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS11.m3u8   
 
-#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="24/7 CHANNELS" ,WATER RATS
+#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="24/7" ,WATER RATS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS30.m3u8   
 
-#EXTINF:-1 channel-id="mjh-allsaints-fast" tvg-id="mjh-allsaints-fast" tvg-logo="https://i.mjh.nz/.images/auto-allsaints-fast-ebad23.png" group-title="24/7 CHANNELS" ,ALL SAINTS
+#EXTINF:-1 channel-id="mjh-allsaints-fast" tvg-id="mjh-allsaints-fast" tvg-logo="https://i.mjh.nz/.images/auto-allsaints-fast-ebad23.png" group-title="24/7" ,ALL SAINTS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS04.m3u8   
 
-#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="24/7 CHANNELS" ,HOME AND AWAY Classics
+#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="24/7" ,HOME AND AWAY Classics
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS26.m3u8  
  
-#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="24/7 CHANNELS" ,A COUNTRY PRACTICE
+#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="24/7" ,A COUNTRY PRACTICE
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS09.m3u8
 
-#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="24/7 CHANNELS" ,WINNERS AND LOSERS
+#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="24/7" ,WINNERS AND LOSERS
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS20.m3u8  
  
-#EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="24/7 CHANNELS" ,ALL STAR CINEMA
+#EXTINF:-1 channel-id="mjh-all-starcinema-fast" tvg-id="mjh-all-starcinema-fast" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="24/7" ,ALL STAR CINEMA
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS14.m3u8  
 
-#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="24/7 CHANNELS" ,MOVIE SPHERE
+#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="24/7" ,MOVIE SPHERE
 https://csm-e-cesevextprdausw2live-0171c73eb398a49fe.bln1.yospace.com/csm/extlive/sevenprd01,MVS.m3u8   MOVIE SPHERE
 
-#EXTINF:-1 channel-id="mjh-ausbiz-fast" tvg-id="mjh-ausbiz-fast" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="24/7 CHANNELS" ,ausbiz
+#EXTINF:-1 channel-id="mjh-ausbiz-fast" tvg-id="mjh-ausbiz-fast" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="24/7" ,ausbiz
 https://d345918dkmjkok.cloudfront.net/public-output/index_1.m3u8   
 
-#EXTINF:-1 channel-id="mjh-tvsn-fast" tvg-id="mjh-tvsn-fast" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" tvg-chno="77" group-title="24/7 CHANNELS" ,TVSN
+#EXTINF:-1 channel-id="mjh-tvsn-fast" tvg-id="mjh-tvsn-fast" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" tvg-chno="77" group-title="24/7" ,TVSN
 https://tvsn.cdn.7livecloud.io/hls/live/2034711/TVSN-7PLUS/master_TVSN1.m3u8    
 
-#EXTINF:-1 channel-id="mjh-glasgowglory-fast" tvg-id="mjh-glasgowglory-fast" tvg-logo="https://i.mjh.nz/.images/auto-glasgowglory-fast-687d7c.png" group-title="24/7 CHANNELS" ,GLASGOW GLORY
+#EXTINF:-1 channel-id="mjh-glasgowglory-fast" tvg-id="mjh-glasgowglory-fast" tvg-logo="https://i.mjh.nz/.images/auto-glasgowglory-fast-687d7c.png" group-title="24/7" ,GLASGOW GLORY
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS27.m3u8  
 
-#EXTINF:-1 channel-id="mjh-livgolfreplays-fast" tvg-id="mjh-livgolfreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="24/7 CHANNELS" ,LIV GOLF REPLAY
+#EXTINF:-1 channel-id="mjh-livgolfreplays-fast" tvg-id="mjh-livgolfreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="24/7" ,LIV GOLF REPLAY
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS28.m3u8   
 
-#EXTINF:-1 channel-id="mjh-swimmingreplays-fast" tvg-id="mjh-swimmingreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="24/7 CHANNELS" ,Swimming Replays
+#EXTINF:-1 channel-id="mjh-swimmingreplays-fast" tvg-id="mjh-swimmingreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="24/7" ,Swimming Replays
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS29.m3u8   
 
-#EXTINF:-1 channel-id="mjh-athleticsreplays-fast" tvg-id="mjh-athleticsreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-athleticsreplays-fast-f68a21.png" group-title="24/7 CHANNELS" ,Athletics Replays
+#EXTINF:-1 channel-id="mjh-athleticsreplays-fast" tvg-id="mjh-athleticsreplays-fast" tvg-logo="https://i.mjh.nz/.images/auto-athleticsreplays-fast-f68a21.png" group-title="24/7" ,Athletics Replays
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS25.m3u8   
 
-#EXTINF:-1 channel-id="mjh-wnbl-townsville-tip-off-2026-fast" tvg-id="mjh-wnbl-townsville-tip-off-2026-fast" tvg-logo="https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png" group-title="24/7 CHANNELS" ,WNBL Townsville Tip-off 2026
+#EXTINF:-1 channel-id="mjh-wnbl-townsville-tip-off-2026-fast" tvg-id="mjh-wnbl-townsville-tip-off-2026-fast" tvg-logo="https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png" group-title="24/7" ,WNBL Townsville Tip-off 2026
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/wnbl-townsville-tip-off-2026-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-nrl-national-schoolboy-and-schoolgirl-cups-2026-fast" tvg-id="mjh-nrl-national-schoolboy-and-schoolgirl-cups-2026-fast" tvg-logo="https://imageresizer.static9.net.au/UTppD-95prZjw9jVTyppB8myAk0=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794922%2Fnhlsquircle.png" group-title="24/7 CHANNELS" ,NRL National Schoolboy and Schoolgirl Cups 2026
+#EXTINF:-1 channel-id="mjh-nrl-national-schoolboy-and-schoolgirl-cups-2026-fast" tvg-id="mjh-nrl-national-schoolboy-and-schoolgirl-cups-2026-fast" tvg-logo="https://imageresizer.static9.net.au/UTppD-95prZjw9jVTyppB8myAk0=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794922%2Fnhlsquircle.png" group-title="24/7" ,NRL National Schoolboy and Schoolgirl Cups 2026
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/nrl-national-schoolboy-and-schoolgirl-cups-2026-fast.m3u8
 
-#EXTINF:-1 channel-id="mjh-bbc-news-fast" tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" group-title="24/7 CHANNELS" , BBC News
+#EXTINF:-1 channel-id="mjh-bbc-news-fast" tvg-id="mjh-bbc-news-fast" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" group-title="24/7" , BBC News
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-news-fast.m3u8
@@ -1346,141 +1346,141 @@ https://i.mjh.nz/.r/bbc-news-fast.m3u8
 #################################################    9NOW CHANNELS    ###################################################################################################################################################
 ######################################################################################################################################################################################################################
 
-#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="24/7 CHANNELS" ,BBC Top Gear
+#EXTINF:-1 channel-id="mjh-bbc-top-gear-247-fast" tvg-id="mjh-bbc-top-gear-247-fast" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="24/7" ,BBC Top Gear
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="mjh-10-projectrunway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="24/7 CHANNELS" ,Project Runway
+#EXTINF:-1 channel-id="mjh-10-projectrunway" tvg-id="mjh-10-projectrunway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="24/7" ,Project Runway
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-projectrunway.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="24/7 CHANNELS" ,Prisoner: Cell Block H
+#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="24/7" ,Prisoner: Cell Block H
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-mtvridiculousness" tvg-id="mjh-10-mtvridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="24/7 CHANNELS" ,MTV Ridiculousness
+#EXTINF:-1 channel-id="mjh-10-mtvridiculousness" tvg-id="mjh-10-mtvridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="24/7" ,MTV Ridiculousness
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-mtvridiculousness.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" group-title="24/7 CHANNELS" ,The Graham Norton Show
+#EXTINF:-1 channel-id="mjh-10-grahamnorton" tvg-id="mjh-10-grahamnorton" tvg-logo="https://10.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png?image-profile=logo" group-title="24/7" ,The Graham Norton Show
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-grahamnorton.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="24/7 CHANNELS" ,8 Out Of 10 Cats
+#EXTINF:-1 channel-id="mjh-10-eightoutof10cats" tvg-id="mjh-10-eightoutof10cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="24/7" ,8 Out Of 10 Cats
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-haveyoubeenpayingattention" tvg-id="mjh-10-haveyoubeenpayingattention" tvg-logo="https://10.com.au/ip/s3/2024/12/17/20963e84ceedc64212b60c21c883e5c4-1356262.png?image-profile=logo" group-title="24/7 CHANNELS" ,Have You Been Paying Attention?
+#EXTINF:-1 channel-id="mjh-10-haveyoubeenpayingattention" tvg-id="mjh-10-haveyoubeenpayingattention" tvg-logo="https://10.com.au/ip/s3/2024/12/17/20963e84ceedc64212b60c21c883e5c4-1356262.png?image-profile=logo" group-title="24/7" ,Have You Been Paying Attention?
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-haveyoubeenpayingattention.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-cheapseats" tvg-id="mjh-10-cheapseats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="24/7 CHANNELS" ,The Cheap Seats
+#EXTINF:-1 channel-id="mjh-10-cheapseats" tvg-id="mjh-10-cheapseats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="24/7" ,The Cheap Seats
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-cheapseats.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-thankgodyourehere" tvg-id="mjh-10-thankgodyourehere" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="24/7 CHANNELS" ,Thank God You're Here
+#EXTINF:-1 channel-id="mjh-10-thankgodyourehere" tvg-id="mjh-10-thankgodyourehere" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="24/7" ,Thank God You're Here
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" group-title="24/7 CHANNELS" ,Adult Animation
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" group-title="24/7" ,Adult Animation
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-adultanimation.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-aussiedramapopup" tvg-id="mjh-10-aussiedramapopup" tvg-logo="https://10.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png?image-profile=logo" group-title="24/7 CHANNELS" ,Rush
+#EXTINF:-1 channel-id="mjh-10-aussiedramapopup" tvg-id="mjh-10-aussiedramapopup" tvg-logo="https://10.com.au/ip/s3/2023/01/24/082f00086b990e915cd774644d67484c-1213111.png?image-profile=logo" group-title="24/7" ,Rush
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-aussiedramapopup.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="24/7 CHANNELS" ,rookie-blue
+#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="24/7" ,rookie-blue
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-rookieblue.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="24/7 CHANNELS" ,Heartland
+#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="24/7" ,Heartland
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-heartland.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="24/7 CHANNELS" ,Diagnosis Murder
+#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="24/7" ,Diagnosis Murder
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-nexttopmodel" tvg-id="mjh-10-nexttopmodel" tvg-logo="https://10.com.au/ip/s3/2026/08/04/7b46b0620b6c96c6afcd7c47bf356f79-1448048.png?image-profile=logo" group-title="24/7 CHANNELS" ,Next Top Model
+#EXTINF:-1 channel-id="mjh-10-nexttopmodel" tvg-id="mjh-10-nexttopmodel" tvg-logo="https://10.com.au/ip/s3/2026/08/04/7b46b0620b6c96c6afcd7c47bf356f79-1448048.png?image-profile=logo" group-title="24/7" ,Next Top Model
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-nexttopmodel.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="24/7 CHANNELS" ,MasterChef
+#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="24/7" ,MasterChef
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-masterchef.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-world-of-survivor" tvg-id="mjh-10-world-of-survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="24/7 CHANNELS" ,World Of Survivor
+#EXTINF:-1 channel-id="mjh-10-world-of-survivor" tvg-id="mjh-10-world-of-survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="24/7" ,World Of Survivor
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-world-of-survivor.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-mtv-the-shores" tvg-id="mjh-10-mtv-the-shores" tvg-logo="https://10.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png?image-profile=logo" group-title="24/7 CHANNELS" ,MTV The Shores
+#EXTINF:-1 channel-id="mjh-10-mtv-the-shores" tvg-id="mjh-10-mtv-the-shores" tvg-logo="https://10.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png?image-profile=logo" group-title="24/7" ,MTV The Shores
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-mtv-the-shores.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-theonlywayisessex" tvg-id="mjh-10-theonlywayisessex" tvg-logo="https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo" group-title="24/7 CHANNELS" ,The Only Way Is Essex
+#EXTINF:-1 channel-id="mjh-10-theonlywayisessex" tvg-id="mjh-10-theonlywayisessex" tvg-logo="https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo" group-title="24/7" ,The Only Way Is Essex
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-theonlywayisessex.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="mjh-10-undercoverboss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo" group-title="24/7 CHANNELS" ,Undercover Boss
+#EXTINF:-1 channel-id="mjh-10-undercoverboss" tvg-id="mjh-10-undercoverboss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo" group-title="24/7" ,Undercover Boss
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-undercoverboss.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-10-anthonybourdain" tvg-id="mjh-10-anthonybourdain" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="24/7 CHANNELS" ,Anthony Bourdain: Parts Unknown
+#EXTINF:-1 channel-id="mjh-10-anthonybourdain" tvg-id="mjh-10-anthonybourdain" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="24/7" ,Anthony Bourdain: Parts Unknown
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-anthonybourdain.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-wildest" tvg-id="mjh-10-wildest" tvg-logo="https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo" group-title="24/7 CHANNELS" ,Wildest
+#EXTINF:-1 channel-id="mjh-10-wildest" tvg-id="mjh-10-wildest" tvg-logo="https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo" group-title="24/7" ,Wildest
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-wildest.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-shockwave" tvg-id="mjh-10-shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="24/7 CHANNELS" ,Shockwave
+#EXTINF:-1 channel-id="mjh-10-shockwave" tvg-id="mjh-10-shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="24/7" ,Shockwave
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-shockwave.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-10-seasonalmovies" tvg-id="mjh-10-seasonalmovies" tvg-logo="https://10.com.au/ip/s3/2024/04/01/86e45216ee9df7d873e393dccb379d94-1306209.png?image-profile=logo" group-title="24/7 CHANNELS" ,Thriller Movies
+#EXTINF:-1 channel-id="mjh-10-seasonalmovies" tvg-id="mjh-10-seasonalmovies" tvg-logo="https://10.com.au/ip/s3/2024/04/01/86e45216ee9df7d873e393dccb379d94-1306209.png?image-profile=logo" group-title="24/7" ,Thriller Movies
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-seasonalmovies.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="24/7 CHANNELS" ,Moviesphere
+#EXTINF:-1 channel-id="mjh-10-moviesphere" tvg-id="mjh-10-moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="24/7" ,Moviesphere
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-moviesphere.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-10-geckotv" tvg-id="mjh-10-geckotv" tvg-logo="https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo" tvg-chno="17" group-title="24/7 CHANNELS" ,Gecko TV
+#EXTINF:-1 channel-id="mjh-10-geckotv" tvg-id="mjh-10-geckotv" tvg-logo="https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo" tvg-chno="17" group-title="24/7" ,Gecko TV
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-geckotv.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-youtv" tvg-id="mjh-10-youtv" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo" tvg-chno="16" group-title="24/7 CHANNELS" ,YouTV
+#EXTINF:-1 channel-id="mjh-10-youtv" tvg-id="mjh-10-youtv" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo" tvg-chno="16" group-title="24/7" ,YouTV
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-youtv.m3u8
@@ -2092,49 +2092,48 @@ https://blc2cr.linkip.org/live/90032_.m3u8?play
 
 ################################################################################################################################################################################################################################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/m90TV2c.png"
-
-#EXTINF:-1 tvg-chno="417" channel-number="417" tvg-id="417" tvg-name="24/7: Avengers Movies" tvg-logo="http://icons.tw:8080/images/113e21faf20f79a720aa1d528e4ceb40.jpg" group-title="24/7 Channels",24/7: Avengers Movies
+#EXTINF:-1 tvg-chno="417" channel-number="417" tvg-id="417" tvg-name="24/7: Avengers Movies" tvg-logo="http://icons.tw:8080/images/113e21faf20f79a720aa1d528e4ceb40.jpg" group-title="24/7 MOVIES",24/7: Avengers Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223944.m3u8
-#EXTINF:-1 tvg-chno="418" channel-number="418" tvg-id="418" tvg-name="24/7: Die Hard Movies" tvg-logo="http://icons.tw:8080/images/f24e16dd848ab01ae232fb5a69c6d20c.jpg" group-title="24/7 Channels",24/7: Die Hard Movies
+#EXTINF:-1 tvg-chno="418" channel-number="418" tvg-id="418" tvg-name="24/7: Die Hard Movies" tvg-logo="http://icons.tw:8080/images/f24e16dd848ab01ae232fb5a69c6d20c.jpg" group-title="24/7 MOVIES",24/7: Die Hard Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224065.m3u8
-#EXTINF:-1 tvg-chno="419" channel-number="419" tvg-id="419" tvg-name="24/7: Jurassic Park Movies" tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="24/7 Channels",24/7: Jurassic Park Movies
+#EXTINF:-1 tvg-chno="419" channel-number="419" tvg-id="419" tvg-name="24/7: Jurassic Park Movies" tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="24/7 MOVIES",24/7: Jurassic Park Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224244.m3u8
-#EXTINF:-1 tvg-chno="420" channel-number="420" tvg-id="420" tvg-name="24/7: Mission Impossible Movies" tvg-logo="http://icons.tw:8080/images/09dface9166acc57e4c40af950433d4e.jpg" group-title="24/7 Channels",24/7: Mission Impossible Movies
+#EXTINF:-1 tvg-chno="420" channel-number="420" tvg-id="420" tvg-name="24/7: Mission Impossible Movies" tvg-logo="http://icons.tw:8080/images/09dface9166acc57e4c40af950433d4e.jpg" group-title="24/7 MOVIES",24/7: Mission Impossible Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224338.m3u8
-#EXTINF:-1 tvg-chno="421" channel-number="421" tvg-id="421" tvg-name="24/7: Superman Movies" tvg-logo="http://icons.tw:8080/images/0bed7b0960e761a5b81e6dff02ecaca2.jpg" group-title="24/7 Channels",24/7: Superman Movies
+#EXTINF:-1 tvg-chno="421" channel-number="421" tvg-id="421" tvg-name="24/7: Superman Movies" tvg-logo="http://icons.tw:8080/images/0bed7b0960e761a5b81e6dff02ecaca2.jpg" group-title="24/7 MOVIES",24/7: Superman Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224558.m3u8
-#EXTINF:-1 tvg-chno="422" channel-number="422" tvg-id="422" tvg-name="24/7: Terminator Movies" tvg-logo="http://icons.tw:8080/images/c2c199efbcae56ce2081e3d404a4dce0.jpg" group-title="24/7 Channels",24/7: Terminator Movies
+#EXTINF:-1 tvg-chno="422" channel-number="422" tvg-id="422" tvg-name="24/7: Terminator Movies" tvg-logo="http://icons.tw:8080/images/c2c199efbcae56ce2081e3d404a4dce0.jpg" group-title="24/7 MOVIES",24/7: Terminator Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224580.m3u8
-#EXTINF:-1 tvg-chno="423" channel-number="423" tvg-id="423" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://icons.tw:8080/images/6a86640b2e2a72097b54bce52264d18c.jpg" group-title="24/7 Channels",24/7: Fast and Furious Movies
+#EXTINF:-1 tvg-chno="423" channel-number="423" tvg-id="423" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://icons.tw:8080/images/6a86640b2e2a72097b54bce52264d18c.jpg" group-title="24/7 MOVIES",24/7: Fast and Furious Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224112.m3u8
-#EXTINF:-1 tvg-chno="424" channel-number="424" tvg-id="424" tvg-name="24/7: Jaws Movies" tvg-logo="http://icons.tw:8080/images/9b0621e66994eeff42e96e1dc68a9add.jpg" group-title="24/7 Channels",24/7: Jaws Movies
+#EXTINF:-1 tvg-chno="424" channel-number="424" tvg-id="424" tvg-name="24/7: Jaws Movies" tvg-logo="http://icons.tw:8080/images/9b0621e66994eeff42e96e1dc68a9add.jpg" group-title="24/7 MOVIES",24/7: Jaws Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224235.m3u8
-#EXTINF:-1 tvg-chno="425" channel-number="425" tvg-id="425" tvg-name="24/7: John Wick Movies" tvg-logo="http://icons.tw:8080/images/b91ccee3aa5222dd7e396a149159a22c.jpg" group-title="24/7 Channels",24/7: John Wick Movies
+#EXTINF:-1 tvg-chno="425" channel-number="425" tvg-id="425" tvg-name="24/7: John Wick Movies" tvg-logo="http://icons.tw:8080/images/b91ccee3aa5222dd7e396a149159a22c.jpg" group-title="24/7 MOVIES",24/7: John Wick Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224239.m3u8
-#EXTINF:-1 tvg-chno="426" channel-number="426" tvg-id="426" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://icons.tw:8080/images/6a86640b2e2a72097b54bce52264d18c.jpg" group-title="24/7 Channels",24/7: Fast and Furious Movies
+#EXTINF:-1 tvg-chno="426" channel-number="426" tvg-id="426" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://icons.tw:8080/images/6a86640b2e2a72097b54bce52264d18c.jpg" group-title="24/7 MOVIES",24/7: Fast and Furious Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224112.m3u8
-#EXTINF:-1 tvg-chno="427" channel-number="427" tvg-id="427" tvg-name="24/7: Alien Movies" tvg-logo="http://icons.tw:8080/images/b488f960d12383a4a9ace0d4bce773cc.jpg" group-title="24/7 Channels",24/7: Alien Movies
+#EXTINF:-1 tvg-chno="427" channel-number="427" tvg-id="427" tvg-name="24/7: Alien Movies" tvg-logo="http://icons.tw:8080/images/b488f960d12383a4a9ace0d4bce773cc.jpg" group-title="24/7 MOVIES",24/7: Alien Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223912.m3u8
-#EXTINF:-1 tvg-chno="428" channel-number="428" tvg-id="428" tvg-name="24/7: 007 James Bond Movies" tvg-logo="https://artworks.thetvdb.com/banners/movies/186469/posters/gChsKD2ami2juo8n0oDjAlx9IUv.jpg" group-title="24/7 Channels",24/7: 007 James Bond Movies
+#EXTINF:-1 tvg-chno="428" channel-number="428" tvg-id="428" tvg-name="24/7: 007 James Bond Movies" tvg-logo="https://artworks.thetvdb.com/banners/movies/186469/posters/gChsKD2ami2juo8n0oDjAlx9IUv.jpg" group-title="24/7 MOVIES",24/7: 007 James Bond Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299168.m3u8
-#EXTINF:-1 tvg-chno="429" channel-number="429" tvg-id="429" tvg-name="24/7: Friday the 13th" tvg-logo="http://icons.tw:8080/images/5edae3e9f0a70877f0dc3fb273aea1c5.jpg" group-title="24/7 Channels",24/7: Friday the 13th
+#EXTINF:-1 tvg-chno="429" channel-number="429" tvg-id="429" tvg-name="24/7: Friday the 13th" tvg-logo="http://icons.tw:8080/images/5edae3e9f0a70877f0dc3fb273aea1c5.jpg" group-title="24/7 MOVIES",24/7: Friday the 13th
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224134.m3u8
 
-#EXTINF:-1 channel-number="430" tvg-chno="430" tvg-id="430" tvg-name="24/7: Planet of the Apes Movies" tvg-logo="http://icons.tw:8080/images/cf8414788fd5640054f3afbedd6bbc89.jpg" group-title="24/7 Channels",24/7: Planet of the Apes Movies
+#EXTINF:-1 channel-number="430" tvg-chno="430" tvg-id="430" tvg-name="24/7: Planet of the Apes Movies" tvg-logo="http://icons.tw:8080/images/cf8414788fd5640054f3afbedd6bbc89.jpg" group-title="24/7 MOVIES",24/7: Planet of the Apes Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224416.m3u8
-#EXTINF:-1 channel-number="431" tvg-chno="431" tvg-id="431" tvg-name="24/7: Transformers" tvg-logo="http://icons.tw:8080/images/e2b4a5977c97803d4f0738bc3a2fd2b4.jpg" group-title="24/7 Channels",24/7: Transformers
+#EXTINF:-1 channel-number="431" tvg-chno="431" tvg-id="431" tvg-name="24/7: Transformers" tvg-logo="http://icons.tw:8080/images/e2b4a5977c97803d4f0738bc3a2fd2b4.jpg" group-title="24/7 MOVIES",24/7: Transformers
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224784.m3u8
-#EXTINF:-1 channel-number="432" tvg-chno="432" tvg-id="432" tvg-name="24/7: Transformers Movies" tvg-logo="http://icons.tw:8080/images/81c5fa1d6ae4d6590c9b4733e3f98737.jpg" group-title="24/7 Channels",24/7: Transformers Movies
+#EXTINF:-1 channel-number="432" tvg-chno="432" tvg-id="432" tvg-name="24/7: Transformers Movies" tvg-logo="http://icons.tw:8080/images/81c5fa1d6ae4d6590c9b4733e3f98737.jpg" group-title="24/7 MOVIES",24/7: Transformers Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224785.m3u8
-#EXTINF:-1 channel-number="433" tvg-chno="433" tvg-id="433" tvg-name="24/7: Transformers Rescue Bots" tvg-logo="http://icons.tw:8080/images/8ba3a3ddaf87511d56a8846d0dab5626.jpg" group-title="24/7 Channels",24/7: Transformers Rescue Bots
+#EXTINF:-1 channel-number="433" tvg-chno="433" tvg-id="433" tvg-name="24/7: Transformers Rescue Bots" tvg-logo="http://icons.tw:8080/images/8ba3a3ddaf87511d56a8846d0dab5626.jpg" group-title="24/7 MOVIES",24/7: Transformers Rescue Bots
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299213.m3u8
-#EXTINF:-1 channel-number="434" tvg-chno="434" tvg-id="434" tvg-name="24/7: Transformers War For Cybertron Trilogy" tvg-logo="http://icons.tw:8080/images/955a20ee4e11d48e5a7d0210fa4adc4b.jpg" group-title="24/7 Channels",24/7: Transformers War For Cybertron Trilogy
+#EXTINF:-1 channel-number="434" tvg-chno="434" tvg-id="434" tvg-name="24/7: Transformers War For Cybertron Trilogy" tvg-logo="http://icons.tw:8080/images/955a20ee4e11d48e5a7d0210fa4adc4b.jpg" group-title="24/7 MOVIES",24/7: Transformers War For Cybertron Trilogy
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299319.m3u8
 
 
-#EXTINF:-1 tvg-chno="435" channel-number="435" tvg-id="435" tvg-name="24/7: Rocky Movies" tvg-logo="http://icons.tw:8080/images/fc88a2aacde720ffe4bfcab8b0000e95.jpg" group-title="24/7 Channels",24/7: Rocky Movies
+#EXTINF:-1 tvg-chno="435" channel-number="435" tvg-id="435" tvg-name="24/7: Rocky Movies" tvg-logo="http://icons.tw:8080/images/fc88a2aacde720ffe4bfcab8b0000e95.jpg" group-title="24/7 MOVIES",24/7: Rocky Movies
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224460.m3u8
+
 #EXTINF:-1 tvg-chno="436" channel-number="436" tvg-id="436" tvg-name="24/7: 11.22.63" tvg-logo="http://icons.tw:8080/images/2a2304ac97754866cd9f9f67dc20ea32.jpg" group-title="24/7 Channels",24/7: 11.22.63
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223872.m3u8
 #EXTINF:-1 tvg-chno="437" channel-number="437" tvg-id="437" tvg-name="24/7: 18 Wheels of Justice" tvg-logo="http://icons.tw:8080/images/dcf6070a4ab7f3afbfd2809173e0824b.jpg" group-title="24/7 Channels",24/7: 18 Wheels of Justice
