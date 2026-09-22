@@ -1007,6 +1007,9 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:80:E8&stream=1600209&exte
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-documentaryshell.m3u8
 
+#EXTINF:-1 tvg-chno="585" channel-number="585" tvg-id="585" tvg-name="24/7: Quickdraw McGraw" tvg-logo="http://icons.tw:8080/images/fd49eb3bcdc3c7ffcbb4035903a18c72.jpg" group-title="KIDS",24/7: Quickdraw McGraw
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298878.m3u8
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",24/7 BILLY THE EXTERMINATOR
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325136.m3u8
 
