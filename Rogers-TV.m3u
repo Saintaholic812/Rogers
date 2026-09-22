@@ -2011,8 +2011,10 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #############################################
 
 
-#EXTINF:-1  channel_id="Racingcom.au"  tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="HORSERACING" ,RACING.COM
-https://racingvic-ll-i.akamaized.net/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/index-ll-ts_1.m3u8?_HLS_msn=22918379&_HLS_part=1
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING.COM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://racingvic-ll-i.akamaized.net/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/index-ll-ts_1.m3u8
 
 #EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" , Racing.com
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
