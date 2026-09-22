@@ -3818,57 +3818,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993020/hls/master.m3u8?ads.xumo_cha
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 channel-id="mjh-cas26-fast" tvg-id="mjh-cas26-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="TV SHOWS",Home and Away Classics
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/cas26-fast.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-waterrats-fast" tvg-id="mjh-waterrats-fast" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="TV SHOWS", Water Rats
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/waterrats-fast.m3u8
-
-#EXTINF:-1 channel-id="mjh-blueheelers-fast" tvg-id="mjh-blueheelers-fast" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="TV SHOWS", Blue Heelers
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/blueheelers-fast.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-acountrypractice-fast" tvg-id="mjh-acountrypractice-fast" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="TV SHOWS", A Country Practice
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/acountrypractice-fast.m3u8
-
-
-#EXTINF:-1 channel-id="mjh-winnersnlosers-fast" tvg-id="mjh-winnersnlosers-fast" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="TV SHOWS", Winners and Losers
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-rookieblue" tvg-id="mjh-10-rookieblue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="TV SHOWS", ROOKIE BLUE
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-rookieblue.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-heartland" tvg-id="mjh-10-heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="TV SHOWS", Heartland
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-heartland.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-prisoner-cell-block-h" tvg-id="mjh-10-prisoner-cell-block-h" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="TV SHOWS", Prisoner: Cell Block H
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gsn/channels/1074-400x200.png?1" group-title="TV SHOWS",GET
-https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-diagnosismurder" tvg-id="mjh-10-diagnosismurder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="TV SHOWS", Diagnosis Murder
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-diagnosismurder.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTVScifiSeries.us" tvg-name="Pluto TV Sci-fi Series" group-title="TV SHOWS",  x-source-url="https://pluto.tv/en/live-tv/pluto-tv-sci-fi-series-gb",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 
@@ -4963,12 +4912,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9998405
 #EXTINF:-1 channel-id="634f3011f4fff20007431641" tvg-id="634f3011f4fff20007431641" tvg-chno="540" tvg-name="I Love Lucy" tvg-logo="https://images.pluto.tv/channels/634f3011f4fff20007431641/colorLogoPNG_1731836749484.png" group-title="CLASSIC TV", I Love Lucy
 https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-the-twilight-zone" tvg-id="mjh-10-the-twilight-zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="CLASSIC TV", The Twilight Zone
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99984050/600x200.png?type=white_cropped"group-title="CLASSIC TV",Lassie
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984050&ads.xumo_streamId=99984050&ads.channelId=99984050&ads.ad_tag_id=149250&ads.csid=lgchannels_au_nbculassie_ssai&ads.channelName=lassie_au&ads.xumo_contentName=NBCULassie&ads.xumo_contentId=3946&ads.xumo_providerName=NBCULassie&ads.xumo_providerId=3946&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-pg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -5041,22 +4984,8 @@ https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
 #EXTINF:-1 tvg-id="Matlock.us" tvg-name="Matlock" group-title="CLASSIC TV",  x-source-url="https://pluto.tv/en/live-tv/matlock",Matlock
 https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="NashBridges.us" tvg-name="Nash Bridges" group-title="CLASSIC TV",  x-source-url="https://lionsgatechannels.com/channel/nash-bridges",Nash Bridges
 https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
-
-
-
-########################################################################################################################################################################################################################
-
-
-
-##########################################    DISCOVERY / DOCUMENTARY     ###############################################################################################################
-
-
-#################################    100%   WORKING    #######################################################################################################
 
 ###########################################################################################################################################################################################################################
 #######################################################################################################################################################################################################################
@@ -5659,6 +5588,144 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 ################################################################     MOVIES      #####################################################################################################################################
 #####################################################################################################################################################################################################################
 #####################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-chno="707" channel-number="707" tvg-id="707" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="Box Office" group-title="Box Office",BOX OFFICE PREMIUM 1
+https://blc2cr.linkip.org/live/90036_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="707" channel-number="707" tvg-id="707" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="Box Office" group-title="Box Office",BOX OFFICE PREMIUM 2
+https://blc2cr.linkip.org/live/90037_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="708" channel-number="708" tvg-id="709" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="Box Office" group-title="Box Office",BOX OFFICE PREMIUM 3
+https://blc2cr.linkip.org/live/90038_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="709" channel-number="708" tvg-id="709" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="Box Office" group-title="Box Office",BOX OFFICE PREMIUM 5
+https://blc2cr.linkip.org/live/90116_.m3u8?play=
+
+
+#EXTINF:-1 tvg-chno="709" channel-number="708" tvg-id="709" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="Box Office" group-title="Box Office",BOX OFFICE PREMIUM 6
+https://blc2cr.linkip.org/live/90117_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="710" channel-number="710" tvg-id="710" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="Box Office" group-title="Box Office",BOX OFFICE PREMIUM 7
+https://blc2cr.linkip.org/live/90118_.m3u8?play=
+
+
+
+
+#EXTINF:-1 tvg-chno="710" channel-number="710" tvg-id="710" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 1" group-title="Box Office",BOX OFFICE 1
+https://blc2cr.linkip.org/live/90013_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="711" channel-number="711" tvg-id="711" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 2" group-title="Box Office",BOX OFFICE 2
+https://blc2cr.linkip.org/live/90014_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="712" channel-number="712" tvg-id="712" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 3" group-title="Box Office",BOX OFFICE 3
+https://blc2cr.linkip.org/live/90015_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="713" channel-number="713" tvg-id="713" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 4" group-title="Box Office",BOX OFFICE 4
+https://blc2cr.linkip.org/live/90016_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="714" channel-number="714" tvg-id="714" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 5" group-title="Box Office",BOX OFFICE 5
+https://blc2cr.linkip.org/live/90017_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="715" channel-number="715" tvg-id="715" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 6" group-title="Box Office",BOX OFFICE 6
+https://blc2cr.linkip.org/live/90018_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="716" channel-number="716" tvg-id="716" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 7" group-title="Box Office",BOX OFFICE 7
+https://blc2cr.linkip.org/live/90019_.m3u8?play=
+
+
+#EXTINF:-1 tvg-chno="718" channel-number="718" tvg-id="718" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 9" group-title="Box Office",BOX OFFICE 9
+https://blc2cr.linkip.org/live/90020_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="719" channel-number="719" tvg-id="719" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 10" group-title="Box Office",BOX OFFICE 10
+https://blc2cr.linkip.org/live/90021_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="720" channel-number="720" tvg-id="720" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 11" group-title="Box Office",BOX OFFICE 11
+https://blc2cr.linkip.org/live/90022_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="721" channel-number="721" tvg-id="721" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 12" group-title="Box Office",BOX OFFICE 12
+https://blc2cr.linkip.org/live/90023_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="722" channel-number="722" tvg-id="722" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 13" group-title="Box Office",BOX OFFICE KIDS 1
+https://blc2cr.linkip.org/live/90024_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="723" channel-number="723" tvg-id="723" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 14" group-title="Box Office",BOX OFFICE KIDS 2
+https://blc2cr.linkip.org/live/90025_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="724" channel-number="724" tvg-id="724" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 15" group-title="Box Office",BOX OFFICE KIDS 3
+https://blc2cr.linkip.org/live/90026_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="725" channel-number="725" tvg-id="725" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 16" group-title="Box Office",BOX OFFICE KIDS 4
+https://blc2cr.linkip.org/live/90027_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="726" channel-number="726" tvg-id="726" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 17" group-title="Box Office",BOX OFFICE KIDS 5
+https://blc2cr.linkip.org/live/90028_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="727" channel-number="727" tvg-id="727" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 18" group-title="Box Office",BOX OFFICE KIDS 6
+https://blc2cr.linkip.org/live/90029_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="728" channel-number="728" tvg-id="728" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 19" group-title="Box Office",BOX OFFICE KIDS 7
+https://blc2cr.linkip.org/live/90030_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="729" channel-number="729" tvg-id="729" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 20" group-title="Box Office",BOX OFFICE KIDS 8
+https://blc2cr.linkip.org/live/90031_.m3u8?play=
+
+#EXTINF:-1 tvg-chno="730" channel-number="730" tvg-id="730" tvg-logo="https://i.imgur.com/eayZORk.jpeg" tvg-name="BOX OFFICE PREMIUM 21" group-title="Box Office",BOX OFFICE KIDS 9
+https://blc2cr.linkip.org/live/90032_.m3u8?play
+
+
+**********24/7 CHANNELS**********
+
+#EXTINF:-1 group-logo="https://i.imgur.com/m90TV2c.png"
+
+#EXTINF:-1 tvg-chno="417" channel-number="417" tvg-id="417" tvg-name="24/7: Avengers Movies" tvg-logo="http://icons.tw:8080/images/113e21faf20f79a720aa1d528e4ceb40.jpg" group-title="24/7 MOVIES",24/7: Avengers Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/223944.m3u8
+#EXTINF:-1 tvg-chno="418" channel-number="418" tvg-id="418" tvg-name="24/7: Die Hard Movies" tvg-logo="http://icons.tw:8080/images/f24e16dd848ab01ae232fb5a69c6d20c.jpg" group-title="24/7 MOVIES",24/7: Die Hard Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224065.m3u8
+#EXTINF:-1 tvg-chno="419" channel-number="419" tvg-id="419" tvg-name="24/7: Jurassic Park Movies" tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="24/7 MOVIES",24/7: Jurassic Park Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224244.m3u8
+#EXTINF:-1 tvg-chno="420" channel-number="420" tvg-id="420" tvg-name="24/7: Mission Impossible Movies" tvg-logo="http://icons.tw:8080/images/09dface9166acc57e4c40af950433d4e.jpg" group-title="24/7 MOVIES",24/7: Mission Impossible Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224338.m3u8
+#EXTINF:-1 tvg-chno="421" channel-number="421" tvg-id="421" tvg-name="24/7: Superman Movies" tvg-logo="http://icons.tw:8080/images/0bed7b0960e761a5b81e6dff02ecaca2.jpg" group-title="24/7 MOVIES",24/7: Superman Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224558.m3u8
+#EXTINF:-1 tvg-chno="422" channel-number="422" tvg-id="422" tvg-name="24/7: Terminator Movies" tvg-logo="http://icons.tw:8080/images/c2c199efbcae56ce2081e3d404a4dce0.jpg" group-title="24/7 MOVIES",24/7: Terminator Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224580.m3u8
+#EXTINF:-1 tvg-chno="423" channel-number="423" tvg-id="423" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://icons.tw:8080/images/6a86640b2e2a72097b54bce52264d18c.jpg" group-title="24/7 MOVIES",24/7: Fast and Furious Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224112.m3u8
+#EXTINF:-1 tvg-chno="424" channel-number="424" tvg-id="424" tvg-name="24/7: Jaws Movies" tvg-logo="http://icons.tw:8080/images/9b0621e66994eeff42e96e1dc68a9add.jpg" group-title="24/7 MOVIES",24/7: Jaws Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224235.m3u8
+#EXTINF:-1 tvg-chno="425" channel-number="425" tvg-id="425" tvg-name="24/7: John Wick Movies" tvg-logo="http://icons.tw:8080/images/b91ccee3aa5222dd7e396a149159a22c.jpg" group-title="24/7 MOVIES",24/7: John Wick Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224239.m3u8
+#EXTINF:-1 tvg-chno="426" channel-number="426" tvg-id="426" tvg-name="24/7: Fast and Furious Movies" tvg-logo="http://icons.tw:8080/images/6a86640b2e2a72097b54bce52264d18c.jpg" group-title="24/7 MOVIES",24/7: Fast and Furious Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224112.m3u8
+#EXTINF:-1 tvg-chno="427" channel-number="427" tvg-id="427" tvg-name="24/7: Alien Movies" tvg-logo="http://icons.tw:8080/images/b488f960d12383a4a9ace0d4bce773cc.jpg" group-title="24/7 MOVIES",24/7: Alien Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/223912.m3u8
+#EXTINF:-1 tvg-chno="428" channel-number="428" tvg-id="428" tvg-name="24/7: 007 James Bond Movies" tvg-logo="https://artworks.thetvdb.com/banners/movies/186469/posters/gChsKD2ami2juo8n0oDjAlx9IUv.jpg" group-title="24/7 MOVIES",24/7: 007 James Bond Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/299168.m3u8
+#EXTINF:-1 tvg-chno="429" channel-number="429" tvg-id="429" tvg-name="24/7: Friday the 13th" tvg-logo="http://icons.tw:8080/images/5edae3e9f0a70877f0dc3fb273aea1c5.jpg" group-title="24/7 MOVIES",24/7: Friday the 13th
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224134.m3u8
+
+#EXTINF:-1 channel-number="430" tvg-chno="430" tvg-id="430" tvg-name="24/7: Planet of the Apes Movies" tvg-logo="http://icons.tw:8080/images/cf8414788fd5640054f3afbedd6bbc89.jpg" group-title="24/7 MOVIES",24/7: Planet of the Apes Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224416.m3u8
+#EXTINF:-1 channel-number="431" tvg-chno="431" tvg-id="431" tvg-name="24/7: Transformers" tvg-logo="http://icons.tw:8080/images/e2b4a5977c97803d4f0738bc3a2fd2b4.jpg" group-title="24/7 MOVIES",24/7: Transformers
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224784.m3u8
+#EXTINF:-1 channel-number="432" tvg-chno="432" tvg-id="432" tvg-name="24/7: Transformers Movies" tvg-logo="http://icons.tw:8080/images/81c5fa1d6ae4d6590c9b4733e3f98737.jpg" group-title="24/7 MOVIES",24/7: Transformers Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224785.m3u8
+#EXTINF:-1 channel-number="433" tvg-chno="433" tvg-id="433" tvg-name="24/7: Transformers Rescue Bots" tvg-logo="http://icons.tw:8080/images/8ba3a3ddaf87511d56a8846d0dab5626.jpg" group-title="24/7 MOVIES",24/7: Transformers Rescue Bots
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/299213.m3u8
+#EXTINF:-1 channel-number="434" tvg-chno="434" tvg-id="434" tvg-name="24/7: Transformers War For Cybertron Trilogy" tvg-logo="http://icons.tw:8080/images/955a20ee4e11d48e5a7d0210fa4adc4b.jpg" group-title="24/7 MOVIES",24/7: Transformers War For Cybertron Trilogy
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/299319.m3u8
+
+
+#EXTINF:-1 tvg-chno="435" channel-number="435" tvg-id="435" tvg-name="24/7: Rocky Movies" tvg-logo="http://icons.tw:8080/images/fc88a2aacde720ffe4bfcab8b0000e95.jpg" group-title="24/7 MOVIES",24/7: Rocky Movies
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224460.m3u8
+
+
+
+
+###########################################################################################################################################################################################################################
+
+
+
 
 #EXTINF:-1 tvg-id="Astro Showtime.my;Astro Showtime.my" group-title="MOVIES" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowtime.png",411 Astro Showtime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
