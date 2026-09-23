@@ -997,6 +997,9 @@ http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325191.m3u8
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325218.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",TMNT
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325219.m3u8
+#EXTINF:-1  tvg-id="480" tvg-name="24/7: Flash Gordon" tvg-logo="http://icons.tw:8080/images/763688dcd737f20519fb6ee34d9119c2.jpg" group-title="KIDS",FLASH GORDEN
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298960.m3u8
+
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",KUNG FU PANDA
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325228.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",POKEMON
@@ -1158,22 +1161,68 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224553.m3u8
 #EXTINF:-1  tvg-id="619" tvg-name="24/7: Superman and Lois" tvg-logo="http://icons.tw:8080/images/7b3be3f8a032c98b041ce79d36e47855.jpg" group-title="KIDS",Superman and Lois
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299625.m3u8
 
-#EXTINF:-1  tvg-id="627" tvg-name="24/7: The Adventures of Rocky and Bullwinkle" tvg-logo="http://icons.tw:8080/images/02e833c858cc03b1d16060a9b3682789.jpg" group-title="KIDS",The Adventures of Rocky and Bullwinkle
+#EXTINF:-1 tvg-id="448" tvg-name="24/7: Batman (1966)" tvg-logo="http://icons.tw:8080/images/fbf9562059527ed2075e3e61bf7439c6.jpg" group-title="KIDS",Batman (1966)
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/223956.m3u8
+#EXTINF:-1  tvg-id="449" tvg-name="24/7: Batman The Animated Series" tvg-logo="http://icons.tw:8080/images/15a8ce095b366425321b2c309c1cf2f4.jpg" group-title="KIDS",Batman The Animated Series
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/299117.m3u8
+#EXTINF:-1  tvg-id="481" tvg-name="24/7: Fraggle Rock" tvg-logo="http://icons.tw:8080/images/56fb0943e00e4dc24b0813bd83189ac3.jpg" group-title="KIDS",Fraggle Rock
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224128.m3u8
+
+#EXTINF:-1  tvg-id="489" tvg-name="24/7: GI Joe" tvg-logo="http://icons.tw:8080/images/97de8f8e31e8fe0410c24a82897bfdc4.jpg" group-title="KIDS",GI Joe
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/299005.m3u8
+
+#EXTINF:-1  tvg-id="500" tvg-name="24/7: He-Man" tvg-logo="http://icons.tw:8080/images/6e6f98f64d1031bdafb67dc8284c509b.jpg" group-title="KIDS",He-Man
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224187.m3u8
+#EXTINF:-1  tvg-id="501" tvg-name="24/7: Head of the Class" tvg-logo="http://icons.tw:8080/images/46598641692a4b0f2384b4f0dc90d6ae.jpg" group-title="KIDS",Head of the Class
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298989.m3u8
+#EXTINF:-1  tvg-id="515" tvg-name="24/7: Jurassic World Camp Cretaceous" tvg-logo="http://icons.tw:8080/images/f238174d9badbbb0b56372572c95ceb7.jpg" group-title="KIDS",Jurassic World Camp Cretaceous
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224245.m3u8
+
+
+#EXTINF:-1 tvg-chno="543" channel-number="543" tvg-id="543" tvg-name="24/7: Mickey Mouse Clubhouse" tvg-logo="http://icons.tw:8080/images/fd810302258170feb4fdc1c66a461c89.jpg" group-title="KIDS",Mickey Mouse Clubhouse
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224333.m3u8
+#EXTINF:-1 tvg-id="544" tvg-name="24/7: Mighty Mouse The New Adventures" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppRNd8w4YAv3OSOnIwu908adcw7.jpg" group-title="KIDS",Mighty Mouse The New Adventures
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298937.m3u8
+
+#EXTINF:-1  tvg-id="554" tvg-name="24/7: Mr Bean The Animated Series" tvg-logo="http://icons.tw:8080/images/9cf37edfe19298ab48f76fb93dccf2e9.jpg" group-title="KIDS",Mr Bean The Animated Series
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298730.m3u8
+
+#EXTINF:-1 tvg-chno="597" channel-number="597" tvg-id="597" tvg-name="24/7: Richie Rich" tvg-logo="http://icons.tw:8080/images/785dc39eef579390d20dcd9904657ee3.jpg" group-title="KIDS",Richie Rich
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298767.m3u8
+#EXTINF:-1 tvg-chno="599" channel-number="599" tvg-id="599" tvg-name="24/7: Rocky And Bullwinkle And Friends" tvg-logo="http://icons.tw:8080/images/02e833c858cc03b1d16060a9b3682789.jpg" group-title="KIDS",Rocky And Bullwinkle And Friends
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224459.m3u8
+
+#EXTINF:-1 tvg-chno="603" channel-number="603" tvg-id="603" tvg-name="24/7: S.W.A.T." tvg-logo="http://icons.tw:8080/images/cb2dc1f42ede039e0d6bdd859ba88cb5.jpg" group-title="KIDS",S.W.A.T.
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224469.m3u8
+#EXTINF:-1 tvg-chno="604" channel-number="604" tvg-id="604" tvg-name="24/7: Sabrina The Teenage Witch" tvg-logo="http://icons.tw:8080/images/f99c2edc960c0276dcff32d46eb7adbe.jpg" group-title="KIDS",Sabrina The Teenage Witch
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224470.m3u8
+
+#EXTINF:-1 tvg-chno="609" channel-number="609" tvg-id="609" tvg-name="24/7: SpongeBob SquarePants" tvg-logo="http://icons.tw:8080/images/e6a51ac31cd709b473dc3fd9ee1f401b.jpg" group-title="KIDS",SpongeBob SquarePants
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224525.m3u8
+
+#EXTINF:-1 tvg-chno="611" channel-number="611" tvg-id="611" tvg-name="24/7: Star Trek The Animated Series" tvg-logo="http://icons.tw:8080/images/5179ea65812581d87edc936030c8c9ed.jpg" group-title="KIDS",Star Trek The Animated Series
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224534.m3u8
+#EXTINF:-1 tvg-chno="612" channel-number="612" tvg-id="612" tvg-name="24/7: Star Wars Ewoks" tvg-logo="http://icons.tw:8080/images/05463d52a7b7a51028bb98943a47f1d0.jpg" group-title="KIDS",Star Wars Ewoks
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224539.m3u8
+#EXTINF:-1 tvg-chno="614" channel-number="614" tvg-id="614" tvg-name="24/7: Star Wars Rebels" tvg-logo="http://icons.tw:8080/images/9e6eee16054408c79f3fef2788fa75b7.jpg" group-title="KIDS",Star Wars Rebels
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224541.m3u8
+#EXTINF:-1 tvg-chno="615" channel-number="615" tvg-id="615" tvg-name="24/7: Star Wars The Clone Wars" tvg-logo="http://icons.tw:8080/images/c582ec21aad34979781068275e9554c1.jpg" group-title="KIDS",Star Wars The Clone Wars
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224542.m3u8
+
+#EXTINF:-1 tvg-chno="627" channel-number="627" tvg-id="627" tvg-name="24/7: The Adventures of Rocky and Bullwinkle" tvg-logo="http://icons.tw:8080/images/02e833c858cc03b1d16060a9b3682789.jpg" group-title="KIDS",The Adventures of Rocky and Bullwinkle
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224590.m3u8
-#EXTINF:-1  tvg-id="628" tvg-name="24/7: The Adventures of Superman" tvg-logo="http://icons.tw:8080/images/d3fde79186f14077b69ac388e608cd88.jpg" group-title="KIDS",The Adventures of Superman
+#EXTINF:-1 tvg-id="628" tvg-name="24/7: The Adventures of Superman" tvg-logo="http://icons.tw:8080/images/d3fde79186f14077b69ac388e608cd88.jpg" group-title="KIDS",The Adventures of Superman
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224591.m3u8
-#EXTINF:-1  tvg-id="629" tvg-name="24/7: The Adventures of Young Indiana Jones" tvg-logo="http://icons.tw:8080/images/ee1f0d25ce3c404afa10384bd6e72408.jpg" group-title="KIDS",The Adventures of Young Indiana Jones
+#EXTINF:-1 tvg-chno="629" channel-number="629" tvg-id="629" tvg-name="24/7: The Adventures of Young Indiana Jones" tvg-logo="http://icons.tw:8080/images/ee1f0d25ce3c404afa10384bd6e72408.jpg" group-title="KIDS",The Adventures of Young Indiana Jones
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224593.m3u8
 
-#EXTINF:-1  tvg-id="631" tvg-name="24/7: The Batman" tvg-logo="http://icons.tw:8080/images/a30585614e1ed43ff2bf4bf0733ee29d.jpg" group-title="KIDS",The Batman
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/299466.m3u8
-#EXTINF:-1 tvg-id="632" tvg-name="24/7: The Beverly Hillbillies" tvg-logo="http://icons.tw:8080/images/b428b850b9a6be39a9adc6b8cfa21427.jpg" group-title="KIDS",The Beverly Hillbillies
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/299604.m3u8
-#EXTINF:-1  tvg-id="633" tvg-name="24/7: The Big Bang Theory" tvg-logo="http://icons.tw:8080/images/1a290349294683dc2dc4879e2ca13b3d.jpg" group-title="KIDS",The Big Bang Theory
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224605.m3u8
 
-#EXTINF:-1  tvg-id="637" tvg-name="24/7: The Charlie Brown And Snoopy Show" tvg-logo="http://icons.tw:8080/images/7ea8e572778f25e8f8c6d878dc2f066f.jpg" group-title="KIDS",The Charlie Brown And Snoopy Show
+#EXTINF:-1 tvg-chno="631" channel-number="631" tvg-id="631" tvg-name="24/7: The Batman" tvg-logo="http://icons.tw:8080/images/a30585614e1ed43ff2bf4bf0733ee29d.jpg" group-title="KIDS",The Batman
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/299466.m3u8
+
+#EXTINF:-1 tvg-chno="637" channel-number="637" tvg-id="637" tvg-name="24/7: The Charlie Brown And Snoopy Show" tvg-logo="http://icons.tw:8080/images/7ea8e572778f25e8f8c6d878dc2f066f.jpg" group-title="KIDS",The Charlie Brown And Snoopy Show
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299398.m3u8
+
 
 #EXTINF:-1  tvg-id="642" tvg-name="24/7: The Facts of Life" tvg-logo="http://icons.tw:8080/images/38b751b60fa1ddc75753c9b111459ade.jpg" group-title="KIDS",The Facts of Life
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299447.m3u8
@@ -1517,6 +1566,10 @@ https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-becker.m3u8
 
+#EXTINF:-1  tvg-id="516" tvg-name="24/7: Just Shoot Me" tvg-logo="http://icons.tw:8080/images/2dc208a7800d9da378e20b2c5109c444.jpg" group-title="24/7 CHANNELS",JUST SHOOT ME
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/298980.m3u8
+
+
 #EXTINF:-1 tvg-chno="602" channel-number="602" tvg-id="602" tvg-name="24/7: Roseanne" tvg-logo="http://icons.tw:8080/images/de177dc1577f9638775e1c961847fd0f.jpg" group-title="24/7 CHANNELS",ROSEANNE
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224463.m3u8
 
@@ -1534,8 +1587,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/223985.m3u8
 #EXTINF:-1  tvg-id="476" tvg-name="24/7: Fawlty Towers" tvg-logo="http://icons.tw:8080/images/642944cb3dce32b4d95a87f96735fcde.jpg" group-title="24/7 CHANNELS",FAWLTY TOWERS
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224115.m3u8
 
-#EXTINF:-1  tvg-id="480" tvg-name="24/7: Flash Gordon" tvg-logo="http://icons.tw:8080/images/763688dcd737f20519fb6ee34d9119c2.jpg" group-title="24/7 CHANNELS",FLASH GORDEN
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298960.m3u8
 #EXTINF:-1  tvg-id="490" tvg-name="24/7: Gilligans Island" tvg-logo="http://icons.tw:8080/images/abc37007556cd939e547e0960c4fbf0f.jpg" group-title="24/7 CHANNELS",GILLIGANS ISLAND
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224151.m3u8
 
@@ -1561,7 +1612,7 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/298772.m3u8
 #EXTINF:-1 tvg-chno="567" channel-number="567" tvg-id="567" tvg-name="24/7: Newhart" tvg-logo="http://icons.tw:8080/images/a98dcc68e6446f11d286d4eb3b6ce472.jpg" group-title="24/7 CHANNELS",NEWHART
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224373.m3u8
 
-#EXTINF:-1 tvg-chno="569" channel-number="569" tvg-id="569" tvg-name="24/7: Northern Exposure" tvg-logo="http://icons.tw:8080/images/09c2489bf8f2e5c4e2edca13ad3c77e5.jpg" group-title="24/7 CHANNELS",Northern Exposure
+#EXTINF:-1 tvg-chno="569" channel-number="569" tvg-id="569" tvg-name="24/7: Northern Exposure" tvg-logo="http://icons.tw:8080/images/09c2489bf8f2e5c4e2edca13ad3c77e5.jpg" group-title="24/7 CHANNELS",NORTHERN EXPOSURE
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224378.m3u8
 
 #EXTINF:-1 tvg-chno="617" channel-number="617" tvg-id="617" tvg-name="24/7: Steptoe And Son" tvg-logo="http://icons.tw:8080/images/f496006aa20c17ffdc90f11baa4997cc.jpg" group-title="24/7 CHANNELS",STEPTOE AND SON
@@ -1668,20 +1719,24 @@ https://i.mjh.nz/.r/10-crime-hunters.m3u8
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="24/7 CHANNELS",True Stories
+#EXTINF:-1 channel-id="mjh-10-true-stories" tvg-id="mjh-10-true-stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="24/7 CHANNELS",TRUE STORIES
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-true-stories.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="24/7 CHANNELS",Haunt TV
+#EXTINF:-1 channel-id="mjh-10-haunt-tv" tvg-id="mjh-10-haunt-tv" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="24/7 CHANNELS",HAUNT TV
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-haunt-tv.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-ghosthunters" tvg-id="mjh-10-ghosthunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="24/7 CHANNELS",Ghost Hunters
+#EXTINF:-1 channel-id="mjh-10-ghosthunters" tvg-id="mjh-10-ghosthunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="24/7 CHANNELS",GHOST HUNTERS
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-ghosthunters.m3u8
+
+#EXTINF:-1  tvg-id="488" tvg-name="24/7: Ghost Adventures" tvg-logo="http://icons.tw:8080/images/b215dbf0fdfab34b4a30aef1fc5bbadc.jpg" group-title="24/7 CHANNELS",GHOST ADVENTURES
+http://hostengine.live:2086/live/Tkarymom1/Reggine1/224149.m3u8
+
 
 #EXTINF:-1 channel-id="mjh-cas24-fast" tvg-id="mjh-cas24-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="24/7 CHANNELS",BONDI VET
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS24.m3u8   
@@ -1989,10 +2044,6 @@ https://i.mjh.nz/.r/10-youtv.m3u8
 
 #EXTINF:-1  tvg-id="445" tvg-name="24/7: American Horror Story" tvg-logo="http://icons.tw:8080/images/ccf644ddc12b9644704eb7d24cd68110.jpg" group-title="24/7 CHANNELS",American Horror Story
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223925.m3u8
-#EXTINF:-1 tvg-id="448" tvg-name="24/7: Batman (1966)" tvg-logo="http://icons.tw:8080/images/fbf9562059527ed2075e3e61bf7439c6.jpg" group-title="24/7 CHANNELS",Batman (1966)
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/223956.m3u8
-#EXTINF:-1  tvg-id="449" tvg-name="24/7: Batman The Animated Series" tvg-logo="http://icons.tw:8080/images/15a8ce095b366425321b2c309c1cf2f4.jpg" group-title="24/7 CHANNELS",Batman The Animated Series
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/299117.m3u8
 #EXTINF:-1 tvg-id="450" tvg-name="24/7: Baywatch" tvg-logo="http://icons.tw:8080/images/af1e71ca773721a30da37d2128cb97b5.jpg" group-title="24/7 CHANNELS",Baywatch
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223959.m3u8
 #EXTINF:-1  tvg-id="451" tvg-name="24/7: Blue Bloods" tvg-logo="http://icons.tw:8080/images/dfdcdb0746d1ecbd6dffeed014bb05ea.jpg" group-title="24/7 CHANNELS",Blue Bloods
@@ -2015,8 +2066,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224118.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224119.m3u8
 #EXTINF:-1  tvg-id="479" tvg-name="24/7: Finding Bigfoot" tvg-logo="http://icons.tw:8080/images/0dc3a1ef648c885f1554458e9ac8476d.jpg" group-title="24/7 CHANNELS",Finding Bigfoot
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299053.m3u8
-#EXTINF:-1  tvg-id="481" tvg-name="24/7: Fraggle Rock" tvg-logo="http://icons.tw:8080/images/56fb0943e00e4dc24b0813bd83189ac3.jpg" group-title="24/7 CHANNELS",Fraggle Rock
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224128.m3u8
 #EXTINF:-1  tvg-id="482" tvg-name="24/7: Frasier" tvg-logo="http://icons.tw:8080/images/47495602d67e120caed0efa6248b7dca.jpg" group-title="24/7 CHANNELS",Frasier
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224130.m3u8
 #EXTINF:-1  tvg-id="483" tvg-name="24/7: Fresh Off the Boat" tvg-logo="http://icons.tw:8080/images/dcc7338716b498c820795f4b03c5271f.jpg" group-title="24/7 CHANNELS",Fresh Off the Boat
@@ -2024,10 +2073,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224131.m3u8
 #EXTINF:-1  tvg-id="484" tvg-name="24/7: Friday the 13th" tvg-logo="http://icons.tw:8080/images/5edae3e9f0a70877f0dc3fb273aea1c5.jpg" group-title="24/7 CHANNELS",Friday the 13th
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224134.m3u8
 
-#EXTINF:-1  tvg-id="488" tvg-name="24/7: Ghost Adventures" tvg-logo="http://icons.tw:8080/images/b215dbf0fdfab34b4a30aef1fc5bbadc.jpg" group-title="24/7 CHANNELS",Ghost Adventures
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224149.m3u8
-#EXTINF:-1  tvg-id="489" tvg-name="24/7: GI Joe" tvg-logo="http://icons.tw:8080/images/97de8f8e31e8fe0410c24a82897bfdc4.jpg" group-title="24/7 CHANNELS",GI Joe
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/299005.m3u8
 #EXTINF:-1  tvg-id="492" tvg-name="24/7: Grace Under Fire" tvg-logo="http://icons.tw:8080/images/8fc536e582755ad4600763c2b254a22d.jpg" group-title="24/7 CHANNELS",Grace Under Fire
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224164.m3u8
 
@@ -2036,10 +2081,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224176.m3u8
 #EXTINF:-1  tvg-id="496" tvg-name="24/7: Hardcore Pawn" tvg-logo="http://icons.tw:8080/images/aa4ada87f83cc55e8760377d93c3487c.jpg" group-title="24/7 CHANNELS",Hardcore Pawn
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224177.m3u8
 
-#EXTINF:-1  tvg-id="500" tvg-name="24/7: He-Man" tvg-logo="http://icons.tw:8080/images/6e6f98f64d1031bdafb67dc8284c509b.jpg" group-title="24/7 CHANNELS",He-Man
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224187.m3u8
-#EXTINF:-1  tvg-id="501" tvg-name="24/7: Head of the Class" tvg-logo="http://icons.tw:8080/images/46598641692a4b0f2384b4f0dc90d6ae.jpg" group-title="24/7 CHANNELS",Head of the Class
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298989.m3u8
 #EXTINF:-1  tvg-id="502" tvg-name="24/7: Heartbeat" tvg-logo="http://icons.tw:8080/images/2dccfe6de5b8c9e641497df8506e48cb.jpg" group-title="24/7 CHANNELS",Heartbeat
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224188.m3u8
 
@@ -2060,10 +2101,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224223.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299087.m3u8
 
 
-#EXTINF:-1  tvg-id="515" tvg-name="24/7: Jurassic World Camp Cretaceous" tvg-logo="http://icons.tw:8080/images/f238174d9badbbb0b56372572c95ceb7.jpg" group-title="24/7 CHANNELS",Jurassic World Camp Cretaceous
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224245.m3u8
-#EXTINF:-1  tvg-id="516" tvg-name="24/7: Just Shoot Me" tvg-logo="http://icons.tw:8080/images/2dc208a7800d9da378e20b2c5109c444.jpg" group-title="24/7 CHANNELS",Just Shoot Me
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298980.m3u8
 #EXTINF:-1  tvg-id="517" tvg-name="24/7: Killer Cases" tvg-logo="http://icons.tw:8080/images/f41bb5b429306422ea10d396c061dc6f.jpg" group-title="24/7 CHANNELS",Killer Cases
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298995.m3u8
 #EXTINF:-1 tvg-chno="518" channel-number="518" tvg-id="518" tvg-name="24/7: Killing Eve" tvg-logo="http://icons.tw:8080/images/43dcc35e59af57a0305666f629a2e339.jpg" group-title="24/7 CHANNELS",Killing Eve
@@ -2071,16 +2108,10 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/299014.m3u8
 #EXTINF:-1  tvg-id="524" tvg-name="24/7: Lois and Clark The New Adventures of Superman" tvg-logo="http://icons.tw:8080/images/a7dc3d1e311c781ad6ad9fe642099aa3.jpg" group-title="24/7 CHANNELS",Lois and Clark The New Adventures of Superman
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224282.m3u8
 
-#EXTINF:-1 tvg-chno="543" channel-number="543" tvg-id="543" tvg-name="24/7: Mickey Mouse Clubhouse" tvg-logo="http://icons.tw:8080/images/fd810302258170feb4fdc1c66a461c89.jpg" group-title="24/7 CHANNELS",Mickey Mouse Clubhouse
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224333.m3u8
-#EXTINF:-1 tvg-id="544" tvg-name="24/7: Mighty Mouse The New Adventures" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppRNd8w4YAv3OSOnIwu908adcw7.jpg" group-title="24/7 CHANNELS",Mighty Mouse The New Adventures
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298937.m3u8
 #EXTINF:-1  tvg-id="546" tvg-name="24/7: Minder" tvg-logo="http://icons.tw:8080/images/3c3dc55c1d56c3097794363f04e2bac7.jpg" group-title="24/7 CHANNELS",Minder
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224335.m3u8
 #EXTINF:-1  tvg-id="553" tvg-name="24/7: Mr Bean" tvg-logo="http://icons.tw:8080/images/ecfdccf1e06da8f445b673f35bf24215.jpg" group-title="24/7 CHANNELS",Mr Bean
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224351.m3u8
-#EXTINF:-1  tvg-id="554" tvg-name="24/7: Mr Bean The Animated Series" tvg-logo="http://icons.tw:8080/images/9cf37edfe19298ab48f76fb93dccf2e9.jpg" group-title="24/7 CHANNELS",Mr Bean The Animated Series
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298730.m3u8
 #EXTINF:-1 tvg-chno="555" channel-number="555" tvg-id="555" tvg-name="24/7: Murder Among Friends" tvg-logo="http://icons.tw:8080/images/72b69e90d8417099015007b8a2132434.jpg" group-title="24/7 CHANNELS",Murder Among Friends
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298870.m3u8
 #EXTINF:-1 tvg-chno="556" channel-number="556" tvg-id="556" tvg-name="24/7: Murdertown UK" tvg-logo="http://icons.tw:8080/images/f71b17619639526a8a46d8d728853dc2.jpg" group-title="24/7 CHANNELS",Murdertown UK
@@ -2098,18 +2129,7 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/298726.m3u8
 #EXTINF:-1 tvg-chno="578" channel-number="578" tvg-id="578" tvg-name="24/7: Police Interceptors" tvg-logo="http://icons.tw:8080/images/09165f75331d920df8ef0d3ebc63cdcf.jpg" group-title="24/7 CHANNELS",Police Interceptors
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298728.m3u8
 
-#EXTINF:-1 tvg-chno="585" channel-number="585" tvg-id="585" tvg-name="24/7: Quickdraw McGraw" tvg-logo="http://icons.tw:8080/images/fd49eb3bcdc3c7ffcbb4035903a18c72.jpg" group-title="24/7 CHANNELS",Quickdraw McGraw
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298878.m3u8
 
-#EXTINF:-1 tvg-chno="597" channel-number="597" tvg-id="597" tvg-name="24/7: Richie Rich" tvg-logo="http://icons.tw:8080/images/785dc39eef579390d20dcd9904657ee3.jpg" group-title="24/7 CHANNELS",Richie Rich
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/298767.m3u8
-#EXTINF:-1 tvg-chno="599" channel-number="599" tvg-id="599" tvg-name="24/7: Rocky And Bullwinkle And Friends" tvg-logo="http://icons.tw:8080/images/02e833c858cc03b1d16060a9b3682789.jpg" group-title="24/7 CHANNELS",Rocky And Bullwinkle And Friends
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224459.m3u8
-
-#EXTINF:-1 tvg-chno="603" channel-number="603" tvg-id="603" tvg-name="24/7: S.W.A.T." tvg-logo="http://icons.tw:8080/images/cb2dc1f42ede039e0d6bdd859ba88cb5.jpg" group-title="24/7 CHANNELS",S.W.A.T.
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224469.m3u8
-#EXTINF:-1 tvg-chno="604" channel-number="604" tvg-id="604" tvg-name="24/7: Sabrina The Teenage Witch" tvg-logo="http://icons.tw:8080/images/f99c2edc960c0276dcff32d46eb7adbe.jpg" group-title="24/7 CHANNELS",Sabrina The Teenage Witch
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224470.m3u8
 #EXTINF:-1 tvg-chno="605" channel-number="605" tvg-id="605" tvg-name="24/7: Saints And Sinners" tvg-logo="http://icons.tw:8080/images/ab73f86faefd7edcd0691be6109825de.jpg" group-title="24/7 CHANNELS",Saints And Sinners
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298867.m3u8
 #EXTINF:-1 tvg-chno="606" channel-number="606" tvg-id="606" tvg-name="24/7: Sleepy Hollow" tvg-logo="http://icons.tw:8080/images/4ce396cb8dccd646b6c70a0bfa912f37.jpg" group-title="24/7 CHANNELS",Sleepy Hollow
@@ -2118,17 +2138,6 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224507.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224510.m3u8
 #EXTINF:-1 tvg-chno="608" channel-number="608" tvg-id="608" tvg-name="24/7: Spaces Deepest Secrets" tvg-logo="http://icons.tw:8080/images/bb7b73717f36c480b5e1e6d1dc3a2aaa.jpg" group-title="24/7 CHANNELS",Spaces Deepest Secrets
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299655.m3u8
-#EXTINF:-1 tvg-chno="609" channel-number="609" tvg-id="609" tvg-name="24/7: SpongeBob SquarePants" tvg-logo="http://icons.tw:8080/images/e6a51ac31cd709b473dc3fd9ee1f401b.jpg" group-title="24/7 CHANNELS",SpongeBob SquarePants
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224525.m3u8
-
-#EXTINF:-1 tvg-chno="611" channel-number="611" tvg-id="611" tvg-name="24/7: Star Trek The Animated Series" tvg-logo="http://icons.tw:8080/images/5179ea65812581d87edc936030c8c9ed.jpg" group-title="24/7 CHANNELS",Star Trek The Animated Series
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224534.m3u8
-#EXTINF:-1 tvg-chno="612" channel-number="612" tvg-id="612" tvg-name="24/7: Star Wars Ewoks" tvg-logo="http://icons.tw:8080/images/05463d52a7b7a51028bb98943a47f1d0.jpg" group-title="24/7 CHANNELS",Star Wars Ewoks
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224539.m3u8
-#EXTINF:-1 tvg-chno="614" channel-number="614" tvg-id="614" tvg-name="24/7: Star Wars Rebels" tvg-logo="http://icons.tw:8080/images/9e6eee16054408c79f3fef2788fa75b7.jpg" group-title="24/7 CHANNELS",Star Wars Rebels
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224541.m3u8
-#EXTINF:-1 tvg-chno="615" channel-number="615" tvg-id="615" tvg-name="24/7: Star Wars The Clone Wars" tvg-logo="http://icons.tw:8080/images/c582ec21aad34979781068275e9554c1.jpg" group-title="24/7 CHANNELS",Star Wars The Clone Wars
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224542.m3u8
 #EXTINF:-1 tvg-chno="616" channel-number="616" tvg-id="616" tvg-name="24/7: Stella" tvg-logo="http://icons.tw:8080/images/13ea17f0d1941dc3cd9873d1e2ab875f.jpg" group-title="24/7 CHANNELS",Stella
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299649.m3u8
 #EXTINF:-1 tvg-chno="618" channel-number="618" tvg-id="618" tvg-name="24/7: Street Hawk" tvg-logo="http://icons.tw:8080/images/0c70a45036fc8d0e4994dc63e3f7d9f0.jpg" group-title="24/7 CHANNELS",Street Hawk
@@ -2137,20 +2146,8 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224553.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299625.m3u8
 
 
-#EXTINF:-1 tvg-chno="627" channel-number="627" tvg-id="627" tvg-name="24/7: The Adventures of Rocky and Bullwinkle" tvg-logo="http://icons.tw:8080/images/02e833c858cc03b1d16060a9b3682789.jpg" group-title="24/7 CHANNELS",The Adventures of Rocky and Bullwinkle
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224590.m3u8
-#EXTINF:-1 tvg-id="628" tvg-name="24/7: The Adventures of Superman" tvg-logo="http://icons.tw:8080/images/d3fde79186f14077b69ac388e608cd88.jpg" group-title="24/7 CHANNELS",The Adventures of Superman
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224591.m3u8
-#EXTINF:-1 tvg-chno="629" channel-number="629" tvg-id="629" tvg-name="24/7: The Adventures of Young Indiana Jones" tvg-logo="http://icons.tw:8080/images/ee1f0d25ce3c404afa10384bd6e72408.jpg" group-title="24/7 CHANNELS",The Adventures of Young Indiana Jones
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/224593.m3u8
 #EXTINF:-1 tvg-chno="630" channel-number="630" tvg-id="630" tvg-name="24/7: The Alienist" tvg-logo="http://icons.tw:8080/images/551e3786377ba3802bdf87c05d6a6cb8.jpg" group-title="24/7 CHANNELS",The Alienist
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/299612.m3u8
-
-#EXTINF:-1 tvg-chno="631" channel-number="631" tvg-id="631" tvg-name="24/7: The Batman" tvg-logo="http://icons.tw:8080/images/a30585614e1ed43ff2bf4bf0733ee29d.jpg" group-title="24/7 CHANNELS",The Batman
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/299466.m3u8
-
-#EXTINF:-1 tvg-chno="637" channel-number="637" tvg-id="637" tvg-name="24/7: The Charlie Brown And Snoopy Show" tvg-logo="http://icons.tw:8080/images/7ea8e572778f25e8f8c6d878dc2f066f.jpg" group-title="24/7 CHANNELS",The Charlie Brown And Snoopy Show
-http://hostengine.live:2086/live/Tkarymom1/Reggine1/299398.m3u8
 
 
 #EXTINF:-1 tvg-chno="699" channel-number="699" tvg-id="699" tvg-name="24/7: WWE Royal Rumble" tvg-logo="http://icons.tw:8080/images/cca7e1e5515ba5aee80adced9f84172a.jpg" group-title="24/7 CHANNELS",WWE Royal Rumble
