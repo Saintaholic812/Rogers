@@ -1413,6 +1413,157 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224785.m3u8
 #EXTINF:-1 tvg-chno="435" channel-number="435" tvg-id="435" tvg-name="24/7: Rocky Movies" tvg-logo="http://icons.tw:8080/images/fc88a2aacde720ffe4bfcab8b0000e95.jpg" group-title="24/7 MOVIES",ROCKY MOVIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224460.m3u8
 
+##########################################################################################################################################################################################################################
+
+
+
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-name="Hallmark Movies & More" group-title="Movies XTRA" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png",Hallmark Movies & More (24/7)
+https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/3cab36d0-3ee5-42e5-aff9-0802cfc2b53d/5.m3u8
+
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-name="Paramount Movie Channel" group-title="Movies XTRA" tvg-logo="https://i.imgur.com/sj5h9bl.png",Paramount Movie Channel (24/7)
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
+#EXTINF:-1 tvg-id="moviesphere" tvg-name="MovieSphere" group-title="Movies XTRA" tvg-logo="https://ptv2026.com/logo/moviesphere.png",MovieSphere FHD (24/7)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="outersphere" tvg-name="OuterSphere" group-title="Movies XTRA" tvg-logo="https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8",OuterSphere FHD (24/7)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-id="UniversalMovies" tvg-name="Universal Movies" group-title="Movies XTRA" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack",Universal Movies (24/7)
+https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/038962b8-6c44-43c9-a240-5b6a24ce9036/4.m3u8
+
+#EXTINF:-1 tvg-id="HiYah" tvg-name="Hi-Yah" group-title="Movies XTRA" tvg-logo="https://i.imgur.com/sOYAnTB.png",Hi-Yah (24/7)
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist_1920x1080.m3u8
+
+#EXTINF:-1 tvg-id="MoviesHub" tvg-name="Movies Hub" group-title="Movies XTRA" tvg-logo="https://i.postimg.cc/05mLL9WW/405241-(1).png",Movies Hub (24/7)
+https://aka-live1050.delivery.roku.com/4eddfb64-e03e-4a12-b889-53eed835572e/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="MoviesHubAction" tvg-name="Movies Hub Action" group-title="Movies XTRA" tvg-logo="https://i.postimg.cc/15XD83kt/405244.png",Movies Hub Action (24/7)
+https://aka-live1050.delivery.roku.com/be8e0aad-9c0d-4b4d-ac10-d0c72bb6c7f3/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-id="FreeMovies" tvg-name="Free Movies" group-title="Movies XTRA" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/782f09FreeMovies_IVP_LAND_917x516.jpg",Free Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemoviesastrosooka-sooka/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeDoTMovies" tvg-name="WeDoTV Movies" group-title="Movies XTRA" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/861e06Wedo_Movies_IVP_LAND_1280x720.jpg",WEDOTV MOVIES
+https://amg00735-amg00735c46-astrosooka-singapore-7044.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesasia-astrosookasingapore/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ActionHollywoodMovies" tvg-name="Action Hollywood Movies" group-title="Movies XTRA" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358842'&EntityType='Item'&EntityId='556894'&Width=304&Height=250",Action Hollywood Movies
+https://tglmp04.akamaized.net/out/v1/6757703a338e4a11812c1dc3cdd43546/manifest.mpd
+
+#EXTINF:-1 tvg-id="MyCinemaEurope" tvg-name="My Cinema Europe" group-title="Movies XTRA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe
+#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-id="BoxHits" tvg-name="Box Hits" group-title="Movies XTRA" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/Box_Hits_3D.png/revision/latest?cb=20230124143723&path-prefix=vi",BOX HITS Vietnam Subs
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
+
+#EXTINF:-1 tvg-id="BoxMovie1" tvg-name="Box Movie 1" group-title="Movies XTRA" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/55/Box_Movie_1_logo_2023.png/revision/latest?cb=20230515132648&path-prefix=vi",BOX MOVIE 1 Vietnam Subs
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
+
+#EXTINF:-1 tvg-id="HollywoodClassics" tvg-name="Hollywood Classics" group-title="Movies XTRA" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/Hollywood_Classics.png/revision/latest?cb=20230123164105&path-prefix=vi",HOLLYWOOD CLASSICS Vietnam Subs
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/HC/manifest.mpd
+
+#EXTINF:-1 tvg-id="PopC" tvg-name="POPC" group-title="Movies XTRA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png",PopC
+http://173.208.234.146/live/popc.m3u8
+
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" group-title="Movies XTRA" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
+https://cdn.qd.je/163189/cinemaworld
+
+## -- HBO++ -- ##
+
+#EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO Movies USA" group-title="Movies XTRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/HBO_Movies_2025.svg/revision/latest?cb=20250904231017",HBO Movies USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-id="HBOWest.us" tvg-name="HBO West USA" group-title="Movies XTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",HBO West USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy USA" group-title="Movies XTRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HBO_Comedy.svg/revision/latest?cb=20171113181453",HBO Comedy USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX.mx" tvg-name="Cinemax Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/XjvpyvP/cinemax.png",Cinemax Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/wzNw0zL/hbo.png",HBO Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/pnByWRT/hbo2.png",HBO 2 Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba3f4d2e982d04e9468199bf100f60ed:8fcc8d2eb588d166eb4a373859c1e563
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HBO-2-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOFAMILY.mx" tvg-name="HBO Family Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/r0rYwjC/hbofami.png",HBO Family Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOMundi.mx" tvg-name="HBO Mundi Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/CwTbZSz/hbomundi.png",HBO Mundi Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOPop.mx" tvg-name="HBO Pop Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/267L5mS/hbopop.png",HBO Pop Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/HBO-POP-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOPlusMexico.mx" tvg-name="HBO Plus Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/bWhbzZY/hboplus.png",HBO Plus Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOSignatureHD.mx" tvg-name="HBO Signature Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/9GWKVRz/hbosignat.png",HBO Signature Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+
+#EXTINF:-1 tvg-id="HBOXTREMEHD.mx" tvg-name="HBO Xtreme Mexico" group-title="Movies XTRA" tvg-logo="https://i.ibb.co.com/HttfMwP/hboxtrm.png",HBO Xtreme Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
+
+
+
+
 ###############################################################################################################################################################################################################################
 #EXTINF:-1 channel-id="mjh-cas39-fast" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="24/7 CHANNELS",24 HOURS in A&E
 https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8  
