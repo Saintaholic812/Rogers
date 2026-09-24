@@ -3876,33 +3876,74 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/53987.m3u8
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/295285.m3u8
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10"group-title="TNT Sports",TNT SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 1 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30567&extension=ts&play_token=0E4zmO1gyx
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 2 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30566&extension=ts&play_token=F2gNVpQYzV
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 3 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30565&extension=ts&play_token=jIKc6xsKij
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT /UK",TNT SPORTS 4 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1019935&extension=ts&play_token=qh4ryLVaC
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 5 FHD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1004548&extension=ts&play_token=yBHWSjP8Sr
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT Sports",TNT SPORTS 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1  tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORT/USA", FOX SOCCER PLUS
+http://vocotv.live:80/Sanchez01/Sanchez01/916
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT Sports",TNT SPORTS 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#EXTINF:-1 tvg-id="Foxsports1.us" group-title="SPORT/USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",FOX SPORTS 1 HD
+http://vocotv.live:80/Sanchez01/Sanchez01/915
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT Sports",TNT SPORTS 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+#EXTINF:-1 tvg-id="Foxsports2.us" group-title="SPORT/USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kD5UQB8B6g6p3APlG_hJ_GJhe-AE1RSL8Va8lB00Ig&s=10", FOX SPORTS 2 HD
+http://vocotv.live:80/Sanchez01/Sanchez01/914
+
+
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLquq3YCFWRE8FPDqdJFs7IhWW3M7Sd85IRTtya7XXEA&s"group-title="Auto",All things Auto
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://hyperpix.net/wp-content/uploads/2020/06/top-gear-logo-font-free-download.jpg"group-title="Auto",BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist360-tp.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://previews.123rf.com/images/tieataopoon/tieataopoon1809/tieataopoon180900003/111050871-speed-logo-template-vector.jpg"group-title="Auto",Drive + Speed
+https://streams2.sofast.tv/umaxx/v1/0196fce247271eb4611d16bd20c1ac/0196fce2a9361ea5064918d106ecf8/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://d2779tscntxxsw.cloudfront.net/65bfc161abede.png?width=1800"group-title="Auto",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/I8mviBy.png"group-title="Auto",Fuel TV
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/2Q6TENm.png"group-title="Auto",Fun Roads
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/FqFxog1.png"group-title="Auto",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/VwAMqA7.png"group-title="Auto",InFast
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://cdn.uc.assets.prezly.com/3e5e99e8-2422-4506-a8ec-d0c7088f267c/-/format/auto/3.png"group-title="Auto",Introuble
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/v4kj8pI.png"group-title="Auto",Motorvision +
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7M95sqsRlMj351FUo1svU2Gri0ONZCn8cg&s"group-title="Auto",MTRSPT 1
+https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/SRs4DAlVimEdusAzh4UqjrPs6qJiOiJ0kEKkYixyVTVIChKw0fqJczO0HQI3pj94UA"group-title="Auto",Nitro TV
+https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-oTOQLdwkyz7upXWlFLxioj34DLj_3q6zK3TV1CkYQ&s"group-title="Auto",Power Nation
+https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3R0mjBV3Sl26AFgdtRaso5uampwFifE5-9w&s"group-title="Auto",Powertube
+https://streams2.sofast.tv/powertube_live/master.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/CurtYvn.png"group-title="Auto",Racer Select
+https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png"group-title="Auto",Rally TV
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
