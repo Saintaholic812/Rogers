@@ -7346,46 +7346,27 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&ex
 ##################################################   UNITED KINGDOM    ##################################################################################################################################################
 
 ##############   TNT   SPORT    #####################
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 1 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30567&extension=ts&play_token=0E4zmO1gyx
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 2 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30566&extension=ts&play_token=F2gNVpQYzV
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 3 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=30565&extension=ts&play_token=jIKc6xsKij
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 4 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1019935&extension=ts&play_token=qh4ryLVaCV
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 5 FHD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1004548&extension=ts&play_token=yBHWSjP8Sr
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 1 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMTcyODEudHM=
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 2 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDA2LnRz
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 3 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDA3LnRz
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 4 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzExNTU2LnRz
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 5 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzExNTU4LnRz
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 1 FHD
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1905819
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 2 FHD
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1905816
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 3 FHD
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1905812
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 4 FHD
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1905810
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS|EVENT 1
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1596285
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS|EVENT 2
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1596284
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS|EVENT 3
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1596283
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS|EVENT 4
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1596282
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS|EVENT 5
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=1596281
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TSN 1
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=2077049
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TSN 2
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=2077048
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TSN 3
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=2077047
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TSN 4
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=2077046
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TSN 5
-http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:70&stream=2077045
-
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 1 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDEyLnRz
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 2 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDEzLnRz
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 3 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDE0LnRz
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 4 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDE1LnRz
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 5 FHD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzExNTU3LnRz
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 1
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/19051/index.m3u8
@@ -7407,55 +7388,55 @@ http://185.243.7.190:80/play/live.php?mac=00:1A:79:FE:12:33&stream=1595637&exten
 
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 1
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621639&extension=ts&play_token=kom95X8tlL
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 1
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621661&extension=ts&play_token=PZ7G3C3apD
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 2
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621638&extension=ts&play_token=vZrK7Ms1I3
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 2
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621660&extension=ts&play_token=xbJ0r9Rnh5
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 3
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621637&extension=ts&play_token=yUSVDGtfD2
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 3
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621659&extension=ts&play_token=Tg1WbrRw48
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 4
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621636&extension=ts&play_token=kPyvCBJtIB
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK",TNT SPORTS 4
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK",TNT SPORTS 4
 http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=621658&extension=ts&play_token=b5msca01KP
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT / UK", TNT SPORT (UHD/4K)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="SPORT/UK", TNT SPORT (UHD/4K)
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905820&extension=ts&play_token=zvua8dJLKx
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT / UK", TNT SPORT 1 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT/UK", TNT SPORT 1 FHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905819&extension=ts&play_token=Hd2iDvbcL7
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT / UK", TNT SPORT 1 HD
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT/UK", TNT SPORT 1 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905817&extension=ts&play_token=x6LGJpX9IC
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT / UK", TNT SPORT 1 HD
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT/UK", TNT SPORT 1 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905818&extension=ts&play_token=tWZYK0BSl9
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png" group-title="SPORT / UK", TNT SPORT 2 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png" group-title="SPORT/UK", TNT SPORT 2 FHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905816&extension=ts&play_token=aXzwDMoDO1
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png" group-title="SPORT / UK", TNT SPORT 2 HD
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png" group-title="SPORT/UK", TNT SPORT 2 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905814&extension=ts&play_token=H9Wbgl90Co
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png" group-title="SPORT / UK", TNT SPORT 2 HD
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png" group-title="SPORT/UK", TNT SPORT 2 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905815&extension=ts&play_token=MZ95OCA5mM
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT / UK", TNT SPORT 3 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="SPORT/UK", TNT SPORT 3 FHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905813&extension=ts&play_token=QvtN5w7trj
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905811.png" group-title="SPORT / UK", TNT SPORT 3 HD
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905811.png" group-title="SPORT/UK", TNT SPORT 3 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905811&extension=ts&play_token=9rkeEZ7hsn
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905812.png" group-title="SPORT / UK", TNT SPORT 3 HD
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905812.png" group-title="SPORT/UK", TNT SPORT 3 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905812&extension=ts&play_token=nG9bZAoaLH
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905810.png" group-title="SPORT / UK", TNT SPORTS 4 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905810.png" group-title="SPORT/UK", TNT SPORTS 4 FHD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905810&extension=ts&play_token=aHFHxAwkol
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905808.png" group-title="SPORT / UK", TNT SPORTS 4 HD
-http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905808&extension=ts&play_token=QxolF3VbNK
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905809.png" group-title="SPORT / UK", TNT SPORTS 4 HD
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905808.png" group-title="SPORT/UK", TNT SPORTS 4 HD
+http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905808&extension=ts&play_token=QxolF3VbN
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"   tvg-logo="http://51.158.145.100/picons/logos/UK/1905809.png" group-title="SPORT/UK", TNT SPORTS 4 HD
 http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1905809&extension=ts&play_token=a38JGur90B
 
 
