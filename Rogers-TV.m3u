@@ -3237,10 +3237,12 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #############################################
 
 
-#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING.COM
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://racingvic-ll-i.akamaized.net/out/v1/low-latency-video/racingvic-ll/racingvic-ll-ts/index-ll-ts_1.m3u8
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141863
+
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,Racing.com HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061819
+
 
 #EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" , Racing.com
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -3448,6 +3450,51 @@ http://candycloud-trex.men:80/play/live.php?mac=00:1A:79:7D:AE:A9&stream=1431811
 ############    KAYO MAIN EVENT CHANNELS        ###############
 ###################################################
 
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",Fox Sports News HD AU,
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141765
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",FOX Sports News HD AU,
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061811
+
+
+Fox Sports 501 AU,
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141764
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="KAYO MAIN EVENT",FOX #EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="KAYO MAIN EVENT",Sports 501 Cricket HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061804
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="KAYO MAIN EVENT",Fox Sports 502 AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141763
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="KAYO MAIN EVENT",FOX Sports 502 Leauge HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061805
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="KAYO MAIN EVENT",Fox Sports 503 AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141762
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="KAYO MAIN EVENT",FOX Sports 503 HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061806
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="KAYO MAIN EVENT",Fox Sports 504 AFL AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141761
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="KAYO MAIN EVENT",FOX Sports 504 Footy HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061807
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="KAYO MAIN EVENT",Fox Sports 505 AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141760
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="KAYO MAIN EVENT",FOX Sports 505 HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061808
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="KAYO MAIN EVENT",Fox Sports 506 AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141759
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="KAYO MAIN EVENT",FOX Sports 506 HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061809
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="KAYO MAIN EVENT",Fox Sports 507 
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141758
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="KAYO MAIN EVENT",FOX Sports 507 
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061810
+
+#EXTINF:-1 tvg-id="ESPN.au" tvg-id="FoxSportsMore.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",ESPN 1 AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141786
+#EXTINF:-1 tvg-id="ESPN.au" tvg-id="FoxSportsMore.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",ESPN 1 FHD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061799
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",ESPN 2 FHD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061800
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",ESPN 2 HD AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141848
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",Flow Sports 1 AU
+http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061802
 
 
 
