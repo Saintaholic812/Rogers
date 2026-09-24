@@ -3244,6 +3244,18 @@ http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141863
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061819
 
 
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING.COM MELBOURNE
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING.COM NATIONAL
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING.COM PERTH
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+
+
+
 #EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" , Racing.com
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -3496,6 +3508,23 @@ http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/141848
 #EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",Flow Sports 1 AU
 http://ultratv.one:2095/hCPtsREFtA/Xj25tg0ZXi/1061802
 
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWh2nU1UI_2vmDXeOHSl1-PAVqbocTiGxchOv2-QzcA&s=10" group-title="KAYO MAIN EVENT",FOX SPORTS NEWS
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+
+#EXTINF:-1 tvg-id="FoxCricket.au"   tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="KAYO MAIN EVENT",FOX SPORTS 501
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13736.png?ver=98933" group-title="KAYO MAIN EVENT",FOX SPORTS 502
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1 tvg-id="FoxSports503.au"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-au.png" group-title="KAYO MAIN EVENT",FOX SPORTS 503
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1  channel-id="FoxFooty.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13754.png?ver=52405" group-title="KAYO MAIN EVENT",FOX SPORTS 504
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="KAYO MAIN EVENT",FOX SPORTS 505
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="KAYO MAIN EVENT",FOX SPORTS 506
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09NjE3MTkyJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
+#EXTINF:-1 tvg-id="FoxSportsMore.au"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="KAYO MAIN EVENT",FOX SPORTS 507
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODQ2JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
 
 
 
@@ -3929,7 +3958,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDA2LnRz
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 3 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvOTgwNDA3LnRz
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT /UK",TNT SPORTS 4 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 4 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzExNTU2LnRz
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 5 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzExNTU4LnRz
@@ -3940,7 +3969,7 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDEzLnRz
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 3 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDE0LnRz
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT /UK",TNT SPORTS 4 FHD
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 4 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODQ2MDE1LnRz
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpOjljmBNkvUhIbg4zB_DxDgXg4gyyxV6c2FuhH0Uow&s=10" group-title="TNT/UK",TNT SPORTS 5 FHD
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvMzExNTU3LnRz
