@@ -9316,4 +9316,36 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:F5:70:EF&stream=1500692&exte
 ########################################################################################################################################################################################################################
 ######################################################################    DOMS MAIN EVENTS  ##########################################################################################################################
 ####################################################################################################################################################################################################################
+URL
+Dear Reseller,
 
+Let’s go over the different URL options available in your panel and what each one is used for:
+
+My Wd-Card
+This URL is delivered via CDN. Our billing system automatically generates a unique subdomain for each user, with support for unlimited subdomains.
+
+My Cloud
+This URL is also delivered via CDN, but it does not support generating subdomains.
+
+My Cloud Pro
+This URL is also delivered via CDN, but it does not support generating subdomains.
+
+My Matrix
+This option also uses a CDN. If your client is using this domain, go to the billing panel, open the “Action” section, and under the “Kick Out” settings. There, switch the option to “VPN” and make sure it is enabled to avoid any issues with channels.
+If you are using other URLs such as My Wd-Card, My Cloud, or My Host, make sure the “Switch To VPN” option is turned off so it does not affect performance.
+
+My Host
+This is a standard URL without CDN. We do not recommend using it regularly; it should only be used as a backup in case Cloudflare is down.
+
+My VPN Apps
+If you use a VPN application such as NordVPN, Surfshark, Private Internet Access, or any other VPN service, you can now use this option with your own domain.
+Please note that “My VPN Apps” works only with an active VPN application. Without an active VPN Apps, you will not be able to login or access the playlist.
+
+My VPS
+This option is for users who have purchased their own VPS and want to connect it with our service. More information can be found in the billing section under “News,” where everything about VPS is explained.
+If your client is using this domain My Vps, go to the billing panel, open the “Action” section, and under the “Kick Out” settings. There, switch the option to “VPN” and make sure it is enabled to avoid any issues with channels.
+
+If you are using other URLs such as My Wd-Card, My Cloud, My Cloud pro or My Host, make sure the “Switch To VPN” option is turned off so it does not affect performance.
+
+Enjoy.
+Team 8K😘
