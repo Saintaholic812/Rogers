@@ -3417,6 +3417,8 @@ http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 ############################################
 #############################################
 
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,SEN TV - HORSERACING
+https://d210m42ch2dcxx.cloudfront.net/v1/manifest/fbb316a042e17a2e683126d94749c2d69866fc2c/Giddy_Up/8176ba6e-3237-41f6-8730-afda9a81ccc8/2.m3u8
 
 #EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" ,RACING.COM MELBOURNE
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTpjNDo2NzpmYSZzdHJlYW09MjU5ODUwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdjM1pqSHhSa0k=
