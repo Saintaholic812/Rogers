@@ -425,12 +425,12 @@ https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 #EXTINF:-1 channel-id="News24Weather.au" tvg-id="News24Weather.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/News24_Weather.svg/revision/latest/scale-to-width-down/250?cb=20260726120829" group-title="SYDNEY",NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
-#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS SYD
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" tvg-chno="71" group-title="SYDNEY",Seven
+#EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" tvg-chno="71" group-title="SYDNEY",7 SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/seven-syd.m3u8
