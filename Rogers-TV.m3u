@@ -7,7 +7,7 @@
 #EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/foxsports.com.au.channels.xml.gz"
 #EXTM3U X-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/Kayo/epg.xml.gz"
 #EXTM3U X-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz"
-
+#EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
 
 
 
@@ -4238,6 +4238,12 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=625240&exten
 #####################################################################################################################################################################################################################
 #####################################   NEW ZEALAND  SKY SPORT    ###################################################################################################################################################
 ##################################################################################################################################################################################################################
+
+#EXTINF:-1 channel-id="mjh-sky-popup1" tvg-id="mjh-sky-popup1" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/x5sb9PxNV3X9NmnokapqO/b9541319e37f2803dc7eec73c779d0b0/Logo_Images_-_default.png" group-title="SKYSPORTS NZ",THREENOW SPORT 1
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-popup1.m3u8
+
 
 #EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgB8ZObBf5d7SvcYddvMMgfpss7JXpkFsky_zLOIkK&s=10" group-title="SKYSPORTS NZ",NZ: SKY SPORT 1
 https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUvOTMxVEM0ODIySkxVN0NHLzZCUzROMzVscVkvODA4NzUyLnRz
