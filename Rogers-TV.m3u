@@ -1374,12 +1374,41 @@ https://blc2cr.linkip.org/live/90023_.m3u8?play=
 
 ################################################################################################################################################################################################################################
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLwBkyypOEguoC9SDBnNNk_pVmQjPKEYa1h43z4Ce9w&s=10" group-title="24/7 MOVIES",24/7 AL PACINO
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325212.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38VgaFOYKC5cav_VSFAHdLhp8pc8lA39mzWbVtn2H6g&s=10" group-title="24/7 MOVIES",24/7 ADAM SANDLER
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325213.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRvmW43Yh7TIN1Zw3vHXVEfprW_AZcalwMLeKfT28WQ&s=10" group-title="24/7 MOVIES",24/7 ARNOLD SCHWARZENEGGER
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325211.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTemqTPSCl5uAzGNXWjfKZraQXVwF6yzee-ZEsic5f6OQ&s=10" group-title="24/7 MOVIES",24/7 BRUCE LEE MOVIES
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325205.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2Fby8UdyS_echngwRhg4nkL5dyK714HjuKEFfu001Q&s=10" group-title="24/7 MOVIES",24/7 CLINT EASTWOOD
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325206.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMy-2yNH6Z1G5rv3awZkzq2lNO9Y2PHoOgQ6p8grc8KA&s=10" group-title="24/7 MOVIES",24/7 JIM CARREY
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325192.m3u8
+
+
 #EXTINF:-1  tvg-id="417" tvg-name="24/7: Avengers Movies" tvg-logo="http://icons.tw:8080/images/113e21faf20f79a720aa1d528e4ceb40.jpg" group-title="24/7 MOVIES",AVENGER MOVIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/223944.m3u8
-#EXTINF:-1  tvg-id="418" tvg-name="24/7: Die Hard Movies" tvg-logo="http://icons.tw:8080/images/f24e16dd848ab01ae232fb5a69c6d20c.jpg" group-title="24/7 MOVIES",DIEHARD MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCMLsLFAFP2vtGFiQ5lqm2KIj4f3DekHtcyIn1r3jiRA&s=10" group-title="24/7 MOVIES",24/7 BATMAN MOVIES
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325209.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqwHuQhANOh_PxE0OCrVYiW6npz3IgmaFIZeeGyf_JVA&s=10" group-title="24/7 MOVIES",24/7 BACK TO THE FUTURE
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325210.m3u8
+
+
+#EXTINF:-1  tvg-id="418" tvg-name="24/7: Die Hard Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzuqHuTfl5fOOLf0OWmAmCxXjMP29eaa7u17AmFkuYg&s=10" group-title="24/7 MOVIES",DIEHARD MOVIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224065.m3u8
-#EXTINF:-1  tvg-id="419" tvg-name="24/7: Jurassic Park Movies" tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="24/7 MOVIES",JURASSIC PARK MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzuqHuTfl5fOOLf0OWmAmCxXjMP29eaa7u17AmFkuYg&s=10" group-title="24/7 MOVIES",24/7 DIE HARD
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325203.m3u8
+
+
+#EXTINF:-1   tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="24/7 MOVIES",JURASSIC PARK MOVIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224244.m3u8
+#EXTINF:-1 tvg-logo="http://icons.tw:8080/images/711a78ecf7976b657f8311a1bce4c7d5.jpg" group-title="24/7 MOVIES",JURASSIC PARK
+http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325191.m3u8
+
+
 #EXTINF:-1  tvg-id="420" tvg-name="24/7: Mission Impossible Movies" tvg-logo="http://icons.tw:8080/images/09dface9166acc57e4c40af950433d4e.jpg" group-title="24/7 MOVIES",MISSION IMPOSSIBLE MOVIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224338.m3u8
 #EXTINF:-1  tvg-id="421" tvg-name="24/7: Superman Movies" tvg-logo="http://icons.tw:8080/images/0bed7b0960e761a5b81e6dff02ecaca2.jpg" group-title="24/7 MOVIES",SUPERMAN MOVIES
@@ -1408,65 +1437,45 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224785.m3u8
 #EXTINF:-1 tvg-chno="435" channel-number="435" tvg-id="435" tvg-name="24/7: Rocky Movies" tvg-logo="http://icons.tw:8080/images/fc88a2aacde720ffe4bfcab8b0000e95.jpg" group-title="24/7 MOVIES",ROCKY MOVIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/224460.m3u8
 
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 ARNOLD SCHWARZENEGGER
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325211.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 AL PACINO
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325212.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 ADAM SANDLER
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325213.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 BRUCE LEE MOVIES
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325205.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 BOXING MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325207.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 BLADE MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyWn6OTJ5QsYuIpHpWjeyXqJjOaBQdnIhkbg3kHlPMw&s=10" group-title="24/7 MOVIES",24/7 BLADE MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325208.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 BATMAN MOVIES
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325209.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 BACK TO THE FUTURE
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325210.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 CLINT EASTWOOD
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325206.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 DIE HARD
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325203.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 FIFTY SHADES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZg6pfGnsNTgzJznyePLAzISAaZzAGo8vmjjg2zkyt2g&s=10" group-title="24/7 MOVIES",24/7 FIFTY SHADES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325200.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 FAST AND FURIOUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ACq36bk1MA4VFKDw-0EoRKOzVAc7lnwjaWKKESTtKA&s=10" group-title="24/7 MOVIES",24/7 FAST AND FURIOUS
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325201.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 FRIDAY THE 13TH
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325190.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 GREASE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubVCtEdKpK3_DGKmF6dOWm0xwW8ZifkguYpsHB4HG9Q&s=10" group-title="24/7 MOVIES",24/7 GREASE
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325199.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 HARRY POTTER
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-gKbDX0THV47kh_l26iGo--reNAPC_AaDWAOJDt-Fw&s" group-title="24/7 MOVIES",24/7 HARRY POTTER
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325198.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 INDIANA JONES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ169OVnaqPace9s9X-amksDlOh33C8SDjWs9--GZtytQ&s=10" group-title="24/7 MOVIES",24/7 INDIANA JONES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325196.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 JAMES BOND
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQef9PHlWXvro_7F5du16_Oj4rVWflOxwg3qeQvfVrR_A&s=10" group-title="24/7 MOVIES",24/7 JAMES BOND
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325195.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 JASON BOURNE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhU_G_0LQDf2sltO5qPUqeyL9eKuwWlTV-vE2gG9rRA&s=10" group-title="24/7 MOVIES",24/7 JASON BOURNE
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325194.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 JIM CARREY
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325192.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 JCVD MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qLGDfttytK6SnJxHBYUcwHdyAj_0a8AzM5NvhfUa1A&s" group-title="24/7 MOVIES",24/7 JCVD MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325193.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 JURASSIC PARK
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325191.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 JET LI MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoY6W4RHnEL1nhCrJMWPJ44OD8gzh63sXvmA9-w7rTnQ&s" group-title="24/7 MOVIES",24/7 JET LI MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325116.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 LORD OF THE RINGS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6RwgsLyRggXOe_ZukK0yNbjq-vFW3z-djpDQi31YnQ&s=10" group-title="24/7 MOVIES",24/7 LORD OF THE RINGS
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325188.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 LETHAL WEAPON
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPIJIJCbE-p1Urf_uMIVc2IUhbookK2pPAPuEF6li_JQ&s" group-title="24/7 MOVIES",24/7 LETHAL WEAPON
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325189.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 MEN IN BLACK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzIiq1XEFttv-g84ucja8rU4XeutyGPljubvs7JFMWjA&s=10" group-title="24/7 MOVIES",24/7 MEN IN BLACK
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325186.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 MATRIX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalEtHvafJMhchcSB7klXiay-4lJqVRsxzaSy3hCVFtQ&s=10" group-title="24/7 MOVIES",24/7 MATRIX
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325187.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 POLICE ACADEMY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXT185mRM20v41KFK7uqqEb9CV3KstNCnf45sL4tq2bw&s=10" group-title="24/7 MOVIES",24/7 POLICE ACADEMY
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325181.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 PREDATOR/ALIEN MOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zzRA8MhbxgAaL8wiHxjgbGGAAAt-MmxiQNqMg2Q1BQ&s=10" group-title="24/7 MOVIES",24/7 PREDATOR/ALIEN MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325182.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 PLANET OF THE APES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG3xbj3e-u6-_XdF5JfmUQIBWYhIxJpG-2BMcJU7MJg&s" group-title="24/7 MOVIES",24/7 PLANET OF THE APES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325183.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 PIRATES OF THE CARIBBEAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBGAwO0gupRAm6exUAzoch4fsX-l9cuuVkdph7Lkp60A&s=10" group-title="24/7 MOVIES",24/7 PIRATES OF THE CARIBBEAN
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325184.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 RUSH HOUR
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325177.m3u8
@@ -1478,10 +1487,6 @@ http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325180.m3u8
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325174.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 SUPERHERO MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325171.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 STEVEN SEAGAL
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325172.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 QUENTIN TARANTINO MOVIES
-http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325175.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 SCIFI MOVIES
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325176.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/GOLDTV/gold tv.png" group-title="24/7 MOVIES",24/7 TWILIGHT
