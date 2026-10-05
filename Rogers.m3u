@@ -4815,6 +4815,11 @@ https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scrip
 ######    PARANORMAL ######
 ###########################
 
+#EXTINF:-1 channel-id="mjh-sky-fast5" tvg-id="mjh-sky-fast5" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/6fSJzwOG5r7dfPc2uP4n7m/1e3923f6869c29300e3d76597c341282/Logo_Images_-_default.png" group-title="PARANORMAL",WARNER BROS TV PARANORMAL
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-fast5.m3u8
+
 #EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="PARANORMAL", 9Mystery&Paranormal
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
