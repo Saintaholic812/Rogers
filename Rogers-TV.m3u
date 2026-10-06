@@ -251,22 +251,22 @@ http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="MELBOURNE",7 MELB
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="MELBOURNE",7 MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-0df0539185e464203.bln1.yospace.com/csm/extlive/sevenprd01,MEL1.m3u8?&&&&ppId=8c3820e02e48163a9643f59e5368df67d8469a214630aeb386b072fe5ec99b31&vid=6363896052112&c=n&pp=ssai-web&hl=en&yo.pp=c2Vzc2lvbmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3JmhkbnRzPXN0PTE3OTEyNDU4NTN-ZXhwPTE3OTEyNzQ2NDN-YWNsPS8qfmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3fmhtYWM9NWIwZmNkYTYxZGNlYmU2MTk3OWIyY2NjZjE0YWZmYTcyMjQ0ODNhYzAxOWIyOGRjOGM3MWYxZjhlZmIyMzNhYS
 
-#EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/auto-7two-mel-701123.png" tvg-chno="72" group-title="MELBOURNE",7TWO MELB
+#EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/auto-7two-mel-701123.png" tvg-chno="72" group-title="MELBOURNE",7TWO MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,MEL2.m3u8?
 
-#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/auto-7mate-mel-360d60.png" tvg-chno="74" group-title="MELBOURNE",7MATE MELB
+#EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/auto-7mate-mel-360d60.png" tvg-chno="74" group-title="MELBOURNE",7MATE MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,MEL3.m3u8?
 
-#EXTINF:-1 channel-id="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-logo="https://i.mjh.nz/.images/auto-7flix-mel-c6badc.png" tvg-chno="76" group-title="MELBOURNE",7FLIX MELB
+#EXTINF:-1 channel-id="mjh-7flix-mel" tvg-id="mjh-7flix-mel" tvg-logo="https://i.mjh.nz/.images/auto-7flix-mel-c6badc.png" tvg-chno="76" group-title="MELBOURNE",7FLIX MELBOURNE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,MEL6.m3u8?
@@ -408,7 +408,7 @@ https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 #EXTINF:-1 channel-id="News24Weather.au" tvg-id="News24Weather.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/News24_Weather.svg/revision/latest/scale-to-width-down/250?cb=20260726120829" group-title="SYDNEY",NEWS24 WEATHER
 http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1812073&extension=ts&play_token=A1WVs32n67
 
-#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS SYD
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="SYDNEY", ABC NEWS SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://c.mjh.nz/abc-news.m3u8
@@ -3657,6 +3657,11 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL21sbmxkaW5vLnh5ei9wbGF5L2xp
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+
+#EXTINF:-1 channel-id="mjh-racing-fast" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png"  group-title="HORSERACING" , Racing.com TEST
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://npc-live-sevennetwork.akamaized.net/hls/live/RAC/hdntl=exp=1791335000~acl=%2f*~data=hdntl~hmac=d84ed682b0c4f15d9ea216ae260081f273e761a6aa7539c885de3b600b3b1dab/master_1500.m3u8
 
 #EXTINF:-1 channel-id="mjh-sky-racing-thoroughbred" tvg-id="mjh-sky-racing-thoroughbred" tvg-logo="https://i.mjh.nz/.images/sky-racing-thoroughbred.png" group-title="HORSERACING" , Sky Racing - Thoroughbred Central
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
