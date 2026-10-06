@@ -35,16 +35,10 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 channel-id="mjh-seven-bri" tvg-id="mjh-seven-bri" tvg-logo="https://i.mjh.nz/.images/auto-seven-bri-9608a4.png"  group-title="BRISBANE",7 BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seven-bri.m3u8
+https://csm-e-cesevextprdausw2live-0df0539185e464203.bln1.yospace.com/csm/extlive/sevenprd01,BRI1.m3u8?&&&&ppId=8c3820e02e48163a9643f59e5368df67d8469a214630aeb386b072fe5ec99b31&vid=6363896052112&c=n&pp=ssai-web&hl=en&yo.pp=c2Vzc2lvbmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3JmhkbnRzPXN0PTE3OTEyNDU4NTN-ZXhwPTE3OTEyNzQ2NDN-YWNsPS8qfmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3fmhtYWM9NWIwZmNkYTYxZGNlYmU2MTk3OWIyY2NjZjE0YWZmYTcyMjQ0ODNhYzAxOWIyOGRjOGM3MWYxZjhlZmIyMzNhYS
 
 #EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE",7 SUNSHINE COAST
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,SSC1.m3u8?
-
-#EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BRISBANE",SEVEN SUNSHINE COAST
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seven-ssc.m3u8
-
 
 #EXTINF:-1 channel-id="mjh-7two-bri" tvg-id="mjh-7two-bri" tvg-logo="https://i.mjh.nz/.images/auto-7two-bri-701123.png" tvg-chno="72" group-title="BRISBANE",7TWO BRISBANE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -260,7 +254,7 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="MELBOURNE",7 MELB
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seven-mel.m3u8
+https://csm-e-cesevextprdausw2live-0df0539185e464203.bln1.yospace.com/csm/extlive/sevenprd01,MEL1.m3u8?&&&&ppId=8c3820e02e48163a9643f59e5368df67d8469a214630aeb386b072fe5ec99b31&vid=6363896052112&c=n&pp=ssai-web&hl=en&yo.pp=c2Vzc2lvbmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3JmhkbnRzPXN0PTE3OTEyNDU4NTN-ZXhwPTE3OTEyNzQ2NDN-YWNsPS8qfmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3fmhtYWM9NWIwZmNkYTYxZGNlYmU2MTk3OWIyY2NjZjE0YWZmYTcyMjQ0ODNhYzAxOWIyOGRjOGM3MWYxZjhlZmIyMzNhYS
 
 #EXTINF:-1 channel-id="mjh-7two-mel" tvg-id="mjh-7two-mel" tvg-logo="https://i.mjh.nz/.images/auto-7two-mel-701123.png" tvg-chno="72" group-title="MELBOURNE",7TWO MELB
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -422,7 +416,7 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 channel-id="mjh-seven-syd" tvg-id="mjh-seven-syd" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" tvg-chno="71" group-title="SYDNEY",7 SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seven-syd.m3u8
+https://csm-e-cesevextprdausw2live-0df0539185e464203.bln1.yospace.com/csm/extlive/sevenprd01,SYD1.m3u8?&&&&ppId=8c3820e02e48163a9643f59e5368df67d8469a214630aeb386b072fe5ec99b31&vid=6363896052112&c=n&pp=ssai-web&hl=en&yo.pp=c2Vzc2lvbmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3JmhkbnRzPXN0PTE3OTEyNDU4NTN-ZXhwPTE3OTEyNzQ2NDN-YWNsPS8qfmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3fmhtYWM9NWIwZmNkYTYxZGNlYmU2MTk3OWIyY2NjZjE0YWZmYTcyMjQ0ODNhYzAxOWIyOGRjOGM3MWYxZjhlZmIyMzNhYS
 
 #EXTINF:-1 channel-id="mjh-7two-syd" tvg-id="mjh-7two-syd" tvg-logo="https://i.mjh.nz/.images/auto-7two-syd-701123.png" tvg-chno="72" group-title="SYDNEY",7TWO SYDNEY
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -599,7 +593,7 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 channel-id="mjh-seven-ade" tvg-id="mjh-seven-ade" tvg-logo="https://i.mjh.nz/.images/auto-seven-ade-9608a4.png" tvg-chno="71" group-title="ADELAIDE", 7 ADELAIDE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seven-ade.m3u8
+https://csm-e-cesevextprdausw2live-0df0539185e464203.bln1.yospace.com/csm/extlive/sevenprd01,ADE1.m3u8?&&&&ppId=8c3820e02e48163a9643f59e5368df67d8469a214630aeb386b072fe5ec99b31&vid=6363896052112&c=n&pp=ssai-web&hl=en&yo.pp=c2Vzc2lvbmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3JmhkbnRzPXN0PTE3OTEyNDU4NTN-ZXhwPTE3OTEyNzQ2NDN-YWNsPS8qfmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3fmhtYWM9NWIwZmNkYTYxZGNlYmU2MTk3OWIyY2NjZjE0YWZmYTcyMjQ0ODNhYzAxOWIyOGRjOGM3MWYxZjhlZmIyMzNhYS
 
 #EXTINF:-1 channel-id="mjh-7two-ade" tvg-id="mjh-7two-ade" tvg-logo="https://i.mjh.nz/.images/auto-7two-ade-701123.png" tvg-chno="72" group-title="ADELAIDE", 7TWO ADELAIDE
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -759,7 +753,7 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 channel-id="mjh-seven-per" tvg-id="mjh-seven-per" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" tvg-chno="71" group-title="PERTH", 7 PERTH
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/seven-per.m3u8
+https://csm-e-cesevextprdausw2live-0df0539185e464203.bln1.yospace.com/csm/extlive/sevenprd01,PER1.m3u8?&&&&ppId=8c3820e02e48163a9643f59e5368df67d8469a214630aeb386b072fe5ec99b31&vid=6363896052112&c=n&pp=ssai-web&hl=en&yo.pp=c2Vzc2lvbmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3JmhkbnRzPXN0PTE3OTEyNDU4NTN-ZXhwPTE3OTEyNzQ2NDN-YWNsPS8qfmlkPVpIUXRkMlZpX1kya3RNRWhPVURGVFFUUlVTRU15TkRvd01EQXdNREF6T0FfWkdrdE5EWXlaV0prWVRRdFl6STNPQzAwT1dKbExUaGtZMk10WlRFeE1tVXlNRFpqTmpNeF9kV2t0T1RFeFptWTJZVGxoTXpoa05EUTFOV0ppTXpZNU9ERTJaVGxrWmpsaVlqWV9jaTB3fmhtYWM9NWIwZmNkYTYxZGNlYmU2MTk3OWIyY2NjZjE0YWZmYTcyMjQ0ODNhYzAxOWIyOGRjOGM3MWYxZjhlZmIyMzNhYS
 
 #EXTINF:-1 channel-id="mjh-7two-per" tvg-id="mjh-7two-per" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" tvg-chno="72" group-title="PERTH", 7 TWO PERTH
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
