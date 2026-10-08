@@ -249,7 +249,7 @@ https://i.mjh.nz/.r/sbs-6nat.m3u8
 ###############################
 
 
-#EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="MELBOURNE" , NEWS24
+#EXTINF:-1 channel-id="News24.au;News24.au" tvg-id="News24.au;News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="MELBOURNE" , NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-news-now.m3u8
