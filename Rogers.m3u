@@ -998,14 +998,20 @@ https://c.mjh.nz/abc-news.m3u8
 #EXTINF:-1 channel-id="mjh-seven-ssc" tvg-id="mjh-seven-ssc" tvg-logo="https://i.mjh.nz/.images/auto-seven-ssc-9608a4.png" group-title="BATHURST 1000",7 SUNSHINE COAST
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,SSC1.m3u8?
 
+#EXTINF:-1 channel-id="mjh-seven-mel" tvg-id="mjh-seven-mel" tvg-logo="https://i.mjh.nz/.images/auto-seven-mel-9608a4.png" tvg-chno="71" group-title="BATHURST 1000",7 MELBOURNE
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/seven-mel.m3u8
+
+
 #EXTINF:-1 channel-id="mjh-7mate-bri" tvg-id="mjh-7mate-bri" tvg-logo="https://i.mjh.nz/.images/auto-7mate-bri-360d60.png"  group-title="BATHURST 1000",7MATE BRIS
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,BRI3.m3u8?
 
 #EXTINF:-1 channel-id="mjh-7mate-mel" tvg-id="mjh-7mate-mel" tvg-logo="https://i.mjh.nz/.images/auto-7mate-mel-360d60.png" group-title="BATHURST 1000",7MATE MELB
 https://csm-e-cesevextprdausw2live-010bb2062be56ecb6.bln1.yospace.com/csm/extlive/sevenprd01,MEL3.m3u8?
+
 #EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="BATHURST 1000", FOX SPORTS 506 HD
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=944693&extension=ts&play_token=xsr3zGQkke
-
 
 #EXTINF:-1 tvg-id="FoxSports506.au"  tvg-logo="http://photo-tmdb.com/stalker_portal/logos/foxsportshd.png" group-title="BATHURST 1000",FOX SPORTS 506
 http://honeywatch.net:80/play/live.php?mac=00:1A:79:7D:6B:0F&stream=441302&extension=ts&play_token=AE4Wxjdtdw
@@ -1037,6 +1043,8 @@ http://honeywatch.net:80/play/live.php?mac=00:1A:79:7D:6B:0F&stream=2006095&exte
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbey6exPRD7YZqJ5s3m8zWzL7wtk576Npbr8zG1huQLw&s" group-title="BATHURST 1000",YOUTUBE LIVE ??
 https://youtu.be/GRhfNbFPZaw
+
+
 
 
 #####################################################################################################################################################################################################################
@@ -5186,6 +5194,447 @@ http://hostengine.live:2086/live/Tkarymom1/Reggine1/224460.m3u8
 
 
 ###########################################################################################################################################################################################################################
+
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADAM DRIVER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392700&extension=ts&play_token=IbZfwsWMrh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADAM SANDLER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392701&extension=ts&play_token=E1q9dB8Qx1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADAM SANDLER 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392702&extension=ts&play_token=4eshgaiPjA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADVENTURE MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393425&extension=ts&play_token=lrNrqWV56h
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADVENTURE MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393426&extension=ts&play_token=23SELlPndu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | AL PACINO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392703&extension=ts&play_token=GkzyFRT4QE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ALICIA VIKANDER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393427&extension=ts&play_token=SqwIEb9m03
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ALLISON JANNEY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393428&extension=ts&play_token=2jVSYfZKfb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | AMY ADAMS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393429&extension=ts&play_token=7bS1gnazkv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ANIMATION MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393430&extension=ts&play_token=qMs6nvm7DQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ANIMATION MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393431&extension=ts&play_token=W1bQKfNzDq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ANNETTE BENING
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393432&extension=ts&play_token=pIVb6WLKTd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEN FOSTER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392704&extension=ts&play_token=aRBuRQ8H4c
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEN MENDELSOHN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392705&extension=ts&play_token=PZgbvtjCqc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BENEDICT CUMBERBATCH
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393433&extension=ts&play_token=sXQlcGJUNz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BENICIO DEL TORO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393434&extension=ts&play_token=JfKDaLNdwe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393435&extension=ts&play_token=wvVRFIpuqv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393436&extension=ts&play_token=CYZCPfeta1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393437&extension=ts&play_token=yiMRRBuX4X
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393438&extension=ts&play_token=s4oKDFTtcl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393439&extension=ts&play_token=8L1ZLIzawM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 6
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393440&extension=ts&play_token=4mv5C4T54W
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 7
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393441&extension=ts&play_token=28NK8Clt9s
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 8
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393442&extension=ts&play_token=Bpji8GwnLC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BIOGRAPHY MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393443&extension=ts&play_token=Zee1CeaESG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BOB ODENKIRK
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393444&extension=ts&play_token=vGqmFGp0qt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRADLEY COOPER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393445&extension=ts&play_token=eBpnegnv30
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRIE LARSON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393446&extension=ts&play_token=HCcQO3wSMU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRUCE LEE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392706&extension=ts&play_token=311fjJ6u72
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRUCE WILLIS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392707&extension=ts&play_token=wRY9aQdlpn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRYAN CRANSTON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393447&extension=ts&play_token=SbsC3uDHeX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CARRIE COON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393448&extension=ts&play_token=2TNuLQBVsp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CATE BLANCHETT
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393449&extension=ts&play_token=6izEs4Cj32
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHARLIZE THERON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393450&extension=ts&play_token=CSUBpbuD3f
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHIWETEL EJIOFOR
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393451&extension=ts&play_token=WvJW77l1yv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRIS PINE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393452&extension=ts&play_token=Yf049H6Zjy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRISTIAN BALE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393453&extension=ts&play_token=dgkgrmMLzn
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRISTMAS MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393454&extension=ts&play_token=0XNEDsT3CW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRISTOPHER NOLAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393455&extension=ts&play_token=9s4eetbav1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CLAIRE FOY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393456&extension=ts&play_token=rKeIfiDB1g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | COMEDY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393457&extension=ts&play_token=aCW7TgEf41
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | COMEDY MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393458&extension=ts&play_token=SAqELKH8oM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CRIME MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393459&extension=ts&play_token=3XvaF3Zut1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CRIME MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393460&extension=ts&play_token=H1aZeevUdY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DANIEL KALUUYA
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393461&extension=ts&play_token=1SYxKSZBWc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DAVID OYELOWO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392708&extension=ts&play_token=GUNYJ4Q0Hf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DENZEL WASHINGTON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392709&extension=ts&play_token=xlts7ucSZK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DISNEY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393462&extension=ts&play_token=eZ5cd4CDwf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DOCUMENTARY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393463&extension=ts&play_token=IMeUP4Xiqt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DOCUMENTARY MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393464&extension=ts&play_token=WbyEjC7usa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DRAMA MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393465&extension=ts&play_token=w8stZGEx3F
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ELVIS PRESLEY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392710&extension=ts&play_token=fOctYzDoAI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ELVIS PRESLEY MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392711&extension=ts&play_token=xOdwxG23Lq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | EVAN RACHEL WOOD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393466&extension=ts&play_token=5JjuCgIApG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FAMILY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393467&extension=ts&play_token=I66ulNzoIF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FAMILY MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393468&extension=ts&play_token=xxNjzH1Ilg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FANTASY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393469&extension=ts&play_token=GMoHGIw6Z0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FANTASY MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393470&extension=ts&play_token=nyd7ktrrHv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FAST AND FURIOUS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392712&extension=ts&play_token=biY8FyhBwL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FCI-FI 2024
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393471&extension=ts&play_token=MkuMeZLVOi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FRANCES MCDORMAND
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393472&extension=ts&play_token=AiT5fBFXNt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GANGSTER MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392713&extension=ts&play_token=MjgdseY3AK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GARY OLDMAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393473&extension=ts&play_token=OIaMBpRxNb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GINA RODRIGUEZ
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393474&extension=ts&play_token=T1HS6HdPeK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GODZILLA MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392714&extension=ts&play_token=sGeoCTM4zL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GUY RICHIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393475&extension=ts&play_token=dBnUHDqOTG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HAILEE STEINFELD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393476&extension=ts&play_token=WjWYZI2yMo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HISTORY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393477&extension=ts&play_token=lFjkZsXFWF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HORROR MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393478&extension=ts&play_token=nn1SxNIrNx
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HORROR MOVIES 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393479&extension=ts&play_token=XupLOvfJ4q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HUGH JACKMAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393480&extension=ts&play_token=48El3JWpvr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HULU+ MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393481&extension=ts&play_token=ri9m5ENOW3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | IDRIS ELBA
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392715&extension=ts&play_token=LUQ13uzWqV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | IMDB TOP RATED
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392741&extension=ts&play_token=LXrg8BeZQb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392716&extension=ts&play_token=pmkr9RttCP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392717&extension=ts&play_token=EwR2y0LZB4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392718&extension=ts&play_token=jyIsi7PYw2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393482&extension=ts&play_token=hXLi9Kh9bC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393483&extension=ts&play_token=bXQ5TPdBlC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392719&extension=ts&play_token=q6UrUmxjF8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392720&extension=ts&play_token=cxhoosorWF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393484&extension=ts&play_token=BR4p54JwUj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393485&extension=ts&play_token=5dgqwhNtyU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393486&extension=ts&play_token=dLqkjDpAAb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JAKE GYLLENHAAL
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393487&extension=ts&play_token=etfz27elWs
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JAMES BONDS 007
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392721&extension=ts&play_token=qBIT1rwdeg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JANELLE MONAE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393488&extension=ts&play_token=N1jqqbnDD3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JAVIER BARDEM
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393489&extension=ts&play_token=p320T1tyzM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JEAN CLAUDE VAN DAMME
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392722&extension=ts&play_token=p9f3vRT48C
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JEFFREY WRIGHT
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393490&extension=ts&play_token=nk4ZahrgaC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JENNIFER LAWRENCE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393491&extension=ts&play_token=AYgnuYh0va
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JENNIFER LAWRENCE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393492&extension=ts&play_token=WN4fOar72o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JESSICA CHASTAIN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393493&extension=ts&play_token=R5oUcHrA0B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JET LI
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393494&extension=ts&play_token=mODmennXJr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOAQUIN PHOENIX
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393495&extension=ts&play_token=ra6FQiioY0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOEL EDGERTON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393496&extension=ts&play_token=YOXXvk2QFf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOHN WAYNE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393497&extension=ts&play_token=8bRRHLTyA6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JONAH HILL
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393498&extension=ts&play_token=lLZ0A4Pv7z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOSH BROLIN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393499&extension=ts&play_token=T5pAtrnpKa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JULIANNE MOORE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393500&extension=ts&play_token=KpaR4YJZ6q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KATE WINSLET
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393501&extension=ts&play_token=8HAoOleMO2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KEANU REEVES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393502&extension=ts&play_token=UlffHun5IS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KERI RUSSELL
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393503&extension=ts&play_token=wVNAWQWae3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KUMAIL NANJIANI
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393504&extension=ts&play_token=7qKhc9bk56
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KUNGFU
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393505&extension=ts&play_token=0feTshGk5w
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KYLE CHANDLER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393506&extension=ts&play_token=JjtHvWqdC6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LAKEITH STANFIELD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393507&extension=ts&play_token=LxwykBE1bT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LEONARDO DICAPRIO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392723&extension=ts&play_token=S3f0sJc2Mv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LETITIA WRIGHT
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393508&extension=ts&play_token=mgji2UjLUi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LORD OF THE RINGS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392724&extension=ts&play_token=pADU92fZD5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LUCAS HEDGES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393509&extension=ts&play_token=5E4JkzHhf2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LUPITA NYONG'O
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393510&extension=ts&play_token=Xio5FxoOY5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MAHERSHALA ALI
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393511&extension=ts&play_token=tHP7qhPN38
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | margot robbie
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393512&extension=ts&play_token=lRRsWefIOu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARION COTILLARD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393513&extension=ts&play_token=XJHuvexWxE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARK RUFFALO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393514&extension=ts&play_token=VMcMTESW0q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARK RUFFALO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393515&extension=ts&play_token=esOtCZbGM9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARTIN FREEMAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392726&extension=ts&play_token=EiRwQctYnP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARVEL MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393516&extension=ts&play_token=SMHvXh9nDj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MATT DAMON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392725&extension=ts&play_token=OHDezsC7Ce
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MATTHEW RHYS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393517&extension=ts&play_token=CtXwu4Mga2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MERYL STREEP
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393518&extension=ts&play_token=9zFLeCLWMq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL B JORDAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392727&extension=ts&play_token=pRCjF4ZNCX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL FASSBENDER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393519&extension=ts&play_token=CMlWGm8GVC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL KEATON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393520&extension=ts&play_token=KAdvXnDp71
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL SHANNON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393521&extension=ts&play_token=vSBzUboRvf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL STUHLBARG
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393522&extension=ts&play_token=u2QsqJl8kt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MYSTERY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393523&extension=ts&play_token=Lc81qmw1QZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NAOMIE HARRIS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393524&extension=ts&play_token=efUahYdEA6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NATALIE PORTMAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393525&extension=ts&play_token=oWDVorn6U5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NETFLIX MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393526&extension=ts&play_token=zt9QyBVEcR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NEW MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393527&extension=ts&play_token=8fm3ZdpqzU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NICOLAS CAGE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392728&extension=ts&play_token=z2WgulNTEf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NORTHSTAR DRAMA
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393528&extension=ts&play_token=m1izhQpIHI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | OCTAVIA SPENCER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393529&extension=ts&play_token=Beke1ZwCNp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | OSCAR ISAAC
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393530&extension=ts&play_token=RA2v3vbf2U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | PARAMOUNT MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393531&extension=ts&play_token=4v4w0W9C17
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | PAUL DANO
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393532&extension=ts&play_token=eDPvliJBXI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RACHEL WEISZ
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393533&extension=ts&play_token=4W62Qs1386
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RALPH FIENNES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393534&extension=ts&play_token=3tVEObXwWf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393535&extension=ts&play_token=m7Lvi5IqjM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393536&extension=ts&play_token=4xqYT49Egd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393537&extension=ts&play_token=IfJiJKLvSU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393538&extension=ts&play_token=ef47AprUEm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393539&extension=ts&play_token=rRlWBB0Bbt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393540&extension=ts&play_token=rIGmoFKHvd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393541&extension=ts&play_token=CosI7AMbEJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393542&extension=ts&play_token=OYBG1s1ZYd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 6
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393543&extension=ts&play_token=cADD8q20jq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 7
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393544&extension=ts&play_token=jiNQDIuxHq
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REALITY-TV
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393545&extension=ts&play_token=YT583Z8rRA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REESE WITHERSPOON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393546&extension=ts&play_token=l5nQyRXy8p
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RIZ AHMED
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393547&extension=ts&play_token=iSmzD5G43A
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBERT DE NIRO MOVIES
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392729&extension=ts&play_token=UwtnQN36cU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBERT DOWNEY JR
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392730&extension=ts&play_token=3lt656Awzj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBIN WILLIAMS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393549&extension=ts&play_token=e4Q4mOxjD7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBIN WRIGHT
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393548&extension=ts&play_token=R0lmb4Dcw0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROCKY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393550&extension=ts&play_token=Y7QEjR0Ow9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROMANCE MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393551&extension=ts&play_token=4AjyOrxYKg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROMANCE MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393552&extension=ts&play_token=QJh4v3jq0I
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RYAN GOSLING
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393553&extension=ts&play_token=3oNuvZMnpa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SAM ROCKWELL
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393554&extension=ts&play_token=QvOHfWWlYH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SAMUEL L JACKSON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392731&extension=ts&play_token=rC1Sa53Fmk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SAOIRSE RONAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393555&extension=ts&play_token=Fu3rURPDTT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SARAH PAULSON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393556&extension=ts&play_token=fsImHrQX6Z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SCI-FI
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393557&extension=ts&play_token=X0l3mnmrdD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SCI-FI 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393558&extension=ts&play_token=hVsKbAh7mR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | STERLING K BROWN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393559&extension=ts&play_token=bbO7LkLpgC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | STEVE CARELL
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393560&extension=ts&play_token=mw1it6bOtO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | STEVEN SEAGAL
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392732&extension=ts&play_token=DxMlR62VI8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ACTION MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393561&extension=ts&play_token=CDrFcpvQX9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ADVENTURE MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393562&extension=ts&play_token=F0FDGVrBd0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393563&extension=ts&play_token=qCpQ7rdXqe
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393564&extension=ts&play_token=9OVBgRB4aT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393565&extension=ts&play_token=ANcTM0TzFI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393566&extension=ts&play_token=qqNxzUscKm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393567&extension=ts&play_token=bUxn0Hccxa
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ANIMATION MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393568&extension=ts&play_token=tcU6GfoT3c
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR COMEDY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393569&extension=ts&play_token=kNM4IeIXwo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR COMEDY MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393570&extension=ts&play_token=30ZTx6Sg6j
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR COMEDY MOVIE 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393571&extension=ts&play_token=suRQNoq9h1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR CRIME MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393572&extension=ts&play_token=aKiB1A4oc0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR DOCUMENTARY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393573&extension=ts&play_token=VyBvmpyo7D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR DOCUMENTARY 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393574&extension=ts&play_token=aMgPzObHaJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR DRAMA MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393575&extension=ts&play_token=l8g5Uj2rNi
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR FAMILY MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393576&extension=ts&play_token=CXWzBrdMZR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR HORROR 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393577&extension=ts&play_token=0zuGtamDF7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | Superstar Horror 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393578&extension=ts&play_token=zxMf2nWNxb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR KUNGFU
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393579&extension=ts&play_token=bLkpjkm7RP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR KUNGFU 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393580&extension=ts&play_token=boRJiRxkjQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR KUNGFU 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393581&extension=ts&play_token=BOlhhWAvAS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393582&extension=ts&play_token=oyn8DuX1KV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393583&extension=ts&play_token=084ptuVzCE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 3
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393584&extension=ts&play_token=UXsp8WR1Vy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 4
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393585&extension=ts&play_token=f5ucIPu1bp
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 5
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393586&extension=ts&play_token=7TJ4ccV3Sg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MUSIC MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393587&extension=ts&play_token=BE22kKiK6E
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR OSCAR WINNING MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393588&extension=ts&play_token=vvt5lDr1QR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ROMANCE MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393589&extension=ts&play_token=MkeeRDiWhJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ROMANCE MOVIE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393590&extension=ts&play_token=w7lWaqxbcX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR STAR WARS MOVIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393591&extension=ts&play_token=6Lucpdmz7z
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR WESTERN MOVIE 1
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393592&extension=ts&play_token=oCsJqZHVdh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TARAJI P HENSON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393593&extension=ts&play_token=LyrDq9hkSC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TATIANA MASLANY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393594&extension=ts&play_token=88y7VwwsXg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | THE ADVENTURES OF TINTIN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393595&extension=ts&play_token=JvTHrEsL68
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | THE EQUALIZER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392733&extension=ts&play_token=ZgIA4SilKJ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | THE GODFATHER
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392734&extension=ts&play_token=0XU8vvLJpO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TIFFANY HADDISH
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393596&extension=ts&play_token=oswNeVZ2P9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TILDA SWINTON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393597&extension=ts&play_token=066lw6Rvjb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TIMOTHEE CHALAMET
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393598&extension=ts&play_token=KNWBZUk2E7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM CLANCY'S JACK RYAN
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392735&extension=ts&play_token=gtZXC079ot
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM CRUISE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392736&extension=ts&play_token=ayTeOfShyL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM CRUISE 2
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392737&extension=ts&play_token=GPUVBY2CXK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM HANKS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392738&extension=ts&play_token=6RIyK3dy2h
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM HARDY
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392739&extension=ts&play_token=mWRPwmIhoH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM HIDDLESTON
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393599&extension=ts&play_token=yLal6japob
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | VIOLA DAVIS
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393600&extension=ts&play_token=VUy3ASbEbd
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | WILL SMITH
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392740&extension=ts&play_token=E2MaSQDC46
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ZOMBIE
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393601&extension=ts&play_token=Y7KYTYWQJU
+
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/247 ACTORS/ALVIN AND THE CHIPMUNKS.png" group-title="MAC - ┃USA┃ 24/7 | ACTORS",┃USA┃ 24/7 | ALVIN AND THE CHIPMUNKS MOVIES HD
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1001592&extension=ts&play_token=5IFwMoT8Zl
@@ -9390,444 +9839,8 @@ http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1370597
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1370598&extension=ts&play_token=ZzitlqdePm
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/USA 247 DRAMA/247 DRAMA.png" group-title="MAC - ┃USA┃ 24/7 | DRAMA",┃USA┃ 24/7 | ZOO
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1370599&extension=ts&play_token=w7fJoNOGla
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADAM DRIVER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392700&extension=ts&play_token=IbZfwsWMrh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADAM SANDLER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392701&extension=ts&play_token=E1q9dB8Qx1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADAM SANDLER 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392702&extension=ts&play_token=4eshgaiPjA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADVENTURE MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393425&extension=ts&play_token=lrNrqWV56h
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ADVENTURE MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393426&extension=ts&play_token=23SELlPndu
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | AL PACINO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392703&extension=ts&play_token=GkzyFRT4QE
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ALICIA VIKANDER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393427&extension=ts&play_token=SqwIEb9m03
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ALLISON JANNEY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393428&extension=ts&play_token=2jVSYfZKfb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | AMY ADAMS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393429&extension=ts&play_token=7bS1gnazkv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ANIMATION MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393430&extension=ts&play_token=qMs6nvm7DQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ANIMATION MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393431&extension=ts&play_token=W1bQKfNzDq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ANNETTE BENING
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393432&extension=ts&play_token=pIVb6WLKTd
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEN FOSTER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392704&extension=ts&play_token=aRBuRQ8H4c
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEN MENDELSOHN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392705&extension=ts&play_token=PZgbvtjCqc
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BENEDICT CUMBERBATCH
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393433&extension=ts&play_token=sXQlcGJUNz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BENICIO DEL TORO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393434&extension=ts&play_token=JfKDaLNdwe
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393435&extension=ts&play_token=wvVRFIpuqv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393436&extension=ts&play_token=CYZCPfeta1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393437&extension=ts&play_token=yiMRRBuX4X
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393438&extension=ts&play_token=s4oKDFTtcl
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393439&extension=ts&play_token=8L1ZLIzawM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 6
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393440&extension=ts&play_token=4mv5C4T54W
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 7
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393441&extension=ts&play_token=28NK8Clt9s
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BEST CHRISTMAS MOVIES 8
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393442&extension=ts&play_token=Bpji8GwnLC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BIOGRAPHY MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393443&extension=ts&play_token=Zee1CeaESG
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BOB ODENKIRK
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393444&extension=ts&play_token=vGqmFGp0qt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRADLEY COOPER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393445&extension=ts&play_token=eBpnegnv30
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRIE LARSON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393446&extension=ts&play_token=HCcQO3wSMU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRUCE LEE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392706&extension=ts&play_token=311fjJ6u72
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRUCE WILLIS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392707&extension=ts&play_token=wRY9aQdlpn
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | BRYAN CRANSTON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393447&extension=ts&play_token=SbsC3uDHeX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CARRIE COON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393448&extension=ts&play_token=2TNuLQBVsp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CATE BLANCHETT
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393449&extension=ts&play_token=6izEs4Cj32
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHARLIZE THERON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393450&extension=ts&play_token=CSUBpbuD3f
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHIWETEL EJIOFOR
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393451&extension=ts&play_token=WvJW77l1yv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRIS PINE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393452&extension=ts&play_token=Yf049H6Zjy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRISTIAN BALE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393453&extension=ts&play_token=dgkgrmMLzn
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRISTMAS MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393454&extension=ts&play_token=0XNEDsT3CW
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CHRISTOPHER NOLAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393455&extension=ts&play_token=9s4eetbav1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CLAIRE FOY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393456&extension=ts&play_token=rKeIfiDB1g
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | COMEDY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393457&extension=ts&play_token=aCW7TgEf41
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | COMEDY MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393458&extension=ts&play_token=SAqELKH8oM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CRIME MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393459&extension=ts&play_token=3XvaF3Zut1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | CRIME MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393460&extension=ts&play_token=H1aZeevUdY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DANIEL KALUUYA
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393461&extension=ts&play_token=1SYxKSZBWc
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DAVID OYELOWO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392708&extension=ts&play_token=GUNYJ4Q0Hf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DENZEL WASHINGTON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392709&extension=ts&play_token=xlts7ucSZK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DISNEY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393462&extension=ts&play_token=eZ5cd4CDwf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DOCUMENTARY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393463&extension=ts&play_token=IMeUP4Xiqt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DOCUMENTARY MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393464&extension=ts&play_token=WbyEjC7usa
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | DRAMA MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393465&extension=ts&play_token=w8stZGEx3F
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ELVIS PRESLEY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392710&extension=ts&play_token=fOctYzDoAI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ELVIS PRESLEY MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392711&extension=ts&play_token=xOdwxG23Lq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | EVAN RACHEL WOOD
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393466&extension=ts&play_token=5JjuCgIApG
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FAMILY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393467&extension=ts&play_token=I66ulNzoIF
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FAMILY MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393468&extension=ts&play_token=xxNjzH1Ilg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FANTASY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393469&extension=ts&play_token=GMoHGIw6Z0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FANTASY MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393470&extension=ts&play_token=nyd7ktrrHv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FAST AND FURIOUS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392712&extension=ts&play_token=biY8FyhBwL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FCI-FI 2024
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393471&extension=ts&play_token=MkuMeZLVOi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | FRANCES MCDORMAND
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393472&extension=ts&play_token=AiT5fBFXNt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GANGSTER MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392713&extension=ts&play_token=MjgdseY3AK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GARY OLDMAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393473&extension=ts&play_token=OIaMBpRxNb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GINA RODRIGUEZ
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393474&extension=ts&play_token=T1HS6HdPeK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GODZILLA MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392714&extension=ts&play_token=sGeoCTM4zL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | GUY RICHIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393475&extension=ts&play_token=dBnUHDqOTG
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HAILEE STEINFELD
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393476&extension=ts&play_token=WjWYZI2yMo
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HISTORY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393477&extension=ts&play_token=lFjkZsXFWF
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HORROR MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393478&extension=ts&play_token=nn1SxNIrNx
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HORROR MOVIES 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393479&extension=ts&play_token=XupLOvfJ4q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HUGH JACKMAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393480&extension=ts&play_token=48El3JWpvr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | HULU+ MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393481&extension=ts&play_token=ri9m5ENOW3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | IDRIS ELBA
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392715&extension=ts&play_token=LUQ13uzWqV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | IMDB TOP RATED
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392741&extension=ts&play_token=LXrg8BeZQb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392716&extension=ts&play_token=pmkr9RttCP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392717&extension=ts&play_token=EwR2y0LZB4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392718&extension=ts&play_token=jyIsi7PYw2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393482&extension=ts&play_token=hXLi9Kh9bC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN ACTION MOVIE 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393483&extension=ts&play_token=bXQ5TPdBlC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392719&extension=ts&play_token=q6UrUmxjF8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392720&extension=ts&play_token=cxhoosorWF
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393484&extension=ts&play_token=BR4p54JwUj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393485&extension=ts&play_token=5dgqwhNtyU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JACKIE CHAN CLASSIC KUNGFU 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393486&extension=ts&play_token=dLqkjDpAAb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JAKE GYLLENHAAL
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393487&extension=ts&play_token=etfz27elWs
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JAMES BONDS 007
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392721&extension=ts&play_token=qBIT1rwdeg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JANELLE MONAE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393488&extension=ts&play_token=N1jqqbnDD3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JAVIER BARDEM
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393489&extension=ts&play_token=p320T1tyzM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JEAN CLAUDE VAN DAMME
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392722&extension=ts&play_token=p9f3vRT48C
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JEFFREY WRIGHT
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393490&extension=ts&play_token=nk4ZahrgaC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JENNIFER LAWRENCE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393491&extension=ts&play_token=AYgnuYh0va
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JENNIFER LAWRENCE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393492&extension=ts&play_token=WN4fOar72o
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JESSICA CHASTAIN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393493&extension=ts&play_token=R5oUcHrA0B
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JET LI
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393494&extension=ts&play_token=mODmennXJr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOAQUIN PHOENIX
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393495&extension=ts&play_token=ra6FQiioY0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOEL EDGERTON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393496&extension=ts&play_token=YOXXvk2QFf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOHN WAYNE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393497&extension=ts&play_token=8bRRHLTyA6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JONAH HILL
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393498&extension=ts&play_token=lLZ0A4Pv7z
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JOSH BROLIN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393499&extension=ts&play_token=T5pAtrnpKa
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | JULIANNE MOORE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393500&extension=ts&play_token=KpaR4YJZ6q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KATE WINSLET
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393501&extension=ts&play_token=8HAoOleMO2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KEANU REEVES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393502&extension=ts&play_token=UlffHun5IS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KERI RUSSELL
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393503&extension=ts&play_token=wVNAWQWae3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KUMAIL NANJIANI
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393504&extension=ts&play_token=7qKhc9bk56
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KUNGFU
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393505&extension=ts&play_token=0feTshGk5w
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | KYLE CHANDLER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393506&extension=ts&play_token=JjtHvWqdC6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LAKEITH STANFIELD
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393507&extension=ts&play_token=LxwykBE1bT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LEONARDO DICAPRIO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392723&extension=ts&play_token=S3f0sJc2Mv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LETITIA WRIGHT
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393508&extension=ts&play_token=mgji2UjLUi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LORD OF THE RINGS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392724&extension=ts&play_token=pADU92fZD5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LUCAS HEDGES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393509&extension=ts&play_token=5E4JkzHhf2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | LUPITA NYONG'O
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393510&extension=ts&play_token=Xio5FxoOY5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MAHERSHALA ALI
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393511&extension=ts&play_token=tHP7qhPN38
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | margot robbie
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393512&extension=ts&play_token=lRRsWefIOu
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARION COTILLARD
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393513&extension=ts&play_token=XJHuvexWxE
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARK RUFFALO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393514&extension=ts&play_token=VMcMTESW0q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARK RUFFALO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393515&extension=ts&play_token=esOtCZbGM9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARTIN FREEMAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392726&extension=ts&play_token=EiRwQctYnP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MARVEL MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393516&extension=ts&play_token=SMHvXh9nDj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MATT DAMON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392725&extension=ts&play_token=OHDezsC7Ce
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MATTHEW RHYS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393517&extension=ts&play_token=CtXwu4Mga2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MERYL STREEP
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393518&extension=ts&play_token=9zFLeCLWMq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL B JORDAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392727&extension=ts&play_token=pRCjF4ZNCX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL FASSBENDER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393519&extension=ts&play_token=CMlWGm8GVC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL KEATON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393520&extension=ts&play_token=KAdvXnDp71
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL SHANNON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393521&extension=ts&play_token=vSBzUboRvf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MICHAEL STUHLBARG
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393522&extension=ts&play_token=u2QsqJl8kt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | MYSTERY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393523&extension=ts&play_token=Lc81qmw1QZ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NAOMIE HARRIS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393524&extension=ts&play_token=efUahYdEA6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NATALIE PORTMAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393525&extension=ts&play_token=oWDVorn6U5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NETFLIX MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393526&extension=ts&play_token=zt9QyBVEcR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NEW MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393527&extension=ts&play_token=8fm3ZdpqzU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NICOLAS CAGE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392728&extension=ts&play_token=z2WgulNTEf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | NORTHSTAR DRAMA
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393528&extension=ts&play_token=m1izhQpIHI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | OCTAVIA SPENCER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393529&extension=ts&play_token=Beke1ZwCNp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | OSCAR ISAAC
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393530&extension=ts&play_token=RA2v3vbf2U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | PARAMOUNT MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393531&extension=ts&play_token=4v4w0W9C17
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | PAUL DANO
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393532&extension=ts&play_token=eDPvliJBXI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RACHEL WEISZ
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393533&extension=ts&play_token=4W62Qs1386
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RALPH FIENNES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393534&extension=ts&play_token=3tVEObXwWf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393535&extension=ts&play_token=m7Lvi5IqjM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393536&extension=ts&play_token=4xqYT49Egd
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393537&extension=ts&play_token=IfJiJKLvSU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393538&extension=ts&play_token=ef47AprUEm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393539&extension=ts&play_token=rRlWBB0Bbt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393540&extension=ts&play_token=rIGmoFKHvd
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393541&extension=ts&play_token=CosI7AMbEJ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393542&extension=ts&play_token=OYBG1s1ZYd
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 6
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393543&extension=ts&play_token=cADD8q20jq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REAL MOVIE 7
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393544&extension=ts&play_token=jiNQDIuxHq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REALITY-TV
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393545&extension=ts&play_token=YT583Z8rRA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | REESE WITHERSPOON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393546&extension=ts&play_token=l5nQyRXy8p
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RIZ AHMED
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393547&extension=ts&play_token=iSmzD5G43A
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBERT DE NIRO MOVIES
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392729&extension=ts&play_token=UwtnQN36cU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBERT DOWNEY JR
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392730&extension=ts&play_token=3lt656Awzj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBIN WILLIAMS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393549&extension=ts&play_token=e4Q4mOxjD7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROBIN WRIGHT
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393548&extension=ts&play_token=R0lmb4Dcw0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROCKY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393550&extension=ts&play_token=Y7QEjR0Ow9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROMANCE MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393551&extension=ts&play_token=4AjyOrxYKg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ROMANCE MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393552&extension=ts&play_token=QJh4v3jq0I
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | RYAN GOSLING
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393553&extension=ts&play_token=3oNuvZMnpa
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SAM ROCKWELL
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393554&extension=ts&play_token=QvOHfWWlYH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SAMUEL L JACKSON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392731&extension=ts&play_token=rC1Sa53Fmk
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SAOIRSE RONAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393555&extension=ts&play_token=Fu3rURPDTT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SARAH PAULSON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393556&extension=ts&play_token=fsImHrQX6Z
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SCI-FI
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393557&extension=ts&play_token=X0l3mnmrdD
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SCI-FI 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393558&extension=ts&play_token=hVsKbAh7mR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | STERLING K BROWN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393559&extension=ts&play_token=bbO7LkLpgC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | STEVE CARELL
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393560&extension=ts&play_token=mw1it6bOtO
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | STEVEN SEAGAL
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392732&extension=ts&play_token=DxMlR62VI8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ACTION MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393561&extension=ts&play_token=CDrFcpvQX9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ADVENTURE MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393562&extension=ts&play_token=F0FDGVrBd0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393563&extension=ts&play_token=qCpQ7rdXqe
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393564&extension=ts&play_token=9OVBgRB4aT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393565&extension=ts&play_token=ANcTM0TzFI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393566&extension=ts&play_token=qqNxzUscKm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ALIEN MOVIE 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393567&extension=ts&play_token=bUxn0Hccxa
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ANIMATION MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393568&extension=ts&play_token=tcU6GfoT3c
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR COMEDY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393569&extension=ts&play_token=kNM4IeIXwo
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR COMEDY MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393570&extension=ts&play_token=30ZTx6Sg6j
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR COMEDY MOVIE 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393571&extension=ts&play_token=suRQNoq9h1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR CRIME MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393572&extension=ts&play_token=aKiB1A4oc0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR DOCUMENTARY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393573&extension=ts&play_token=VyBvmpyo7D
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR DOCUMENTARY 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393574&extension=ts&play_token=aMgPzObHaJ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR DRAMA MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393575&extension=ts&play_token=l8g5Uj2rNi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR FAMILY MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393576&extension=ts&play_token=CXWzBrdMZR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR HORROR 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393577&extension=ts&play_token=0zuGtamDF7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | Superstar Horror 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393578&extension=ts&play_token=zxMf2nWNxb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR KUNGFU
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393579&extension=ts&play_token=bLkpjkm7RP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR KUNGFU 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393580&extension=ts&play_token=boRJiRxkjQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR KUNGFU 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393581&extension=ts&play_token=BOlhhWAvAS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393582&extension=ts&play_token=oyn8DuX1KV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393583&extension=ts&play_token=084ptuVzCE
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 3
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393584&extension=ts&play_token=UXsp8WR1Vy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 4
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393585&extension=ts&play_token=f5ucIPu1bp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MOB MOVIE 5
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393586&extension=ts&play_token=7TJ4ccV3Sg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR MUSIC MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393587&extension=ts&play_token=BE22kKiK6E
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR OSCAR WINNING MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393588&extension=ts&play_token=vvt5lDr1QR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ROMANCE MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393589&extension=ts&play_token=MkeeRDiWhJ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR ROMANCE MOVIE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393590&extension=ts&play_token=w7lWaqxbcX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR STAR WARS MOVIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393591&extension=ts&play_token=6Lucpdmz7z
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | SUPERSTAR WESTERN MOVIE 1
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393592&extension=ts&play_token=oCsJqZHVdh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TARAJI P HENSON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393593&extension=ts&play_token=LyrDq9hkSC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TATIANA MASLANY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393594&extension=ts&play_token=88y7VwwsXg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | THE ADVENTURES OF TINTIN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393595&extension=ts&play_token=JvTHrEsL68
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | THE EQUALIZER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392733&extension=ts&play_token=ZgIA4SilKJ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | THE GODFATHER
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392734&extension=ts&play_token=0XU8vvLJpO
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TIFFANY HADDISH
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393596&extension=ts&play_token=oswNeVZ2P9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TILDA SWINTON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393597&extension=ts&play_token=066lw6Rvjb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TIMOTHEE CHALAMET
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393598&extension=ts&play_token=KNWBZUk2E7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM CLANCY'S JACK RYAN
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392735&extension=ts&play_token=gtZXC079ot
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM CRUISE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392736&extension=ts&play_token=ayTeOfShyL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM CRUISE 2
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392737&extension=ts&play_token=GPUVBY2CXK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM HANKS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392738&extension=ts&play_token=6RIyK3dy2h
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM HARDY
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392739&extension=ts&play_token=mWRPwmIhoH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | TOM HIDDLESTON
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393599&extension=ts&play_token=yLal6japob
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | VIOLA DAVIS
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393600&extension=ts&play_token=VUy3ASbEbd
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | WILL SMITH
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1392740&extension=ts&play_token=E2MaSQDC46
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/|USA| 24 7 MOVIES/24 7.png" group-title="MAC - ┃USA┃ 24/7 | MOVIES",┃USA┃ 24/7 | ZOMBIE
-http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1393601&extension=ts&play_token=Y7KYTYWQJU
+
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/247 SHOWS/12 MONKEY.png" group-title="MAC - ┃USA┃ 24/7 | SHOWS",┃USA┃ 24/7 | 12 MONKEY HD
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=1001256&extension=ts&play_token=F5TDN3XPNt
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/247 SHOWS/24.png" group-title="MAC - ┃USA┃ 24/7 | SHOWS",┃USA┃ 24/7 | 24
