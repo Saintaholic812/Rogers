@@ -7204,32 +7204,15 @@ https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3lzaWZ0NTUueHl6OjgwL2xpdmUv
 #############################################################################################################################################################################################################################
 
 
-#EXTINF:-1 group-title="Fox Sports USA Channels" group-logo="https://i.imgur.com/sbooXpg.png" tvg-logo="https://i.imgur.com/O9BapV9.png",FS1 USA
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer plus.png" group-title="Fox Sports USA Channels", FOX SOCCER PLUS HD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=858546&extension=ts&play_token=vvnBXSW2Dz
 
-#EXTINF:-1 group-title="Fox Sports USA Channels" tvg-logo="https://i.imgur.com/sbooXpg.png",Fox Sports USA (Fast 24/7)
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Fox Sports USA Channels", FOX SPORTS 1 HD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=858547&extension=ts&play_token=qkqkRlo6jS
 
-#EXTINF:-1 group-title="Fox Sports USA Channels",FOX SPORTS in 4K USA (Server 1)
-#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:https-referrer=https://shaka-player-demo.appspot.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kD5UQB8B6g6p3APlG_hJ_GJhe-AE1RSL8Va8lB00Ig&s=10", FOX SPORTS 2 HD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=858555&extension=ts&play_token=liniozbMPN
 
-#EXTINF:-1 group-title="Fox Sports USA Channels",FOX SPORTS in 4K USA (Server 2)
-#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:https-referrer=https://shaka-player-demo.appspot.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 group-title="Fox Sports USA Channels" group-logo="https://i.imgur.com/sbooXpg.png" tvg-logo="https://i.imgur.com/O9BapV9.png",FS1
-https://ott.djdoolky76.io/api/streams/118/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:-1 group-title="Fox Sports USA Channels" group-logo="https://i.imgur.com/sbooXpg.png" tvg-logo="https://i.imgur.com/O9BapV9.png",FS2
-https://ott.djdoolky76.io/api/streams/119/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
-#EXTINF:0group-title="Fox Sports USA Channels",FX
-https://ott.djdoolky76.io/api/streams/120/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
 
 
 
