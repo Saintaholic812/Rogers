@@ -1,14 +1,24 @@
-#EXTM3U:-
-
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-au.xml.gz"
+#EXTM3U x-tvg-url="https://techzyon.com/epg/xumo_guide.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Roku/all.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/Foxtel/epg.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/refs/heads/main/lg_epg_us.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates11.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/canada5.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/merged/unitedkingdom.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedkingdom.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates10.xml.gz"
+#EXTM3U X-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz"
 #EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/optussport.com.au.channels.xml.gz"
 #EXTM3U X-tvg="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/master/siteini.pack/Australia/foxsports.com.au.channels.xml.gz"
 #EXTM3U X-tvg="https://github.com/matthuisman/i.mjh.nz/blob/master/Kayo/epg.xml.gz"
-#EXTM3U X-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml.gz"
+#EXTM3U X-tvg="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
-
 
 
 
