@@ -7525,20 +7525,11 @@ http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=944841&
 ########################################################################   NRL    ######################################################################################################################################
 ###################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9RS3lPJXYd8lyn0AQON0_QJaHZ1SUUNMeUWv-YJFuQ&s" group-title="NRL", KAYO - FOX SPORTS 502
-http://vpn.purepure.online:80/play/live.php?mac=00:1A:79:2E:5A:B6&stream=1520171&extension=ts&play_token=5rJrm46nfQ
-
+#EXTINF:-1 tvg-id="FoxLeague.au"   tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU AUSTRALIA LOGOS/FOX SPORTS 502.png" group-title="NRL", FOX SPORTS 502 HD
+http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=944690&extension=ts&play_token=oHlEYoiY6n
 #EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9RS3lPJXYd8lyn0AQON0_QJaHZ1SUUNMeUWv-YJFuQ&s" group-title="NRL", FOX SPORTS 502
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:58:0D:75&stream=441306&extension=ts&play_token=PiEwqXA6qs
 
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9RS3lPJXYd8lyn0AQON0_QJaHZ1SUUNMeUWv-YJFuQ&s" group-title="NRL", FOX SPORTS 502
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:E8:2A:9D&stream=441306&extension=ts&play_token=MgZK07I9Gi
-
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9RS3lPJXYd8lyn0AQON0_QJaHZ1SUUNMeUWv-YJFuQ&s" group-title="NRL", FOX SPORTS 502
-http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=646970&extension=ts&play_token=FrPtlyBMhZ
-
-#EXTINF:-1 tvg-id="FoxLeague.au"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9RS3lPJXYd8lyn0AQON0_QJaHZ1SUUNMeUWv-YJFuQ&s" group-title="NRL", FOX SPORTS 502
-http://103.176.90.26:80/play/live.php?mac=00:1A:79:AB:FC:9C&stream=1520171&extension=ts&play_token=dTf3QIYL9O
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AUSTRALIA/AU NRL EVENT/NRL.png" group-title="NRL", NRL EVENT 1 
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=944797&extension=ts&play_token=2ZR0x05UQK
@@ -7571,6 +7562,8 @@ http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=944807&
 ############    FOX SPORTS AUSTRALIA      #########    
 ###################################################
 ###################################################
+
+
 #EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="http://picons.cmshulk.com/picons/646972.png" group-title="FOX SPORT AUSTRALIA", FOX SPORTS NEWS
 http://line.goattv-ott.xyz:80/play/live.php?mac=00:1A:79:05:5E:18&stream=944771&extension=ts&play_token=LDHlBIQ42M
 
