@@ -1359,30 +1359,298 @@ https://blc2cr.linkip.org/live/90032_.m3u8?play
 ###########################################################################################################################################################################################################################
 
 
-#EXTINF:-1  tvg-id="Sky.News.HD.uk" tvg-name="GB : SKY NEWS" tvg-logo="http://icons.tw:8080/images/082240508de8e028c1d3fa9d2d1ff1eb.png" group-title="SKY PREMIUM",SKY NEWS
+#EXTINF:-1  tvg-id="Sky.News.HD.uk" tvg-name="GB : SKY NEWS" tvg-logo="http://icons.tw:8080/images/082240508de8e028c1d3fa9d2d1ff1eb.png" group-title="DOCUMENTARY",SKY NEWS
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53974.m3u8
-#EXTINF:-1  tvg-id="Sky.One.HD.uk" tvg-name="GB : SKY ONE" tvg-logo="https://d16ia5iwuvax6y.cloudfront.net/uk-images/5566c33375e1830830a067f66759a96e.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4etL%2B9URqPXX%2BPgm%2BX5djbEyoymaKVqKZ5YOlWXwpVty8s9cTyKrxzWCHf96LAT%2B1qb9G0L%2BJe43Tpx3plMv122dZpDbUzmxBWbN%2F1kYhK1yw%3D%3D" group-title="SKY PREMIUM",SKY ONE
+#EXTINF:-1  tvg-id="Sky.One.HD.uk" tvg-name="GB : SKY ONE" tvg-logo="https://d16ia5iwuvax6y.cloudfront.net/uk-images/5566c33375e1830830a067f66759a96e.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4etL%2B9URqPXX%2BPgm%2BX5djbEyoymaKVqKZ5YOlWXwpVty8s9cTyKrxzWCHf96LAT%2B1qb9G0L%2BJe43Tpx3plMv122dZpDbUzmxBWbN%2F1kYhK1yw%3D%3D" group-title="DOCUMENTARY",SKY ONE
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/148491.m3u8
-#EXTINF:-1  tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="GB : SKY SCI-FI" tvg-logo="https://assets.tv24.co/channels/syfy-universal-l.webp" group-title="SKY PREMIUM",SKY SCI-FI
+#EXTINF:-1  tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="GB : SKY SCI-FI" tvg-logo="https://assets.tv24.co/channels/syfy-universal-l.webp" group-title="DOCUMENTARY",SKY SCI-FI
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53991.m3u8
-#EXTINF:-1  tvg-id="Sky.Atlantic.HD.uk" tvg-name="GB : SKY ATLANTIC" tvg-logo="http://icons.tw:8080/images/dbfe18be3bf4f90b59549519e4d78b53.png" group-title="SKY PREMIUM",SKY ATLANTIC
+#EXTINF:-1  tvg-id="Sky.Atlantic.HD.uk" tvg-name="GB : SKY ATLANTIC" tvg-logo="http://icons.tw:8080/images/dbfe18be3bf4f90b59549519e4d78b53.png" group-title="DOCUMENTARY",SKY ATLANTIC
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53955.m3u8
-#EXTINF:-1  tvg-id="Sky.Comedy.HD.uk" tvg-name="GB : SKY COMEDY" tvg-logo="http://icons.tw:8080/images/f0525d5febd6f036da40e40b7c0318ef.png" group-title="SKY PREMIUM",SKY COMEDY
+#EXTINF:-1  tvg-id="Sky.Comedy.HD.uk" tvg-name="GB : SKY COMEDY" tvg-logo="http://icons.tw:8080/images/f0525d5febd6f036da40e40b7c0318ef.png" group-title="DOCUMENTARY",SKY COMEDY
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53968.m3u8
-#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-name="GB : SKY CRIME" tvg-logo="http://icons.tw:8080/images/57b2b9a097e82b62c82ff40c468a31ca.jpg" group-title="SKY PREMIUM",SKY CRIME
+#EXTINF:-1  tvg-id="Sky.Crime.HD.uk" tvg-name="GB : SKY CRIME" tvg-logo="http://icons.tw:8080/images/57b2b9a097e82b62c82ff40c468a31ca.jpg" group-title="DOCUMENTARY",SKY CRIME
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53969.m3u8
-#EXTINF:-1  tvg-id="Sky.Documentaries.HD.uk" tvg-name="GB : SKY DOCUMENTARIES" tvg-logo="http://icons.tw:8080/images/81fcd1893a2f83777282ffd314d7f27c.png" group-title="SKY PREMIUM",SKY DOCUMENTARIES
+#EXTINF:-1  tvg-id="Sky.Documentaries.HD.uk" tvg-name="GB : SKY DOCUMENTARIES" tvg-logo="http://icons.tw:8080/images/81fcd1893a2f83777282ffd314d7f27c.png" group-title="DOCUMENTARY",SKY DOCUMENTARIES
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53970.m3u8
-#EXTINF:-1  tvg-id="Sky.Nature.HD.uk" tvg-name="GB : SKY NATURE" tvg-logo="http://icons.tw:8080/images/5883fab437cc140289e246183e23d706.png" group-title="SKY PREMIUM",SKY NATURE
+#EXTINF:-1  tvg-id="Sky.Nature.HD.uk" tvg-name="GB : SKY NATURE" tvg-logo="http://icons.tw:8080/images/5883fab437cc140289e246183e23d706.png" group-title="DOCUMENTARY",SKY NATURE
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53972.m3u8
-#EXTINF:-1  tvg-id="Sky.Witness.HD.uk" tvg-name="GB : SKY WITNESS" tvg-logo="http://icons.tw:8080/images/4c3f5a78b074492258cc86f6a1679081.png" group-title="SKY PREMIUM",SKY WITNESS
+#EXTINF:-1  tvg-id="Sky.Witness.HD.uk" tvg-name="GB : SKY WITNESS" tvg-logo="http://icons.tw:8080/images/4c3f5a78b074492258cc86f6a1679081.png" group-title="DOCUMENTARY",SKY WITNESS
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53988.m3u8
-#EXTINF:-1  tvg-id="Sky.Mix.HD.uk" tvg-name="GB : SKY MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Sky_Mix_2026_Stacked_Logo.png/500px-Sky_Mix_2026_Stacked_Logo.png" group-title="SKY PREMIUM",SKY MIX
+#EXTINF:-1  tvg-id="Sky.Mix.HD.uk" tvg-name="GB : SKY MIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Sky_Mix_2026_Stacked_Logo.png/500px-Sky_Mix_2026_Stacked_Logo.png" group-title="DOCUMENTARY",SKY MIX
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53939.m3u8
-#EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-name="GB : SKY HISTORY" tvg-logo="http://icons.tw:8080/images/329040d08b8cf3673c1c329f66f8452c.png" group-title="SKY PREMIUM",SKY HISTORY
+#EXTINF:-1  tvg-id="Sky.HistoryHD.uk" tvg-name="GB : SKY HISTORY" tvg-logo="http://icons.tw:8080/images/329040d08b8cf3673c1c329f66f8452c.png" group-title="DOCUMENTARY",SKY HISTORY
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/53971.m3u8
-#EXTINF:-1  tvg-id="Sky.History2.uk" tvg-name="GB : SKY HISTORY 2" tvg-logo="http://icons.tw:8080/images/b8a8a765a0a1538a9462cefe74648e39.png" group-title="SKY PREMIUM",SKY HISTORY 2
+#EXTINF:-1  tvg-id="Sky.History2.uk" tvg-name="GB : SKY HISTORY 2" tvg-logo="http://icons.tw:8080/images/b8a8a765a0a1538a9462cefe74648e39.png" group-title="DOCUMENTARY",SKY HISTORY 2
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/204632.m3u8
+
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME+INV HEVC" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="DOCUMENTARY",UK - CRIME+INV
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1OS50cw==
+
+#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK - TRT WORLD HD" tvg-logo="https://go4.pw/UK/trtw.png" group-title="DOCUMENTARY",UK - TRT WORLD HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNTcxODQudHM=
+
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD HEVC" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="DOCUMENTARY",UK - NAT GEO WILD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzEwLnRz
+
+
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="DOCUMENTARY",UK - NAT GEO
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ3NC50cw==
+
+
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK - DISCOVERY HEVC" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="DOCUMENTARY",UK - DISCOVERY
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ2NC50cw==
+
+
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK - DISCOVERY HISTORY HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/DISCOVERYHISTORIA.png" group-title="DOCUMENTARY",UK - DISCOVERY HISTORY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc3LnRz
+
+
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK - DISCOVERY SCIENCE HD" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="DOCUMENTARY",UK - DISCOVERY SCIENCE HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc5LnRz
+
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK - DISCOVERY TURBO SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="DOCUMENTARY",UK - DISCOVERY TURBO SD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDgyLnRz
+
+#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK - HISTORY HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="DOCUMENTARY",UK - HISTORY HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3NjkxLnRz
+
+
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK - HISTORY 2 HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" group-title="DOCUMENTARY",UK - HISTORY 2 HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzExLnRz
+
+
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK - ANIMAL PLANET HD" tvg-logo="https://go4.pw/EUROPE/DENMARK/ANIMALPLANET.png" group-title="DOCUMENTARY",UK - ANIMAL PLANET HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzE1LnRz
+
+
+#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="UK - PARAMOUNT NETWORK HD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc1LnRz
+
+
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK - INVESTIGATION DISCOVERY (ID) HD" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0My50cw==
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC EARTH HD" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="DOCUMENTARY",UK - BBC EARTH HD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3MzU3Ny50cw==
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA THREE SD" tvg-logo="https://go4.pw/UK/three.png" group-title="DOCUMENTARY",UK - VIRGIN MEDIA THREE SD
+https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDkyLnRz
+
+
+##################################
+##################################
+####    CRIME /   MEDICAL  ######
+##################################
+#################################
+
+#EXTINF:-1  tvg-id="561019" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="CRIME/MEDICAL", BORDER SECURITY AUSTRALIA
+https://csm-e-cesevextprdausw2live-0f8ead75228973d54.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8
+
+#EXTINF:-1  tvg-id="421439" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="CRIME/MEDICAL", BLUE LIGHT COPS
+https://csm-e-cesevextprdausw2live-0dbb8d1fe2bed6226.bln1.yospace.com/csm/extlive/sevenprd01,CAS13.m3u8
+
+#EXTINF:-1 channel-id="538951" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo"  group-title="CRIME/MEDICAL", COPS
+https://i.mjh.nz/.r/10-cops.m3u8
+
+#EXTINF:-1 channel-id="486185" tvg-id="mjh-surveillancecentral-fast" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png"  group-title="CRIME/MEDICAL", Surveillance Central
+https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS19.m3u8
+
+#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="CRIME/MEDICAL", REAL EMERGENCY
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/real-emergency-fast.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/2221/lg/13b87f/LG-Logo-PNG-100x100_v1.png" group-title="CRIME/MEDICAL", REAL EMERGENCY
+https://d8eac4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUmVhbEVtZXJnZW5jeVN0YW5kYXJkX0hMUw/playlist.m3u8
+
+#EXTINF:-1  tvg-id="561023" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="CRIME/MEDICAL", MEDICAL & RESCUE
+https://csm-e-cesevextprdausw2live-0bdd15c686e38375a.bln1.yospace.com/csm/extlive/sevenprd01,CAS12.m3u8
+
+#EXTINF:-1 channel-id="480064" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="CRIME/MEDICAL", 24 HRS IN A&E
+https://csm-e-cesevextprdausw2live-00c7346ea41efb696.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8
+
+#EXTINF:-1 channel-id="845b77875b6056d192401e10949948d2" tvg-id="845b77875b6056d192401e10949948d2" tvg-chno="518" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/845b77875b6056d192401e10949948d2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png" group-title="CRIME/MEDICAL", DR G MEDICAL EXAMINER
+https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
+
+
+#EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="CRIME/MEDICAL", BONDI RESCUE
+https://csm-e-cesevextprdausw2live-0eb858b2942fb6410.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8
+
+EXTINF:-1 channel-id="421447" tvg-id="mjh-cas24-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="CRIME/MEDICAL", BONDI VET
+https://csm-e-cesevextprdausw2live-05d0d0d0ac2fa4f2e.bln1.yospace.com/csm/extlive/sevenprd01,CAS24.m3u8
+
+#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="CRIME/MEDICAL", 9 CRIME
+https://i.mjh.nz/.r/9crime-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="CRIME/MEDICAL", 60 MINUTES AUSTRALIA
+https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png" group-title="CRIME/MEDICAL", A&E CRIME 360
+https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=393&wurl_name=Crime360&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1825-LG-Logo-PNG-100x100_v4.png" group-title="CRIME/MEDICAL", CRIME 360
+https://c664c25d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfQ3JpbWUzNjBfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png" group-title="CRIME/MEDICAL", Crimes Cults Killers by A&E
+https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1055&wurl_name=Kriminal&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993006/600x200.png?type=white_cropped" group-title="CRIME/MEDICAL", World's Most Evil Killers
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993006&ads.xumo_streamId=99993006&ads.channelId=99993006&ads.ad_tag_id=95744&ads.csid=lgchannels_us_worldsmostevilkillers_ssai&ads.channelName=worldsmostevilkillers_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+
+#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png"  group-title="CRIME/MEDICAL", True Crime Files
+https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
+
+#EXTINF:-1 channel-id="562759" tvg-id="562759" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7SPL_Logo.png" group-title="CRIME/MEDICAL", 7NEWS Spotlight
+https://i.mjh.nz/.r/cas32-fast.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+
+###############################################################################################################################################################################################################################
+
+###########################
+######    PARANORMAL ######
+###########################
+
+#EXTINF:-1 channel-id="mjh-sky-fast5" tvg-id="mjh-sky-fast5" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/6fSJzwOG5r7dfPc2uP4n7m/1e3923f6869c29300e3d76597c341282/Logo_Images_-_default.png" group-title="PARANORMAL",WARNER BROS TV PARANORMAL
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sky-fast5.m3u8
+
+#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="PARANORMAL", 9Mystery&Paranormal
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MostHaunted_400x200.png" group-title="PARANORMAL", Most Haunted
+https://amg00426-lds-amg00426c17-lg-au-10349.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudiofast-mosthaunted-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+
+#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="mjh-cas21-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="PARANORMAL" , Ghost Hunters
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/cas21-fast.m3u8
+
+#EXTINF:-1 channel-id="e3a9171a7b9155ca89ba9f7f3e1a6bde" tvg-id="e3a9171a7b9155ca89ba9f7f3e1a6bde" tvg-chno="744" tvg-name="Ghost Hunters" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3a9171a7b9155ca89ba9f7f3e1a6bde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1692646351368_Ghosthunters_Roku_HUD_Center.png" group-title="PARANORMAL" ,Ghost Hunters
+https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1820-LG-Logo-PNG-100x100_v2.png" group-title="PARANORMAL" ,Ghost
+https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfR2hvc3RJTlRMX0hMUw/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png" group-title="PARANORMAL" ,Haunt TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]
+
+#EXTINF:-1 channel-id="285f3ba210e8561fa5261af0871ace90" tvg-id="285f3ba210e8561fa5261af0871ace90" tvg-chno="773" tvg-name="Haunt TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/285f3ba210e8561fa5261af0871ace90/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563088420_HauntTVLogo_260x147_copy.png" group-title="PARANORMAL",Haunt TV
+https://jmp2.uk/rok-285f3ba210e8561fa5261af0871ace90.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1820-LG-Logo-PNG-100x100_v2.png" group-title="PARANORMAL" ,Ghost
+https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfR2hvc3RJTlRMX0hMUw/playlist.m3u8
+
+
+
+##################################
+###################################
+##############      COOKING #######
+##################################
+###################################
+
+#EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5dccd34e-4587-4168-999c-eda400c74715/PLEX_JO_WHT_LOGO_1500X1000_-_Elaine_De_Santiago.png" group-title="COOKING", JAMIE OLIVER 2
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="62" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="COOKING", Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+
+#EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="COOKING" , SBS Food
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",COOKING Channel 
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/gustotvca_logo.png" group-title="COOKING",Gusto TV
+https://amg01077-gustofast-amg01077c7-lg-au-4469.playouts.now.amagi.tv/playlist/amg01077-gusto-gustousmain-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+
+#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="mjh-bbc-food-fast" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="COOKING" , BBC Food
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/bbc-food-fast.m3u8
+
+#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="COOKING" , MasterChef
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-masterchef.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="COOKING",Hells Kitchen
+https://amg00654-itv-amg00654c1-lg-au-4779.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.country=[COUNTRY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped" group-title="COOKING" ,Hell's Kitchen
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992260&ads.xumo_streamId=99992260&ads.channelId=99992260&ads.ad_tag_id=10507&ads.csid=lgchannels_us_filmrisehellskitchen_ssai&ads.channelName=filmrisehellskitchen_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 channel-id="mjh-sbs-sb01" tvg-id="mjh-sbs-sb01" tvg-logo="https://image.pr.sbsod.com/82c5d9dc-bda6-5a6b-affa-67f1ba01ff38" group-title="COOKING" , The Cook Up
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/sbs-sb01.m3u8
+
+
+#####################
+#####################
+####   GameShow  ####
+#####################
+
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
+https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
+#EXTINF:-1  tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
+https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
+ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992282/600x200.png?type=white_cropped" group-title="GAMESHOW" ,Family Feud
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992282&ads.xumo_streamId=99992282&ads.channelId=99992282&ads.ad_tag_id=85881&ads.csid=lgchannels_us_familyfeud_ssai&ads.channelName=familyfeud_us&ads.xumo_contentName=FamilyFeud&ads.xumo_contentId=170&ads.xumo_providerName=FamilyFeud&ads.xumo_providerId=170&ads.content_category=IAB1-7&ads.content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
+#EXTINF:-1 tvg-id="400000196" tvg-logo="https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Family Feud
+https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62b4eba68f3051c68d2beb22dc94ebbc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669151901470_ROKU_SMS_HUD-MONO_260X147.png" group-title="GAMESHOW" ,Supermarket Sweep
+https://jmp2.uk/rok-62b4eba68f3051c68d2beb22dc94ebbc.m3u8
+
+#EXTINF:-1 channel-id="562baf35c5da56cc91cdea41537b43f9" tvg-id="562baf35c5da56cc91cdea41537b43f9" tvg-chno="631" tvg-name="BUZZR" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/562baf35c5da56cc91cdea41537b43f9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654733081445_BUZZR_ROKU_HUD-MONO_260X147-2021RB.png" group-title="GAMESHOW" ,BUZZR
+https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="GAMESHOW" ,Buzzr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8?
+
+#EXTINF:-1 channel-id="4ad47ace83b25065955adca3f8e9bdcf" tvg-id="4ad47ace83b25065955adca3f8e9bdcf" tvg-chno="632" tvg-name="The Price Is Right: The Barker Era" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4ad47ace83b25065955adca3f8e9bdcf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669146270546_ROKU_TPIR_LOGO_HUD.png" group-title="GAMESHOW" ,The Price Is Right: The Barker Era
+https://jmp2.uk/rok-4ad47ace83b25065955adca3f8e9bdcf.m3u8
+
+#EXTINF:-1 channel-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-chno="634" tvg-name="Let's Make a Deal" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ffe5d9e0480d1c5e1dcead3abd966ac7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793674388_LMAD_HUDLogoCenterAligned_260x147.png" group-title="GAMESHOW" ,Let's Make a Deal
+https://jmp2.uk/rok-ffe5d9e0480d1c5e1dcead3abd966ac7.m3u8
+
+#EXTINF:-1 tvg-logo="https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png" group-title="GAMESHOW" ,The Price Is Right
+https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png" group-title="GAMESHOW" ,Game Show Central
+https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=416&wurl_name=GameShowCentral-1&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+
+#EXTINF:-1 channel-id="mjh-10-twentyfoursevengameshows" tvg-id="mjh-10-twentyfoursevengameshows" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c583accb5c213a54fd36f23a829c5ba4-1401207.png?image-profile=logo" group-title="GAMESHOW" , 24/7 Gameshows
+
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
+
+
+
+
+
+
 
 #############################################################################################################################################################################################################################
 
@@ -6253,342 +6521,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="220" tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="TV",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-
-
-#############################################################################################################################################################################################################################
-##############################################################################     DOCUMENTARY    #########################################################################################################################
-##########################################################################################################################################################################################################################
-
-#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES FHD" tvg-logo="https://go4.pw/UK/skydoc.png" group-title="DOCUMENTARY",UK - SKY DOCUMENTARIES FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3NzE0Ni50cw==
-
-#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES HD" tvg-logo="https://go4.pw/UK/skydoc.png" group-title="DOCUMENTARY",UK - SKY DOCUMENTARIES HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzNC50cw==
-
-#EXTINF:-1 tvg-id="skydocumentaries.uk" tvg-name="UK - SKY DOCUMENTARIES SD" tvg-logo="https://go4.pw/UK/skydoc.png" group-title="DOCUMENTARY",UK - SKY DOCUMENTARIES SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzMy50cw==
-
-#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK -  SKY CRIME FHD" tvg-logo="https://go4.pw/germany/SKY_CRIME.png" group-title="DOCUMENTARY",UK -  SKY CRIME FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1MS50cw==
-
-#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK - SKY CRIME HEVC" tvg-logo="https://go4.pw/germany/SKY_CRIME.png" group-title="DOCUMENTARY",UK - SKY CRIME HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ0MS50cw==
-
-#EXTINF:-1 tvg-id="skycrime.uk" tvg-name="UK - SKY CRIME HD" tvg-logo="https://go4.pw/germany/SKY_CRIME.png" group-title="DOCUMENTARY",UK - SKY CRIME HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1Mi50cw==
-
-#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK - SKY NATURE HEVC" tvg-logo="https://go4.pw/UK/SKYN.png" group-title="DOCUMENTARY",UK - SKY NATURE HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQzNy50cw==
-
-#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK - SKY NATURE HD" tvg-logo="https://go4.pw/UK/SKYN.png" group-title="DOCUMENTARY",UK - SKY NATURE HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE5MzkyMC50cw==
-
-#EXTINF:-1 tvg-id="skynature.uk" tvg-name="UK - SKY NATURE SD" tvg-logo="https://go4.pw/UK/SKYN.png" group-title="DOCUMENTARY",UK - SKY NATURE SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI1MC50cw==
-
-#EXTINF:-1 tvg-id="skyhistory.uk" tvg-name="UK - SKY HISTORY HEVC" tvg-logo="https://go4.pw/UK/skyhh.png" group-title="DOCUMENTARY",UK - SKY HISTORY HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1MS50cw==
-
-#EXTINF:-1 tvg-id="skyhistory2.uk" tvg-name="UK - SKY HISTORY2 HEVC" tvg-logo="https://go4.pw/UK/skyhh.png" group-title="DOCUMENTARY",UK - SKY HISTORY2 HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1Mi50cw==
-
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME&INVESTIGATION FHD" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="DOCUMENTARY",UK - CRIME&INVESTIGATION FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0OS50cw==
-
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME&INVESTIGATION FHD" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="DOCUMENTARY",UK - CRIME&INVESTIGATION FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDczLnRz
-
-#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK - CRIME+INV HEVC" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="DOCUMENTARY",UK - CRIME+INV HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1OS50cw==
-
-#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK - TRT WORLD FHD" tvg-logo="https://go4.pw/UK/trtw.png" group-title="DOCUMENTARY",UK - TRT WORLD FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNTcxODUudHM=
-
-#EXTINF:-1 tvg-id="trtworld.uk" tvg-name="UK - TRT WORLD HD" tvg-logo="https://go4.pw/UK/trtw.png" group-title="DOCUMENTARY",UK - TRT WORLD HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzEwNTcxODQudHM=
-
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD HEVC" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="DOCUMENTARY",UK - NAT GEO WILD HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzEwLnRz
-
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD HD" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="DOCUMENTARY",UK - NAT GEO WILD HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ1OC50cw==
-
-#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK - NAT GEO WILD SD" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="DOCUMENTARY",UK - NAT GEO WILD SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0Ny50cw==
-
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="DOCUMENTARY",UK - NAT GEO HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ3NC50cw==
-
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO HD ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="DOCUMENTARY",UK - NAT GEO HD ◉
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzA5LnRz
-
-#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK - NAT GEO FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="DOCUMENTARY",UK - NAT GEO FHD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0Ni50cw==
-
-#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK - DISCOVERY HEVC" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="DOCUMENTARY",UK - DISCOVERY HEVC
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzk4MDQ2NC50cw==
-
-#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK - DISCOVERY HD" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="DOCUMENTARY",UK - DISCOVERY HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzE0LnRz
-
-#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK - DISCOVERY HISTORY HD" tvg-logo="https://go4.pw/EUROPE/POLONIA/DISCOVERYHISTORIA.png" group-title="DOCUMENTARY",UK - DISCOVERY HISTORY HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc3LnRz
-
-#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK - DISCOVERY HISTORY SD" tvg-logo="https://go4.pw/EUROPE/POLONIA/DISCOVERYHISTORIA.png" group-title="DOCUMENTARY",UK - DISCOVERY HISTORY SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzOS50cw==
-
-#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK - DISCOVERY SCIENCE HD" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="DOCUMENTARY",UK - DISCOVERY SCIENCE HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc5LnRz
-
-#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-name="UK - DISCOVERY TURBO SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="DOCUMENTARY",UK - DISCOVERY TURBO SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDgyLnRz
-
-#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK - HISTORY HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="DOCUMENTARY",UK - HISTORY HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3NjkxLnRz
-
-#EXTINF:-1 tvg-id="historychannel.uk" tvg-name="UK - HISTORY SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORYHD-1.png" group-title="DOCUMENTARY",UK - HISTORY SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzNy50cw==
-
-#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK - HISTORY 2 HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" group-title="DOCUMENTARY",UK - HISTORY 2 HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzExLnRz
-
-#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK - HISTORY 2 SD" tvg-logo="https://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" group-title="DOCUMENTARY",UK - HISTORY 2 SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODIzOC50cw==
-
-#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK - ANIMAL PLANET HD" tvg-logo="https://go4.pw/EUROPE/DENMARK/ANIMALPLANET.png" group-title="DOCUMENTARY",UK - ANIMAL PLANET HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzE1LnRz
-
-#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK - ANIMAL PLANET SD" tvg-logo="https://go4.pw/EUROPE/DENMARK/ANIMALPLANET.png" group-title="DOCUMENTARY",UK - ANIMAL PLANET SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0OC50cw==
-
-#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="UK - PARAMOUNT NETWORK HD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDc1LnRz
-
-#EXTINF:-1 tvg-id="Paramount.uk" tvg-name="UK - PARAMOUNT NETWORK SD" tvg-logo="https://go4.pw/USA/SD/11.png" group-title="DOCUMENTARY",UK - PARAMOUNT NETWORK SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0NC50cw==
-
-#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK - INVESTIGATION DISCOVERY (ID) HD" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzM0ODI0My50cw==
-
-#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK - INVESTIGATION DISCOVERY (ID) SD" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="DOCUMENTARY",UK - INVESTIGATION DISCOVERY (ID) SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzE3MzEyLnRz
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - BBC EARTH HD" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="DOCUMENTARY",UK - BBC EARTH HD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzI3MzU3Ny50cw==
-
-#EXTINF:-1 tvg-id="" tvg-name="UK - VIRGIN MEDIA THREE SD" tvg-logo="https://go4.pw/UK/three.png" group-title="DOCUMENTARY",UK - VIRGIN MEDIA THREE SD
-https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL3N1cGhvdHRlLnh5ejo4MC9saXZlLzA2VzVWOTU0RkU0MTdaWi91VHlxVGgzcDRsLzcwMDkyLnRz
-
-
-##################################
-##################################
-####    CRIME /   MEDICAL  ######
-##################################
-#################################
-
-#EXTINF:-1  tvg-id="561019" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="CRIME/MEDICAL", BORDER SECURITY AUSTRALIA
-https://csm-e-cesevextprdausw2live-0f8ead75228973d54.bln1.yospace.com/csm/extlive/sevenprd01,CAS02.m3u8
-
-#EXTINF:-1  tvg-id="421439" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="CRIME/MEDICAL", BLUE LIGHT COPS
-https://csm-e-cesevextprdausw2live-0dbb8d1fe2bed6226.bln1.yospace.com/csm/extlive/sevenprd01,CAS13.m3u8
-
-#EXTINF:-1 channel-id="538951" tvg-id="mjh-10-cops" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo"  group-title="CRIME/MEDICAL", COPS
-https://i.mjh.nz/.r/10-cops.m3u8
-
-#EXTINF:-1 channel-id="486185" tvg-id="mjh-surveillancecentral-fast" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png"  group-title="CRIME/MEDICAL", Surveillance Central
-https://csm-e-cesevextprdausw2live-0c1e9334ed8ddd653.bln1.yospace.com/csm/extlive/sevenprd01,CAS19.m3u8
-
-#EXTINF:-1 channel-id="mjh-real-emergency-fast" tvg-id="mjh-real-emergency-fast" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="CRIME/MEDICAL", REAL EMERGENCY
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/real-emergency-fast.m3u8
-
-#EXTINF:-1 tvg-logo="http://img.platform.wurl.dev/channel/2221/lg/13b87f/LG-Logo-PNG-100x100_v1.png" group-title="CRIME/MEDICAL", REAL EMERGENCY
-https://d8eac4f8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfUmVhbEVtZXJnZW5jeVN0YW5kYXJkX0hMUw/playlist.m3u8
-
-#EXTINF:-1  tvg-id="561023" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="CRIME/MEDICAL", MEDICAL & RESCUE
-https://csm-e-cesevextprdausw2live-0bdd15c686e38375a.bln1.yospace.com/csm/extlive/sevenprd01,CAS12.m3u8
-
-#EXTINF:-1 channel-id="480064" tvg-id="mjh-cas39-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="CRIME/MEDICAL", 24 HRS IN A&E
-https://csm-e-cesevextprdausw2live-00c7346ea41efb696.bln1.yospace.com/csm/extlive/sevenprd01,CAS39.m3u8
-
-#EXTINF:-1 channel-id="845b77875b6056d192401e10949948d2" tvg-id="845b77875b6056d192401e10949948d2" tvg-chno="518" tvg-name="Dr. G: Medical Examiner" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/845b77875b6056d192401e10949948d2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450454351_filmRiseDrGMedicalExaminer_HUDlogo_260x147.png" group-title="CRIME/MEDICAL", DR G MEDICAL EXAMINER
-https://jmp2.uk/rok-845b77875b6056d192401e10949948d2.m3u8
-
-
-#EXTINF:-1 channel-id="494861" tvg-id="mjh-cas41-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="CRIME/MEDICAL", BONDI RESCUE
-https://csm-e-cesevextprdausw2live-0eb858b2942fb6410.bln1.yospace.com/csm/extlive/sevenprd01,CAS41.m3u8
-
-EXTINF:-1 channel-id="421447" tvg-id="mjh-cas24-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="CRIME/MEDICAL", BONDI VET
-https://csm-e-cesevextprdausw2live-05d0d0d0ac2fa4f2e.bln1.yospace.com/csm/extlive/sevenprd01,CAS24.m3u8
-
-#EXTINF:-1 channel-id="mjh-9crime-fast" tvg-id="mjh-9crime-fast" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="CRIME/MEDICAL", 9 CRIME
-https://i.mjh.nz/.r/9crime-fast.m3u8
-
-#EXTINF:-1 channel-id="mjh-60-minutes-australia-fast" tvg-id="mjh-60-minutes-australia-fast" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="CRIME/MEDICAL", 60 MINUTES AUSTRALIA
-https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png" group-title="CRIME/MEDICAL", A&E CRIME 360
-https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=393&wurl_name=Crime360&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1825-LG-Logo-PNG-100x100_v4.png" group-title="CRIME/MEDICAL", CRIME 360
-https://c664c25d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfQ3JpbWUzNjBfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png" group-title="CRIME/MEDICAL", Crimes Cults Killers by A&E
-https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1055&wurl_name=Kriminal&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993006/600x200.png?type=white_cropped" group-title="CRIME/MEDICAL", World's Most Evil Killers
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993006&ads.xumo_streamId=99993006&ads.channelId=99993006&ads.ad_tag_id=95744&ads.csid=lgchannels_us_worldsmostevilkillers_ssai&ads.channelName=worldsmostevilkillers_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=en&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-
-#EXTINF:-1 channel-id="mjh-truecrimefiles-fast" tvg-id="mjh-truecrimefiles-fast" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png"  group-title="CRIME/MEDICAL", True Crime Files
-https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
-
-#EXTINF:-1 channel-id="562759" tvg-id="562759" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/7SPL_Logo.png" group-title="CRIME/MEDICAL", 7NEWS Spotlight
-https://i.mjh.nz/.r/cas32-fast.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
-
-###############################################################################################################################################################################################################################
-
-###########################
-######    PARANORMAL ######
-###########################
-
-#EXTINF:-1 channel-id="mjh-sky-fast5" tvg-id="mjh-sky-fast5" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/6fSJzwOG5r7dfPc2uP4n7m/1e3923f6869c29300e3d76597c341282/Logo_Images_-_default.png" group-title="PARANORMAL",WARNER BROS TV PARANORMAL
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sky-fast5.m3u8
-
-#EXTINF:-1 channel-id="mjh-9mysteryparanormal-fast" tvg-id="mjh-9mysteryparanormal-fast" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="PARANORMAL", 9Mystery&Paranormal
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/MostHaunted_400x200.png" group-title="PARANORMAL", Most Haunted
-https://amg00426-lds-amg00426c17-lg-au-10349.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00426-littledotstudiofast-mosthaunted-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-
-#EXTINF:-1 channel-id="mjh-cas21-fast" tvg-id="mjh-cas21-fast" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="PARANORMAL" , Ghost Hunters
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/cas21-fast.m3u8
-
-#EXTINF:-1 channel-id="e3a9171a7b9155ca89ba9f7f3e1a6bde" tvg-id="e3a9171a7b9155ca89ba9f7f3e1a6bde" tvg-chno="744" tvg-name="Ghost Hunters" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3a9171a7b9155ca89ba9f7f3e1a6bde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1692646351368_Ghosthunters_Roku_HUD_Center.png" group-title="PARANORMAL" ,Ghost Hunters
-https://jmp2.uk/rok-e3a9171a7b9155ca89ba9f7f3e1a6bde.m3u8
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1820-LG-Logo-PNG-100x100_v2.png" group-title="PARANORMAL" ,Ghost
-https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfR2hvc3RJTlRMX0hMUw/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png" group-title="PARANORMAL" ,Haunt TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]
-
-#EXTINF:-1 channel-id="285f3ba210e8561fa5261af0871ace90" tvg-id="285f3ba210e8561fa5261af0871ace90" tvg-chno="773" tvg-name="Haunt TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/285f3ba210e8561fa5261af0871ace90/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563088420_HauntTVLogo_260x147_copy.png" group-title="PARANORMAL",Haunt TV
-https://jmp2.uk/rok-285f3ba210e8561fa5261af0871ace90.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1820-LG-Logo-PNG-100x100_v2.png" group-title="PARANORMAL" ,Ghost
-https://9c96742b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfR2hvc3RJTlRMX0hMUw/playlist.m3u8
-
-
-
-##################################
-###################################
-##############      COOKING #######
-##################################
-###################################
-
-#EXTINF:-1 tvg-id="TheJamieOliverChannel.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5dccd34e-4587-4168-999c-eda400c74715/PLEX_JO_WHT_LOGO_1500X1000_-_Elaine_De_Santiago.png" group-title="COOKING", JAMIE OLIVER 2
-https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
-
-
-
-#EXTINF:-1 tvg-chno="62" tvg-id="Food.Network.HD.us2" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44718_dark_360w_270h.png" group-title="COOKING", Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-
-#EXTINF:-1 channel-id="mjh-sbs-3syd" tvg-id="mjh-sbs-3syd" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="COOKING" , SBS Food
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sbs-3syd.m3u8
-
-#EXTINF:-1 tvg-id="24taas.ca" tvg-name="CA COOKING Channel " tvg-logo="https://static.wixstatic.com/media/6048cf_80fa7bf92e9345ffa066fc96d0d5bf43~mv2.png/v1/fill/w_236,h_236,al_c,lg_1,q_85,enc_avif,quality_auto/food%20networkd.png" group-title="COOKING",COOKING Channel 
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/gustotvca_logo.png" group-title="COOKING",Gusto TV
-https://amg01077-gustofast-amg01077c7-lg-au-4469.playouts.now.amagi.tv/playlist/amg01077-gusto-gustousmain-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-
-
-#EXTINF:-1 channel-id="mjh-bbc-food-fast" tvg-id="mjh-bbc-food-fast" tvg-logo="https://imageresizer.static9.net.au/fsW8mo_8BA8nztvHgpodxtSmcjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F652517%2Fgroup-61812.png" group-title="COOKING" , BBC Food
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/bbc-food-fast.m3u8
-
-#EXTINF:-1 channel-id="mjh-10-masterchef" tvg-id="mjh-10-masterchef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="COOKING" , MasterChef
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-masterchef.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png" group-title="COOKING",Hells Kitchen
-https://amg00654-itv-amg00654c1-lg-au-4779.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-hellskitchen-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.country=[COUNTRY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]&ads.givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped" group-title="COOKING" ,Hell's Kitchen
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992260&ads.xumo_streamId=99992260&ads.channelId=99992260&ads.ad_tag_id=10507&ads.csid=lgchannels_us_filmrisehellskitchen_ssai&ads.channelName=filmrisehellskitchen_us&ads.xumo_contentName=FilmRise&ads.xumo_contentId=260&ads.xumo_providerName=FilmRise&ads.xumo_providerId=260&ads.content_category=IAB1-7&ads.content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads.content_language=en&ads.content_rating=TV-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 channel-id="mjh-sbs-sb01" tvg-id="mjh-sbs-sb01" tvg-logo="https://image.pr.sbsod.com/82c5d9dc-bda6-5a6b-affa-67f1ba01ff38" group-title="COOKING" , The Cook Up
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/sbs-sb01.m3u8
-
-
-#####################
-#####################
-####   GameShow  ####
-#####################
-
-
-#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
-https://amg00627-banijay-amg00627c22-lg-au-3875.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrowcc-lgau/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1  tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="GAMESHOW" , DEAL OR NO DEAL
-https://live-manifest.production-public.tubi.io/live/7d2f308c-8fdb-4dc5-8736-3c293bdf5a65/playlist.m3u8
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992282/600x200.png?type=white_cropped" group-title="GAMESHOW" ,Family Feud
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992282&ads.xumo_streamId=99992282&ads.channelId=99992282&ads.ad_tag_id=85881&ads.csid=lgchannels_us_familyfeud_ssai&ads.channelName=familyfeud_us&ads.xumo_contentName=FamilyFeud&ads.xumo_contentId=170&ads.xumo_providerName=FamilyFeud&ads.xumo_providerId=170&ads.content_category=IAB1-7&ads.content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
-#EXTINF:-1 tvg-id="400000196" tvg-logo="https://canvas-lb.tubitv.com/opts/zLKiqAi0J_bcrw==/d94cfde1-49a9-4a2b-ab4f-a2848db4a588/CHgQeDoFMS4xLjhAAQ==" group-title="GAMESHOW",Family Feud
-https://live-manifest.production-public.tubi.io/live/a6ee322b-f3d8-4adf-b203-240c2001a6fe/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62b4eba68f3051c68d2beb22dc94ebbc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669151901470_ROKU_SMS_HUD-MONO_260X147.png" group-title="GAMESHOW" ,Supermarket Sweep
-https://jmp2.uk/rok-62b4eba68f3051c68d2beb22dc94ebbc.m3u8
-
-#EXTINF:-1 channel-id="562baf35c5da56cc91cdea41537b43f9" tvg-id="562baf35c5da56cc91cdea41537b43f9" tvg-chno="631" tvg-name="BUZZR" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/562baf35c5da56cc91cdea41537b43f9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654733081445_BUZZR_ROKU_HUD-MONO_260X147-2021RB.png" group-title="GAMESHOW" ,BUZZR
-https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="GAMESHOW" ,Buzzr
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8?
-
-#EXTINF:-1 channel-id="4ad47ace83b25065955adca3f8e9bdcf" tvg-id="4ad47ace83b25065955adca3f8e9bdcf" tvg-chno="632" tvg-name="The Price Is Right: The Barker Era" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4ad47ace83b25065955adca3f8e9bdcf/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669146270546_ROKU_TPIR_LOGO_HUD.png" group-title="GAMESHOW" ,The Price Is Right: The Barker Era
-https://jmp2.uk/rok-4ad47ace83b25065955adca3f8e9bdcf.m3u8
-
-#EXTINF:-1 channel-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-id="ffe5d9e0480d1c5e1dcead3abd966ac7" tvg-chno="634" tvg-name="Let's Make a Deal" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ffe5d9e0480d1c5e1dcead3abd966ac7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793674388_LMAD_HUDLogoCenterAligned_260x147.png" group-title="GAMESHOW" ,Let's Make a Deal
-https://jmp2.uk/rok-ffe5d9e0480d1c5e1dcead3abd966ac7.m3u8
-
-#EXTINF:-1 tvg-logo="https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png" group-title="GAMESHOW" ,The Price Is Right
-https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png" group-title="GAMESHOW" ,Game Show Central
-https://wurlgameshownetwork.global.transmit.live/hls/68d174d50531b397b61a7797/v1/gsn_gameshowchannnel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=416&wurl_name=GameShowCentral-1&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
-
-#EXTINF:-1 channel-id="mjh-10-twentyfoursevengameshows" tvg-id="mjh-10-twentyfoursevengameshows" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c583accb5c213a54fd36f23a829c5ba4-1401207.png?image-profile=logo" group-title="GAMESHOW" , 24/7 Gameshows
-
-#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
-#EXTVLCOPT:http-referrer=
-https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
-
-
-
 
 
 
