@@ -21,13 +21,11 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/nz/epg.xml.gz"
 
 
-
 ##############################
 ##############################
 #####      BRISBANE     ######
 ##############################
 #############################
-
 
 #EXTINF:-1 channel-id="News24.au" tvg-id="News24.au" tvg-logo="https://iptv-epg.org/images/2Y737fC9ToAsUcRGzc3YAxb5tt66j1EXanx_ykY0KRkzdnQadbo08t8pdJ2aS4A8UlBWufBjsDv6YxvInatJj2F_ure2hDZZIVVbHqfIJaa5vA"  group-title="BRISBANE" ,NEWS24
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
@@ -1049,30 +1047,30 @@ https://youtu.be/GRhfNbFPZaw
 #############################################################################       KIDS         #####################################################################################################################
 #####################################################################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",YOUNG SHELDON
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8P5KPv4Ha28kStDW9deFALdPs0w9pQn4bRs39rx3sA&s=10" group-title="KIDS",YOUNG SHELDON
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:70:80:E8&stream=1600209&extension=ts&play_token=lZdIc5wCom
 
 
-#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="KIDS" ,Sharks & Other Predators
+#EXTINF:-1 channel-id="mjh-10-documentaryshell" tvg-id="mjh-10-documentaryshell" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDtH_kpKqQifsrmyj3bNTM_zs0zEebNj_o-WlBom5PAg&s=10" group-title="KIDS" ,Sharks & Other Predators
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/10-documentaryshell.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",BILLY THE EXTERMINATOR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnM4m-i5vLhMIHwaRufvKgjjA-groR7OOXJqWiIXmo_w&s=10" group-title="KIDS",BILLY THE EXTERMINATOR
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325136.m3u8
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",JURASSIC PARK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM9EMAH1DW6GMpZIeiQI1pPToS4gnE1fLV2ZU2kFLoWw&s=10" group-title="KIDS",JURASSIC PARK
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325191.m3u8
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",TOM AND JERRY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3W0ZjZT_WCFPV-cDA7bixiPUNOfAQ9hOGAfRz-1yOgA&s=10" group-title="KIDS",TOM AND JERRY
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325218.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",TMNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQnDy8566MsinvLzwf7LL3QRIFGrPbK-B2zATEu7ruQ&s=10" group-title="KIDS",TMNT
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325219.m3u8
-#EXTINF:-1  tvg-id="480" tvg-name="24/7: Flash Gordon" tvg-logo="http://icons.tw:8080/images/763688dcd737f20519fb6ee34d9119c2.jpg" group-title="KIDS",FLASH GORDEN
+#EXTINF:-1  tvg-id="480" tvg-name="24/7: Flash Gordon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwKgBtCucw-d9PQVv2K0zdBIrpxbRdajLx5P5JVsg0g&s=10" group-title="KIDS",FLASH GORDEN
 http://hostengine.live:2086/live/Tkarymom1/Reggine1/298960.m3u8
 
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",KUNG FU PANDA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcm9b2rI44Md2oyzMXDsUGTycKYEGgRidcZRshlFm32g&s=10" group-title="KIDS",KUNG FU PANDA
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325228.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14330.png?ver=17867" group-title="KIDS",POKEMON
 http://nocable.cc:8080/live/cdm86@rogers.com/carol@2024/325242.m3u8
